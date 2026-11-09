@@ -33,7 +33,7 @@ jobs:
         run: |
           python3 unify.py
           python3 hub5.py
-          python3 make_site.py "${{ vars.SITE_URL || 'https://smbehbehani-max.github.io/Layers/' }}"
+          python3 make_site.py "${{ vars.SITE_URL || 'https://smbehbehani-max.github.io/Layers2/' }}"
       - name: Save the updated data
         run: |
           git config user.name "layers-autopilot"; git config user.email "actions@users.noreply.github.com"

@@ -7,7 +7,7 @@ from scene import scene
 import map2, kidbg, cartoon, ecotier, storyidx
 from html import escape as esc
 SITE = '/tmp/w/layers/site'; OUT = '/tmp/w/layers/one'
-BASE = 'https://smbehbehani-max.github.io/Layers/'
+BASE = 'https://smbehbehani-max.github.io/Layers2/'
 ORDER = ['kw', 'sa', 'bh', 'qa', 'ae', 'om']
 os.makedirs(OUT, exist_ok=True)
 ART = runpy.run_path('/tmp/w/art.py')['ART']

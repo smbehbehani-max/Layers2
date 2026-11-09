@@ -3,7 +3,7 @@ import os, re, shutil, json, subprocess, sys
 sys.path.insert(0, '/tmp/w/layers')
 import hub
 OUT = '/tmp/w/layers/site'
-BASE = 'https://smbehbehani-max.github.io/Layers/'
+BASE = 'https://smbehbehani-max.github.io/Layers2/'
 VERSION = '2.0.0'
 SRC = {'kw': '/tmp/w/pwa2', 'bh': '/tmp/w/gulf/bh/site', 'qa': '/tmp/w/gulf/qa/site', 'ae': '/tmp/w/gulf/ae/site', 'om': '/tmp/w/gulf/om/site', 'sa': '/tmp/w/gulf/sa/site'}
 OLD = {'kw': 'Layers2', 'bh': 'Layers-Bahrain', 'qa': 'Layers-Qatar', 'ae': 'Layers-UAE', 'om': 'Layers-Oman', 'sa': 'Layers-Saudi'}
