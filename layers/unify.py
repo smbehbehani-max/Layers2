@@ -3,7 +3,7 @@ import os, re, shutil, json, subprocess, sys
 sys.path.insert(0, '/tmp/w/layers')
 import hub
 OUT = '/tmp/w/layers/site'
-BASE = 'https://smbehbehani-max.github.io/Layers/'
+BASE = 'https://smbehbehani-max.github.io/Layers2/'
 VERSION = '2.0.0'
 SRC = {'kw': '/tmp/w/pwa2', 'bh': '/tmp/w/gulf/bh/site', 'qa': '/tmp/w/gulf/qa/site', 'ae': '/tmp/w/gulf/ae/site', 'om': '/tmp/w/gulf/om/site', 'sa': '/tmp/w/gulf/sa/site'}
 OLD = {'kw': 'Layers2', 'bh': 'Layers-Bahrain', 'qa': 'Layers-Qatar', 'ae': 'Layers-UAE', 'om': 'Layers-Oman', 'sa': 'Layers-Saudi'}
@@ -17,8 +17,11 @@ HOME_LABEL = {'en': 'Layers — all countries', 'ar': 'طبقات — كل ال�
 def patch(cc, h):
     old = OLD[cc]
     # URLs
-    h = h.replace(f'https://smbehbehani-max.github.io/{old}/og.png', f'{BASE}og-{cc}.png').replace(f'https://smbehbehani-max.github.io/{old}/', f'{BASE}{cc}.html')
-    assert 'smbehbehani-max.github.io/' + old not in h, cc
+    # one pass, so a new URL is never rewritten again (for Kuwait the old and new addresses are both /Layers2/)
+    h = re.sub(r'https://smbehbehani-max\.github\.io/' + re.escape(old) + r'/(og\.png)?',
+               lambda m: f'{BASE}og-{cc}.png' if m.group(1) else f'{BASE}{cc}.html', h)
+    # the Kuwait app's old address can equal the new site address (both Layers2): ignore the new address in this check
+    assert 'smbehbehani-max.github.io/' + old not in h.replace(BASE, ''), cc
     assert h.count("register('sw.js')") == 1, cc
     # brand row: other countries navigate, home button goes to hub
     assert h.count('openSoon(b.dataset.lg)') == 1, cc
@@ -73,7 +76,7 @@ self.addEventListener('fetch',e=>{{const r=e.request;if(r.method!=='GET'||new UR
     subprocess.run(['python3', '/tmp/w/layers/icons.py'], check=True)
     # privacy
     p = open('/tmp/w/pwa2/privacy.html', encoding='utf-8').read()
-    p = p.replace('Layers of Kuwait', 'Layers').replace('طبقات الكويت', 'طبقات').replace('https://smbehbehani-max.github.io/Layers2/', BASE).replace('github.com/smbehbehani-max/Layers2', 'github.com/smbehbehani-max/Layers')
+    p = p.replace('Layers of Kuwait', 'Layers').replace('طبقات الكويت', 'طبقات').replace('https://smbehbehani-max.github.io/Layers2/', BASE)
     open(f'{OUT}/privacy.html', 'w', encoding='utf-8').write(p)
     readme = f"""# Layers · طبقات
 

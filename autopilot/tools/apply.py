@@ -29,6 +29,7 @@ def main():
     for f in inbox_files('hypotheses') + [x for x in __import__('glob').glob(os.path.join(REVIEW, 'inbox', '*', '*.md'))]:
         dest = f.replace(os.sep + 'inbox' + os.sep, os.sep + 'done' + os.sep); os.makedirs(os.path.dirname(dest), exist_ok=True); shutil.move(f, dest)
     print('added', added, 'records;', len(kept), 'files still have records to fix')
+    os.makedirs(REVIEW, exist_ok=True)
     open(os.path.join(REVIEW, 'last_apply.txt'), 'w').write(f'{datetime.datetime.now(datetime.timezone.utc).isoformat()} added {added}\n')
 
 if __name__ == '__main__':

@@ -2,6 +2,7 @@
 usage: python3 check.py"""
 import json, os, re, sys
 from common import *
+MINC = int(os.environ.get('MIN_CONFIDENCE') or 90)
 
 def check_record(cc, r, sites, seen):
     E, W = [], []
@@ -33,6 +34,7 @@ def check_record(cc, r, sites, seen):
     gf = r.get('goldfish')
     if not gf: W.append('no independent (goldfish) review')
     elif gf.get('verdict') != 'pass': E.append('independent reviewer found problems: ' + '; '.join(gf.get('problems', [])[:5]))
+    elif int(gf.get('confidence') or 0) < MINC: W.append(f"independent reviewer is only {int(gf.get('confidence') or 0)}% sure (needs {MINC}% to publish without you)")
     blob = json.dumps(r, ensure_ascii=False).lower()
     for pat in BANNED:
         if re.search(pat, blob): E.append('uses a banned name (the sea is the Arabian Gulf / الخليج العربي)')
@@ -56,7 +58,7 @@ def main():
             E, W = check_record(cc, r, sites, seen); seen.add(r.get('id'))
             mark = '❌' if E else ('⚠️' if W else '✅')
             bad += bool(E); warn += bool(W)
-            out.append(f"- {mark} **{r.get('n', '?')}** `{r.get('id', '?')}` · {r.get('c', '?')} · {r.get('lat')}, {r.get('lng')}")
+            out.append(f"- {mark} **{r.get('n', '?')}** `{r.get('id', '?')}` · {r.get('c', '?')} · {r.get('lat')}, {r.get('lng')} · confidence {int((r.get('goldfish') or {}).get('confidence') or 0)}%")
             for e in E: out.append(f'  - error: {e}')
             for w in W: out.append(f'  - warning: {w}')
         out.append('')

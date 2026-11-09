@@ -65,13 +65,14 @@ GOLDFISH = ("You are an independent fact checker for a scientific heritage map. 
             "the place name, the coordinates (the coordinate_quote must appear in the paper text and match lat/lng), dates, ages, numbers, the layer "
             "(archaeological/geological/ecology), and every sentence of desc, sig, se. Anything not stated in the paper is unsupported, even if it sounds right. "
             "Also flag: the sea named anything other than the Arabian Gulf; political or border claims; Arabic that changes the meaning of the English. "
-            "Return JSON only: {\"verdict\": \"pass\" or \"fail\", \"problems\": [short strings]}. Pass only if there are no problems.")
+            "Return JSON only: {\"verdict\": \"pass\" or \"fail\", \"confidence\": 0-100, \"problems\": [short strings]}. Pass only if there are no problems. "
+            "confidence = how sure you are that every claim in the record is stated in the paper text; use below 90 whenever you hesitate.")
 def goldfish(rec, title, ab):
     try:
         r = claude(GOLDFISH, f"Paper title: {title}\nPaper abstract:\n{ab}\n\nDraft record:\n{json.dumps({k: v for k, v in rec.items() if k != 'goldfish'}, ensure_ascii=False)}", 1500)
-        return {'verdict': r.get('verdict', 'fail'), 'problems': r.get('problems', [])}
+        return {'verdict': r.get('verdict', 'fail'), 'confidence': int(r.get('confidence') or 0), 'problems': r.get('problems', [])}
     except Exception as e:
-        return {'verdict': 'fail', 'problems': [f'review failed: {e}']}
+        return {'verdict': 'fail', 'confidence': 0, 'problems': [f'review failed: {e}']}
 
 def draft_records(papers):
     rules = open(os.path.join(AUTO, 'prompts', 'WRITE_RECORDS.md'), encoding='utf-8').read()

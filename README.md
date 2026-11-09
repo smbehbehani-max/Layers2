@@ -8,7 +8,8 @@
 3. Drafts up to 3 **AI hypotheses** that link nearby places from different layers.
 4. Checks 30 random reference links and lists the broken ones.
 5. Runs the automatic checks: the location is inside the right country, the quoted coordinates match, it is not a duplicate, a reference exists, the names are right and the Arabic characters are clean.
-6. Opens a **pull request** (a review page on GitHub) and you get a notification.
+6. **Proofreads what is already on the map** (about 80 records and stories each week, a new batch every week) and corrects what it is sure about. See *The weekly self-check* below.
+7. **Publishes by itself** what is certain, and sends you a **weekly report** (a GitHub issue, so you get a notification) that says what it did on your behalf, with a confidence figure for every change.
 
 **When you approve (merge the pull request):**
 - The approved records are added to the map. Records that fail the checks are never added.
@@ -16,17 +17,38 @@
 
 **AI hypotheses** are saved as drafts in `autopilot/review/done/`. To add one to the app, ask Claude to turn it into a hypothesis entry. They are never added automatically.
 
-## Optional: fully automatic publishing
+## It acts on your behalf, and tells you
 
-Two safety layers run on every draft before anything can be published:
+Nothing is published on a guess. Two safety layers run on every change:
 1. **Rule checks.** These test the location, the coordinates, duplicates, the source, the names and the Arabic.
-2. **The goldfish reviewer.** A second, independent Claude review. It never saw how the record was written. It gets only the paper and the draft, and it fails any claim the paper does not state. This is the "review with a goldfish" idea.
+2. **The goldfish reviewer.** A second, independent Claude review. It never saw how the text was written. It gets only the source and the draft, and it fails anything the source does not state. This is the "review with a goldfish" idea.
 
-If you set the variable `AUTO_PUBLISH` to `true`, a weekly run publishes **by itself only when every record passes both layers with no warnings at all**. Anything doubtful still waits for you. AI hypotheses are always drafts.
+**Confidence.** Each reviewer says how sure it is (0 to 100%). The figure you see is the lower of the two. A change is made without you only at **90% or more** (variable `MIN_CONFIDENCE`) and only if every rule check passes. Anything less certain is listed in the report as a suggestion and nothing is changed.
 
-Auto-publish stays **on hold until 8 January 2027** (after the award judging). Change this with the variable `HOLD_UNTIL`.
+**New records** from the weekly research are published by themselves when every record in the run is clean and at 90% or more. Otherwise the pull request waits for you, as before. AI hypotheses are always drafts.
 
-Every automatic publish leaves a comment on the review page. You can undo it by reverting the merge.
+## The weekly self-check
+
+Every Sunday the autopilot also proofreads the places and stories already on the map:
+- **Corrected automatically (wording only):** Arabic that does not match the English, grammar, spelling, terminology, English typos, and the name of the sea.
+- **Two rule repairs:** a latitude and longitude entered the wrong way round, and start and end ages in the wrong order.
+- **Reported, never changed by AI:** a location that looks wrong, a doubtful fact, and any correction that would change a number or a date. A location must come from a published source, so the autopilot tells you and does not move the point.
+- **Kuwait** is checked and reported only, because it is the hand-curated home edition.
+
+**The report** is a GitHub issue titled *Weekly report*. It has three lists: what I did on your behalf (before, after, confidence, why), suggestions I did not apply, and possible problems I could not fix.
+
+**To correct the autopilot,** comment on the report:
+- `undo C-20261115-03` puts the old text back and republishes. That text is never auto-changed again.
+- `apply C-20261115-07` applies a suggestion you agree with.
+
+Only your own comments count. You can also run **Correct the autopilot** from the Actions tab.
+
+**Switches** (Settings → Secrets and variables → Actions → Variables):
+- `MIN_CONFIDENCE`: default 90. Raise it to be stricter.
+- `AUTO_FIX`: set to `false` to stop automatic corrections (the report still comes).
+- `AUTO_PUBLISH`: set to `false` so new records always wait for you.
+- `HOLD_UNTIL`: a date such as `2027-01-08`. Until then, new records wait for you. Useful while the awards are being judged.
+- `MAX_AUDIT`: how many records and stories are proofread each week, default 80.
 
 ## One-time set-up (about 20 minutes)
 
