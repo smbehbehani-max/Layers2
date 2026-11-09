@@ -42,4 +42,5 @@ jobs:
           git config user.name "layers-autopilot"; git config user.email "actions@users.noreply.github.com"
           git add -A docs autopilot/review gulf/*/data.json
           git commit -m "Autopilot: rebuilt website [skip ci]" || true
+          git pull -q --rebase --autostash origin "$GITHUB_REF_NAME"   # another autopilot job may have pushed meanwhile
           git push

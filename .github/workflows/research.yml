@@ -1,4 +1,4 @@
-# Every Sunday: look for new research, draft records and AI hypotheses, open a pull request for review.
+# Every Sunday: look for new research, proofread what is already on the map, publish what is certain, and send the owner a report.
 name: Weekly research
 on:
   schedule:
@@ -8,6 +8,10 @@ permissions:
   contents: write
   pull-requests: write
   actions: write
+  issues: write
+concurrency: { group: weekly, cancel-in-progress: false }
+env:
+  MIN_CONFIDENCE: ${{ vars.MIN_CONFIDENCE || '90' }}     # below this, nothing is changed or published without the owner
 jobs:
   research:
     runs-on: ubuntu-latest
@@ -30,11 +34,21 @@ jobs:
       - name: Automatic checks
         working-directory: autopilot/tools
         run: python3 check.py || true
-      - name: Remember what was already read
+      - name: Self-check of what is already on the map (corrects what it is sure about)
+        id: audit
+        working-directory: autopilot/tools
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          LAYERS_MODEL: ${{ vars.LAYERS_MODEL || 'claude-sonnet-5-5' }}
+          MAX_AUDIT: ${{ vars.MAX_AUDIT || '80' }}
+          AUTO_FIX: ${{ vars.AUTO_FIX || 'true' }}
+        run: python3 audit.py
+      - name: Save the corrections and remember what was already read
         run: |
           git config user.name "layers-autopilot"; git config user.email "actions@users.noreply.github.com"
-          git add autopilot/review/state.json
-          git commit -m "Autopilot: research state [skip ci]" || true
+          git add autopilot/review/state.json autopilot/review/audit gulf/*/data.json gulf/*/stories.json
+          git commit -m "Autopilot: weekly self-check, ${{ steps.audit.outputs.applied || 0 }} corrections [skip ci]" || true
+          git pull -q --rebase --autostash origin "$GITHUB_REF_NAME" || true
           git push || true
       - name: Prepare the pull request text
         id: body
@@ -51,18 +65,39 @@ jobs:
           commit-message: "Autopilot drafts ${{ steps.body.outputs.date }}"
           add-paths: autopilot/review/inbox/**
           delete-branch: true
-      - name: Auto-publish (only if you switched it on, and only when every check is clean)
-        if: ${{ vars.AUTO_PUBLISH == 'true' && steps.pr.outputs.pull-request-number }}
+      - name: Publish new records without waiting (only when every check is clean and the reviewer is sure)
+        id: auto
+        if: ${{ vars.AUTO_PUBLISH != 'false' && steps.pr.outputs.pull-request-number }}
         env:
           GH_TOKEN: ${{ github.token }}
-          HOLD_UNTIL: ${{ vars.HOLD_UNTIL || '2027-01-08' }}
+          HOLD_UNTIL: ${{ vars.HOLD_UNTIL }}
+          PR: ${{ steps.pr.outputs.pull-request-number }}
         run: |
-          if [ "$(date -u +%F)" \< "$HOLD_UNTIL" ]; then echo "Auto-publish is on hold until $HOLD_UNTIL; waiting for your approval."; exit 0; fi
+          if [ -n "$HOLD_UNTIL" ] && [ "$(date -u +%F)" \< "$HOLD_UNTIL" ]; then echo "note=Publishing new records is on hold until $HOLD_UNTIL (variable HOLD_UNTIL)." >> "$GITHUB_OUTPUT"; exit 0; fi
           read R E W <<< $(python3 -c "import json;d=json.load(open('autopilot/review/inbox/checks.json'));print(d['records'],d['errors'],d['warnings'])")
           if [ "$R" -gt 0 ] && [ "$E" -eq 0 ] && [ "$W" -eq 0 ]; then
-            gh pr comment ${{ steps.pr.outputs.pull-request-number }} --body "All $R records passed every automatic check and the independent review. Published automatically. To undo, revert this merge."
-            gh pr merge ${{ steps.pr.outputs.pull-request-number }} --squash --delete-branch
-            gh workflow run publish.yml --ref main
+            gh pr comment "$PR" --body "All $R records passed every automatic check, and the independent reviewer is at least ${MIN_CONFIDENCE}% sure of each. Published automatically. To undo, revert this merge."
+            gh pr merge "$PR" --squash --delete-branch
+            echo "published=true" >> "$GITHUB_OUTPUT"; echo "note=I published $R new records (each at ${MIN_CONFIDENCE}% confidence or more)." >> "$GITHUB_OUTPUT"
           else
-            gh pr comment ${{ steps.pr.outputs.pull-request-number }} --body "Not published automatically: $E records with errors, $W with warnings. Waiting for your review."
+            gh pr comment "$PR" --body "Not published automatically: $R records, $E with errors, $W with warnings or confidence below ${MIN_CONFIDENCE}%. Waiting for your review."
+            echo "note=Not published: $R draft records, $E with errors, $W with warnings or confidence below ${MIN_CONFIDENCE}%. They wait for you." >> "$GITHUB_OUTPUT"
           fi
+      - name: Rebuild the website (only if something changed)
+        if: ${{ steps.audit.outputs.applied > 0 || steps.auto.outputs.published == 'true' }}
+        env: { GH_TOKEN: '${{ github.token }}' }
+        run: gh workflow run publish.yml --ref main
+      - name: Send the weekly report (a GitHub issue; you get a notification)
+        if: ${{ always() && steps.audit.outputs.applied != '' }}
+        env:
+          GH_TOKEN: ${{ github.token }}
+          PR: ${{ steps.pr.outputs.pull-request-number }}
+          NOTE: ${{ steps.auto.outputs.note }}
+          A: ${{ steps.audit.outputs.applied }}
+          S: ${{ steps.audit.outputs.suggested }}
+          F: ${{ steps.audit.outputs.flagged }}
+        run: |
+          { cat autopilot/review/audit/latest.md; echo; echo "## New research this week"; echo
+            if [ -n "$PR" ]; then echo "${NOTE:-Drafts are waiting for your review.} Details: #$PR"; else echo "No new draft records this week."; fi; } > /tmp/issue.md
+          gh issue create --title "Weekly report ${{ steps.body.outputs.date }}: $A corrections made, $((S + F)) items for you" --body-file /tmp/issue.md \
+            || echo "::warning::Could not open the report issue (are Issues enabled?). The report is in autopilot/review/audit/latest.md"

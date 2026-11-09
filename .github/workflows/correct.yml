@@ -1,0 +1,49 @@
+# The owner corrects the autopilot: "undo C-20261115-03" puts old text back, "apply C-20261115-07" accepts a suggestion.
+# Write it as a comment on a weekly report issue, or run this workflow by hand from the Actions tab.
+name: Correct the autopilot
+on:
+  issue_comment:
+    types: [created]
+  workflow_dispatch:
+    inputs:
+      command: { description: 'undo = put the old text back · apply = accept a suggestion', type: choice, options: [undo, apply], default: undo }
+      ids: { description: 'One or more IDs from the weekly report, e.g. C-20261115-03 C-20261115-04', required: true }
+permissions:
+  contents: write
+  issues: write
+  actions: write
+concurrency: { group: weekly, cancel-in-progress: false }
+jobs:
+  correct:
+    # Only the repository owner can give orders, and only comments that start with "undo" or "apply".
+    if: ${{ github.event_name == 'workflow_dispatch' || (github.event.comment.author_association == 'OWNER' && (startsWith(github.event.comment.body, 'undo') || startsWith(github.event.comment.body, 'apply'))) }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with: { ref: main }
+      - run: sudo ln -sfn "$GITHUB_WORKSPACE" /tmp/w
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.12' }
+      - name: Do it
+        id: do
+        working-directory: autopilot/tools
+        env:
+          TEXT: ${{ github.event.comment.body || format('{0} {1}', inputs.command, inputs.ids) }}
+          RESULT_FILE: /tmp/result.md
+        run: |
+          case "$(printf '%s' "$TEXT" | head -c 5 | tr 'A-Z' 'a-z')" in undo*) CMD=undo ;; apply) CMD=apply ;; *) echo "Not a command."; exit 0 ;; esac
+          python3 audit.py "$CMD" "$TEXT"
+          cat /tmp/result.md >> "$GITHUB_STEP_SUMMARY"
+      - name: Save, rebuild the website and answer
+        env:
+          GH_TOKEN: ${{ github.token }}
+          ISSUE: ${{ github.event.issue.number }}
+        run: |
+          git config user.name "layers-autopilot"; git config user.email "actions@users.noreply.github.com"
+          git add autopilot/review/audit gulf/*/data.json gulf/*/stories.json
+          git commit -m "Autopilot: owner correction [skip ci]" || true
+          git pull -q --rebase --autostash origin main || true
+          git push
+          if [ "${{ steps.do.outputs.changed }}" -gt 0 ] 2>/dev/null; then gh workflow run publish.yml --ref main; fi
+          if [ -n "$ISSUE" ] && [ -f /tmp/result.md ]; then gh issue comment "$ISSUE" --body-file /tmp/result.md; fi

@@ -1,13 +1,14 @@
 # LAYERS autopilot: rules for any person or AI that extends it
 
-Goal: keep LAYERS growing from new published research, while every public change stays checked and approved by the owner.
+Goal: keep LAYERS growing from new published research and keep what is already published correct, while every public change is checked, reported to the owner and easy to undo.
 
-1. **Approval before publishing.** Software and AI may search, read, draft, check and suggest. A change reaches the public site only when the owner merges it, or (if the owner switched on AUTO_PUBLISH) when every record passes all rule checks and the independent goldfish review with no warnings. AI hypotheses always need the owner.
+1. **Certain, or the owner decides.** (Changed by the owner on 9 November 2026: the autopilot acts on the owner's behalf and reports, instead of waiting for approval.) A change reaches the public site without the owner only when it passes every rule check AND two independent AI reviews are both at or above `MIN_CONFIDENCE` (default 90%). Everything less certain waits for the owner. Every automatic change is listed in the weekly report with its confidence and an ID, and the owner can undo it with one comment. New AI hypotheses always need the owner.
 2. **Published sources only.** Every record cites a real publication. A location must be quoted from that publication (or an official listing) and stored in `coordinate_quote`. Never estimate, average or invent a coordinate, date, number or reference.
 3. **Findings, interpretations and hypotheses stay separate.** AI hypotheses are drafts for the owner. They are labelled as ideas, never facts, and are never added to the app automatically.
 4. **Allowed sources.** Use official APIs and open sources whose terms allow automated access (OpenAlex, Crossref, UNESCO, Protected Planet, government open data). No scraping of sites that forbid it.
 5. **Naming and neutrality.** The sea is the Arabian Gulf (الخليج العربي); the countries are the Arab Gulf countries (دول الخليج العربي). No political or border claims.
 6. **Keep it simple.** The site stays a static website built by GitHub Actions. Add a database, cloud functions or other paid services only when a clear need is shown and the owner agrees.
-7. **Not in scope for now:** satellite or landscape-change analysis, collecting visitors' e-mails or personal data, automatic edits to existing records.
+7. **Automatic edits to existing records are limited to wording.** The weekly self-check (`tools/audit.py`) may correct Arabic that does not match the English, grammar, spelling, terminology, typos and the name of the sea. It never changes a number, date, reference or coordinate on an AI's say-so: a suspected wrong location is reported, not moved (rule 2). Two rule-based repairs are allowed because they invent nothing: swapping back a latitude and longitude that were entered the wrong way round, and putting a start and end age in order. Kuwait, the hand-curated home edition, is checked and reported only. Text the owner restored with `undo` is never auto-changed again.
+   **Not in scope for now:** satellite or landscape-change analysis, collecting visitors' e-mails or personal data.
 8. **Traceability.** Every added record keeps `source_paper`, `added` (date) and `review` (which approval added it). Git history keeps every change and can undo it.
 9. **Costs.** AI calls are capped per run (MAX_PAPERS, MAX_HYP). The owner sets a monthly spending limit in the Anthropic console.
