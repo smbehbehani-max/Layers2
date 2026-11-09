@@ -27,14 +27,14 @@ The maps, data, stories and drawings are all inside these HTML files, so nothing
 
 ## Option A — GitHub Pages
 
-You already have `smbehbehani-max.github.io/Layers2/`.
+You already have `smbehbehani-max.github.io/Layers/`.
 
 1. Open your **Layers** repository on github.com.
 2. Click **Add file → Upload files**.
 3. Drag in **every file from this folder**. `.nojekyll` is a hidden file, so on a Mac press `Cmd + Shift + .` in Finder to see it. Replace the old files when GitHub asks.
 4. Click **Commit changes**.
 5. Go to **Settings → Pages**. Check that **Source** is "Deploy from a branch", the branch is `main` and the folder is `/ (root)`. Tick **Enforce HTTPS**.
-6. Wait about one minute, then open `https://smbehbehani-max.github.io/Layers2/`.
+6. Wait about one minute, then open `https://smbehbehani-max.github.io/Layers/`.
 
 GitHub's web upload accepts files up to 25 MB, so every file in this folder is fine.
 

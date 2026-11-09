@@ -4,7 +4,7 @@ sys.path.insert(0, '/tmp/w/layers')
 import hub as H
 SITE = '/tmp/w/layers/site'
 OUT = '/tmp/w/layers/one'
-BASE = 'https://smbehbehani-max.github.io/Layers2/'
+BASE = 'https://smbehbehani-max.github.io/Layers/'
 ORDER = ['kw', 'sa', 'bh', 'qa', 'ae', 'om']
 os.makedirs(OUT, exist_ok=True)
 

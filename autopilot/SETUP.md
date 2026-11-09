@@ -36,17 +36,17 @@ Every automatic publish leaves a comment on the review page. You can undo it by 
    - Inside that folder, delete the old website files but keep the hidden `.git` folder.
    - Unzip `layers-github-repo.zip` into the folder.
    - In GitHub Desktop, **Commit** and then **Push**.
-3. **Turn on publishing from Actions.** In the repository, open **Settings → Pages** and set **Source** to **GitHub Actions**.
+3. **Point Pages at the website.** In the repository, open **Settings → Pages** and set **Source** to **Deploy from a branch**. Choose branch **main** and folder **/docs**, then **Save**. The finished website lives in `docs/`, and the autopilot refreshes it after every approved update.
 4. **Allow the workflows to work.** Open **Settings → Actions → General**. Under *Workflow permissions*, choose **Read and write permissions** and tick **Allow GitHub Actions to create and approve pull requests**.
 5. **Add the key.** Open **Settings → Secrets and variables → Actions**.
    - Under *New repository secret*, set the name to `ANTHROPIC_API_KEY` and paste your key.
    - Optional *Variables*:
      - `CONTACT`: your e-mail, which OpenAlex prefers so it can contact you.
-     - `SITE_URL`: only if you move to your own domain.
+     - `SITE_URL`: only if you move to your own domain (the default is `https://smbehbehani-max.github.io/Layers2/`).
      - `MAX_PAPERS`: default 20.
      - `MAX_HYP`: default 3.
 6. **First run.**
-   - Open the **Actions** tab and run **Build and publish**. Your site comes back at the same address.
+   - Your site works straight away from `docs/`.
    - Then run **Weekly research** once to see a first review.
 7. **Notifications on your phone.** In the GitHub app, open the repository and choose **Watch → All activity**.
 

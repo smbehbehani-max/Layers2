@@ -15,4 +15,8 @@ with zipfile.ZipFile(OUT, 'w', zipfile.ZIP_DEFLATED) as z:
         z.write('/tmp/w/autopilot/github/workflows/' + f, '.github/workflows/' + f)
     z.write('/tmp/w/autopilot/github/gitignore', '.gitignore')
     z.write('/tmp/w/autopilot/SETUP.md', 'README.md')
+    W = '/tmp/w/layers/website'
+    for d, ds, fs in os.walk(W):
+        for f in fs:
+            full = os.path.join(d, f); z.write(full, 'docs/' + os.path.relpath(full, W))
 print(n, 'files', os.path.getsize(OUT) // 1_000_000, 'MB')

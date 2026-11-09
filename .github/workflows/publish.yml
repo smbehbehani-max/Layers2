@@ -7,14 +7,11 @@ on:
   workflow_dispatch: {}
 permissions:
   contents: write
-  pages: write
-  id-token: write
 concurrency: { group: publish, cancel-in-progress: false }
 jobs:
   build:
     runs-on: ubuntu-latest
     timeout-minutes: 45
-    environment: { name: github-pages, url: '${{ steps.deploy.outputs.page_url }}' }
     steps:
       - uses: actions/checkout@v4
       - run: sudo ln -sfn "$GITHUB_WORKSPACE" /tmp/w
@@ -25,11 +22,6 @@ jobs:
       - name: Add approved records
         working-directory: autopilot/tools
         run: python3 apply.py
-      - name: Country outlines (Natural Earth 10m, read by edition.py)
-        run: |
-          mkdir -p /tmp/nev/geojson
-          curl -sSfL --retry 3 -o /tmp/nev/geojson/ne_10m_admin_0_countries.geojson \
-            https://raw.githubusercontent.com/nvkelso/natural-earth-vector/master/geojson/ne_10m_admin_0_countries.geojson
       - name: Build country editions
         working-directory: gulf
         run: for cc in sa om ae qa bh; do python3 edition.py $cc && python3 mkpwa2.py $cc; done
@@ -39,13 +31,10 @@ jobs:
           python3 unify.py
           python3 hub5.py
           python3 make_site.py "${{ vars.SITE_URL || 'https://smbehbehani-max.github.io/Layers2/' }}"
-      - name: Save the updated data
+      - name: Put the new website in docs/ and save
         run: |
+          rm -rf docs && cp -r layers/website docs && touch docs/.nojekyll
           git config user.name "layers-autopilot"; git config user.email "actions@users.noreply.github.com"
-          git add -A autopilot/review gulf/*/data.json
-          git commit -m "Autopilot: added approved records [skip ci]" || true
-          git push || true
-      - uses: actions/upload-pages-artifact@v3
-        with: { path: layers/website }
-      - id: deploy
-        uses: actions/deploy-pages@v4
+          git add -A docs autopilot/review gulf/*/data.json
+          git commit -m "Autopilot: rebuilt website [skip ci]" || true
+          git push
