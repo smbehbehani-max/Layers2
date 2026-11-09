@@ -1,0 +1,277 @@
+{
+ "cc": "bh",
+ "iso": "BHR",
+ "en": "Bahrain",
+ "ar": "البحرين",
+ "title_en": "Layers of Bahrain",
+ "title_ar": "طبقات البحرين",
+ "repo": "Layers-Bahrain",
+ "base": "https://smbehbehani-max.github.io/Layers-Bahrain/",
+ "lat0": 26.1,
+ "gstep": 0.1,
+ "pad": 0.04,
+ "padr": 0.06,
+ "bbox": [
+  50.2,
+  25.5,
+  51.0,
+  26.5
+ ],
+ "city": [
+  50.586,
+  26.228
+ ],
+ "labels": [
+  [
+   "gulf",
+   26.29,
+   50.93,
+   "wl",
+   12
+  ],
+  [
+   "gob",
+   25.95,
+   50.3,
+   "wl",
+   11
+  ],
+  [
+   "muh",
+   26.285,
+   50.655,
+   "ll",
+   9
+  ],
+  [
+   "sitra",
+   26.13,
+   50.64,
+   "ll",
+   8.5
+  ],
+  [
+   "hawar",
+   25.6,
+   50.9,
+   "ll",
+   9
+  ],
+  [
+   "umm",
+   26.14,
+   50.4,
+   "ll",
+   8
+  ]
+ ],
+ "water": {
+  "en": {
+   "gulf": "Arabian Gulf",
+   "gob": "Gulf of Bahrain",
+   "muh": "Muharraq",
+   "sitra": "Sitra",
+   "hawar": "Hawar Islands",
+   "umm": "Umm an Nasan",
+   "city": "Manama"
+  },
+  "ar": {
+   "gulf": "الخليج العربي",
+   "gob": "خليج البحرين",
+   "muh": "المحرق",
+   "sitra": "سترة",
+   "hawar": "جزر حوار",
+   "umm": "أم النعسان",
+   "city": "المنامة"
+  }
+ },
+ "pa_source_en": "Supreme Council for Environment (Bahrain); Ramsar; UNESCO",
+ "pa_source_ar": "المجلس الأعلى للبيئة (البحرين)؛ رامسار؛ اليونسكو",
+ "pa_auth_en": "the Supreme Council for Environment",
+ "protected": [
+  {
+   "id": "pa-hawar",
+   "t": "r",
+   "en": "Hawar Islands Protected Area (Ramsar)",
+   "ar": "محمية جزر حوار (رامسار)",
+   "km": 52,
+   "pt": [
+    50.8,
+    25.65
+   ]
+  },
+  {
+   "id": "pa-tubli",
+   "t": "m",
+   "en": "Tubli Bay (Ramsar)",
+   "ar": "خليج توبلي (رامسار)",
+   "km": 13.5,
+   "pt": [
+    50.5722,
+    26.1732
+   ]
+  },
+  {
+   "id": "pa-areen",
+   "t": "f",
+   "en": "Al Areen Wildlife Park and Reserve",
+   "ar": "محمية العرين",
+   "km": 8,
+   "pt": [
+    50.4956,
+    26.0156
+   ]
+  },
+  {
+   "id": "pa-rassanad",
+   "t": "r",
+   "en": "Ras Sanad Mangrove Reserve",
+   "ar": "محمية قرم رأس سند",
+   "km": 1,
+   "pt": [
+    50.56,
+    26.16
+   ]
+  },
+  {
+   "id": "u1",
+   "t": "u",
+   "en": "Qal'at al-Bahrain (World Heritage, 2005)",
+   "ar": "قلعة البحرين (تراث عالمي، 2005)",
+   "pt": [
+    50.5206,
+    26.2336
+   ],
+   "rx": 0.6,
+   "ry": 0.6,
+   "note": {
+    "en": "Inscribed on the UNESCO World Heritage List in 2005. Site museum and open-air site; opening times change.",
+    "ar": "مدرجة على قائمة التراث العالمي لليونسكو عام 2005. متحف ومواقع مكشوفة؛ مواعيد الزيارة تتغير."
+   }
+  },
+  {
+   "id": "u2",
+   "t": "u",
+   "en": "Pearling Path (World Heritage, 2012)",
+   "ar": "طريق اللؤلؤ (تراث عالمي، 2012)",
+   "pt": [
+    50.615,
+    26.245
+   ],
+   "rx": 1.6,
+   "ry": 1.6,
+   "note": {
+    "en": "Inscribed in 2012. A 3.5 km walking path through Muharraq with a visitor centre; the three oyster beds lie offshore.",
+    "ar": "مدرج عام 2012. مسار مشي بطول 3.5 كم في المحرق مع مركز للزوار؛ مغاصات اللؤلؤ الثلاث في البحر."
+   }
+  },
+  {
+   "id": "u3",
+   "t": "u",
+   "en": "Dilmun Burial Mounds (World Heritage, 2019)",
+   "ar": "تلال مدافن دلمون (تراث عالمي، 2019)",
+   "pt": [
+    50.513,
+    26.145
+   ],
+   "rx": 2.5,
+   "ry": 2.5,
+   "note": {
+    "en": "21 components inscribed in 2019, around A'ali and Hamad Town. Some fields are fenced; visitor centre at A'ali.",
+    "ar": "21 مكوّنًا أُدرجت عام 2019 حول عالي ومدينة حمد. بعض الحقول مسيّجة؛ مركز للزوار في عالي."
+   }
+  }
+ ],
+ "route": [
+  [
+   "qalat-al-bahrain",
+   "The capital on the shore",
+   "العاصمة على الشاطئ",
+   "Start where seven cities lie one above the other, from Dilmun to the Portuguese.",
+   "ابدأ حيث ترقد سبع مدن فوق بعضها، من دلمون إلى البرتغاليين."
+  ],
+  [
+   "barbar-temple",
+   "The temple of sweet water",
+   "معبد الماء العذب",
+   "Follow the coast west to three temples built over a sacred spring.",
+   "اتبع الساحل غربًا إلى ثلاثة معابد بُنيت فوق عين مقدسة."
+  ],
+  [
+   "saar-settlement",
+   "A town that kept its seals",
+   "بلدة احتفظت بأختامها",
+   "Inland, a small Dilmun town where almost every house had a stamp seal.",
+   "في الداخل، بلدة دلمونية صغيرة كان في كل بيت منها ختم تقريبًا."
+  ],
+  [
+   "aali-royal-mounds",
+   "Where the kings lie",
+   "حيث يرقد الملوك",
+   "South to the giant mounds of A'ali, tombs of the first kings of Dilmun.",
+   "جنوبًا إلى تلال عالي العملاقة، مدافن أوائل ملوك دلمون."
+  ],
+  [
+   "khamis-mosque",
+   "Two minarets",
+   "مئذنتان",
+   "Jump to the Islamic centuries, when the old town stood here with its mosque.",
+   "انتقل إلى القرون الإسلامية، حين قامت هنا البلدة القديمة بمسجدها."
+  ],
+  [
+   "pearling-path",
+   "The road to the oyster beds",
+   "الطريق إلى المغاصات",
+   "Cross to Muharraq, where the pearling fleet set out until the 1930s.",
+   "اعبر إلى المحرق، حيث انطلق أسطول اللؤلؤ حتى ثلاثينيات القرن الماضي."
+  ],
+  [
+   "jebel-dukhan",
+   "The mountain of smoke",
+   "جبل الدخان",
+   "Now dive 50 million years down, to the dome of limestone at the island's heart.",
+   "والآن اغُص 50 مليون عام إلى الأسفل، إلى قبة الحجر الجيري في قلب الجزيرة."
+  ],
+  [
+   "hawar-islands",
+   "Islands of a hundred thousand birds",
+   "جزر مئة ألف طائر",
+   "End in the south, among cormorants, dugongs and gazelles.",
+   "واختم في الجنوب، بين طيور الغاق والأطوم والغزلان."
+  ]
+ ],
+ "strings": {
+  "places where Kuwait’s deep past still shows": "places where Bahrain’s deep past still shows",
+  "موقعًا يظهر فيها ماضي الكويت العميق": "موقعًا يظهر فيها ماضي البحرين العميق",
+  "[7500,'First villages in Kuwait'],[5000,'Bronze Age trade across the Gulf'],[1400,'Rise of Islam'],[35,'1991 oil fires']": "[5000,'Barbar Temple I is built'],[4300,'Dilmun city at Qal’at al-Bahrain'],[4000,'The royal mounds of A’ali'],[1400,'Rise of Islam'],[94,'Oil found at Jebel Dukhan']",
+  "[7500,'أولى القرى في الكويت'],[5000,'تجارة العصر البرونزي عبر الخليج'],[1400,'ظهور الإسلام'],[35,'حرائق النفط 1991']": "[5000,'بناء معبد باربار الأول'],[4300,'مدينة دلمون في قلعة البحرين'],[4000,'تلال عالي الملكية'],[1400,'ظهور الإسلام'],[94,'اكتشاف النفط في جبل الدخان']",
+  "searchE:'Search boats, volcanoes, birds…'": "searchE:'Search temples, pearls, birds…'",
+  "searchE:'ابحث: قوارب، براكين، طيور…'": "searchE:'ابحث: معابد، لؤلؤ، طيور…'",
+  "aP1:'Layers of Bahrain maps the geology, archaeology and ecology of Kuwait: 80 places with their sources, illustrated stories, a 100-million-year timeline and live directions, in Arabic and English.'": "aP1:'Layers of Bahrain maps the geology, archaeology and ecology of Bahrain: places with their sources, a timeline from the Eocene sea to today, and live directions, in Arabic and English. Illustrated stories are on their way.'",
+  "aP1:'يرسم تطبيق طبقات البحرين جيولوجيا الكويت وآثارها وبيئتها: 80 موقعًا بمصادرها، وقصص مصوّرة، وخط زمني يمتد 100 مليون سنة، وإرشادات حيّة، بالعربية والإنجليزية.'": "aP1:'يرسم تطبيق طبقات البحرين جيولوجيا البحرين وآثارها وبيئتها: مواقع بمصادرها، وخط زمني من بحر الإيوسين حتى اليوم، وإرشادات حيّة، بالعربية والإنجليزية. والقصص المصوّرة في الطريق.'",
+  "u:'UNESCO Tentative List'": "u:'UNESCO World Heritage'",
+  "legU:'UNESCO Tentative List'": "legU:'UNESCO World Heritage'",
+  "u:'القائمة التمهيدية لليونسكو'": "u:'تراث عالمي (يونسكو)'",
+  "legU:'القائمة التمهيدية لليونسكو'": "legU:'تراث عالمي (يونسكو)'",
+  "tlT:'How Kuwait changed over time'": "tlT:'How Bahrain changed over time'",
+  "tlT:'كيف تغيّرت الكويت عبر الزمن'": "tlT:'كيف تغيّرت البحرين عبر الزمن'",
+  "<b>Example source:</b> Archeowieści, 2 Dec 2024: Kuwaiti-Polish team discovers figurine, local pottery, and environmental clues.": "<b>Example source:</b> Marine Biology, 2024: AlMealla, Edullantes & Hepburn report how the 2017 bleaching cut coral cover on Fasht Al Adhm to 1.4%.",
+  "<b>Searches like:</b> “Bahra 1 excavation”, “Failaka temple”, “Kuwait mud volcanoes”, “Al-Ahmadi quarry Dammam Formation”.": "<b>Searches like:</b> “Qal’at al-Bahrain excavation”, “A’ali royal mounds”, “Hawar Islands cormorant census”, “Bahrain Dammam aquifer”.",
+  "<b>Extracted:</b> Place → Bahra 1 · Published → Dec 2024 · Find → Ubaid-style clay head · Team → Kuwaiti-Polish mission.": "<b>Extracted:</b> Place → Fasht Al Adhm · Published → 2024 · Finding → hard-coral cover 13.6% → 1.4% · Team → University of Essex and Bahrain.",
+  "<b>Title:</b> A unique clay head and the Gulf’s oldest pottery workshop at Bahra 1<br><b>العنوان:</b> رأس طيني فريد وأقدم ورشة فخار في الخليج في بحرة 1": "<b>Title:</b> One hot summer took most of Fasht Al Adhm’s coral<br><b>العنوان:</b> صيف حار واحد أخذ معظم شعاب فشت العظم",
+  "<b>Shown on:</b> Bahra 1 card → New research → link to the original source.": "<b>Shown on:</b> Fasht Al Adhm card → New research → link to the original source.",
+  "That is how the Al-Ahmadi quarry was added.": "That is how new places will join the map.",
+  "<b>Example:</b> Al-Ahmadi quarry → “The Window into Deep Time” · Eocene Dammam Formation · 48–34 million years ago.": "<b>Example:</b> Shark’s-tooth shale → “Teeth from a vanished sea” · Eocene Dammam Formation · about 50 million years ago.",
+  "<b>مثال على مصدر:</b> Archeowieści، 2 ديسمبر 2024: الفريق الكويتي البولندي يكتشف تمثالًا وفخارًا محليًا وأدلة بيئية.": "<b>مثال على مصدر:</b> Marine Biology، 2024: المعلا وزملاؤها يرصدون كيف خفّض ابيضاض 2017 غطاء المرجان في فشت العظم إلى 1.4%.",
+  "<b>عمليات بحث مثل:</b> «تنقيبات بحرة 1»، «معبد فيلكا»، «البراكين الطينية في الكويت»، «محجر الأحمدي تكوين الدمام».": "<b>عمليات بحث مثل:</b> «تنقيبات قلعة البحرين»، «تلال عالي الملكية»، «إحصاء غراب البحر في حوار»، «خزان الدمام في البحرين».",
+  "<b>المستخرج:</b> الموقع ← بحرة 1 · النشر ← ديسمبر 2024 · الاكتشاف ← رأس طيني على طراز العبيد · الفريق ← البعثة الكويتية البولندية.": "<b>المستخرج:</b> الموقع ← فشت العظم · النشر ← 2024 · النتيجة ← غطاء المرجان من 13.6% إلى 1.4% · الفريق ← جامعة إسكس والبحرين.",
+  "<b>يظهر في:</b> بطاقة بحرة 1 ← بحث جديد ← رابط المصدر الأصلي.": "<b>يظهر في:</b> بطاقة فشت العظم ← بحث جديد ← رابط المصدر الأصلي.",
+  "هكذا أُضيف محجر الأحمدي.": "هكذا ستنضم مواقع جديدة إلى الخريطة.",
+  "<b>مثال:</b> محجر الأحمدي ← «نافذة على الزمن السحيق» · تكوين الدمام الإيوسيني · قبل 48–34 مليون سنة.": "<b>مثال:</b> طفل أسنان القرش ← «أسنان من بحر زال» · تكوين الدمام الإيوسيني · قبل نحو 50 مليون سنة.",
+  "far:d=>`You are ${d} from Kuwait’s map`": "far:d=>`You are ${d} from Bahrain’s map`",
+  "far:d=>`أنت على بُعد ${d} من خريطة الكويت`": "far:d=>`أنت على بُعد ${d} من خريطة البحرين`"
+ },
+ "hw_example": {
+  "site": "qalat-al-bahrain"
+ }
+}

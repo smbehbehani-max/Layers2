@@ -1,0 +1,46 @@
+# After you approve (merge) or change the data: add approved records, rebuild every edition and publish the website.
+name: Build and publish
+on:
+  push:
+    branches: [main]
+    paths: ['autopilot/review/inbox/**', 'gulf/**', 'data2.json', 'pwa2/**', 'layers/**', 'arfix/**', 'logo/**']
+  workflow_dispatch: {}
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+concurrency: { group: publish, cancel-in-progress: false }
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    environment: { name: github-pages, url: '${{ steps.deploy.outputs.page_url }}' }
+    steps:
+      - uses: actions/checkout@v4
+      - run: sudo ln -sfn "$GITHUB_WORKSPACE" /tmp/w
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.12' }
+      - name: Tools
+        run: pip install pillow playwright && python -m playwright install --with-deps chromium
+      - name: Add approved records
+        working-directory: autopilot/tools
+        run: python3 apply.py
+      - name: Build country editions
+        working-directory: gulf
+        run: for cc in sa om ae qa bh; do python3 edition.py $cc && python3 mkpwa2.py $cc; done
+      - name: Build the app and the website
+        working-directory: layers
+        run: |
+          python3 unify.py
+          python3 hub5.py
+          python3 make_site.py "${{ vars.SITE_URL || 'https://smbehbehani-max.github.io/Layers/' }}"
+      - name: Save the updated data
+        run: |
+          git config user.name "layers-autopilot"; git config user.email "actions@users.noreply.github.com"
+          git add -A autopilot/review gulf/*/data.json
+          git commit -m "Autopilot: added approved records [skip ci]" || true
+          git push || true
+      - uses: actions/upload-pages-artifact@v3
+        with: { path: layers/website }
+      - id: deploy
+        uses: actions/deploy-pages@v4

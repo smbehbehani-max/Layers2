@@ -1,0 +1,76 @@
+[
+ {
+  "id": "ae-ajman-museum-fort",
+  "n": "Ajman Fort (Ajman Museum)",
+  "na": "حصن عجمان (متحف عجمان)",
+  "c": "archaeological",
+  "ic": "wall",
+  "era": "H",
+  "s": "Late 18th-century rulers’ fort in Ajman city · now the Ajman Museum",
+  "lat": 25.413578,
+  "lng": 55.445681,
+  "p": "Late 18th century – present",
+  "dr": "Probably built late 18th century; police headquarters 1967–1978; museum established 20 May 1991",
+  "el": "Double-storey fort of rock, coral and mudbrick",
+  "t0": 225,
+  "t1": 0,
+  "te": "The fort that became a museum",
+  "ta": "الحصن الذي صار متحفًا",
+  "se": "Ajman’s coral-stone fort was bombarded, captured and rebuilt for 200 years, then became the museum of the emirate’s story",
+  "sa": "حصن عجمان المبني من الحجر المرجاني قُصف واستُولي عليه وأُعيد بناؤه طوال مئتي عام، ثم صار متحفًا يروي حكاية الإمارة",
+  "desc": "A double-storey traditional fortification of rock, coral and mudbrick in central Ajman, thought to date to the late 18th century. It was the seat of the Al Nuaimi rulers: it was destroyed during the British punitive expedition of 1819, changed hands several times in the 19th and early 20th centuries, and in 1967 became the headquarters of Ajman Police until 1978. After restoration in the early 1980s it became the Ajman Museum, established on 20 May 1991, whose displays include an excavated cemetery from Al Muwaihat with pottery and funerary jewellery dating back as far as 3000 BC. The fort is the centrepiece of the Dhs 25 million Ajman Heritage District, opened in October 2020.",
+  "sig": "The historic seat of government of Ajman and the emirate’s main showcase of its archaeology and coastal life.",
+  "ex": "Wikipedia (Ajman Fort; Ajman Museum)",
+  "disc": [
+   "Destroyed in 1819, rebuilt",
+   "Police headquarters 1967–1978",
+   "Museum since 1991"
+  ],
+  "refs": [
+   "Wikipedia. Ajman Fort. https://en.wikipedia.org/wiki/Ajman_Fort",
+   "Wikipedia. Ajman Museum. https://en.wikipedia.org/wiki/Ajman_Museum",
+   "Gulf News (14 October 2022). 200-year-old Ajman fort reminds of ancient way of life. https://gulfnews.com/travel/200-year-old-ajman-fort-reminds-of-ancient-way-of-life-1.2299818",
+   "Khaleej Times (27 April 2019). Dh25 million Ajman heritage district in the works. https://www.khaleejtimes.com/nation/sharjah/dh25-million-ajman-heritage-district-in-the-works"
+  ],
+  "conf": "Coordinates from the Wikipedia Ajman Museum infobox (25°24′49″N 55°26′44″E), a point in Ajman city, ≈0.2 km. The Wikipedia Ajman Fort article prints 25°41′35″N 55°44′56″E, which falls in Ras Al Khaimah, not Ajman, so it was not used. Construction date is only given as late 18th century; t0 is a broad estimate (about 1775). Al Muwaihat finds are exhibited here; the Muwaihat tomb itself was not mapped because no source coordinate was found. Arabic name is the established form",
+  "region": "Ajman",
+  "must_have": null
+ },
+ {
+  "id": "ae-umm-al-quwain-fort",
+  "n": "Umm Al Quwain Fort (National Museum)",
+  "na": "حصن أم القيوين (متحف أم القيوين الوطني)",
+  "c": "archaeological",
+  "ic": "wall",
+  "era": "H",
+  "s": "Fort built in 1768 by the founder of the Al Mualla dynasty · seat of government until 1969",
+  "lat": 25.5833,
+  "lng": 55.5728,
+  "p": "1768 – present",
+  "dr": "Built 1768; seat of the rulers until 1969; restored and opened to the public in 2000",
+  "el": "Seat of government for about 200 years",
+  "t0": 232,
+  "t1": 0,
+  "te": "The ruler’s fort by the lagoon",
+  "ta": "حصن الحاكم عند البحيرة",
+  "se": "For two centuries Umm Al Quwain was ruled from this fort; today it guards treasures dug up at ancient Ed-Dur",
+  "sa": "طوال قرنين حُكمت أم القيوين من هذا الحصن، واليوم يحرس كنوزًا استُخرجت من موقع الدور القديم",
+  "desc": "The fort, also called Al Ali Fort, was built in 1768 by Sheikh Rashid bin Majid Al Mualla, founder of the modern Al Mualla dynasty, in the old town of Umm Al Quwain. It was the seat of the rulers and centre of government until 1969, and on 9 February 1929 Sheikh Hamad bin Ibrahim Al Mualla was killed inside it, after which townspeople set fire to its walls. It later served as a police station and was restored and opened to the public in 2000 by Sheikh Rashid bin Ahmed Al Mualla. It now houses the Umm Al Quwain National Museum, whose exhibits include artefacts from the archaeological site of Ed-Dur.",
+  "sig": "The historic centre of power of Umm Al Quwain and the display home of finds from Ed-Dur.",
+  "ex": "Wikipedia (Umm Al Quwain Fort); Gulf News (2008)",
+  "disc": [
+   "Built in 1768",
+   "Seat of government until 1969",
+   "Shows finds from Ed-Dur"
+  ],
+  "refs": [
+   "Wikipedia. Umm Al Quwain Fort. https://en.wikipedia.org/wiki/Umm_Al_Quwain_Fort",
+   "Nazzal, N. (2 November 2008). UAE museum: Umm Al Quwain Museum. Gulf News. https://gulfnews.com/culture/uae-museum-umm-al-quwain-museum-1.100259",
+   "The National. Historic UAQ fort reopens for National Day. https://www.thenationalnews.com/uae/historic-uaq-fort-reopens-for-national-day-1.111063",
+   "Zahlan, R.S. (2016). The Origins of the United Arab Emirates. Taylor and Francis, p. 41. ISBN 9781317244653"
+  ],
+  "conf": "Coordinates are the OpenStreetMap point shown for Umm Al Quwain Fort on Plizio (OSM link mlat=25.5833, mlon=55.5728); a second OSM/Wikimedia-derived listing (Around Us, Umm Al Quwain Museum, 25.5842, 55.5707) lies about 0.25 km away, so precision is ≈0.3 km. About 1.6 km from the existing Akab Island record and 2.7 km from Al Sinniyah Island, different features. Arabic name is the established form",
+  "region": "Umm Al Quwain",
+  "must_have": null
+ }
+]

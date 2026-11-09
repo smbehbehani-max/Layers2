@@ -1,0 +1,19 @@
+# On every review pull request: re-run the automatic checks (red cross = something must be fixed before merging).
+name: Check drafts
+on:
+  pull_request:
+    paths: ['autopilot/review/inbox/**']
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: sudo ln -sfn "$GITHUB_WORKSPACE" /tmp/w
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.12' }
+      - name: Checks
+        working-directory: autopilot/tools
+        run: |
+          python3 check.py; s=$?
+          cat ../review/inbox/CHECKS.md >> "$GITHUB_STEP_SUMMARY"
+          exit $s

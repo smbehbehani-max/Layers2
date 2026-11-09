@@ -1,0 +1,105 @@
+/* ---------- storybook ---------- */
+const SART=__STORYART__;
+const EMAIL='sayed241084@gmail.com';
+const P=(en,ar)=>({en,ar});
+const STORIES=[
+{id:'bahrah',kind:'true',cover:'cover',color:'#9a6a3a',sites:['mud-volcano-z1','mud-volcano-z2','mud-volcano-z3','mud-volcano-outcrops','sabkha-seismites','bahrah-hydrothermal'],mapSite:'mud-volcano-z1',
+ credit:P('Based on the research of Professor Mike Duane','مستندة إلى أبحاث البروفيسور مايك دوان'),
+ paper:{label:'Duane, Reinink-Smith, Eastoe & Al-Mishwat (2015). Mud volcanoes and evaporite seismites in a tidal flat of northern Kuwait. Geo-Marine Letters 35, 237–246.',url:'https://doi.org/10.1007/s00367-015-0403-9'},
+ title:P('The Silent Volcanoes of Bahrah','براكين بحرة الصامتة'),tag:P('How Professor Mike Duane uncovered the secret of Kuwait’s mud volcanoes, and helped protect them','كيف كشف البروفيسور مايك دوان سرّ البراكين الطينية في الكويت وساعد في حمايتها'),
+ pages:[{art:'cover',cover:1},
+ {art:'c1',h:P('The Discovery','الاكتشاف'),p:P(['The salt flat of Bahrah shimmered under the midday sun. Professor Mike Duane walked slowly, eyes on the ground, until something made him stop and kneel.','Dozens of tiny cones of hardened mud, each with a little hole at the top, stood in silent rows, like a miniature city frozen in time.'],['كانت سبخة بحرة تتلألأ تحت شمس الظهيرة. سار البروفيسور مايك دوان ببطء وعيناه على الأرض، حتى استوقفه شيء فجثا على ركبتيه.','عشرات الأقماع الصغيرة من الطين المتصلّب، في قمة كل منها ثقب صغير، تصطف في صمت كأنها مدينة مصغّرة تجمّدت في الزمن.'])},
+ {art:'c2',h:P('A Fiery Imagination','خيال ملتهب'),p:P(['The cones were silent now, dry and still. But Professor Duane could picture them long ago, hissing and bubbling, spitting gas and muddy water up from below.','It was as if the Earth itself had been breathing here. So where had all that water come from?'],['كانت الأقماع صامتة الآن، جافة وساكنة. لكن البروفيسور دوان تخيّلها قبل زمن بعيد تصفر وتغلي، تنفث الغاز والماء الطيني من الأعماق.','كأن الأرض نفسها كانت تتنفس هنا. فمن أين جاء كل ذلك الماء؟'])},
+ {art:'c3',quiz:1,h:P('The Water Detective','محقق الماء'),p:P(['Back in his lab, Professor Duane became a detective. Every kind of water carries a hidden fingerprint in its atoms of oxygen and hydrogen. Rain has one fingerprint. The Arabian Gulf has another.','He measured the water locked inside the mud, looking for a fingerprint that matched neither.'],['في مختبره صار البروفيسور دوان محققًا. فكل نوع من الماء يحمل بصمة خفية في ذرات الأكسجين والهيدروجين. لمياه المطر بصمة، ولمياه الخليج العربي بصمة أخرى.','قاس الماء المحبوس داخل الطين، باحثًا عن بصمة لا تشبه أيًّا منهما.'])},
+ {art:'c4',h:P('The Verdict','الحكم'),p:P(['The fingerprint was clear: ancient water from deep inside the rock, trapped there for thousands of years.','Long ago, an earthquake shook the ground so hard that the clay turned soft and runny, squeezing that old water up through cracks to the surface. The twisted layers underground are scars of that quake. The cones are old mud volcanoes, sealed shut by gypsum and salt.'],['كانت البصمة واضحة: ماء قديم من أعماق الصخور، محبوس هناك منذ آلاف السنين.','قبل زمن بعيد هزّ زلزال الأرض بقوة حتى لان الطين وسال، فاندفع ذلك الماء القديم عبر الشقوق إلى السطح. الطبقات الملتوية تحت الأرض ندوب ذلك الزلزال، والأقماع براكين طينية قديمة أغلقها الجبس والملح.'])},
+ {art:'c5',h:P('Sharing the Secret','نشر السر'),p:P(['Professor Duane told everyone who would listen, at universities and in public talks across Kuwait.'],['روى البروفيسور دوان القصة لكل من أراد أن يسمع، في الجامعات والمحاضرات العامة في أنحاء الكويت.']),q:P('“This is more than mud. It is a library of our planet’s history, written in the sands of Kuwait. It is ours to protect for the next generations.”','«هذا أكثر من مجرد طين. إنه مكتبة لتاريخ كوكبنا، مكتوبة في رمال الكويت، وعلينا أن نحميها للأجيال القادمة».'),p2:P('People listened.','وأصغى الناس.')},
+ {art:'g6',h:P('From Discovery to GeoPark','من الاكتشاف إلى الحديقة الجيولوجية'),p:P(['Professor Duane did not stop at talks. He went to the Kuwait Oil Company (KOC) and asked them to protect the mud volcanoes.','Today the area is part of the Kuwait GeoPark, so visitors can still see the silent volcanoes that once breathed.'],['لم يكتفِ البروفيسور دوان بالمحاضرات، بل توجّه إلى شركة نفط الكويت وطلب منها حماية البراكين الطينية.','واليوم أصبحت المنطقة جزءًا من الحديقة الجيولوجية الكويتية، ليرى الزوار البراكين الصامتة التي كانت تتنفس يومًا.'])},
+ {art:'end',h:P('The End','النهاية'),p:P(['The greatest adventures are not always in faraway lands. Sometimes they lie right under our feet, waiting for someone curious enough to look down and brave enough to speak up.'],['أعظم المغامرات لا تكون دائمًا في البلاد البعيدة. أحيانًا تكون تحت أقدامنا مباشرة، تنتظر من لديه فضول لينظر إلى الأسفل وشجاعة ليتكلم.'])}]},
+{id:'sail',kind:'imag',cover:'a0',color:'#3f7cc0',sites:['h3-site'],mapSite:'h3-site',
+ title:P('The First Sail','الشراع الأول'),tag:P('A girl, her father and the first boat to catch the wind','فتاة وأبوها وأول قارب يصطاد الريح'),
+ pages:[{art:'a0',cover:1},
+ {art:'a1',h:P('Reeds and Tar','القصب والقار'),p:P(['Seven thousand years ago, on a narrow strip of land by the sea, Nura helped her father tie bundles of reeds into the shape of a boat.','Over the fire bubbled a pot of black tar. “Paint every gap,” her father said, “or the sea will come in.”'],['قبل سبعة آلاف عام، على شريط ضيق من الأرض بجوار البحر، ساعدت نورة أباها في ربط حزم القصب على هيئة قارب.','وفوق النار كان قدر من القار الأسود يغلي. قال أبوها: «اطلي كل فتحة، وإلا دخل البحر».'])},
+ {art:'a2',h:P('Catching the Wind','اصطياد الريح'),p:P(['Nura had an idea. “What if the boat could ride the wind, like the gulls?” Together they raised two tall poles and tied a cloth to each.','The cloth filled with air, and the boat slid forward without a single paddle. They laughed all the way across the water.'],['خطرت لنورة فكرة: «ماذا لو ركب القارب الريح مثل النوارس؟» فرفعا معًا عمودين طويلين وربطا بكل منهما قطعة قماش.','امتلأ القماش بالهواء، وانساب القارب إلى الأمام دون مجداف واحد. وضحكا طوال الطريق فوق الماء.'])},
+ {art:'a3',h:P('A Picture to Remember','صورة للذكرى'),p:P(['That night by the fire, Nura pressed a sharp stick into a soft clay disc and drew their boat with its two masts.','Thousands of years later, explorers found a clay disc at this very place showing a boat with two masts. It is the oldest picture of a sail ever found.'],['في تلك الليلة بجوار النار، ضغطت نورة عودًا حادًا على قرص من الطين الطري ورسمت قاربهما بصاريتيه.','وبعد آلاف السنين وجد المستكشفون في هذا المكان نفسه قرصًا طينيًا يصوّر قاربًا بصاريتين. إنه أقدم رسم لشراع عُثر عليه.'])}]},
+{id:'owl',kind:'imag',cover:'b0',color:'#a85a12',sites:['bahra-1'],mapSite:'bahra-1',
+ title:P('The Owl of Bahra','بومة بحرة'),tag:P('A young shell-carver makes a gift that lasts seven thousand years','صانع أصداف صغير يصنع هدية تبقى سبعة آلاف عام'),
+ pages:[{art:'b0',cover:1},
+ {art:'b1',h:P('The Shell Courtyard','فناء الأصداف'),p:P(['In the courtyard of a stone house, Salem sat beside his grandfather, smoothing shells into shiny beads.','Their beads were famous. Traders carried them far away, all the way to the cities of Mesopotamia.'],['في فناء بيت من الحجر جلس سالم بجوار جدّه يصقل الأصداف حتى تصير خرزًا لامعًا.','كان خرزهم مشهورًا، يحمله التجار بعيدًا حتى مدن بلاد ما بين النهرين.'])},
+ {art:'b2',h:P('Fire in the Kilns','النار في الأفران'),p:P(['At night more than twenty kilns glowed like little suns. Salem took a lump of clay and shaped a tiny owl with big round eyes.','“For Grandmother,” he whispered, “so she has someone to watch over her.”'],['في الليل توهّج أكثر من عشرين فرنًا كشموس صغيرة. أخذ سالم كتلة من الطين وشكّل منها بومة صغيرة بعينين واسعتين.','وهمس: «لجدتي، ليكون لها من يحرسها».'])},
+ {art:'b3',h:P('The Gift','الهدية'),p:P(['When the traders arrived with news from far away, Salem ran to his grandmother and placed the owl in her hands.','She kept it close all her life. Today a little owl figure found in this village is one of the earliest pieces of art in Arabia.'],['وحين وصل التجار بأخبار البلاد البعيدة، ركض سالم إلى جدته ووضع البومة بين يديها.','احتفظت بها قريبة منها طوال حياتها. واليوم يُعد تمثال بومة صغير وُجد في هذه القرية من أقدم الأعمال الفنية في جزيرة العرب.'])}]},
+{id:'elephants',kind:'imag',cover:'c0',color:'#5847b0',sites:['huwaimiliyah-fossils'],mapSite:'huwaimiliyah-fossils',
+ title:P('When Elephants Walked Here','حين مشت الأفيال هنا'),tag:P('A fossil tooth opens a window on a green Kuwait','سنّ متحجرة تفتح نافذة على كويت خضراء'),
+ pages:[{art:'c0',cover:1},
+ {art:'c1',h:P('A Strange Stone','حجر غريب'),p:P(['On a desert trip with her father, Dana spotted something odd poking out of the sand: a heavy stone with ridges like teeth.','“That is a tooth,” her father said softly. “And it belonged to a giant.”'],['في رحلة إلى الصحراء مع أبيها، لمحت دانة شيئًا غريبًا يطل من الرمل: حجرًا ثقيلًا فيه نتوءات كالأسنان.','قال أبوها بهدوء: «هذه سنّ، وكانت لعملاق».'])},
+ {art:'c2',h:P('A Green World','عالم أخضر'),p:P(['Dana closed her eyes and imagined millions of years ago. The desert turned into a green savanna with rivers and trees.','Huge relatives of the elephant, with tusks curving down from their lower jaws, waded into the water to drink.'],['أغمضت دانة عينيها وتخيّلت ما كان قبل ملايين السنين. تحوّلت الصحراء إلى سافانا خضراء فيها أنهار وأشجار.','وخاضت أقرباء عملاقة للفيل، بأنياب تنحني من فكها السفلي، في الماء لتشرب.'])},
+ {art:'c3',h:P('Back to Today','العودة إلى اليوم'),p:P(['When she opened her eyes, the sun was setting over the sand. Dana held the tooth up to the sky.','“Kuwait has not always been a desert,” she said. “The ground keeps its memories, if you know how to look.”'],['حين فتحت عينيها كانت الشمس تغرب فوق الرمال. رفعت دانة السنّ نحو السماء.','وقالت: «لم تكن الكويت صحراء دائمًا. والأرض تحفظ ذكرياتها لمن يعرف كيف ينظر».'])}]},
+{id:'caravan',kind:'imag',cover:'d0',color:'#b4521c',sites:['kadhima','coastal-wells'],mapSite:'kadhima',
+ title:P('The Caravan of Kadhima','قافلة كاظمة'),tag:P('A long walk to the springs at the head of the bay','رحلة طويلة إلى الينابيع عند رأس الجون'),
+ pages:[{art:'d0',cover:1},
+ {art:'d1',h:P('The Long Walk','المسير الطويل'),p:P(['The sun burned high as young Hamad led his camel across the sand. The water skins were almost empty.','“Patience,” called the old guide. “Kadhima is near, and its springs never run dry.”'],['كانت الشمس تحرق في كبد السماء وحمد الصغير يقود جمله عبر الرمال. القِرب كادت تفرغ.','نادى الدليل العجوز: «صبرًا، كاظمة قريبة، وينابيعها لا تجف».'])},
+ {art:'d2',h:P('Sweet Water','الماء العذب'),p:P(['At the head of the bay, palm trees appeared and fresh water bubbled up beside the sea. Stone troughs waited, full and cool.','The camels drank and drank. Caravans from the south rested here before heading north.'],['عند رأس الجون ظهرت النخيل، وفار الماء العذب بجوار البحر. وكانت أحواض الحجر في الانتظار، ممتلئة باردة.','شربت الجمال وشربت. هنا كانت القوافل القادمة من الجنوب تستريح قبل أن تمضي شمالًا.'])},
+ {art:'d3',h:P('A Map in the Sand','خريطة في الرمل'),p:P(['That night the guide drew dots in the sand by the fire. “Each dot is a well,” he said, “from here all the way along the coast.”','Hamad followed the stars and the dots, and dreamed of the road ahead.'],['في تلك الليلة رسم الدليل نقاطًا في الرمل بجوار النار وقال: «كل نقطة بئر، من هنا على امتداد الساحل».','تتبّع حمد النجوم والنقاط، وحلم بالطريق الذي ينتظره.'])}]},
+{id:'oryx',kind:'imag',cover:'f0',color:'#2c7a4c',sites:['sabah-al-ahmad-reserve'],mapSite:'sabah-al-ahmad-reserve',
+ title:P('Return of the Oryx','عودة المها'),tag:P('How a tired desert came back to life','كيف عادت الحياة إلى صحراء متعبة'),
+ pages:[{art:'f0',cover:1},
+ {art:'f1',h:P('A Tired Desert','صحراء متعبة'),p:P(['Years ago this desert was tired. Tyres had scarred the ground, and hungry herds had eaten every green shoot.','When the wind blew, the soil simply flew away as dust.'],['قبل سنوات كانت هذه الصحراء متعبة. فقد خدشت الإطارات الأرض، وأكلت القطعان الجائعة كل نبتة خضراء.','وحين تهب الريح كانت التربة تطير غبارًا.'])},
+ {art:'f2',h:P('A Fence and a Promise','سياج ووعد'),p:P(['Then a fence went up, and rangers like Maryam promised to look after the land.','Slowly the grasses returned, more than four times as many as before, and a living crust began to hold the sand together again.'],['ثم ارتفع سياج، ووعد حرّاس مثل مريم بأن يعتنوا بالأرض.','وببطء عادت الأعشاب، أكثر من أربعة أضعاف ما كانت، وبدأت قشرة حية تمسك الرمال من جديد.'])},
+ {art:'f3',h:P('Welcome Home','أهلًا بالعودة'),p:P(['One morning a crate door swung open and a white oryx stepped out, then another, and another.','Maryam watched through her binoculars and smiled. The desert was alive again.'],['وفي صباح ما انفتح باب صندوق وخرجت منه مهاة بيضاء، ثم أخرى، وأخرى.','راقبت مريم بمنظارها وابتسمت. لقد عادت الحياة إلى الصحراء.'])}]}
+];
+const SB={en:{shelf:'Stories',shelfP:'Illustrated stories from the places on the map.',tTrue:'True story',tImag:'Imagined story',
+  legTrue:'Based on real people and real research.',legImag:'Inspired by the research at a place, with made-up characters.',
+  imagNote:'An imagined story inspired by the research at this place. The characters are made up; the science is real.',
+  onMap:'Show on the map',paper:'Read the original paper',read:'Read',place:'Place',
+  shareT:'Share your story',shareP:'Did you discover or study one of these places? Send us your story: what you found, how you found it and why it matters. We’ll turn it into an illustrated story, with full credit to you.',
+  copy:'Copy email',copied:'Copied',mail:'Open email app',mailSub:'My story for Kuwait GeoHeritage Explorer',back:'All stories'},
+ ar:{shelf:'قصص',shelfP:'قصص مصوّرة من المواقع على الخريطة.',tTrue:'قصة حقيقية',tImag:'قصة متخيّلة',
+  legTrue:'مستندة إلى أشخاص حقيقيين وأبحاث حقيقية.',legImag:'مستوحاة من الأبحاث في موقع ما، بشخصيات متخيّلة.',
+  imagNote:'قصة متخيّلة مستوحاة من الأبحاث في هذا الموقع. الشخصيات متخيّلة، أما العلم فحقيقي.',
+  onMap:'اعرضه على الخريطة',paper:'اقرأ الورقة العلمية الأصلية',read:'اقرأ',place:'الموقع',
+  shareT:'شارك قصتك',shareP:'هل اكتشفت أحد هذه المواقع أو درسته؟ أرسل لنا قصتك: ماذا وجدت، وكيف وجدته، ولماذا يهم. سنحوّلها إلى قصة مصوّرة مع ذكر اسمك كاملًا.',
+  copy:'انسخ البريد',copied:'تم النسخ',mail:'افتح تطبيق البريد',mailSub:'قصتي لمستكشف التراث الجيولوجي الكويتي',back:'كل القصص'}};
+const QZ={en:{ask:'Your turn: which water matches the mud sample (★) on the screen?',opts:[['rain','Rainwater','#3f7cc0'],['gulf','Arabian Gulf water','#2f9a8a'],['deep','Ancient deep water','#d0603a']],ok:'Match! The mud was carrying water from deep underground, trapped there for thousands of years.',no:'Not this one. Look at which group the star sits in.'},
+ ar:{ask:'دورك الآن: أي ماء يطابق عيّنة الطين (★) على الشاشة؟',opts:[['rain','مياه الأمطار','#3f7cc0'],['gulf','مياه الخليج العربي','#2f9a8a'],['deep','مياه قديمة عميقة','#d0603a']],ok:'تطابق! كان الطين يحمل ماءً من أعماق الأرض، محبوسًا هناك آلاف السنين.',no:'ليست هذه. انظر إلى المجموعة التي تقع فيها النجمة.'}};
+let story=null,spage=0,quizPick=null,shelfOpen=false;
+const badge=(st,b)=>`<span class="sbadge ${st.kind}"><svg viewBox="0 0 24 24"><use href="#i-${st.kind=='true'?'seal':'feather'}"/></svg>${E(st.kind=='true'?b.tTrue:b.tImag)}</span>`;
+function shareBlock(b){return`<div class="share"><svg viewBox="0 0 24 24" class="shi"><use href="#i-share"/></svg><div><h4>${E(b.shareT)}</h4><p>${E(b.shareP)}</p>
+ <div class="mailrow"><code class="mail" tabindex="0">${EMAIL}</code><button data-copy="1">${E(b.copy)}</button><a href="mailto:${EMAIL}?subject=${encodeURIComponent(b.mailSub)}">${E(b.mail)}</a></div></div></div>`}
+function openShelf(){shelfOpen=true;story=null;$('#story').hidden=false;renderShelf()}
+function renderShelf(){const b=SB[lang],t=L();
+ const cards=STORIES.map(st=>{const s=D.sites.find(x=>x.id==st.mapSite);return`<button class="scard" data-open="${st.id}" style="--sc:${st.color}"><span class="sthumb">${SART[st.cover]}</span><span class="sbody">${badge(st,b)}<b>${E(st.title[lang])}</b><span>${E(st.tag[lang])}</span><small><svg viewBox="0 0 24 24"><use href="#i-pin"/></svg>${E(s?ttl(s):'')}</small></span></button>`}).join('');
+ $('#story').innerHTML=`<div class="sb-in shelf"><button class="sb-x" aria-label="${E(t.close)}">×</button><div class="shelf-in"><div class="sb-k">${E(b.shelf)}</div><h3>${E(b.shelfP)}</h3>
+  <div class="legend2"><span>${badge({kind:'true'},b)} ${E(b.legTrue)}</span><span>${badge({kind:'imag'},b)} ${E(b.legImag)}</span></div>
+  <div class="sgrid">${cards}</div>${shareBlock(b)}</div></div>`;
+ $('#story').setAttribute('aria-label',b.shelf)}
+function openStory(id){story=STORIES.find(s=>s.id==id);spage=0;quizPick=null;$('#story').hidden=false;renderStory();setTimeout(()=>{const x=$('#story .pri');x&&x.focus()},30)}
+function closeStory(){$('#story').hidden=true;story=null;shelfOpen=false}
+function renderStory(){const t=L(),b=SB[lang],st=story,pg=st.pages[spage],n=st.pages.length,chN=n-2;
+ const dots=`<div class="sb-dots">${st.pages.map((_,i)=>`<i class="${i==spage?'on':''}"></i>`).join('')}</div>`;
+ let txt='';
+ if(pg.cover){txt=`<div class="sb-k">${badge(st,b)}</div><p style="margin-top:10px">${E(st.tag[lang])}</p>${st.credit?`<p class="credit">${E(st.credit[lang])}</p>`:`<p class="credit">${E(b.imagNote)}</p>`}<div class="sb-nav"><button data-shelf="1">${E(b.back)}</button>${dots}<button class="pri" data-sn="1">${E(t.startRead)}</button></div>`}
+ else{const last=spage==n-1;
+  txt=`<div class="sb-k">${last?E(st.title[lang]):E(t.storyCh(spage,chN))}</div><h3>${E(pg.h[lang])}</h3>${pg.p[lang].map(x=>`<p>${E(x)}</p>`).join('')}${pg.q?`<blockquote>${E(pg.q[lang])}</blockquote><p>${E(pg.p2[lang])}</p>`:''}`;
+  if(pg.quiz){const z=QZ[lang];txt+=`<div class="quiz"><b>${E(z.ask)}</b><div class="ch">${z.opts.map(o=>`<button data-q="${o[0]}" aria-pressed="${quizPick==o[0]}" style="--q:${o[2]}"><i></i>${E(o[1])}</button>`).join('')}</div><div class="fb ${quizPick?(quizPick=='deep'?'ok':'no'):''}" aria-live="polite">${quizPick?E(quizPick=='deep'?z.ok:z.no):''}</div></div>`}
+  if(last){txt+=`<div class="about">${badge(st,b)}<p class="credit">${E(st.credit?st.credit[lang]:b.imagNote)}</p><div class="alinks"><button data-map="${st.mapSite}"><svg viewBox="0 0 24 24"><use href="#i-pin"/></svg>${E(b.onMap)}</button>${st.paper?`<a href="${st.paper.url}" target="_blank" rel="noopener"><svg viewBox="0 0 24 24"><use href="#i-link"/></svg>${E(b.paper)}</a>`:''}<button data-shelf="1"><svg viewBox="0 0 24 24"><use href="#i-book"/></svg>${E(b.back)}</button></div>${st.paper?`<p class="cite" lang="en" dir="ltr">${E(st.paper.label)}</p>`:''}</div>${shareBlock(b)}`}
+  txt+=`<div class="sb-nav"><button data-sn="-1">${E(t.sbPrev)}</button>${dots}<button class="pri" data-sn="${last?'x':'1'}">${E(last?t.sbDone:t.sbNext)}</button></div>`}
+ $('#story').innerHTML=`<div class="sb-in"><button class="sb-x" aria-label="${E(t.close)}">×</button><div class="sb-art">${SART[pg.art]}${pg.cover?`<div class="sb-cov"><h2>${E(st.title[lang])}</h2></div>`:''}</div><div class="sb-txt">${txt}</div></div>`;
+ $('#story').setAttribute('aria-label',st.title[lang])}
+function rerenderStory(){if(story)renderStory();else if(shelfOpen)renderShelf()}
+$('#story').onclick=e=>{if(e.target.id=='story')return closeStory();const b=e.target.closest('button');if(!b)return;
+ if(b.classList.contains('sb-x'))return closeStory();
+ if(b.dataset.open)return openStory(b.dataset.open);
+ if(b.dataset.shelf)return openShelf();
+ if(b.dataset.copy){const done=()=>{b.textContent=SB[lang].copied};try{navigator.clipboard.writeText(EMAIL).then(done,()=>{selMail()})}catch(err){selMail()}return}
+ if(b.dataset.map){const id=b.dataset.map;closeStory();if(view!='map')switchView('map');if(mode!='e'){mode='e';store.set('mode','e');chrome()}show(id);return}
+ if(b.dataset.q){quizPick=b.dataset.q;return renderStory()}
+ if(b.dataset.sn=='x')return closeStory();
+ if(b.dataset.sn){spage=Math.max(0,Math.min(story.pages.length-1,spage+ +b.dataset.sn));renderStory();const f=$('#story .pri');f&&f.focus()}};
+function selMail(){const m=$('#story .mail');if(!m)return;const r=document.createRange();r.selectNodeContents(m);const s=getSelection();s.removeAllRanges();s.addRange(r)}
+addEventListener('keydown',e=>{if($('#story').hidden)return;if(e.key=='Escape'){e.stopImmediatePropagation();return closeStory()}
+ if(!story)return;const fwd=lang=='ar'?'ArrowLeft':'ArrowRight',bk=lang=='ar'?'ArrowRight':'ArrowLeft';
+ if(e.key==fwd&&spage<story.pages.length-1){spage++;renderStory()}if(e.key==bk&&spage>0){spage--;renderStory()}},true);
+let sx=null;$('#story').addEventListener('touchstart',e=>{sx=e.touches[0].clientX},{passive:true});
+$('#story').addEventListener('touchend',e=>{if(sx==null||!story)return;const dx=e.changedTouches[0].clientX-sx;sx=null;if(Math.abs(dx)<50)return;const f=(dx<0)!=(lang=='ar');spage=Math.max(0,Math.min(story.pages.length-1,spage+(f?1:-1)));renderStory()});
+$('#stb').onclick=()=>openShelf();
+const storiesFor=id=>STORIES.filter(s=>s.sites.includes(id));
+const storyFor=id=>storiesFor(id)[0];

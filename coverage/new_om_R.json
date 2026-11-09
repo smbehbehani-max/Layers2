@@ -1,0 +1,109 @@
+[
+ {
+  "id": "om-al-hajar-geopark",
+  "n": "Al Hajar Geopark (aspiring UNESCO Global Geopark)",
+  "na": "جيوبارك الحجر",
+  "c": "geological",
+  "ic": "map",
+  "era": "D",
+  "s": "Oman’s first national geopark project · about 5,400 km² across 11 wilayats",
+  "lat": 23.116667,
+  "lng": 57.293056,
+  "p": "Late Permian – present",
+  "dr": "Aspiring UNESCO Global Geopark; dossier submitted to UNESCO September 2026",
+  "el": "About 5,400 km² in 3 governorates and 11 wilayats",
+  "t0": 250000000,
+  "t1": 0,
+  "te": "A whole mountain range as a museum",
+  "ta": "سلسلة جبلية كاملة متحفًا مفتوحًا",
+  "se": "Across 11 wilayats of the Hajar Mountains, Oman is turning fossil corals, springs, aflaj and old villages into one great geopark",
+  "sa": "في إحدى عشرة ولاية من جبال الحجر تجمع عُمان المرجان الأحفوري والعيون والأفلاج والقرى القديمة في جيوبارك واحد كبير",
+  "desc": "Al Hajar Geopark is described by the Ministry of Heritage and Tourism as Oman’s first national geopark project, covering about 5,400 km² in 11 wilayats of Al Dakhiliyah, South Al Batinah and North Al Sharqiyah governorates. Its themes are geological and natural heritage, tangible and intangible cultural heritage, water resources and biological resources. The official map numbers 22 sites, among them Hasat Bin Salt, Ar Rustaq Fort, the Ayn Al Kasfah and Ayn Ath Thowwarah springs, the aflaj Al Muyassar, Al Malki, Al Khatmeen and Daris, and the Coral Garden and Fish Fossils of Al Jabal Al Akhdar. The booklet dates the Coral Garden corals to the late Permian, about 250 million years ago.",
+  "sig": "Oman’s bid to have the geology, water systems and mountain villages of the central Hajar recognised together as a UNESCO Global Geopark.",
+  "ex": "Ministry of Heritage and Tourism, Al Hajar Geopark booklet and map",
+  "disc": [
+   "About 5,400 km², 11 wilayats",
+   "22 numbered sites on the official map",
+   "UNESCO dossier submitted September 2026"
+  ],
+  "refs": [
+   "Ministry of Heritage and Tourism, Sultanate of Oman. Al Hajar Geopark (booklet, English). https://mht.gov.om/media/znohkstc/alhajar-booklet-english.pdf",
+   "Ministry of Heritage and Tourism, Sultanate of Oman. Al Hajar Geopark map. https://mht.gov.om/media/axubga3p/al-hajar-geopark-map.pdf"
+  ],
+  "conf": "Large area: marker is the town of Al Hamra (Wikipedia infobox 23°07′00″N 57°17′35″E), seat of the wilayat of geopark map site no. 1 (Hasat Bin Salt); it is not a park centre, and the geopark spans ≈100 km. Dossier status (submitted September 2026, passed initial evaluation October 2026) is from Muscat Daily headlines only, so the dr line states only the submission. Timeline start is the oldest dated rocks named in the booklet (late Permian corals); older rocks are not dated there. Arabic name from the task list",
+  "region": "Ad Dakhiliyah",
+  "must_have": "OM-A1"
+ },
+ {
+  "id": "om-al-dhahirah-reserve",
+  "n": "Al Dhahirah Natural Reserve",
+  "na": "محمية الظاهرة الطبيعية",
+  "c": "ecology",
+  "ic": "gazelle",
+  "era": "N",
+  "s": "Mountain reserve of over 860 km² · Arabian tahr and wintering houbara",
+  "lat": 23.4,
+  "lng": 56.283,
+  "p": "Present",
+  "dr": "Royal Decree 24/2024 (8 April 2024; Official Gazette 1541)",
+  "el": "More than 860 km²",
+  "t0": 2,
+  "t1": 0,
+  "te": "Mountains of the Arabian tahr",
+  "ta": "جبال الطهر العربي",
+  "se": "In the mountains of Al Dhahirah, Arabian tahr climb the cliffs while houbara bustards spend the winter on the plains of Al Mazem",
+  "sa": "في جبال الظاهرة يتسلّق الطهر العربي المنحدرات، وتقضي طيور الحبارى الشتاء في سهول المازم",
+  "desc": "Al Dhahirah Natural Reserve was established by Royal Decree 24/2024, issued on 8 April 2024, with its areas set out in an annex and map. According to the Environment Authority, it covers more than 860 km² of a mountain range in Al Dhahirah Governorate, running from south of Wadi Al Fath in the Wilayat of Yanqul to the Al Mazem area north-west of Ibri, and extending south-west towards the Empty Quarter. More than 70 wild plant species are recorded, with the Arabian tahr, lynx, mountain fox, wild rabbit, wild cat, wild birds and the Omani lizard. Al Mazem is an important winter habitat for the houbara bustard.",
+  "sig": "Protects a long mountain range of north-western Oman that shelters the endangered Arabian tahr.",
+  "ex": "Royal Decree 24/2024; Oman Observer (2024)",
+  "disc": [
+   "More than 860 km²",
+   "Over 70 wild plant species",
+   "Arabian tahr and wintering houbara"
+  ],
+  "refs": [
+   "Royal Decree 24/2024 Establishing the Dhahirah Natural Reserve. Official Gazette 1541 (14 April 2024). https://decree.om/?p=25494",
+   "Oman Observer (2024). Great Royal attention to wildlife preservation. https://www.omanobserver.om/article/1152103/oman/environment/great-royal-attention-to-wildlife-preservation",
+   "Oman Daily (2 March 2025). جهود حثيثة للمحافظة على الوعل العربي في الظاهرة. https://www.omandaily.om/article/1174231"
+  ],
+  "conf": "Coordinates are the village of Mazim (Wikipedia infobox 23°24′N 56°17′E, ≈2 km precision); the Environment Authority places the reserve’s range up to the Al Mazem area, so the marker may sit at the reserve’s north-western end, ≈10 km. Oman Daily gives the southern limit as Wadi Al Khabib in Dank rather than Wadi Al Fath in Yanqul; the Oman Observer wording is used",
+  "region": "Ad Dhahirah",
+  "must_have": "OM-A8"
+ },
+ {
+  "id": "om-rostaq-fort",
+  "n": "Rostaq Fort",
+  "na": "قلعة الرستاق",
+  "c": "archaeological",
+  "ic": "wall",
+  "era": "H",
+  "s": "Great Ya’ariba fortress at the foot of the Hajar · UNESCO Tentative List",
+  "lat": 23.390833,
+  "lng": 57.424444,
+  "p": "c. 1250 AD – present",
+  "dr": "Built about 1250 AD; rebuilt under the Ya’ariba 1624–1649; UNESCO Tentative List 1988",
+  "el": "Four towers; the Devils Tower about 18.5 m high",
+  "t0": 750,
+  "t1": 0,
+  "te": "The fort of four towers",
+  "ta": "قلعة الأبراج الأربعة",
+  "se": "At the edge of the Batinah plain, Rostaq Fort rises with four great towers, one of them holding the tomb of an imam",
+  "sa": "عند طرف سهل الباطنة ترتفع قلعة الرستاق بأبراجها الأربعة الكبيرة، وفي أحدها قبر إمام",
+  "desc": "Rostaq Fort stands on the slopes of Al Jabal Al Akhdar at the edge of the Batinah plain in South Al Batinah Governorate. It was first built around 1250 AD and rebuilt by the first imams of the Ya’ariba dynasty between 1624 and 1649. It has a ground floor and two upper floors with residences, weapon stores, reception halls, a mosque, prisons and wells, and four towers: the Red Tower, the Wind Tower, the Devils Tower and the Modern Tower. It is a component of ‘The forts of Rostaq and al-Hazm’ on Oman’s UNESCO Tentative List and site no. 2 on the Al Hajar Geopark map.",
+  "sig": "One of Oman’s largest historic forts and a seat of the Ya’ariba imams.",
+  "ex": "Al Hajar Geopark booklet; UNESCO Tentative List 497",
+  "disc": [
+   "Built about 1250 AD",
+   "Rebuilt 1624–1649",
+   "UNESCO Tentative List 1988"
+  ],
+  "refs": [
+   "UNESCO World Heritage Centre. The forts of Rostaq and al-Hazm (Tentative List ref. 497). https://whc.unesco.org/en/tentativelists/497",
+   "Ministry of Heritage and Tourism, Sultanate of Oman. Al Hajar Geopark (booklet, English). https://mht.gov.om/media/znohkstc/alhajar-booklet-english.pdf",
+   "Wikipedia. Rustaq (section Rustaq Castle, citing Oman Info). https://en.wikipedia.org/wiki/Rustaq"
+  ],
+  "conf": "Coordinates are the Wikipedia infobox point for the town of Rustaq (23°23′27″N 57°25′28″E); the fort stands in the town, ≈0.5 km. The 1624–1649 rebuilding dates and tower height come from Wikipedia citing Oman Info; the booklet says only ‘16th century’ for the Ya’ariba rebuilding",
+  "region": "South Al Batinah",
+  "must_have": "OM-A17"
+ }
+]

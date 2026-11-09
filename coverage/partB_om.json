@@ -1,0 +1,35 @@
+{
+ "quota": {
+  "Dhofar": {
+   "geological": 3
+  },
+  "Ad Dakhiliyah": {
+   "geological": 2
+  },
+  "Ad Dhahirah": {
+   "geological": 2,
+   "archaeological": 2
+  },
+  "Al Buraimi": {
+   "geological": 1,
+   "archaeological": 4,
+   "ecology": 1
+  },
+  "North Al Batinah": {
+   "geological": 1,
+   "archaeological": 5
+  },
+  "Al Wusta": {
+   "geological": 1
+  },
+  "North Ash Sharqiyah": {
+   "geological": 1
+  },
+  "Musandam": {
+   "geological": 1,
+   "archaeological": 2,
+   "ecology": 1
+  }
+ },
+ "focus": "Semail ophiolite sections (Moho transition, sheeted dykes, pillow lavas, peridotite carbonation at Wadi Jizzi / Fizh / Sumail), Jebel Akhdar and Saih Hatat, Wahiba/Sharqiya Sands, Huqf outcrops, Dhofar karst and escarpment, Musandam drowned coast; archaeology of Al Buraimi (Hafit, Umm an-Nar, Iron Age oasis sites), North Al Batinah (Sohar, Wadi Jizzi copper smelting, Bronze Age settlements), Ad Dhahirah (beyond Bat/Al-Khutm/Al-Ayn, which are already mapped) and Musandam."
+}

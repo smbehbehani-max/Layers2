@@ -1,0 +1,423 @@
+{
+"sites": [
+{
+"id": "diraz-temple",
+"n": "Diraz Temple",
+"na": "معبد الدراز",
+"c": "archaeological",
+"s": "Dilmun columned temple · partly excavated",
+"lat": 26.2171,
+"lng": 50.4746,
+"p": "Early Dilmun",
+"dr": "3rd – early 2nd millennium BC",
+"el": "Columns 120 cm across · 700 m² surviving",
+"ic": "platform",
+"era": "P",
+"t0": 4525,
+"t1": 2725,
+"te": "The hall of nine columns",
+"ta": "قاعة الأعمدة التسعة",
+"se": "A columned Dilmun temple beside the Budaiya Highway, unlike anything at Barbar or in Mesopotamia",
+"sa": "معبد دلموني ذو أعمدة قرب طريق البديع، لا يشبه معبد باربار ولا معابد بلاد الرافدين",
+"desc": "Only about 700 m² survive, in the south-western corner of an original settlement just north of the Budaiya Highway in Diraz. A central hall held two rows of cylindrical columns about 120 cm in diameter, of which nine remain standing up to 60 cm high, spaced 2 to 3 m apart, with a square base between them read as an altar or statue base and a small square cella to the east. A British expedition partly explored the site in 1973–75 with the Bahrain Directorate of Archaeology, finding Barbar-type pottery, a snake vessel and two Dilmun stamp seals with animal figures; the finds date it to the 3rd or early 2nd millennium BC. East of the temple a subterranean tomb of the Kassite period stayed in use into the Iron Age.",
+"sig": "Its column architecture differs from both Mesopotamian temples and the nearby Barbar temple, so it records a separate strand of Dilmun religious building.",
+"ex": "British Archaeological Expedition with the Bahrain Directorate of Archaeology, 1973–75",
+"disc": [
+"Nine cylindrical columns about 120 cm across",
+"Two Dilmun stamp seals and a snake vessel",
+"Kassite tomb reused into the Iron Age"
+],
+"refs": [
+"Bahrain Authority for Culture and Antiquities. Diraz Temple (cultural tourism destinations page).",
+"Wikipedia contributors (2026). Diraz Temple, citing the excavation reports of the British Archaeological Mission."
+]
+},
+{
+"id": "al-markh",
+"n": "Al Markh Ubaid-period Site",
+"na": "موقع تل المرخ",
+"c": "archaeological",
+"s": "Late Stone Age fishing camp · Ubaid pottery",
+"lat": 25.99,
+"lng": 50.48,
+"p": "Late Ubaid / Neolithic",
+"dr": "c. 5000 – 3800 BC",
+"el": "6,896 flint pieces",
+"ic": "shell",
+"era": "P",
+"t0": 7025,
+"t1": 5800,
+"te": "Fishers on a higher sea",
+"ta": "صيادون على بحر أعلى",
+"se": "A sand-covered mound in the south-west where Stone Age fishers left painted Ubaid sherds and thousands of flints",
+"sa": "تل مغطى بالرمل في الجنوب الغربي ترك فيه صيادو العصر الحجري كسر فخار عبيدي ملوّن وآلاف الأدوات الصوانية",
+"desc": "A low, sand-covered mound about 6 km south of Zallaq and 1,200 m from the present shore. Ubaid-period sherds were noticed in 1971 and a British team under Michael Roaf excavated it in 1975, recovering 6,896 flint pieces, mainly scrapers, with pottery dated to about 3800 BC. The earlier phase holds painted late or post-Ubaid sherds that were mended and reused, bones of sparid fish, pearl oyster and other shellfish, and shallow fire pits; the later phase has little pottery, more flint, larger fish, and the first bones of goat, hare and dugong, which were common. Sea level in the late Neolithic is thought to have stood up to 4 m higher, so the mound may once have been an islet used seasonally by fishers and hunters.",
+"sig": "The main Ubaid-related site in Bahrain and one of the earliest records of dugong hunting in the Gulf.",
+"ex": "Michael Roaf (British expedition), 1975",
+"disc": [
+"Painted Ubaid sherds mended and reused",
+"Dugong bones common in the later phase",
+"Evidence of sea level up to 4 m higher than today"
+],
+"refs": [
+"Roaf, M. (1976). Excavations at Al Markh, Bahrain. Proceedings of the Seminar for Arabian Studies 6.",
+"Beech, M. J. (2010). Mermaids of the Arabian Gulf: archaeological evidence for the exploitation of dugongs from prehistory to the present. Liwa 2(3), 3–18.",
+"Wikipedia contributors (2026). Al Markh, citing Rice (1994) and Thuesen (1989)."
+]
+},
+{
+"id": "wadi-al-sail-mounds",
+"n": "Wadi al-Sail Burial Mounds",
+"na": "مدافن وادي السيل",
+"c": "archaeological",
+"s": "Earliest Dilmun cairn graveyard · Japanese excavations",
+"lat": 26.1,
+"lng": 50.53,
+"p": "Early Dilmun (Riffa type)",
+"dr": "c. 2300 – 1900 BC",
+"el": "Wadi 4 km long · hundreds of mounds",
+"ic": "mound",
+"era": "P",
+"t0": 4325,
+"t1": 3925,
+"te": "Where the mound-building began",
+"ta": "حيث بدأ بناء المدافن",
+"se": "Hundreds of early cairn mounds along a wadi on the plateau, radiocarbon-dated to about 2300 BC",
+"sa": "مئات المدافن الركامية المبكرة على جانبي وادٍ في الهضبة، مؤرخة بالكربون المشع إلى نحو 2300 قبل الميلاد",
+"desc": "A wadi about 4 km long on the inland plateau, running from south-east to north-west, with hundreds of 'Riffa type' burial mounds along its slopes, mainly in the upper 3 km; mounds of this type were once scattered around Riffa but were mostly lost to building, so those in the wadi are the survivors. A Kanazawa University mission led by Takeshi Gotoh excavated 15 mounds in the northern part over five seasons from 2015 to 2019, while the Bahrain Authority for Culture and Antiquities dug 11 more; 266 possible mounds were identified there. All were cairn burials, and eight radiocarbon dates fall between 2300 and 1900 BC, so construction probably began around 2300 BC or earlier. Some graves held Mesopotamian and Umm an-Nar pottery and stone beads, evidence of maritime trade by the end of the 3rd millennium BC.",
+"sig": "The earliest phase of the Dilmun mound tradition, showing the rise of a tribal society before the royal mounds of A'ali.",
+"ex": "Japanese Archaeological Mission (Kanazawa University: T. Gotoh, K. Saito, M. Abe, A. Uesugi) with the Bahrain Authority for Culture and Antiquities, 2015–2019",
+"disc": [
+"Eight radiocarbon dates of 2300–1900 BC",
+"Umm an-Nar and Mesopotamian pottery in the graves",
+"266 possible mounds in the northern sector alone"
+],
+"refs": [
+"Gotoh, T., Saito, K., Abe, M. & Uesugi, A. (2020). Excavations at Wādī al-Sail, Bahrain 2015–2019. Proceedings of the Seminar for Arabian Studies 50, 171–187.",
+"Abe, M. & Uesugi, A. (2021). Reconsidering the date of Riffa type burial mounds in the Early Dilmun period: new radiocarbon data from Wadi al-Sail, Bahrain. Al-Rāfidān 42, 75–85.",
+"Bahrain Authority for Culture and Antiquities (2019). Field visit and lecture on the Wadi al-Sail excavations (news release, February 2019)."
+]
+},
+{
+"id": "al-hajjar-cemetery",
+"n": "Al-Hajjar Cemetery",
+"na": "مقبرة الحجر",
+"c": "archaeological",
+"s": "Rock-cut graves used for 2,000 years",
+"lat": 26.21,
+"lng": 50.51,
+"p": "Early Dilmun to Tylos",
+"dr": "c. 2000 BC – 300 AD",
+"el": "Four phases of use over two millennia",
+"ic": "jar",
+"era": "P",
+"t0": 4025,
+"t1": 1725,
+"te": "Graves cut into the rock",
+"ta": "قبور منحوتة في الصخر",
+"se": "Underground rock-cut tombs reused from Dilmun to Tylos times, where the first Dilmun seal in a grave was found",
+"sa": "مدافن منحوتة تحت الأرض أُعيد استخدامها من دلمون إلى تايلوس، وفيها وُجد أول ختم دلموني داخل قبر",
+"desc": "A cemetery on the edge of the Budaiya Highway at the village of Al-Hajjar, explored mainly by the Bahrain Department of Antiquities in 1970–71 and again in the mid-1990s. Its northern complex of underground rock-cut graves, some still sealed with flat capstones, is rare in Bahrain; it was used in the Early Dilmun period (c. 2000–1800 BC), under the Kassites (c. 1400–1300 BC), in Late Dilmun times (c. 900–800 BC) and in the Tylos period (c. 200 BC – 300 AD), and the southern part holds unexcavated Tylos mounds. In 1970 the first Early Dilmun stamp seal ever found in a grave was recovered near a skeleton's neck. Later offerings include soft-stone and alabaster vessels, stamp and cylinder seals, glass, iron weapons, jewellery and two limestone statues unique in Bahrain, now in the Bahrain National Museum.",
+"sig": "The clearest case in Bahrain of one burial ground reused across four cultural periods, from Dilmun to the Hellenistic-Parthian world.",
+"ex": "Bahrain Department of Antiquities, 1970–71 and mid-1990s",
+"disc": [
+"First Early Dilmun stamp seal found in a grave (1970)",
+"Two limestone statues unique in Bahrain",
+"Kassite and Late Dilmun reuse of the tombs"
+],
+"refs": [
+"Bahrain Authority for Culture and Antiquities. Al-Hajjar (cultural tourism destinations page).",
+"Wikipedia contributors (2026). Al Hajar, Bahrain, citing the Los Angeles Times (29 May 1988) on relics found in the village."
+]
+},
+{
+"id": "abu-saiba-tylos",
+"n": "Abu Saiba Tylos Cemetery",
+"na": "تل أبو صيبع",
+"c": "archaeological",
+"s": "Tylos hill cemetery · French excavations",
+"lat": 26.21,
+"lng": 50.49,
+"p": "Tylos (Hellenistic to Parthian)",
+"dr": "c. 200 BC – 300 AD",
+"el": "Mound 70 m across · 4–4.5 m high",
+"ic": "jar",
+"era": "H",
+"t0": 2225,
+"t1": 1725,
+"te": "Dice from the age of Tylos",
+"ta": "نرد من عصر تايلوس",
+"se": "A circular burial hill 8 km west of Manama with nearly a hundred built graves of the Tylos age",
+"sa": "تل مدافن دائري على بعد 8 كم غرب المنامة فيه نحو مئة قبر مبني من عصر تايلوس",
+"desc": "A circular mound about 70 m across and 4 to 4.5 m high, 8 km west of Manama and 500 m south of the Janusan roundabout on the Budaiya road. A Bahraini team dug briefly in 1983, finding glazed pottery, glass, jewellery and tombstones now in the Tylos hall of the Bahrain National Museum; since 2017 the French Archaeological Mission under Pierre Lombard has worked with the Bahrain Authority for Culture and Antiquities. By 2021 nearly 70 built graves including three burial jars had been revealed over about 1,000 m², and by March 2022 excavation of about a third of the hill had uncovered 93 burials, 23 of them new that season, with three intact tombs holding glass, bronze, beads and pottery. The 2022 season also produced a pair of dice, the first found in Bahrain, read as part of a game or a fortune-telling ritual of the middle Tylos period (50 BC – 150 AD).",
+"sig": "One of more than 30 Tylos cemeteries in the Shakhura–Abu Saiba–Maqaba area, and the one being excavated with modern methods today.",
+"ex": "French Archaeological Mission (Pierre Lombard) with the Bahrain Authority for Culture and Antiquities, since 2017; Bahraini excavation 1983",
+"disc": [
+"First pair of ancient dice found in Bahrain (2022)",
+"93 burials uncovered by 2022, including children in jars",
+"Intact tombs 43–46 with glass, bronze and beads"
+],
+"refs": [
+"Bahrain Authority for Culture and Antiquities (2021). Results of the 2021 season at Abu Saiba (news release, 7 April 2021).",
+"Aldroubi, M. (2022). Ancient dice discovered in Bahrain may have been used for fortune telling. The National, 22 March 2022.",
+"Bahrain Authority for Culture and Antiquities. Shakhura archaeological site (cultural tourism destinations page)."
+]
+},
+{
+"id": "samahij-christian-building",
+"n": "Samahij Christian Building",
+"na": "المبنى المسيحي في سماهيج",
+"c": "archaeological",
+"s": "Earliest Christian building in the Gulf · excavated 2019–23",
+"lat": 26.28,
+"lng": 50.63,
+"p": "Late Antique to Early Islamic",
+"dr": "Mid-4th – mid-8th century AD",
+"el": "Eight rooms with plaster floors",
+"ic": "platform",
+"era": "H",
+"t0": 1675,
+"t1": 1275,
+"te": "The bishop under the mosque",
+"ta": "الأسقف تحت المسجد",
+"se": "Under a cemetery mound in Muharraq lay an eight-room building with plaster crosses, perhaps the residence of the bishop of Mashmahig",
+"sa": "تحت تل مقبرة في المحرق مبنى من ثماني غرف بصلبان جصية، ربما كان مقر أسقف مشماهيج",
+"desc": "Found under a mound in the village cemetery of Samahij on Muharraq, beneath a later mosque that helped preserve it. Excavated from 2019 to 2023 by Timothy Insoll of the University of Exeter and Salman Almahari of the Bahrain Authority for Culture and Antiquities, the stone building has plastered walls and floors and eight surviving rooms, including a kitchen with hearths made from amphora bases, a refectory, a workroom and three living rooms. Radiocarbon dates place its use between the mid-4th and mid-8th centuries AD, after which it was abandoned as the population became Muslim. Finds include three plaster crosses, graffiti of a fish and part of a Chi-Rho, about a dozen copper coins probably Sasanian, carnelian beads and Indian pottery, small wine glasses, spindle whorls and copper needles, and remains of pork, fish and shellfish. It may have been the residence of the bishop of the diocese recorded as Meshmahig in Church of the East sources, which mention a bishop excommunicated in 410.",
+"sig": "The first physical evidence of the Church of the East in Bahrain and probably the oldest Christian building known in the Arabian Gulf.",
+"ex": "University of Exeter (T. Insoll) and Bahrain Authority for Culture and Antiquities (S. Almahari), 2019–2023",
+"disc": [
+"Three plaster crosses and a Chi-Rho graffito",
+"Radiocarbon dates of the mid-4th to mid-8th century",
+"Carnelian beads and Indian pottery showing trade with India"
+],
+"refs": [
+"University of Exeter (2024). Archaeologists discover the first Christian building in Bahrain (news release, 12 July 2024).",
+"Arab News (2024). Archaeologists in Bahrain unearth Gulf's earliest Christian structure.",
+"Emirates News Agency (WAM) (2024). Bahraini, British archaeologists discover first Christian building in Bahrain dated to 4th century CE."
+]
+},
+{
+"id": "al-sayah-island",
+"n": "Al Sayah Island",
+"na": "جزيرة السياح",
+"c": "archaeological",
+"s": "Man-made island around a sea spring · National Heritage List",
+"lat": 26.26,
+"lng": 50.6,
+"p": "Early Islamic to pearling era",
+"dr": "7th – 8th century AD onward",
+"el": "Walls enclosing an islet under 20 m, later 40 m wide",
+"ic": "well",
+"era": "H",
+"t0": 1400,
+"t1": 100,
+"te": "An island built around a spring",
+"ta": "جزيرة بُنيت حول عين",
+"se": "Walls and coral platforms built in the sea around a freshwater spring so pearling boats could take on water",
+"sa": "جدران ومنصات مرجانية بُنيت في البحر حول عين عذبة ليتزود منها الغواصون بالماء",
+"desc": "A small islet north-west of Muharraq, between Busaiteen and Bahrain Bay, long thought natural. Excavations from January 2022 by a British team under Robert Carter with the Bahrain Authority for Culture and Antiquities, the first systematic marine and underwater archaeology survey in Bahrain, showed it was built in the sea around a freshwater spring of the kind local people call a kawkab or chochab. A circular wall enclosed a cistern around the spring, forming an island under 20 m wide; a later curved wall widened it to about 40 m, straight walls enclosed rectangular cabins, and large coral blocks formed a platform more than 60 m long, with a small building holding a water-raising mechanism beside the spring. Pottery of the 7th–8th centuries AD lies mixed with piles of pearl oysters that cover most of the island, and water was drawn for boats anchored along the quay. Threatened by a road project in 2022, it was placed on the National Heritage List.",
+"sig": "Described by Salman Al-Mahari as one of the oldest examples of sea filling anywhere, and a direct link between the island's sea springs and its pearling fleet.",
+"ex": "Bahrain Authority for Culture and Antiquities with a British team led by Robert Carter, from 2022",
+"disc": [
+"Shown in 2022 to be man-made, at least 1,200 years old",
+"Pearl-oyster shell heaps over 7th–8th century pottery",
+"Coral-block platform more than 60 m long"
+],
+"refs": [
+"Altuntaş, L. (2022). British archaeologists unearth the 1,200-year-old man-made island. Arkeonews, 13 February 2022.",
+"Gulf Daily News (2024). Historic Al Sayah Island to get new lease of life, 26 May 2024.",
+"Afikra Daftar (2026). How we remember water: on Ain Adhari, Al Sayah Island, and the afterlife of Bahrain's springs, citing Insoll et al. (2025)."
+]
+},
+{
+"id": "rus-formation-outcrop",
+"n": "Rus Formation Outcrop (Sakhir Racecourse)",
+"na": "مكشف تكوين الرس (سباق الخيل)",
+"c": "geological",
+"s": "Early Eocene dolostone · studied 2023",
+"lat": 26.0725,
+"lng": 50.522,
+"p": "Rus Formation, Early Eocene",
+"dr": "c. 56 – 48 million years ago",
+"el": "26.5 m section over 1.6 km²",
+"ic": "fossil",
+"era": "D",
+"t0": 56000000,
+"t1": 48000000,
+"te": "A lagoon turned to stone",
+"ta": "بحيرة ساحلية تحجّرت",
+"se": "Chalky dolostone with chert nodules and geodes, laid down in lagoons and tidal channels of a narrow Eocene strait",
+"sa": "دولوستون طباشيري بعقد الصوان والجيودات، ترسب في بحيرات ساحلية وقنوات مدّية لمضيق إيوسيني ضيق",
+"desc": "An outcrop of about 1.6 km² at the Horse Racing Club in central Bahrain, on the northern edge of the doubly plunging anticline, where a 26.5 m section of the Rus Formation is exposed; boreholes show the formation thickens to about 125 m in the west and 73 m in the east of the island. A 2023 study by Aimen Amer and colleagues logged 13 facies of dolostone, dolomitic marl and claystone with chert nodules near the top and calcite geodes in several beds; XRD showed 88% of 58 samples to be mainly dolomite, and only quartz pseudomorphs after gypsum and thin halite laminae remain of the evaporites. The beds record restricted lagoons, sabkha pools, tidal flats and channels and storm washovers along a shoreline trending NNW–SSE, with wind-blown quartz sand probably from the Arabian Shield. The authors argue that the Rus here is not mainly evaporitic and question its role as a regional hydrocarbon seal.",
+"sig": "The most detailed published section of the Rus Formation in Bahrain, the unit that holds the island's lowest aquifer and the geodes found across the interior.",
+"ex": "University of Turku (Amer, Skyttä, Ojala, Heilimo), published 2023",
+"disc": [
+"13 facies in a 26.5 m section",
+"88% of samples predominantly dolomite",
+"Evidence of a narrow storm-swept Eocene strait"
+],
+"refs": [
+"Amer, A., Skyttä, P., Ojala, A. & Heilimo, E. (2023). New insights into the depositional facies of the Early Eocene Rus Formation, Bahrain. Marine and Petroleum Geology 154, 106338.",
+"Willis, R. P. (1963). Geology of the Arabian Peninsula: Bahrain. USGS Professional Paper 560-E."
+]
+},
+{
+"id": "jidda-island",
+"n": "Jidda Island",
+"na": "جزيرة جدة",
+"c": "geological",
+"s": "Limestone islet · quarry of the Barbar temple",
+"lat": 26.19,
+"lng": 50.41,
+"p": "Limestone islet of the western shelf",
+"dr": "Quarried c. 2500 BC",
+"el": "0.5 km² · cliffs to 10 m",
+"ic": "island",
+"era": "P",
+"t0": 4525,
+"t1": 0,
+"te": "The quarry across the water",
+"ta": "المحجر عبر الماء",
+"se": "A cliff-edged islet west of Bahrain whose stone is believed to have been shipped to build the Barbar temple",
+"sa": "جزيرة محاطة بجروف غرب البحرين يُعتقد أن حجرها نُقل بالقوارب لبناء معبد باربار",
+"desc": "Three small islets about 17.5 km west of Manama, just north of Umm an Nasan, with a total area of 0.5 km² and a highest point of 10 m; the main island consists of limestone cliffs. Rock blocks are believed to have been cut here and carried across the water to build the Barbar temple on the north coast of Bahrain Island, whose second temple was walled with carved quarried stone. The island is joined to Umm an Nasan by a 1.75 km causeway, is uninhabited and is closed to the public.",
+"sig": "The likely source of the dressed limestone of Bahrain's most important Dilmun temple, and a sample of the low limestone islets of the western shelf.",
+"ex": "No published geological survey; quarry link proposed by the Danish Barbar excavators",
+"disc": [
+"Believed source of the Barbar temple stone",
+"Limestone cliffs rising to 10 m"
+],
+"refs": [
+"Wikipedia contributors (2026). Jidda Island.",
+"Madain Project. Barbar Temple, citing Bibby (1969), Andersen & Højlund (2003) and Rice (1990)."
+]
+},
+{
+"id": "causeway-pleistocene",
+"n": "Pleistocene Shelf of the King Fahd Causeway",
+"na": "رصيف البليستوسين عند جسر الملك فهد",
+"c": "geological",
+"s": "Ice-age sea-level record under the causeway",
+"lat": 26.17,
+"lng": 50.44,
+"p": "Pleistocene to Holocene",
+"dr": "c. 110,000 – 6,000 years ago",
+"el": "Dolomite up to 40 m · cover 3–9 m",
+"ic": "wave",
+"era": "D",
+"t0": 110000,
+"t1": 6000,
+"te": "When the Gulf ran dry",
+"ta": "حين جفّ الخليج",
+"se": "Boreholes for the causeway cut through dolomite and sands recording the emptying and refilling of the Arabian Gulf",
+"sa": "اخترقت حفريات الجسر دولوميت ورمالًا تسجل جفاف الخليج العربي وامتلاءه من جديد",
+"desc": "Sediments studied along the King Fahd Causeway between Bahrain and Saudi Arabia by Ata Darwish and Curtis Conley (1990). A lower dolomite interval up to 40 m thick is built of repeated cycles of skeletal packstone, mudstone, pelletal grainstone and green mudstone, dated to the mid-Pleistocene before the first great sea-level fall of 110,000–90,000 years ago. Above it a 3–9 m interval of quartz sandstone, skeletal grainstone, quartz sand and aragonitic oolitic sand records a transgression of 90,000–75,000 years ago, a late Pleistocene blanket of dune sand as aridity grew, and the Flandrian flooding of the Gulf about 6,000 years ago. During the lowstand the whole Gulf was emptied and the sediments were leached, cemented and dolomitised; in wetter periods fresh water dissolved aragonite and precipitated calcite.",
+"sig": "A measured record of how the shallow Gulf floor between Bahrain and Arabia dried out and flooded with the ice ages.",
+"ex": "Darwish & Conley (King Abdulaziz University), 1990; recent sands noted by the USGS survey of 1963",
+"disc": [
+"Gulf emptied entirely in the late Pleistocene regression",
+"Reflooded about 6,000 years ago"
+],
+"refs": [
+"Darwish, A. & Conley, C. D. (1990). Pleistocene-Holocene sedimentation and diagenesis along the King Fahd causeway between Saudi Arabia and Bahrain. Journal of King Abdulaziz University: Earth Sciences 3(1), 63–79.",
+"Willis, R. P. (1963). Geology of the Arabian Peninsula: Bahrain. USGS Professional Paper 560-E."
+]
+},
+{
+"id": "mashtan-island",
+"n": "Mashtan Island",
+"na": "جزيرة مشتان",
+"c": "ecology",
+"s": "Marine protected area since 2002 · seagrass nursery",
+"lat": 25.95,
+"lng": 50.55,
+"p": "Living today",
+"dr": "Protected by Order No. 1 of 2002",
+"el": "c. 2.5 km² island · 2.5 km offshore",
+"ic": "island",
+"era": "N",
+"t0": 25,
+"t1": 0,
+"te": "A nursery in the seagrass",
+"ta": "حضانة في الأعشاب البحرية",
+"se": "A low island off the south-east coast whose seagrass beds feed dugongs and turtles and shelter young shrimp and fish",
+"sa": "جزيرة منخفضة قبالة الساحل الجنوبي الشرقي تغذي أعشابها البحرية الأبقار البحرية والسلاحف وتحمي صغار الروبيان والأسماك",
+"desc": "A small low island about 2.5 km off the south-east coast of the main island, listed by Bahrain's biodiversity clearing-house at about 2.5 km² and protected under National Commission for Wildlife Protection Order No. 1 of 2002. Its sandy beaches are ringed by extensive seagrass beds and reefs; the seagrass is an important feeding area for dugongs and sea turtles and a protected nursery ground for shrimp and finfish, and the island is also recognised as an Important Bird Area. Bahrain's seagrass comprises three species, Halodule uninervis, Halophila stipulacea and Halophila ovalis, with the largest beds running from south of Fasht al-Adhm to the Hawar Islands.",
+"sig": "One of only a handful of marine protected areas in Bahrain and the nearest to the main island's dugong and turtle feeding grounds.",
+"ex": "Supreme Council for Environment (formerly National Commission for Wildlife Protection)",
+"disc": [
+"Protected in 2002",
+"Feeding ground for dugongs and sea turtles",
+"Nursery for shrimp and finfish"
+],
+"refs": [
+"Kingdom of Bahrain Clearing-House Mechanism (CBD). Mashtan Island (protected areas page).",
+"Naser, H. A. (2016). Management of marine protected zones – case study of Bahrain, Arabian Gulf. In Applied Studies of Coastal and Marine Environments, IntechOpen.",
+"Sea Alarm Foundation (2026). Country wildlife response profile: Bahrain."
+]
+},
+{
+"id": "dohat-arad",
+"n": "Dohat Arad Mangrove Reserve",
+"na": "محمية دوحة عراد",
+"c": "ecology",
+"s": "Planted mangroves · marine protected area 2003",
+"lat": 26.25,
+"lng": 50.65,
+"p": "Living today",
+"dr": "Protected by Order No. 4 of 2003",
+"el": "0.5 km² sheltered bay",
+"ic": "mangrove",
+"era": "N",
+"t0": 25,
+"t1": 0,
+"te": "New mangroves in an old bay",
+"ta": "قرم جديد في خليج قديم",
+"se": "A sheltered mudflat bay on Muharraq where mangroves have been replanted for waders and young fish",
+"sa": "خليج طيني محمي في المحرق أُعيد فيه غرس القرم للطيور الخواضة وصغار الأسماك",
+"desc": "A sheltered bay of about 0.5 km² on the eastern side of Muharraq Island, about 3 km from Muharraq town, dominated by mudflats. It was declared a marine protected area in 2003 by Order No. 4 of the Public Commission for the Protection of Marine Resources, Environment and Wildlife, as a site for mangrove restoration and wildlife habitat, and a mangrove reserve has been planted on its north-east shore. The bay is an important resting and feeding area for resident and migratory waders and shelters juvenile fish; the greater flamingo is present year-round on Bahrain's tidal flats. Bahrain's only natural mangrove stand, of Avicennia marina, survives at Tubli Bay, which makes the Arad planting the island's second mangrove site.",
+"sig": "Bahrain's main mangrove restoration site and a protected feeding ground for shorebirds beside the country's airport island.",
+"ex": "Supreme Council for Environment (formerly PCPMREW)",
+"disc": [
+"Protected in 2003 for mangrove restoration",
+"Resting and feeding area for migratory waders"
+],
+"refs": [
+"Naser, H. A. (2016). Management of marine protected zones – case study of Bahrain, Arabian Gulf. In Applied Studies of Coastal and Marine Environments, IntechOpen.",
+"Sea Alarm Foundation (2026). Country wildlife response profile: Bahrain.",
+"International Parks. Dohat Arad, Bahrain (protected area profile)."
+]
+},
+{
+"id": "maqabah-hypocolius",
+"n": "Maqabah Hypocolius Roost",
+"na": "مرقد البُلبُل الرمادي في مقابة",
+"c": "ecology",
+"s": "Important Bird Area · grey hypocolius roost",
+"lat": 26.2033,
+"lng": 50.4875,
+"p": "Living today",
+"dr": "Assessed as an IBA in 1994",
+"el": "0.157 km² of date-palm scrub",
+"ic": "bird",
+"era": "N",
+"t0": 35,
+"t1": 0,
+"te": "The grey bird of the palm groves",
+"ta": "الطائر الرمادي في بساتين النخيل",
+"se": "An abandoned palm garden near Budaiya where Bahrain's wintering grey hypocolius gather to roost",
+"sa": "بستان نخيل مهجور قرب البديع يتجمع فيه البُلبُل الرمادي الشاتي في البحرين للمبيت",
+"desc": "A patch of 0.157 km² of abandoned, privately owned date-palm scrub and open ground at 2–5 m elevation in the village of Maqabah, about 10 km from Manama, bounded by roads, farms and housing. Scattered date palms cover about 60% of it. BirdLife International identified it as an Important Bird Area, last assessed in 1994, as the main roost in Bahrain of the grey hypocolius (Hypocolius ampelinus), a passage and wintering bird that feeds by day in palm gardens elsewhere on the island. It has no legal protection, though it has been proposed as a wildlife reserve, and faces cutting of palm scrub, disturbance of the roosts, rubbish and encroaching housing.",
+"sig": "The one site in Bahrain tied to the grey hypocolius, a bird of a family found only in the Middle East, and a reminder of the vanished northern palm belt.",
+"ex": "BirdLife International / Key Biodiversity Areas partnership",
+"disc": [
+"Main roost of the grey hypocolius in Bahrain",
+"Only 0.157 km², with no formal protection"
+],
+"refs": [
+"Key Biodiversity Areas Partnership. Maqabah (KBA factsheet 8018), BirdLife International.",
+"Wikipedia contributors (2026). Muqaba, citing BirdLife International."
+]
+}
+]
+}

@@ -1,0 +1,722 @@
+{
+"sites": [
+{
+"id": "tayma-oasis",
+"n": "Tayma Oasis",
+"na": "واحة تيماء",
+"c": "archaeological",
+"s": "Walled oasis city of Nabonidus · Saudi-German excavations",
+"lat": 27.63,
+"lng": 38.55,
+"p": "Bronze Age to Byzantine",
+"dr": "c. 4000 BC – AD 600",
+"el": "City wall of about 15 km",
+"ic": "wall",
+"era": "H",
+"t0": 6025,
+"t1": 1400,
+"te": "The king who left Babylon",
+"ta": "الملك الذي غادر بابل",
+"se": "An oasis ringed by 15 km of wall, where the last king of Babylon lived for ten years",
+"sa": "واحة يحيط بها سور طوله 15 كم، عاش فيها آخر ملوك بابل عشر سنوات",
+"desc": "An oasis city between the Hijaz mountains and the Nafud, with a main mound of more than 200 acres and a sandstone-and-mud-brick wall of just over 15 km enclosing oasis, fields and part of a dried lake; parts of the wall date to 2500–2000 BC and it stood by the end of the second millennium BC. Carnelian bead-making and flint working go back to about 4000 BC, a temple was in use from the 12th to 9th centuries BC, and a 2010 find carried the name of pharaoh Ramesses III, the first pharaonic inscription found in Saudi Arabia. The Babylonian king Nabonidus moved here in 556 BC and stayed about a decade; a sandstone stela showing him was found near the main temple. Saudi-German excavations under the German Archaeological Institute began in 2004.",
+"sig": "The only place outside Mesopotamia where a Babylonian king ruled for a decade, and one of the longest-lived oases in Arabia.",
+"ex": "German Archaeological Institute (R. Eichmann, A. Hausleiter) with the Saudi Commission for Tourism and Antiquities, 2004 onwards; BTU Cottbus wall survey",
+"disc": [
+"Inscription of Ramesses III found 2010",
+"Nabonidus lived here 556–543 BC"
+],
+"refs": [
+"Lawler, A. (2018). Searching for Tayma. Archaeology magazine / andrewlawler.com.",
+"Rheidt, K. & Schneider, P. I. BTU Cottbus-Senftenberg. Tayma – Eine nordwestarabische Stadtmauer (project page).",
+"Hausleiter, A. & Eichmann, R. (eds). Taymāʾ I: Archaeological Exploration, Palaeoenvironment, Cultural Contacts. Archaeopress."
+]
+},
+{
+"id": "marid-castle",
+"n": "Marid Castle, Dumat al-Jandal",
+"na": "قلعة مارد، دومة الجندل",
+"c": "archaeological",
+"s": "Nabataean-founded hill fort · Al-Jawf",
+"lat": 29.81,
+"lng": 39.87,
+"p": "Nabataean to Islamic",
+"dr": "1st century AD – 20th century",
+"el": "Four conical towers about 12 m tall",
+"ic": "wall",
+"era": "H",
+"t0": 2000,
+"t1": 100,
+"te": "The fortress that rebelled",
+"ta": "القلعة التي تمرّدت",
+"se": "A hill fort on Nabataean foundations that Queen Zenobia of Palmyra could not take",
+"sa": "حصن على تلة بأسس نبطية عجزت الملكة زنوبيا التدمرية عن اقتحامه",
+"desc": "A fortress on a hill about 620 m above sea level overlooking the oasis of Dumat al-Jandal, 50 km from Sakaka. Excavations in 1976 and by Khaleel al-Moaqil in 1986 found Nabataean and Roman pottery of the 1st–2nd centuries AD, placing its foundations in the Nabataean period. The medieval geographer Yaqut recorded the siege by Zenobia of Palmyra in the 3rd century AD, who could not take it. It has two storeys, stone below and mud brick above, four conical towers about 12 m high and two wells; it was damaged by cannon in 1853, besieged for ten months in 1909, and restored in 1995–2003 and again from 2018.",
+"sig": "One of the few forts in Arabia with a documented history running from the Nabataeans to the 20th century.",
+"ex": "Saudi Department of Antiquities (1976); K. I. al-Moaqil (1986); Saudi-Italian-French mission at Dumat al-Jandal; Saudi Commission for Tourism and National Heritage",
+"disc": [
+"Nabataean-Roman pottery of the 1st–2nd centuries AD",
+"Besieged by Zenobia in the 3rd century"
+],
+"refs": [
+"Wikipedia contributors (2026). Marid Castle, citing Saudipedia and Ministry of Culture (France), Archéologie: Dûmat al-Jandal.",
+"Saudipedia (Ministry of Media, Saudi Arabia). Marid Castle."
+]
+},
+{
+"id": "rajajil-columns",
+"n": "Columns of Rajajil",
+"na": "أعمدة الرجاجيل",
+"c": "archaeological",
+"s": "Chalcolithic standing stones · Sakaka",
+"lat": 29.8125,
+"lng": 40.22,
+"p": "Chalcolithic (Copper Age)",
+"dr": "4th millennium BC",
+"el": "54 groups of pillars up to 3 m tall",
+"ic": "platform",
+"era": "P",
+"t0": 6000,
+"t1": 5000,
+"te": "The stone men of Al-Jawf",
+"ta": "رجال الجوف الحجرية",
+"se": "Fifty-four clusters of sandstone pillars raised 6,000 years ago, called \"the men\" because they look like a crowd from afar",
+"sa": "أربع وخمسون مجموعة من أعمدة الحجر الرملي أُقيمت قبل 6,000 عام، سُمّيت «الرجال» لأنها تبدو كحشد من بعيد",
+"desc": "Fifty-four groups of trimmed sandstone pillars, each group of 2 to 19 stones and the tallest about 3 m, in the Qara suburb south-east of Sakaka. Excavated by the Saudi General Administration of Antiquities and Museums in 1975–1976, which found scrapers, awls, blades and pottery confirming a Copper Age date of about 6,000 years ago; later finds include obsidian, sandstone vessels and beads, and two wells of the fifth millennium BC drawing water from 4–5 m down. Some pillars carry later Thamudic inscriptions. Aerial imagery suggests a rough alignment to sunrise and sunset, and the current view is a complex of small sanctuaries on the Wadi Sirhan corridor.",
+"sig": "Among the oldest standing-stone monuments in Arabia, older than Stonehenge.",
+"ex": "Saudi General Administration of Antiquities and Museums (1975–1976); Saudi Heritage Commission",
+"disc": [
+"54 groups, 2–19 pillars each",
+"Fifth-millennium BC wells beside the stones"
+],
+"refs": [
+"Wikipedia contributors (2026). Columns of Rajajil, citing Harrison, R. (2011), Enigmatic standing stele of Al-Rajajil, Arab News, and Saudipedia.",
+"Saudipedia (Ministry of Media, Saudi Arabia). Columns of Rajajil."
+]
+},
+{
+"id": "al-ukhdood",
+"n": "Al-Ukhdood (Najran)",
+"na": "الأخدود (نجران)",
+"c": "archaeological",
+"s": "Walled caravan city of Najran · excavated since 1979",
+"lat": 17.4773,
+"lng": 44.1793,
+"p": "Pre-Islamic South Arabian to early Islamic",
+"dr": "c. 500 BC – AD 620s",
+"el": "Granite inscription 2.3 m long",
+"ic": "caravan",
+"era": "H",
+"t0": 2500,
+"t1": 1400,
+"te": "The city of the ditch",
+"ta": "مدينة الأخدود",
+"se": "A fortified town on the incense road, remembered for the massacre of its Christians in the 520s",
+"sa": "بلدة محصّنة على طريق البخور، تُذكر بمذبحة مسيحييها في عشرينيات القرن السادس",
+"desc": "The oldest part of Najran, south-east of the modern city near Bir Hima, occupied from at least 500 BC; its largest structure is a fort of stone and mud brick of the 1st century BC. A stop on the frankincense and myrrh route, briefly held by the Roman prefect Gallus around 25 BC. In the 520s the Himyarite king Dhu Nuwas massacred the town's Christians, events alluded to in the Quranic chapter al-Buruj, from which the name 'the ditch' comes; residents moved to present-day Najran in the 620s. Excavated by the Saudi Ministry of Culture since 1979 and with CNRS from 2016; finds announced in 2023 include three gold rings, a bronze bull's head, Attic pottery of the 3rd century BC and a granite inscription 48 cm high and 2.3 m long.",
+"sig": "A place where South Arabian paganism, Christianity, Judaism and Islam all left traces within one walled town.",
+"ex": "Saudi Ministry of Culture / Heritage Commission (1979 onwards); CNRS (2016 onwards)",
+"disc": [
+"Three gold rings with butterfly motifs (2023)",
+"Attic pottery of the 3rd century BC"
+],
+"refs": [
+"Wikipedia contributors (2026). Al-Okhdood, citing Saudipedia, Saudi Heritage Authority and Bowersock, G. W. (2013), The Throne of Adulis.",
+"The National (21 Feb 2023). Rare pre-Islamic artefacts discovered in southern Saudi Arabia."
+]
+},
+{
+"id": "al-natah-khaybar",
+"n": "Al-Natah, Khaybar",
+"na": "النطاة، خيبر",
+"c": "archaeological",
+"s": "Bronze Age walled oasis town · found 2024",
+"lat": 25.69,
+"lng": 39.28,
+"p": "Early to Late Bronze Age",
+"dr": "c. 2400 – 1500 BC",
+"el": "2.6 ha town for about 500 people",
+"ic": "wall",
+"era": "P",
+"t0": 4400,
+"t1": 3400,
+"te": "A town hidden in the lava",
+"ta": "بلدة مخبّأة في الحَرّة",
+"se": "A 4,000-year-old town of 500 people inside a rampart-ringed oasis, found in 2024",
+"sa": "بلدة عمرها 4,000 عام سكنها 500 شخص داخل واحة محاطة بسور، اكتُشفت عام 2024",
+"desc": "A Bronze Age town of about 2.6 hectares in the Khaybar oasis, built around 2400–2000 BC and occupied until about 1500–1300 BC, with residential and funerary areas inside the fortifications and burials in stepped tower tombs. About 500 people lived there, grinding food, making and trading pottery, working metal, growing cereals and keeping animals. The find, published in PLOS ONE in 2024 by Guillaume Charloux's Khaybar Longue Durée project (CNRS with the Royal Commission for AlUla and AFALULA), suggests settled town life began in the oasis in the second half of the third millennium BC, when the region was thought to be purely pastoral.",
+"sig": "The first Bronze Age town found in north-west Arabia, pushing back the start of urban life there by a thousand years.",
+"ex": "Khaybar Longue Durée Archaeological Project (G. Charloux, CNRS; M. Almushawh, RCU), sponsored by the Royal Commission for AlUla and AFALULA",
+"disc": [
+"Published in PLOS ONE, 2024",
+"Stepped tower tombs inside the ramparts"
+],
+"refs": [
+"Charloux, G. et al. (2024). A Bronze Age town in the Khaybar walled oasis: debating early urbanization in Northwestern Arabia. PLOS ONE 19(10), e0309963.",
+"Royal Commission for AlUla press release (Nov 2024). Archaeologists discover Bronze Age town buried in northwest Arabia.",
+"Wikipedia contributors (2026). Al-Natah."
+]
+},
+{
+"id": "al-rabadha",
+"n": "Al-Rabadha",
+"na": "الربذة",
+"c": "archaeological",
+"s": "Abbasid pilgrim station on Darb Zubaydah · King Saud University excavations",
+"lat": 24.63,
+"lng": 41.3,
+"p": "Early Islamic (Rashidun to Abbasid)",
+"dr": "7th – 9th century AD",
+"el": "Palace of 13 rooms around a courtyard",
+"ic": "caravan",
+"era": "H",
+"t0": 1400,
+"t1": 1100,
+"te": "A station on the road to Mecca",
+"ta": "محطة على درب الحج",
+"se": "A pasture reserve of the early caliphs that grew into an Abbasid town on the Kufa–Mecca pilgrim road",
+"sa": "حِمى من عهد الخلفاء الراشدين نما ليصبح بلدة عباسية على درب الحج بين الكوفة ومكة",
+"desc": "A settlement about 200 km north-east of Medina that began as a pasture reserve (hima) under the first caliphs, grew into a town in the Umayyad period and peaked in the early Abbasid era of the 3rd century AH (9th century AD) as a major station on Darb Zubaydah, the pilgrim road from Kufa to Mecca. The companion Abu Dharr al-Ghifari spent his last years and died here. Excavations by King Saud University revealed fortified residential quarters, palaces, two mosques, an industrial area with a glass furnace, a circular reservoir and many domestic water tanks; the main palace has 13 rooms opening onto a central courtyard, and houses were of sun-dried mud brick on stone foundations. Finds include pottery, coins, inscriptions and jewellery.",
+"sig": "One of the best-excavated early Islamic towns in Arabia and a key to the archaeology of the pilgrim roads.",
+"ex": "King Saud University, Department of Archaeology (S. al-Rashid)",
+"disc": [
+"Glass-making furnace and two mosques",
+"Peak in the 9th century AD"
+],
+"refs": [
+"Al-Rashid, S. (1986). Al-Rabadhah: Portrait of Early Islamic Civilisation in Saudi Arabia. King Saud University, Riyadh.",
+"King Saud University Museum. Al-Rabadha (site description).",
+"Wikipedia contributors (2026). Al-Rabadha, citing Shaw, I. & Jameson, R., A Dictionary of Archaeology."
+]
+},
+{
+"id": "thee-ain-village",
+"n": "Thee Ain (Dhee Ayn) Marble Village",
+"na": "قرية ذي عين الأثرية",
+"c": "archaeological",
+"s": "Stone village on a white marble hill · Al-Baha",
+"lat": 19.7674,
+"lng": 41.4342,
+"p": "Islamic (Ottoman era)",
+"dr": "10th century AH / 16th century AD – present",
+"el": "49 stone houses of up to four storeys",
+"ic": "wall",
+"era": "H",
+"t0": 450,
+"t1": 0,
+"te": "A village on a white hill",
+"ta": "قرية فوق تلّ أبيض",
+"se": "Forty-nine stone houses stacked on a marble outcrop above a spring-fed valley",
+"sa": "تسع وأربعون بيتاً حجرياً تتراصّ فوق نتوء رخامي يعلو وادياً تغذيه عين ماء",
+"desc": "A village in the Al-Mikhwah district of Al-Baha, about 20 km south-west of Al-Makhwah, established in the 10th century AH (16th century AD) and named after the water that flows from the mountains beside it. It has 49 houses, 9 of one storey, 19 of two, 11 of three and 10 of four, with a mosque by the stream; a historical source reports high-quality marble in the area. The Saudi Tourism Authority allocated 16 million riyals to a three-phase, five-year rehabilitation that reopened the mosque and turned buildings into a museum and visitor centre. It is on UNESCO's tentative list as 'Zee Ain Heritage Village in Al-Baha Region'.",
+"sig": "The most striking example of the stone-tower villages of the Sarawat, set on a hill of white rock.",
+"ex": "Saudi Tourism Authority / Ministry of Culture rehabilitation project",
+"disc": [
+"Houses of one to four storeys on a marble outcrop",
+"On the UNESCO tentative list"
+],
+"refs": [
+"Wikipedia contributors (2026). Thee Ain, citing UNESCO tentative list entry and Al-Sughair, S. (2015), Arab News.",
+"UNESCO World Heritage Centre. Zee Ain Heritage Village in Al-Baha Region (tentative list)."
+]
+},
+{
+"id": "rijal-almaa",
+"n": "Rijal Almaa",
+"na": "رجال ألمع",
+"c": "archaeological",
+"s": "Stone-tower village of Asir · UNESCO tentative list",
+"lat": 18.2125,
+"lng": 42.2736,
+"p": "Islamic (medieval to 20th century)",
+"dr": "12th century AD – present",
+"el": "About 60 palaces of up to eight floors",
+"ic": "wall",
+"era": "H",
+"t0": 900,
+"t1": 0,
+"te": "Towers of stone and colour",
+"ta": "أبراج من حجر ولون",
+"se": "Sixty stone, clay and wood palaces, their rooms painted in Al-Qatt patterns, on the old road from Yemen",
+"sa": "ستون قصراً من الحجر والطين والخشب، زُيّنت غرفها بنقوش القطّ، على الطريق القديم من اليمن",
+"desc": "A village about 45–50 km west of Abha with around 60 multi-storey buildings of natural stone, clay and wood, some reaching eight floors, with coloured wooden windows and interior walls painted in the Al-Qatt style. Mentioned as a civic centre in 550 AH (1155 AD) and as capital of the Hilli emirate in 730 AH (1329 AD), it linked Yemen and the Levant through Mecca and Medina. Al Al-wan Palace, more than four centuries old, houses a heritage museum opened in 1987 with over 2,000 objects. Rehabilitated from 2015 with the private sector, awarded the Prince Sultan bin Salman Prize for Urban Heritage in 2017, and submitted to UNESCO's tentative list on 8 April 2015 under criteria (iv) and (v).",
+"sig": "The finest surviving ensemble of Asir's stone-tower architecture and painted interiors.",
+"ex": "Saudi Commission for Tourism and National Heritage; Rijal Almaa Heritage Museum",
+"disc": [
+"Al-Qatt painted interiors",
+"Tentative list since 2015"
+],
+"refs": [
+"UNESCO World Heritage Centre. Rijal Almaa Heritage Village in Assir Region (tentative list, submitted 8 April 2015).",
+"Wikipedia contributors (2026). Rijal Almaa, citing Reuters (2016) and Arab News (2018, 2023)."
+]
+},
+{
+"id": "shuwayhitiyah",
+"n": "Ash-Shuwayhitiyah Palaeolithic Site",
+"na": "موقع الشويحطية الأثري",
+"c": "archaeological",
+"s": "Oldest stone-tool site in Saudi Arabia · Al-Jawf",
+"lat": 30.25,
+"lng": 39.87,
+"p": "Lower Palaeolithic (Developed Oldowan)",
+"dr": "More than 1 million years ago",
+"el": "1,517 quartzite tools in 16 concentrations",
+"ic": "trench",
+"era": "P",
+"t0": 1300000,
+"t1": 1000000,
+"te": "The first toolmakers of Arabia",
+"ta": "أوائل صانعي الأدوات في الجزيرة",
+"se": "Choppers and spheroids of quartzite left by early humans over a million years ago",
+"sa": "فؤوس وأحجار كروية من الكوارتزيت تركها إنسان قديم قبل أكثر من مليون عام",
+"desc": "A broad canyon about 45 km north-west of Sakaka where a joint American-Saudi team recorded, in 1985, a horseshoe-shaped site almost 5 km long with 16 artefact concentrations spaced 200–350 m apart. It yielded 1,517 quartzite choppers, polyhedrons, spheroids and discoids of the Developed Oldowan tradition first defined at Olduvai Gorge, dated to more than one million years ago, the oldest found in Saudi Arabia. The site had been discovered in 1977 under the Comprehensive Archaeological Survey Program; Saudipedia records 17 settlements and 1,884 tools in all, some linked to about 1.3 million years ago, and later rock art of camels and ibex on a nearby hill.",
+"sig": "The earliest evidence of human presence in Saudi Arabia.",
+"ex": "Comprehensive Archaeological Survey Program (1977); American-Saudi survey (N. Whalen, 1985); Heritage Commission survey (2018)",
+"disc": [
+"Developed Oldowan choppers and spheroids",
+"Site almost 5 km long"
+],
+"refs": [
+"Whalen, N. M. & Pease, D. W. (1992). Early Mankind in Arabia. Aramco World 43(4).",
+"Saudipedia (Ministry of Media, Saudi Arabia). Ash-Shuwayhitiyah Archaeological Site."
+]
+},
+{
+"id": "harrat-khaybar-white-volcanoes",
+"n": "White Volcanoes of Harrat Khaybar",
+"na": "براكين خيبر البيضاء",
+"c": "geological",
+"s": "Jabal Abyad, Jabal Bayda and Jabal Qidr · active lava field",
+"lat": 25.6,
+"lng": 39.9,
+"p": "Quaternary volcanism",
+"dr": "Last 5 million years; last eruption 7th century AD",
+"el": "Jabal Bayda crater 1,400 m across",
+"ic": "flame",
+"era": "D",
+"t0": 5000000,
+"t1": 1350,
+"te": "Black and white volcanoes",
+"ta": "براكين سوداء وبيضاء",
+"se": "A pale rhyolite dome and tuff cone beside a black stratovolcano, in a 14,000 km² lava field",
+"sa": "قبة ريوليتية شاحبة ومخروط رمادي إلى جوار بركان أسود، في حقل حمم مساحته 14,000 كم²",
+"desc": "Harrat Khaybar covers about 14,000 km² of western Saudi Arabia, built by eruptions over the past 5 million years along a 100 km north-south vent system; eight lava flows are younger than 1,500 years and the last reported eruption was in the 7th century. At its heart stand three young vents: Jabal Qidr, a basaltic stratovolcano with a 400 m summit crater and the only stratovolcano in the western harrats; Jabal Abyad, a dome of thick silica-rich rhyolitic lava rising above 2,090 m, the highest point of the harrats; and Jabal Bayda, a tuff cone with a crater about 1,400 m wide formed when magma met groundwater. The white colour comes from ash of comenditic lavas; 'abyad' and 'bayda' both mean white.",
+"sig": "The clearest place in Arabia to see black basalt and white silica-rich volcanoes side by side.",
+"ex": "NASA Earth Observatory (Landsat 9, 2024); Saudi Geological Survey",
+"disc": [
+"Eight lava flows under 1,500 years old",
+"Only stratovolcano in the western harrats"
+],
+"refs": [
+"NASA Earth Observatory (22 May 2024). White and Black Volcanoes of Saudi Arabia.",
+"Smithsonian Institution Global Volcanism Program. Harrat Khaybar."
+]
+},
+{
+"id": "harrat-lunayyir-2009",
+"n": "Harrat Lunayyir 2009 Dyke Intrusion",
+"na": "حرة لونير وزلازل 2009",
+"c": "geological",
+"s": "Earthquake swarm and surface rupture · Nature Geoscience 2010",
+"lat": 25.17,
+"lng": 37.75,
+"p": "Red Sea rifting, Neogene to present",
+"dr": "Lava field of the last 30 million years; crisis April – June 2009",
+"el": "8 km rupture with 91 cm offset",
+"ic": "quake",
+"era": "D",
+"t0": 30000000,
+"t1": 17,
+"te": "The ground that split in 2009",
+"ta": "الأرض التي انشقّت عام 2009",
+"se": "More than 30,000 earthquakes and a 10 km dyke that nearly reached the surface forced 30,000 people from their homes",
+"sa": "أكثر من 30,000 زلزال وقاطع صخري بطول 10 كم كاد يبلغ السطح أجبر 30,000 شخص على مغادرة منازلهم",
+"desc": "A lava field in north-west Saudi Arabia, one of the harrats formed along the Red Sea over the past 30 million years. From April to June 2009 a swarm of more than 30,000 earthquakes, six of them magnitude 4.6 to 5.7 at the peak of 17–20 May, accompanied the intrusion of a near-vertical north-west-trending dyke about 10 km long that almost reached the surface. Radar interferometry showed over 1 m of east-west extension across a 40 km × 40 km area and more than 40 cm of uplift, with an 8 km surface rupture of 91 cm offset. Saudi civil protection evacuated more than 30,000 people. The Nature Geoscience study concluded that rift margins stay active sites of extension, not only the central Red Sea axis.",
+"sig": "The best-recorded magma intrusion in Arabia, proving the Red Sea margin is still pulling apart.",
+"ex": "Saudi Geological Survey; US Geological Survey (J. Pallister et al.); KAUST (S. Jónsson)",
+"disc": [
+"Six quakes of M4.6–5.7 in four days",
+"Dyke 10 km long, extension over 1 m"
+],
+"refs": [
+"Pallister, J. S. et al. (2010). Broad accommodation of rift-related extension recorded by dyke intrusion in Saudi Arabia. Nature Geoscience 3, 705–712.",
+"Jónsson, S. (2011). The 2009 earthquake crisis and dike intrusion in western Saudi Arabia. Earthquake Research Institute, University of Tokyo seminar."
+]
+},
+{
+"id": "jabal-al-qarah-caves",
+"n": "Jabal Al-Qarah Caves",
+"na": "كهوف جبل القارة",
+"c": "geological",
+"s": "Joint-controlled canyons in the Hofuf Formation · Al-Ahsa",
+"lat": 25.41,
+"lng": 49.67,
+"p": "Upper Miocene – Lower Pliocene (Hofuf Formation)",
+"dr": "c. 11 – 3.6 million years ago",
+"el": "Boxwork of linear passages, cool all year",
+"ic": "cliff",
+"era": "D",
+"t0": 11000000,
+"t1": 3600000,
+"te": "A mountain of cool corridors",
+"ta": "جبل الممرات الباردة",
+"se": "Deep fissures in soft sandstone and marl widened into tall passages that stay cool in summer",
+"sa": "شقوق عميقة في حجر رملي ومارل لين اتسعت إلى ممرات عالية تبقى باردة في الصيف",
+"desc": "An outlier mesa about 13 km east of Hofuf at the eastern edge of the Shedgum Plateau, cut into calcareous sandstone, marl and clay of the Upper Miocene to Lower Pliocene Hofuf Formation. A 2006 study in the Journal of Cave and Karst Studies found that its tall, linear passages and narrow canyons formed by erosional enlargement of very deep, narrow joint-controlled fissures, the best-developed boxwork of its kind in the Eastern Province. The caves stay much cooler than the air outside with an almost constant temperature, and were used to store grain and shelter travellers. The mountain is part of the Al-Ahsa Oasis cultural landscape inscribed by UNESCO in 2018.",
+"sig": "A rare example of caves made by joints and weathering rather than by dissolving limestone.",
+"ex": "King Fahd University of Petroleum and Minerals (M. Hussain, F. Al-Khalifah); Al-Ahsa Municipality",
+"disc": [
+"Joint-controlled fissures, not karst",
+"Part of the 2018 World Heritage oasis"
+],
+"refs": [
+"Hussain, M., Al-Khalifah, F. & Khandaker, N. I. (2006). The Jabal Al Qarah caves of the Hofuf area, northeastern Saudi Arabia: a geological investigation. Journal of Cave and Karst Studies 68(1), 12–21.",
+"Arab News (2025). A story of stone: how Jabal Al-Qarah shapes the soul of Hofuf."
+]
+},
+{
+"id": "ain-heet-cave",
+"n": "Ain Heet Cave",
+"na": "كهف عين هيت",
+"c": "geological",
+"s": "Anhydrite sinkhole with an underground lake · Al-Kharj",
+"lat": 24.4861,
+"lng": 46.9972,
+"p": "Limestone and anhydrite karst",
+"dr": "Surveyed 1938; lake 120 m below the surface",
+"el": "Entrance 74 m wide, cave 180–200 m deep",
+"ic": "sinkhole",
+"era": "D",
+"t0": 150000000,
+"t1": 0,
+"te": "A lake under the desert",
+"ta": "بحيرة تحت الصحراء",
+"se": "A collapse cave where the first anhydrite in the kingdom was identified and a cold lake lies 120 m down",
+"sa": "كهف انهياري تعرّف فيه الجيولوجيون على أول أنهيدريت في المملكة، وتقبع فيه بحيرة باردة على عمق 120 م",
+"desc": "A solutional cave about 30–40 km south-east of Riyadh near Al-Kharj, in a hill of limestone and anhydrite. Its entrance is about 74 m wide and the cave descends 180–200 m on a widening slope to an underground lake about 120 m below the surface, an opening into a vast groundwater reservoir whose water was once drawn by caravans. Geologists came at the invitation of King Abdulaziz for the first surface exploration of anhydrite rock in Saudi Arabia, in 1938 according to Wikipedia; Swedish divers later tracked its water-filled passages. It is one of 1,826 caves recorded across the kingdom and is listed by the Quality of Life programme among the top fourteen landmarks of Riyadh Province, though rockfalls make the descent dangerous.",
+"sig": "The most accessible window into the great aquifer beneath central Arabia.",
+"ex": "Saudi Geological Survey; Quality of Life Program (Vision 2030)",
+"disc": [
+"First anhydrite identified in Saudi Arabia",
+"Underground lake 120 m down"
+],
+"refs": [
+"Saudipedia (Ministry of Media, Saudi Arabia). Ain Heet Cave.",
+"Wikipedia contributors (2026). Ein Heet Cave."
+]
+},
+{
+"id": "ghawar-field",
+"n": "Ghawar Oil Field (Ain Dar discovery)",
+"na": "حقل الغوار (اكتشاف عين دار)",
+"c": "geological",
+"s": "Largest conventional oil field on Earth · discovered 1948",
+"lat": 25.95,
+"lng": 49.28,
+"p": "Upper Jurassic Arab-D reservoir",
+"dr": "Reservoir c. 150 million years old; produced since 1951",
+"el": "280 km long, about 30 km wide",
+"ic": "oil",
+"era": "D",
+"t0": 150000000,
+"t1": 78,
+"te": "The king of giant fields",
+"ta": "ملك الحقول العملاقة",
+"se": "An anticline 280 km long whose Jurassic carbonates have yielded more than 60 billion barrels",
+"sa": "طيّة محدّبة بطول 280 كم أنتجت كربوناتها الجوراسية أكثر من 60 مليار برميل",
+"desc": "Discovered in 1948 with the Ain Dar test well about 200 km east of Riyadh, the first post-war find in the country, followed by Haradh (1949), Uthmaniyah (1951), Shedgum (1952) and Hawiyah (1953). The field follows the En Nala anticline, trending N15°E on a basement horst, about 280 km long and 30 km wide with a productive area of about 2,800 km². The main reservoir is the Upper Jurassic Arab-D carbonate, with an oil column of 396 m, average porosity about 15% and oil of 30–34° API, sealed by 30–100 m of anhydrite and sourced from the Hanifa and Tuwaiq formations. Production began in 1951 at 126,000 barrels a day, peaked at 5.7 million in 1981, and cumulative output reached 66 billion barrels by 2007.",
+"sig": "No other single structure has supplied so much of the world's oil.",
+"ex": "Aramco (Saudi Aramco) exploration and production",
+"disc": [
+"Ain Dar well struck oil in 1948",
+"Peak 5.7 million barrels a day in 1981"
+],
+"refs": [
+"GEO ExPro. The King of Giant Fields (Ghawar, Saudi Arabia).",
+"Afifi, A. M. (2004). Ghawar: the anatomy of the world's largest oil field. AAPG Search and Discovery."
+]
+},
+{
+"id": "jabal-al-lawz",
+"n": "Jabal al-Lawz",
+"na": "جبل اللوز",
+"c": "geological",
+"s": "Granite peak of the Midian mountains · snow most winters",
+"lat": 28.654,
+"lng": 35.304,
+"p": "Arabian Shield granite",
+"dr": "Rock art said to be c. 10,000 BC; snow every winter",
+"el": "2,549 – 2,580 m high",
+"ic": "cliff",
+"era": "D",
+"t0": 600000000,
+"t1": 0,
+"te": "The almond mountain of snow",
+"ta": "جبل اللوز حيث يسقط الثلج",
+"se": "A light granite peak above the Gulf of Aqaba, highest in Midian, dusted with snow almost every winter",
+"sa": "قمة من الغرانيت الفاتح تعلو خليج العقبة، الأعلى في جبال مدين، يكسوها الثلج كل شتاء تقريباً",
+"desc": "The highest peak of the Midian mountains in Tabuk Province, about 200 km north-west of Tabuk and north-east of Al-Bad', rising to 2,549 m (Saudipedia) or 2,556–2,580 m (Wikipedia) with a prominence of about 1,600 m. The peak is a light-coloured calc-alkaline granite cut by east-trending rhyolite and andesite dykes, mapped by Brown, Johnson and Trent for the Directorate General of Mineral Resources in 1967, and is surrounded mostly by sandy terrain; valleys drain to Wadi Afal, Wadi Reem and Wadi al-Abyad. It receives snow almost every winter, has rock drawings, ancient inscriptions and Islamic writings, and is named after its almond trees. The range lies within the NEOM area.",
+"sig": "One of the few places in Arabia where snow falls regularly, on some of the peninsula's oldest rock.",
+"ex": "Directorate General of Mineral Resources geological mapping (1967); Saudi Geological Survey",
+"disc": [
+"Granite with rhyolite and andesite dykes",
+"Snow nearly every winter"
+],
+"refs": [
+"Saudipedia (Ministry of Media, Saudi Arabia). Jabal al-Lawz.",
+"Wikipedia contributors (2026). Jabal al-Lawz, citing Brown, G. F., Johnson, R. F. & Trent, V. A. (1967), Geologic map of the Jabal al Lawz quadrangle, DGMR."
+]
+},
+{
+"id": "elephant-rock-alula",
+"n": "Elephant Rock (Jabal AlFil)",
+"na": "جبل الفيل",
+"c": "geological",
+"s": "Wind-carved sandstone monolith · AlUla",
+"lat": 26.6892,
+"lng": 37.9816,
+"p": "Cambrian – Ordovician sandstone",
+"dr": "Rock 540 – 485 million years old; uplifted 30 million years ago",
+"el": "52 m high",
+"ic": "cliff",
+"era": "D",
+"t0": 540000000,
+"t1": 30000000,
+"te": "An elephant made of sand",
+"ta": "فيل من الحجر الرملي",
+"se": "A 52 m sandstone outcrop sculpted by rain, wind and sand into the shape of an elephant",
+"sa": "نتوء من الحجر الرملي بارتفاع 52 م نحتته الأمطار والرياح والرمال على هيئة فيل",
+"desc": "A sandstone monolith 52 m high at AlUla in north-west Saudi Arabia, eroded by rain, wind and blown sand over millions of years into the form of an elephant with its trunk touching the ground. The AlUla sandstones were laid down about 540–485 million years ago and uplifted about 30 million years ago when the Red Sea began to open, according to the Royal Commission for AlUla's geology notes. It is the best-known of the sandstone outcrops of the AlUla valley and a centre of night-sky tourism since the region's dark-sky park opened in 2024.",
+"sig": "The most photographed rock in Saudi Arabia and a textbook example of differential erosion.",
+"ex": "Royal Commission for AlUla",
+"disc": [
+"Sandstone 540–485 million years old",
+"Uplift when the Red Sea opened"
+],
+"refs": [
+"Wikipedia contributors (2026). Elephant Rock (Saudi Arabia), citing BBC Travel (2024) and Royal Commission for AlUla, Geology of AlUla.",
+"Royal Commission for AlUla. AlUla Geology Booklet."
+]
+},
+{
+"id": "wadi-al-disah",
+"n": "Wadi Al Disah",
+"na": "وادي الديسة",
+"c": "geological",
+"s": "Sandstone canyon with year-round springs · Tabuk",
+"lat": 27.6311,
+"lng": 36.5494,
+"p": "Sandstone canyon",
+"dr": "Canyon of about 18 km; tentative list since 2023",
+"el": "Cliffs up to 500 m",
+"ic": "river",
+"era": "D",
+"t0": 500000000,
+"t1": 0,
+"te": "The valley of palms",
+"ta": "وادي النخيل",
+"se": "Red sandstone columns and cliffs up to 500 m frame a stream that flows all year through palms and oleander",
+"sa": "أعمدة وجروف من الحجر الرملي الأحمر يصل ارتفاعها إلى 500 م تحيط بجدول يجري طوال العام بين النخيل والدفلى",
+"desc": "A valley in south-west Tabuk Province, about 220 km from Tabuk, running about 125 km from north-east to south-west towards the Red Sea, with a linear canyon section of about 18 km through red sandstone columns and cliffs up to 500 m high shaped by water and wind. Freshwater springs flow all year, supporting palms, citrus, jujube, mint, papyrus, oleander and sedge. The canyon holds Nabataean rock-cut tomb facades and early Arabic inscriptions, and lies north-west of the Prince Mohammed bin Salman Nature Reserve. A 2025 Geoheritage study rated it a geomorphosite of high scientific value, and it has been on UNESCO's tentative list since 2023 as part of the 'Bioclimatic Refugia of Western Arabia'.",
+"sig": "A living canyon where water, rock and Nabataean history meet in one of the driest regions on Earth.",
+"ex": "KFUPM geoheritage study (S. Sen, F. S. Al-Ismail et al., 2025); Public Investment Fund tourism project",
+"disc": [
+"Springs that flow all year",
+"Nabataean tombs cut into the canyon walls"
+],
+"refs": [
+"Sen, S. et al. (2025). Geomorphosite assessment of Wadi Al Disha: from the perspective of geotourism development in a canyon. Geoheritage 17(4), 135.",
+"Wikipedia contributors (2026). Wadi Al Disah, citing UNESCO, Bioclimatic Refugia of Western Arabia (tentative list) and Arab News."
+]
+},
+{
+"id": "ain-al-harrah-lith",
+"n": "Ain Al-Harrah Hot Spring, Al-Lith",
+"na": "عين الحارّة، الليث",
+"c": "geological",
+"s": "Hottest spring of the Red Sea coast · geothermal field",
+"lat": 20.45,
+"lng": 40.45,
+"p": "Red Sea rift geothermal system",
+"dr": "Rift heat of the last 30 million years; studied 2024",
+"el": "Water at 56 – 81 °C",
+"ic": "steam",
+"era": "D",
+"t0": 30000000,
+"t1": 0,
+"te": "Rain that comes back boiling",
+"ta": "مطر يعود غالياً",
+"se": "Rainwater that sinks along rift fractures and returns at up to 81 °C from a reservoir of 150–205 °C",
+"sa": "مياه أمطار تغور عبر صدوع الأخدود وتعود بحرارة تصل إلى 81 درجة من خزان حرارته 150–205 درجات",
+"desc": "The hottest of four hot springs in the Al-Lith area of western Saudi Arabia, discharging water at 56–81 °C. A 2024 study in ACS Omega found the water to be of meteoric origin (rainwater), moderately alkaline sodium-bicarbonate type with 1,830–2,055 mg/L dissolved solids, and estimated a reservoir temperature of 150–205 °C from Na-K-Ca, K/Mg and quartz geothermometers, a medium-to-high-enthalpy system linked to Red Sea rifting. Magnetotelluric soundings published in 2024 imaged a fracture zone carrying fluids to the surface and a conductive body below 3.5 km interpreted as the heat source. The spring is also a local bathing destination.",
+"sig": "Saudi Arabia's best-studied geothermal prospect, where the Red Sea rift heats the ground within reach of a drill.",
+"ex": "King Fahd University of Petroleum and Minerals (P. Soupios, J. Rafiq, A. L. Ashadi); University of Cologne",
+"disc": [
+"Reservoir estimated at 150–205 °C",
+"Heat source below 3.5 km"
+],
+"refs": [
+"Rafiq, J. et al. (2024). Hydrochemical characterization, geothermometry and origin of Ain Al-Harrah hot spring, Al-Lith, Saudi Arabia. ACS Omega 9(23), 24807–24818.",
+"Ashadi, A. L. et al. (2024). Magnetotelluric case study from Ain Al-Harrah hot spring, Al-Lith, Saudi Arabia. Arabian Journal for Science and Engineering 49(1), 899–912."
+]
+},
+{
+"id": "mahazat-as-sayd",
+"n": "Mahazat as-Sayd Protected Area",
+"na": "محمية محازة الصيد",
+"c": "ecology",
+"s": "Fenced reintroduction reserve for oryx and ostrich · since 1988",
+"lat": 22.25,
+"lng": 41.8,
+"p": "Protected since 1988",
+"dr": "1988 – present",
+"el": "220 km of fence around 2,244 km²",
+"ic": "gazelle",
+"era": "N",
+"t0": 38,
+"t1": 0,
+"te": "A fence around a second chance",
+"ta": "سياج حول فرصة ثانية",
+"se": "The largest fenced reserve in the kingdom, built to bring back the Arabian oryx, sand gazelle, houbara and ostrich",
+"sa": "أكبر محمية مسيّجة في المملكة، أُنشئت لإعادة المها العربي وغزال الريم والحبارى والنعام",
+"desc": "A reserve of 2,244 km² on the arid plains 170 km north-east of Taif, protected since 1988 and fully enclosed by about 220 km of 2.1 m chain-link fence completed by March 1989. It was set aside mainly as a reintroduction site for the Arabian oryx, Arabian sand (reem) gazelle, Macqueen's bustard (houbara) and the North African red-necked ostrich, released from captive breeding. Wikipedia gives the area as 220,000 ha. It is listed by BirdLife as an Important Bird Area and managed by the National Center for Wildlife (formerly the Saudi Wildlife Authority).",
+"sig": "The site where the Arabian oryx first returned to the wild in Saudi Arabia.",
+"ex": "National Center for Wildlife (formerly NCWCD / Saudi Wildlife Authority); King Khalid Wildlife Research Centre breeding programme",
+"disc": [
+"Fenced 2,244 km² reserve",
+"Oryx, gazelle, houbara and ostrich reintroduced"
+],
+"refs": [
+"Wikipedia contributors (2026). Mahazat as-Sayd Protected Area.",
+"Birds of Saudi Arabia (2020). Mahazat as-Sayd Protected Area.",
+"BirdLife International / Key Biodiversity Areas. Mahazat as-Sayd (site 8271)."
+]
+},
+{
+"id": "ibex-reserve",
+"n": "Ibex Reserve (Hawtat Bani Tamim)",
+"na": "محمية الوعول (حوطة بني تميم)",
+"c": "ecology",
+"s": "Nubian ibex canyons of the Tuwaiq escarpment · since 1988",
+"lat": 23.4,
+"lng": 46.45,
+"p": "Protected since 1988",
+"dr": "1988 – present",
+"el": "1,841 km² of plateau and canyon",
+"ic": "gazelle",
+"era": "N",
+"t0": 38,
+"t1": 0,
+"te": "Lords of the sandstone canyons",
+"ta": "سادة الأودية الصخرية",
+"se": "A rugged plateau of the Tuwaiq range where ibex recovered from a few dozen to more than 300",
+"sa": "هضبة وعرة في جبال طويق تعافت فيها الوعول من بضع عشرات إلى أكثر من 300",
+"desc": "A reserve of 1,840.9 km² about 180 km south of Riyadh, between Al-Hariq and Hawtat Bani Tamim, covering a rugged plateau of the Tuwaiq mountain range cut by wadis and ravines, with western edges reaching 1,097 m. Declared a special ibex reserve in 1988 by the National Commission for Wildlife Conservation and Development after local villagers had informally kept grazing out of the central canyons; a 1995 Aramco World account by Khushal Habibi reported ibex rising from a few dozen to more than 300 after the hunting ban. Arabian gazelles were relocated here in 1990 and thrived. Acacia, Ziziphus and Haloxylon grow in the valleys.",
+"sig": "The place where the Nubian ibex was pulled back from the edge in central Arabia.",
+"ex": "National Commission for Wildlife Conservation and Development (1988); National Center for Wildlife supervisory council (2024)",
+"disc": [
+"Ibex up from a few dozen to more than 300",
+"Arabian gazelles released 1990"
+],
+"refs": [
+"Habibi, K. (1995). Lords of the Sandstone Canyons. Aramco World 46(5).",
+"Saudipedia (Ministry of Media, Saudi Arabia). The Ibex Reserve."
+]
+},
+{
+"id": "umm-al-qamari-islands",
+"n": "Umm al-Qamari Islands",
+"na": "جزر أم القماري",
+"c": "ecology",
+"s": "Seabird and dove islands · first protected area in the kingdom",
+"lat": 19.07,
+"lng": 41.08,
+"p": "Protected since 1977",
+"dr": "1977 – present",
+"el": "Two islands, 4.03 km²",
+"ic": "bird",
+"era": "N",
+"t0": 49,
+"t1": 0,
+"te": "Islands of the doves",
+"ta": "جزر القماري",
+"se": "Two coral islets off Al-Qunfudhah where doves, egrets, pelicans and ospreys breed over living reefs",
+"sa": "جزيرتان مرجانيتان قبالة القنفذة يتكاثر فيها القماري والبلشون والبجع والعقاب النسّاري فوق شعاب حيّة",
+"desc": "Two small islands, Umm al-Qamari al-Braniah and al-Fuqaniah, south-west of Al-Qunfudhah on the Red Sea coast, with a reported area of 4.03 km² in the World Database on Protected Areas. Listed as a protected area in 1977, they are described as the first protected area in Saudi Arabia (Saudipedia gives 1988 for the reserve's formal establishment). They are named after the turtle doves that gather on them in migration, and host collared doves, herons and egrets, pelicans, gulls and osprey; the reefs around the outer island are diverse and mostly living, and the vegetation includes Salvadora persica and Suaeda. Managed by the National Center for Wildlife.",
+"sig": "The oldest protected area in Saudi Arabia and a key Red Sea seabird colony.",
+"ex": "National Center for Wildlife (formerly Saudi Wildlife Authority)",
+"disc": [
+"Protected since 1977",
+"Breeding doves, egrets, pelicans and osprey"
+],
+"refs": [
+"Wikipedia contributors (2026). Umm al-Qamari Islands, citing Protected Planet and IUCN/WCMC (1991), Protected Areas of the World.",
+"Saudipedia (Ministry of Media, Saudi Arabia). Umm al-Qamari Islands Reserve.",
+"Protected Planet (UNEP-WCMC). Umm al-Qamari Islands (WDPA 555624837)."
+]
+},
+{
+"id": "harrat-al-harrah",
+"n": "Harrat al-Harrah Protected Area",
+"na": "محمية حرة الحرة",
+"c": "ecology",
+"s": "Basalt plateau of wolves, hyenas and houbara · since 1987",
+"lat": 31.2,
+"lng": 38.4,
+"p": "Protected since 1987",
+"dr": "1987 – present",
+"el": "About 13,775 km² of black basalt",
+"ic": "gazelle",
+"era": "N",
+"t0": 39,
+"t1": 0,
+"te": "Life on the black stones",
+"ta": "حياة فوق الحجارة السوداء",
+"se": "A huge lava plateau in the far north where 22 mammal species, including wolf, hyena and caracal, were recorded",
+"sa": "هضبة بركانية شاسعة في أقصى الشمال سُجّل فيها 22 نوعاً من الثدييات، منها الذئب والضبع والوشق",
+"desc": "A volcanic plateau of black basalt in the far north of Saudi Arabia, with low volcanic hills between 800 and 1,150 m, covering about 13,775 km² (12,150 km² in the 1997 survey); one of the first reserves created by the Saudi wildlife authority, in 1987 (1986 in the survey). Surveys from 1991 to 1996 by Seddon, Van Heezik and Nader confirmed 22 mammal species including eight native carnivores, among them the Arabian wolf, striped hyena and caracal, as well as goitered gazelle, red fox, hare and jerboa. Birds include houbara bustard, golden eagle and nine species of lark, and the wadis carry Lycium, Tamarix and Calligonum.",
+"sig": "The largest of the kingdom's early reserves and its best stronghold for large desert carnivores.",
+"ex": "Saudi Wildlife Authority / NCWCD (1987); Seddon, Van Heezik & Nader mammal survey 1991–1996",
+"disc": [
+"22 mammal species, 8 native carnivores",
+"Basalt hills 800–1,150 m high"
+],
+"refs": [
+"Seddon, P. J., Van Heezik, Y. & Nader, I. A. (1997). Mammals of the Harrat al-Harrah Protected Area, Saudi Arabia. Zoology in the Middle East 14.",
+"Wikipedia contributors (2026). Horah Al-Horah Reserve, citing Abuzinada, A. H. (2003), Journal of Arid Environments 54."
+]
+},
+{
+"id": "king-khalid-royal-reserve",
+"n": "King Khalid Royal Reserve (Thumamah)",
+"na": "محمية الملك خالد الملكية (الثمامة)",
+"c": "ecology",
+"s": "Former royal farm turned wildlife reserve · Riyadh",
+"lat": 25.3194,
+"lng": 46.6861,
+"p": "Park since 1983, royal reserve since 2019",
+"dr": "1983 – present",
+"el": "About 720 km² with 148 bird species",
+"ic": "gazelle",
+"era": "N",
+"t0": 43,
+"t1": 0,
+"te": "A farm that became a wilderness",
+"ta": "مزرعة صارت برّية",
+"se": "King Khalid's farm north-east of Riyadh, a public park from 1983 and a royal reserve since 2019 where oryx and gazelle are released",
+"sa": "مزرعة الملك خالد شمال شرق الرياض، متنزه عام منذ 1983 ومحمية ملكية منذ 2019 يُطلق فيها المها والغزلان",
+"desc": "A reserve of about 720 km² in the Thumamah area north-east of Riyadh, beside King Khalid International Airport and some 80 km from downtown. It began as King Khalid's private farm; after his death in 1982 it was nationalised, opened as al-Thumamah Wildlife Park on 2 August 1983, and renamed King Khalid Royal Reserve by royal decree in October 2019. Saudipedia records about 195 plant species, 13 mammals, 148 birds and 26 reptiles. On 21 March 2022 the National Center for Wildlife released 20 Arabian oryx and 30 Arabian sand gazelles here, and the King Khalid Wildlife Research Center within the reserve breeds animals for release.",
+"sig": "The wildlife reserve closest to the capital and the home of its captive-breeding centre.",
+"ex": "Council of Royal Reserves; National Center for Wildlife; King Khalid Wildlife Research Center",
+"disc": [
+"20 oryx and 30 sand gazelles released 2022",
+"148 bird species recorded"
+],
+"refs": [
+"Saudipedia (Ministry of Media, Saudi Arabia). King Khalid Royal Reserve.",
+"Wikipedia contributors (2026). King Khalid Royal Reserve, citing Royal Commission for Riyadh City and SPA (2019)."
+]
+}
+]
+}

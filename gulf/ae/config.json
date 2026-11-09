@@ -1,0 +1,270 @@
+{
+ "cc": "ae",
+ "iso": "ARE",
+ "en": "the UAE",
+ "ar": "الإمارات",
+ "title_en": "Layers of the UAE",
+ "title_ar": "طبقات الإمارات",
+ "repo": "Layers-UAE",
+ "base": "https://smbehbehani-max.github.io/Layers-UAE/",
+ "lat0": 24.5,
+ "gstep": 0.5,
+ "pad": 0.1,
+ "padr": 0.15,
+ "bbox": [
+  51.4,
+  22.4,
+  56.6,
+  26.4
+ ],
+ "city": [
+  54.37,
+  24.45
+ ],
+ "labels": [
+  [
+   "gulf",
+   25.6,
+   53.3,
+   "wl",
+   14
+  ],
+  [
+   "gom",
+   25.5,
+   56.6,
+   "wl",
+   11
+  ],
+  [
+   "rub",
+   22.75,
+   54.6,
+   "ll",
+   11
+  ],
+  [
+   "hajar",
+   25.0,
+   56.05,
+   "ll",
+   9
+  ]
+ ],
+ "water": {
+  "en": {
+   "gulf": "Arabian Gulf",
+   "gom": "Gulf of Oman",
+   "rub": "Rub’ al Khali",
+   "hajar": "Hajar Mountains",
+   "city": "Abu Dhabi"
+  },
+  "ar": {
+   "gulf": "الخليج العربي",
+   "gom": "خليج عُمان",
+   "rub": "الربع الخالي",
+   "hajar": "جبال الحجر",
+   "city": "أبوظبي"
+  }
+ },
+ "pa_source_en": "Environment Agency – Abu Dhabi; emirate environment authorities; Ramsar; UNESCO",
+ "pa_source_ar": "هيئة البيئة – أبوظبي؛ هيئات البيئة في الإمارات؛ رامسار؛ اليونسكو",
+ "pa_auth_en": "the local environment authority",
+ "protected": [
+  {
+   "id": "pa-marawah",
+   "t": "m",
+   "en": "Marawah Marine Biosphere Reserve",
+   "ar": "محمية مروح البحرية",
+   "km": 4255,
+   "pt": [
+    53.3,
+    24.4
+   ]
+  },
+  {
+   "id": "pa-wathba",
+   "t": "r",
+   "en": "Al Wathba Wetland Reserve (Ramsar)",
+   "ar": "محمية الوثبة (رامسار)",
+   "km": 5,
+   "pt": [
+    54.75,
+    24.26
+   ]
+  },
+  {
+   "id": "pa-rak",
+   "t": "r",
+   "en": "Ras Al Khor Wildlife Sanctuary (Ramsar)",
+   "ar": "محمية رأس الخور (رامسار)",
+   "km": 6.2,
+   "pt": [
+    55.3219,
+    25.1917
+   ]
+  },
+  {
+   "id": "pa-kalba",
+   "t": "m",
+   "en": "Khor Kalba – Al Qurm Protected Area (Ramsar)",
+   "ar": "محمية القرم في خور كلباء (رامسار)",
+   "km": 15,
+   "pt": [
+    56.3625,
+    24.9981
+   ]
+  },
+  {
+   "id": "pa-wurayah",
+   "t": "r",
+   "en": "Wadi Wurayah National Park",
+   "ar": "حديقة وادي الوريعة الوطنية",
+   "km": 225,
+   "pt": [
+    56.25,
+    25.4
+   ]
+  },
+  {
+   "id": "u1",
+   "t": "u",
+   "en": "Cultural Sites of Al Ain (World Heritage, 2011)",
+   "ar": "مواقع العين الثقافية (تراث عالمي، 2011)",
+   "pt": [
+    55.78,
+    24.2
+   ],
+   "rx": 6,
+   "ry": 6,
+   "note": {
+    "en": "17 locations inscribed in 2011: Hafit tombs, Hili, Bidaa Bint Saud and the oases. Hili Archaeological Park is open to visitors.",
+    "ar": "17 موقعًا أُدرجت عام 2011: مدافن حفيت والهيلي وبدع بنت سعود والواحات. حديقة الهيلي الأثرية مفتوحة للزوار."
+   }
+  },
+  {
+   "id": "u2",
+   "t": "u",
+   "en": "Faya Palaeolandscape (World Heritage, 2025)",
+   "ar": "منظر الفاية القديم (تراث عالمي، 2025)",
+   "pt": [
+    55.83,
+    25.12
+   ],
+   "rx": 4,
+   "ry": 4,
+   "note": {
+    "en": "Inscribed in 2025 as a cultural landscape. Access through Mleiha Archaeological Centre.",
+    "ar": "أُدرج عام 2025 كمنظر ثقافي. الوصول عبر مركز مليحة الأثري."
+   }
+  },
+  {
+   "id": "u3",
+   "t": "u",
+   "en": "Wadi Wurayah (World Heritage, 2026)",
+   "ar": "وادي الوريعة (تراث عالمي، 2026)",
+   "pt": [
+    56.25,
+    25.4
+   ],
+   "rx": 5,
+   "ry": 5,
+   "note": {
+    "en": "The UAE's first natural World Heritage site, inscribed in 2026. Core areas are closed; guided access only.",
+    "ar": "أول موقع تراث عالمي طبيعي في الإمارات، أُدرج عام 2026. المناطق الأساسية مغلقة؛ الدخول بمرافق فقط."
+   }
+  }
+ ],
+ "route": [
+  [
+   "faya-palaeolandscape",
+   "The desert that kept people alive",
+   "الصحراء التي أبقت الناس أحياء",
+   "Start 210,000 years ago at Faya, where the first people out of Africa left their tools.",
+   "ابدأ قبل 210,000 عام في الفاية، حيث ترك أوائل الخارجين من أفريقيا أدواتهم."
+  ],
+  [
+   "marawah-village",
+   "The oldest pearl",
+   "أقدم لؤلؤة",
+   "Sail west to an island with the Gulf’s oldest stone houses and an 8,000-year-old pearl.",
+   "أبحر غربًا إلى جزيرة فيها أقدم بيوت حجرية في الخليج ولؤلؤة عمرها 8,000 عام."
+  ],
+  [
+   "jebel-hafeet-tombs",
+   "Five hundred stone beehives",
+   "خمسمئة خلية نحل من حجر",
+   "Inland to Al Ain, where the Bronze Age began under beehive tombs.",
+   "إلى الداخل في العين، حيث بدأ العصر البرونزي تحت قبور كخلايا النحل."
+  ],
+  [
+   "hili",
+   "The first farmers of the oasis",
+   "أوائل مزارعي الواحة",
+   "Beside them, the first wheat, dates and falaj channels of Arabia.",
+   "وإلى جوارها، أول قمح وتمر وأفلاج في الجزيرة العربية."
+  ],
+  [
+   "mleiha",
+   "A kingdom under the sand",
+   "مملكة تحت الرمال",
+   "Jump to 300 BC: a capital with horse burials and a mint, trading with Greece.",
+   "انتقل إلى 300 قبل الميلاد: عاصمة بمدافن خيول ودار سكّ تتاجر مع اليونان."
+  ],
+  [
+   "sir-bani-yas-monastery",
+   "Monks on the island",
+   "رهبان على الجزيرة",
+   "Then the 7th century, and a monastery trading with its Muslim neighbours.",
+   "ثم القرن السابع، ودير يتاجر مع جيرانه المسلمين."
+  ],
+  [
+   "jebel-hafeet",
+   "The mountain that leans",
+   "الجبل المائل",
+   "Now 50 million years down, into the folded sea floor that makes Al Ain’s hot springs.",
+   "والآن 50 مليون عام إلى الأسفل، في قاع البحر المطويّ الذي يصنع ينابيع العين الحارة."
+  ],
+  [
+   "wadi-wurayah",
+   "Water in the mountains",
+   "ماء في الجبال",
+   "End in Fujairah, among springs, tahr and rocks that were once ocean crust.",
+   "واختم في الفجيرة، بين الينابيع والوعول وصخور كانت يومًا قشرة محيط."
+  ]
+ ],
+ "strings": {
+  "places where Kuwait’s deep past still shows": "places where the UAE’s deep past still shows",
+  "موقعًا يظهر فيها ماضي الكويت العميق": "موقعًا يظهر فيها ماضي الإمارات العميق",
+  "[7500,'First villages in Kuwait'],[5000,'Bronze Age trade across the Gulf'],[1400,'Rise of Islam'],[35,'1991 oil fires']": "[125000,'Stone tools at Faya'],[7500,'Stone houses on Marawah'],[5000,'Hafit tombs at Al Ain'],[1400,'Rise of Islam'],[68,'First oil exported from Abu Dhabi']",
+  "[7500,'أولى القرى في الكويت'],[5000,'تجارة العصر البرونزي عبر الخليج'],[1400,'ظهور الإسلام'],[35,'حرائق النفط 1991']": "[125000,'أدوات حجرية في الفاية'],[7500,'بيوت حجرية في مروح'],[5000,'مدافن حفيت في العين'],[1400,'ظهور الإسلام'],[68,'أول تصدير للنفط من أبوظبي']",
+  "searchE:'Search boats, volcanoes, birds…'": "searchE:'Search tombs, dunes, flamingos…'",
+  "searchE:'ابحث: قوارب، براكين، طيور…'": "searchE:'ابحث: مدافن، كثبان، فلامنغو…'",
+  "aP1:'Layers of the UAE maps the geology, archaeology and ecology of Kuwait: 80 places with their sources, illustrated stories, a 100-million-year timeline and live directions, in Arabic and English.'": "aP1:'Layers of the UAE maps the geology, archaeology and ecology of the UAE: places with their sources, a timeline from the Eocene sea to today, and live directions, in Arabic and English. Illustrated stories are on their way.'",
+  "aP1:'يرسم تطبيق طبقات الإمارات جيولوجيا الكويت وآثارها وبيئتها: 80 موقعًا بمصادرها، وقصص مصوّرة، وخط زمني يمتد 100 مليون سنة، وإرشادات حيّة، بالعربية والإنجليزية.'": "aP1:'يرسم تطبيق طبقات الإمارات جيولوجيا الإمارات وآثارها وبيئتها: مواقع بمصادرها، وخط زمني من بحر الإيوسين حتى اليوم، وإرشادات حيّة، بالعربية والإنجليزية. والقصص المصوّرة في الطريق.'",
+  "u:'UNESCO Tentative List'": "u:'UNESCO World Heritage'",
+  "legU:'UNESCO Tentative List'": "legU:'UNESCO World Heritage'",
+  "u:'القائمة التمهيدية لليونسكو'": "u:'تراث عالمي (يونسكو)'",
+  "legU:'القائمة التمهيدية لليونسكو'": "legU:'تراث عالمي (يونسكو)'",
+  "tlT:'How Kuwait changed over time'": "tlT:'How the UAE changed over time'",
+  "tlT:'كيف تغيّرت الكويت عبر الزمن'": "tlT:'كيف تغيّرت الإمارات عبر الزمن'",
+  "<b>Example source:</b> Archeowieści, 2 Dec 2024: Kuwaiti-Polish team discovers figurine, local pottery, and environmental clues.": "<b>Example source:</b> The National, 6 March 2026: new dating of the Marawah Island village pushes its first houses back to about 8,000 years ago.",
+  "<b>Searches like:</b> “Bahra 1 excavation”, “Failaka temple”, “Kuwait mud volcanoes”, “Al-Ahmadi quarry Dammam Formation”.": "<b>Searches like:</b> “Hili excavation”, “Saruq Al-Hadid metallurgy”, “Wadi Wurayah survey”, “Bu Tinah dugong count”.",
+  "<b>Extracted:</b> Place → Bahra 1 · Published → Dec 2024 · Find → Ubaid-style clay head · Team → Kuwaiti-Polish mission.": "<b>Extracted:</b> Place → Marawah Island · Published → Mar 2026 · Finding → village dated to c. 8,000 years ago · Team → Abu Dhabi archaeologists.",
+  "<b>Title:</b> A unique clay head and the Gulf’s oldest pottery workshop at Bahra 1<br><b>العنوان:</b> رأس طيني فريد وأقدم ورشة فخار في الخليج في بحرة 1": "<b>Title:</b> The oldest houses on the Gulf shore<br><b>العنوان:</b> أقدم البيوت على ساحل الخليج",
+  "<b>Shown on:</b> Bahra 1 card → New research → link to the original source.": "<b>Shown on:</b> Marawah Island card → New research → link to the original source.",
+  "That is how the Al-Ahmadi quarry was added.": "That is how new places will join the map.",
+  "<b>Example:</b> Al-Ahmadi quarry → “The Window into Deep Time” · Eocene Dammam Formation · 48–34 million years ago.": "<b>Example:</b> Jebel Hafeet → “The mountain that leans” · Cretaceous–Eocene limestone · folded about 30 million years ago.",
+  "<b>مثال على مصدر:</b> Archeowieści، 2 ديسمبر 2024: الفريق الكويتي البولندي يكتشف تمثالًا وفخارًا محليًا وأدلة بيئية.": "<b>مثال على مصدر:</b> The National، 6 مارس 2026: تأريخ جديد لقرية جزيرة مروح يعيد أولى بيوتها إلى نحو 8,000 عام.",
+  "<b>عمليات بحث مثل:</b> «تنقيبات بحرة 1»، «معبد فيلكا»، «البراكين الطينية في الكويت»، «محجر الأحمدي تكوين الدمام».": "<b>عمليات بحث مثل:</b> «تنقيبات هيلي»، «معادن ساروق الحديد»، «مسح وادي الوريعة»، «إحصاء الأتوم في بوطينة».",
+  "<b>المستخرج:</b> الموقع ← بحرة 1 · النشر ← ديسمبر 2024 · الاكتشاف ← رأس طيني على طراز العبيد · الفريق ← البعثة الكويتية البولندية.": "<b>المستخرج:</b> الموقع ← جزيرة مروح · النشر ← مارس 2026 · النتيجة ← قرية مؤرخة بنحو 8,000 عام · الفريق ← آثاريو أبوظبي.",
+  "<b>يظهر في:</b> بطاقة بحرة 1 ← بحث جديد ← رابط المصدر الأصلي.": "<b>يظهر في:</b> بطاقة جزيرة مروح ← بحث جديد ← رابط المصدر الأصلي.",
+  "هكذا أُضيف محجر الأحمدي.": "هكذا ستنضم مواقع جديدة إلى الخريطة.",
+  "<b>مثال:</b> محجر الأحمدي ← «نافذة على الزمن السحيق» · تكوين الدمام الإيوسيني · قبل 48–34 مليون سنة.": "<b>مثال:</b> جبل حفيت ← «الجبل المائل» · حجر جيري طباشيري–إيوسيني · طُوي قبل نحو 30 مليون سنة.",
+  "far:d=>`You are ${d} from Kuwait’s map`": "far:d=>`You are ${d} from the UAE’s map`",
+  "far:d=>`أنت على بُعد ${d} من خريطة الكويت`": "far:d=>`أنت على بُعد ${d} من خريطة الإمارات`"
+ },
+ "hw_example": {
+  "site": "qalat-al-bahrain"
+ }
+}

@@ -1,0 +1,25 @@
+{
+ "quota": {
+  "Asir": {
+   "ecology": 3
+  },
+  "Al-Bahah": {
+   "ecology": 2,
+   "geological": 1,
+   "archaeological": 1
+  },
+  "Najran": {
+   "ecology": 1
+  },
+  "Riyadh": {
+   "ecology": 1
+  },
+  "Northern Borders": {
+   "ecology": 1
+  },
+  "Hail": {
+   "ecology": 1
+  }
+ },
+ "focus": "Inland ecology with published coordinates: Asir and Al-Bahah juniper (Juniperus procera) woodlands and dieback study plots, montane endemic plant sites, Arabian leopard / baboon / bird survey localities, Raghadan or Shada forests, Najran wadi vegetation, Riyadh rawdat (e.g. Rawdat Nourah, Rawdat Al-Tinhat) and acacia woodland plots, Northern Borders and Hail rangeland or sand-dune vegetation study sites; Al-Bahah geology (Arabian Shield granite/gneiss outcrops) and archaeology (Thee Ain is already mapped \u2014 choose another)."
+}

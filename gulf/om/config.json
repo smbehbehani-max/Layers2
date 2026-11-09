@@ -1,0 +1,300 @@
+{
+ "cc": "om",
+ "iso": "OMN",
+ "en": "Oman",
+ "ar": "عُمان",
+ "title_en": "Layers of Oman",
+ "title_ar": "طبقات عُمان",
+ "repo": "Layers-Oman",
+ "base": "https://smbehbehani-max.github.io/Layers-Oman/",
+ "lat0": 21.0,
+ "gstep": 1.0,
+ "pad": 0.2,
+ "padr": 0.3,
+ "bbox": [
+  51.5,
+  16.3,
+  60.2,
+  26.6
+ ],
+ "city": [
+  58.54,
+  23.61
+ ],
+ "labels": [
+  [
+   "sea",
+   19.5,
+   59.5,
+   "wl",
+   14
+  ],
+  [
+   "gom",
+   24.6,
+   58.0,
+   "wl",
+   12
+  ],
+  [
+   "rub",
+   19.5,
+   53.5,
+   "ll",
+   11
+  ],
+  [
+   "hajar",
+   23.6,
+   56.9,
+   "ll",
+   9
+  ],
+  [
+   "dhofar",
+   17.6,
+   53.9,
+   "ll",
+   9
+  ]
+ ],
+ "water": {
+  "en": {
+   "sea": "Arabian Sea",
+   "gom": "Gulf of Oman",
+   "rub": "Rub’ al Khali",
+   "hajar": "Hajar Mountains",
+   "dhofar": "Dhofar",
+   "city": "Muscat"
+  },
+  "ar": {
+   "sea": "بحر العرب",
+   "gom": "خليج عُمان",
+   "rub": "الربع الخالي",
+   "hajar": "جبال الحجر",
+   "dhofar": "ظفار",
+   "city": "مسقط"
+  }
+ },
+ "pa_source_en": "Environment Authority (Oman); UNESCO",
+ "pa_source_ar": "هيئة البيئة (عُمان)؛ اليونسكو",
+ "pa_auth_en": "the Environment Authority",
+ "protected": [
+  {
+   "id": "pa-samhan",
+   "t": "r",
+   "en": "Jabal Samhan Nature Reserve",
+   "ar": "محمية جبل سمحان",
+   "km": 4500,
+   "pt": [
+    54.94,
+    17.516
+   ]
+  },
+  {
+   "id": "pa-rashadd",
+   "t": "m",
+   "en": "Ras al Hadd Turtle Reserve",
+   "ar": "محمية السلاحف في رأس الحد",
+   "km": 120,
+   "pt": [
+    59.78,
+    22.52
+   ]
+  },
+  {
+   "id": "pa-dimaniyat",
+   "t": "m",
+   "en": "Dimaniyat Islands Nature Reserve",
+   "ar": "محمية جزر الديمانيات",
+   "km": 203,
+   "pt": [
+    58.1,
+    23.85
+   ]
+  },
+  {
+   "id": "pa-wusta",
+   "t": "r",
+   "en": "Al Wusta Wildlife Reserve",
+   "ar": "محمية الوسطى للحياة الفطرية",
+   "km": 2824,
+   "pt": [
+    57.1,
+    19.95
+   ]
+  },
+  {
+   "id": "u1",
+   "t": "u",
+   "en": "Bahla Fort (World Heritage, 1987)",
+   "ar": "قلعة بهلاء (تراث عالمي، 1987)",
+   "pt": [
+    57.3011,
+    22.9642
+   ],
+   "rx": 3,
+   "ry": 3,
+   "note": {
+    "en": "Inscribed in 1987; reopened to visitors in 2012 after restoration.",
+    "ar": "أُدرجت عام 1987؛ أُعيد فتحها للزوار عام 2012 بعد الترميم."
+   }
+  },
+  {
+   "id": "u2",
+   "t": "u",
+   "en": "Bat, Al-Khutm and Al-Ayn (World Heritage, 1988)",
+   "ar": "بات والخطم والعين (تراث عالمي، 1988)",
+   "pt": [
+    56.745,
+    23.27
+   ],
+   "rx": 8,
+   "ry": 8,
+   "note": {
+    "en": "Inscribed in 1988. Open sites; the Al-Ayn tombs are best seen in the late afternoon.",
+    "ar": "أُدرجت عام 1988. مواقع مفتوحة؛ قبور العين تُرى أفضل في آخر النهار."
+   }
+  },
+  {
+   "id": "u3",
+   "t": "u",
+   "en": "Land of Frankincense (World Heritage, 2000)",
+   "ar": "أرض اللبان (تراث عالمي، 2000)",
+   "pt": [
+    54.2,
+    17.3
+   ],
+   "rx": 40,
+   "ry": 40,
+   "note": {
+    "en": "Four components: Wadi Dawkah, Shisr, Khor Rori and Al-Baleed. Museum at Al-Baleed.",
+    "ar": "أربعة مكوّنات: وادي دوكة وشصر وخور روري والبليد. متحف في البليد."
+   }
+  },
+  {
+   "id": "u4",
+   "t": "u",
+   "en": "Aflaj Irrigation Systems (World Heritage, 2006)",
+   "ar": "أنظمة الأفلاج (تراث عالمي، 2006)",
+   "pt": [
+    57.6,
+    22.95
+   ],
+   "rx": 15,
+   "ry": 15,
+   "note": {
+    "en": "Five aflaj inscribed in 2006, led by Falaj Daris at Nizwa. All are in daily use.",
+    "ar": "خمسة أفلاج أُدرجت عام 2006، أبرزها فلج دارس في نزوى. كلها مستخدمة يوميًا."
+   }
+  },
+  {
+   "id": "u5",
+   "t": "u",
+   "en": "Ancient City of Qalhat (World Heritage, 2018)",
+   "ar": "مدينة قلهات القديمة (تراث عالمي، 2018)",
+   "pt": [
+    59.3694,
+    22.6994
+   ],
+   "rx": 3,
+   "ry": 3,
+   "note": {
+    "en": "Inscribed in 2018. The Bibi Maryam mausoleum is visible from the road; the site is being prepared for visitors.",
+    "ar": "أُدرجت عام 2018. ضريح بيبي مريم يُرى من الطريق؛ الموقع يُجهَّز للزوار."
+   }
+  }
+ ],
+ "route": [
+  [
+   "ras-al-jinz-rj2",
+   "Fishermen who knew the Indus",
+   "صيادون عرفوا السند",
+   "Start at the eastern tip of Arabia, where a Bronze Age village traded with India.",
+   "ابدأ من أقصى شرق الجزيرة العربية، حيث تاجرت قرية من العصر البرونزي مع الهند."
+  ],
+  [
+   "bat-al-khutm-al-ayn",
+   "Towers with no doors",
+   "أبراج بلا أبواب",
+   "Inland to Bat, where round towers and beehive tombs stand from the same century.",
+   "إلى الداخل في بات، حيث تقف أبراج دائرية وقبور كخلايا النحل من القرن نفسه."
+  ],
+  [
+   "khor-rori-sumhuram",
+   "The port of incense",
+   "ميناء البخور",
+   "South to Dhofar and the walled port that shipped frankincense to Rome.",
+   "جنوبًا إلى ظفار والميناء المسوّر الذي شحن اللبان إلى روما."
+  ],
+  [
+   "falaj-daris",
+   "Water shared by the minute",
+   "ماء يُقسَّم بالدقيقة",
+   "Back north to Nizwa, where channels dug 1,500 years ago still water the oasis.",
+   "عُد شمالًا إلى نزوى، حيث ما زالت قنوات حُفرت قبل 1,500 عام تسقي الواحة."
+  ],
+  [
+   "qalhat",
+   "The queen’s mosque",
+   "مسجد الملكة",
+   "To the coast, and a port ruled by a woman that Marco Polo and Ibn Battuta described.",
+   "إلى الساحل، وميناء حكمته امرأة ووصفه ماركو بولو وابن بطوطة."
+  ],
+  [
+   "semail-ophiolite",
+   "The sea floor on the land",
+   "قاع البحر على اليابسة",
+   "Now 95 million years back, to the ocean crust that became the Hajar Mountains.",
+   "والآن قبل 95 مليون عام، إلى قشرة المحيط التي صارت جبال الحجر."
+  ],
+  [
+   "jebel-shams",
+   "Three thousand metres of sea floor",
+   "ثلاثة آلاف متر من قاع البحر",
+   "Climb to the roof of Oman and look a kilometre down into the canyon.",
+   "اصعد إلى سقف عُمان وانظر كيلومترًا إلى الأسفل في الأخدود."
+  ],
+  [
+   "jabal-samhan",
+   "The last leopards",
+   "آخر النمور",
+   "End on the fog-wrapped escarpment of Dhofar, where the Arabian leopard still lives.",
+   "واختم على جرف ظفار الملفوف بالضباب، حيث ما زال النمر العربي يعيش."
+  ]
+ ],
+ "strings": {
+  "places where Kuwait’s deep past still shows": "places where Oman’s deep past still shows",
+  "موقعًا يظهر فيها ماضي الكويت العميق": "موقعًا يظهر فيها ماضي عُمان العميق",
+  "[7500,'First villages in Kuwait'],[5000,'Bronze Age trade across the Gulf'],[1400,'Rise of Islam'],[35,'1991 oil fires']": "[5000,'Towers and tombs at Bat'],[4300,'Indus seals reach Ras al-Jinz'],[2000,'Sumhuram ships frankincense'],[1400,'Rise of Islam'],[62,'Oil exported from Fahud']",
+  "[7500,'أولى القرى في الكويت'],[5000,'تجارة العصر البرونزي عبر الخليج'],[1400,'ظهور الإسلام'],[35,'حرائق النفط 1991']": "[5000,'أبراج ومقابر بات'],[4300,'أختام السند تصل رأس الجنز'],[2000,'سمهرم تشحن اللبان'],[1400,'ظهور الإسلام'],[62,'تصدير النفط من فهود']",
+  "searchE:'Search boats, volcanoes, birds…'": "searchE:'Search forts, turtles, frankincense…'",
+  "searchE:'ابحث: قوارب، براكين، طيور…'": "searchE:'ابحث: قلاع، سلاحف، لبان…'",
+  "aP1:'Layers of Oman maps the geology, archaeology and ecology of Kuwait: 80 places with their sources, illustrated stories, a 100-million-year timeline and live directions, in Arabic and English.'": "aP1:'Layers of Oman maps the geology, archaeology and ecology of Oman: places with their sources, a timeline from the Eocene sea to today, and live directions, in Arabic and English. Illustrated stories are on their way.'",
+  "aP1:'يرسم تطبيق طبقات عُمان جيولوجيا الكويت وآثارها وبيئتها: 80 موقعًا بمصادرها، وقصص مصوّرة، وخط زمني يمتد 100 مليون سنة، وإرشادات حيّة، بالعربية والإنجليزية.'": "aP1:'يرسم تطبيق طبقات عُمان جيولوجيا عُمان وآثارها وبيئتها: مواقع بمصادرها، وخط زمني من بحر الإيوسين حتى اليوم، وإرشادات حيّة، بالعربية والإنجليزية. والقصص المصوّرة في الطريق.'",
+  "u:'UNESCO Tentative List'": "u:'UNESCO World Heritage'",
+  "legU:'UNESCO Tentative List'": "legU:'UNESCO World Heritage'",
+  "u:'القائمة التمهيدية لليونسكو'": "u:'تراث عالمي (يونسكو)'",
+  "legU:'القائمة التمهيدية لليونسكو'": "legU:'تراث عالمي (يونسكو)'",
+  "tlT:'How Kuwait changed over time'": "tlT:'How Oman changed over time'",
+  "tlT:'كيف تغيّرت الكويت عبر الزمن'": "tlT:'كيف تغيّرت عُمان عبر الزمن'",
+  "<b>Example source:</b> Archeowieści, 2 Dec 2024: Kuwaiti-Polish team discovers figurine, local pottery, and environmental clues.": "<b>Example source:</b> Endangered Species Research, 2020: Willson et al. report a sharp fall in loggerhead nests on Masirah Island within one generation.",
+  "<b>Searches like:</b> “Bahra 1 excavation”, “Failaka temple”, “Kuwait mud volcanoes”, “Al-Ahmadi quarry Dammam Formation”.": "<b>Searches like:</b> “Bat towers excavation”, “Sumhuram inscriptions”, “Jabal Samhan leopard camera traps”, “Masirah loggerhead nesting”.",
+  "<b>Extracted:</b> Place → Bahra 1 · Published → Dec 2024 · Find → Ubaid-style clay head · Team → Kuwaiti-Polish mission.": "<b>Extracted:</b> Place → Masirah Island · Published → 2020 · Finding → loggerhead nests down sharply in one generation · Team → Willson et al.",
+  "<b>Title:</b> A unique clay head and the Gulf’s oldest pottery workshop at Bahra 1<br><b>العنوان:</b> رأس طيني فريد وأقدم ورشة فخار في الخليج في بحرة 1": "<b>Title:</b> A decline inside one lifetime<br><b>العنوان:</b> تراجع في عمر جيل واحد",
+  "<b>Shown on:</b> Bahra 1 card → New research → link to the original source.": "<b>Shown on:</b> Masirah Island Loggerheads card → New research → link to the original source.",
+  "That is how the Al-Ahmadi quarry was added.": "That is how new places will join the map.",
+  "<b>Example:</b> Al-Ahmadi quarry → “The Window into Deep Time” · Eocene Dammam Formation · 48–34 million years ago.": "<b>Example:</b> Semail Ophiolite → “The sea floor that climbed onto the land” · Late Cretaceous oceanic crust · about 95 million years ago.",
+  "<b>مثال على مصدر:</b> Archeowieści، 2 ديسمبر 2024: الفريق الكويتي البولندي يكتشف تمثالًا وفخارًا محليًا وأدلة بيئية.": "<b>مثال على مصدر:</b> Endangered Species Research، 2020: ويلسون وزملاؤه يرصدون تراجعًا حادًا في أعشاش السلاحف ضخمة الرأس في مصيرة.",
+  "<b>عمليات بحث مثل:</b> «تنقيبات بحرة 1»، «معبد فيلكا»، «البراكين الطينية في الكويت»، «محجر الأحمدي تكوين الدمام».": "<b>عمليات بحث مثل:</b> «تنقيبات أبراج بات»، «نقوش سمهرم»، «كاميرات نمور جبل سمحان»، «تعشيش السلاحف في مصيرة».",
+  "<b>المستخرج:</b> الموقع ← بحرة 1 · النشر ← ديسمبر 2024 · الاكتشاف ← رأس طيني على طراز العبيد · الفريق ← البعثة الكويتية البولندية.": "<b>المستخرج:</b> الموقع ← جزيرة مصيرة · النشر ← 2020 · النتيجة ← تراجع حاد في الأعشاش خلال جيل واحد · الفريق ← ويلسون وزملاؤه.",
+  "<b>يظهر في:</b> بطاقة بحرة 1 ← بحث جديد ← رابط المصدر الأصلي.": "<b>يظهر في:</b> بطاقة سلاحف مصيرة ← بحث جديد ← رابط المصدر الأصلي.",
+  "هكذا أُضيف محجر الأحمدي.": "هكذا ستنضم مواقع جديدة إلى الخريطة.",
+  "<b>مثال:</b> محجر الأحمدي ← «نافذة على الزمن السحيق» · تكوين الدمام الإيوسيني · قبل 48–34 مليون سنة.": "<b>مثال:</b> أفيوليت سمائل ← «قاع البحر الذي صعد إلى اليابسة» · قشرة محيطية من الطباشيري المتأخر · قبل نحو 95 مليون سنة.",
+  "far:d=>`You are ${d} from Kuwait’s map`": "far:d=>`You are ${d} from Oman’s map`",
+  "far:d=>`أنت على بُعد ${d} من خريطة الكويت`": "far:d=>`أنت على بُعد ${d} من خريطة عُمان`"
+ },
+ "hw_example": {
+  "site": "qalat-al-bahrain"
+ }
+}

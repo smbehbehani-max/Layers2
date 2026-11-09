@@ -1,0 +1,28 @@
+[
+ {
+  "must_have": "AE-A5",
+  "name": "Protected areas of Fujairah (grouped: 4)",
+  "name_ar": null,
+  "layer": "ecology",
+  "region": "Fujairah",
+  "designation": "Al Aqah Reserve; Dadna Reserve; Al Bidiyah Reserve; Bird Island Reserve",
+  "lat": null,
+  "lng": null,
+  "coord_source": null,
+  "source_url": "https://www.emaratalyoum.com/local-section/other/2023-01-23-1.1710989",
+  "note": null
+ },
+ {
+  "must_have": "AE-A19",
+  "name": "Sharjah: the Gate to Trucial States",
+  "name_ar": "الشارقة: بوابة الإمارات المتصالحة",
+  "layer": "archaeological",
+  "region": "Sharjah",
+  "designation": "UNESCO Tentative List 2014 (old port, Al Mahatta air-station, fort, mosques, souqs, old walls)",
+  "lat": null,
+  "lng": null,
+  "coord_source": null,
+  "source_url": "https://whc.unesco.org/en/tentativelists/5941",
+  "note": "No coordinates on UNESCO page"
+ }
+]

@@ -1,0 +1,28 @@
+[
+ {
+  "must_have": "BH-A1",
+  "name": "Najwat Bul Thamah Protected Area",
+  "name_ar": "محمية نجوة بولثامة",
+  "layer": "ecology",
+  "region": "Offshore (northern waters)",
+  "designation": "Marine protected area (Decision No. 2 of 2017), ~3.2 km²",
+  "lat": null,
+  "lng": null,
+  "coord_source": null,
+  "source_url": "https://bnature.info/protected-areas/",
+  "note": null
+ },
+ {
+  "must_have": "BH-A2",
+  "name": "Reef Bul Thamah (Fasht Bulthama) Protected Area",
+  "name_ar": "محمية فشت بولثامة",
+  "layer": "ecology",
+  "region": "Offshore (northern waters)",
+  "designation": "Marine protected area (2007; Decision No. 8 of 2007), ~7.8 km²",
+  "lat": null,
+  "lng": null,
+  "coord_source": null,
+  "source_url": "https://bnature.info/protected-areas/",
+  "note": "~90 km offshore; not the same as app's fasht-al-adhm."
+ }
+]

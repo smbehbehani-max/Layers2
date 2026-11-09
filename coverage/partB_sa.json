@@ -1,0 +1,36 @@
+{
+ "quota": {
+  "Makkah": {
+   "geological": 2
+  },
+  "Al-Qassim": {
+   "geological": 3,
+   "archaeological": 1
+  },
+  "Northern Borders": {
+   "geological": 3
+  },
+  "Al-Jawf": {
+   "geological": 3
+  },
+  "Jazan": {
+   "geological": 3,
+   "ecology": 1
+  },
+  "Najran": {
+   "geological": 2
+  },
+  "Asir": {
+   "geological": 3
+  },
+  "Al-Bahah": {
+   "geological": 2,
+   "archaeological": 1,
+   "ecology": 1
+  },
+  "Eastern Province": {
+   "geological": 2
+  }
+ },
+ "focus": "Harrat volcanic fields (Rahat, Lunayyir, Hutaymah already partly covered), Red Sea / Farasan coral reefs and islands (Jazan), Jazan salt dome and Jabal Fayfa, Asir highland escarpment and Precambrian Arabian Shield outcrops, Al-Bahah granite and Wadi landscapes, Rub' al Khali dunes and sabkhas (Najran/Eastern), Tuwaiq and Qassim sandstone sections (Saq, Tabuk, Qasim formations), Northern Borders and Al-Jawf Palaeozoic outcrops, sinkholes and karst (Dahl Hit, Eastern Province)."
+}

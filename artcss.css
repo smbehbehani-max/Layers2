@@ -1,0 +1,20 @@
+:root{--k-sky:#bfe3ea;--k-sky2:#f3dcc0;--k-sun:#f6c24a;--k-sea:#3f9aa0;--k-sea2:#8ccfcb;--k-sand:#ecd6a6;--k-sand2:#d9b779;--k-rock:#cf8e5c;--k-rock2:#a8653f;--k-green:#7fb069;--k-mud:#8a6a52;--k-mud2:#5e4433;--k-ink:#24312f;--k-wh:#fffaf0;--k-skin:#c68a5c;--k-cloth:#e8e1cf;--k-red:#d9643a;--k-purple:#9b78bd;--k-dark:#3d3a35;--k-wood:#c9a15f}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--k-sky:#2f4d68;--k-sky2:#6b5a6e;--k-sun:#f2b84b;--k-sea:#1f6168;--k-sea2:#3a8a8c;--k-sand:#bea072;--k-sand2:#9a7e55;--k-rock:#ad744d;--k-rock2:#86553a;--k-green:#5f9152;--k-mud:#715846;--k-mud2:#4a3628;--k-ink:#0e1514;--k-wh:#efe8da;--k-skin:#b07a50;--k-cloth:#d6cdb8;--k-red:#d0603a;--k-purple:#8a6fb0;--k-dark:#24221f;--k-wood:#a8854c}}
+:root[data-theme="dark"]{--k-sky:#2f4d68;--k-sky2:#6b5a6e;--k-sun:#f2b84b;--k-sea:#1f6168;--k-sea2:#3a8a8c;--k-sand:#bea072;--k-sand2:#9a7e55;--k-rock:#ad744d;--k-rock2:#86553a;--k-green:#5f9152;--k-mud:#715846;--k-mud2:#4a3628;--k-ink:#0e1514;--k-wh:#efe8da;--k-skin:#b07a50;--k-cloth:#d6cdb8;--k-red:#d0603a;--k-purple:#8a6fb0;--k-dark:#24221f;--k-wood:#a8854c}
+.art{margin:0 0 14px;border-radius:14px;overflow:hidden;position:relative;box-shadow:0 0 0 2px rgba(255,255,255,.35)}
+.art svg{display:block;width:100%;height:auto}
+.art svg *{stroke:var(--k-ink);stroke-width:2.2;stroke-linejoin:round;stroke-linecap:round}
+.art svg .n{stroke:none}.art svg .l{fill:none}.art svg .t{stroke-width:1.4}
+.art .s{fill:var(--k-sky)}.art .s2{fill:var(--k-sky2)}.art .su{fill:var(--k-sun)}.art .w{fill:var(--k-sea)}.art .w2{fill:var(--k-sea2)}
+.art .d{fill:var(--k-sand)}.art .d2{fill:var(--k-sand2)}.art .r{fill:var(--k-rock)}.art .r2{fill:var(--k-rock2)}.art .g{fill:var(--k-green)}
+.art .m{fill:var(--k-mud)}.art .m2{fill:var(--k-mud2)}.art .k{fill:var(--k-ink)}.art .wh{fill:var(--k-wh)}.art .sk{fill:var(--k-skin)}
+.art .cl{fill:var(--k-cloth)}.art .rd{fill:var(--k-red)}.art .pu{fill:var(--k-purple)}.art .dk{fill:var(--k-dark)}.art .wd{fill:var(--k-wood)}
+.art figcaption{position:absolute;inset-inline-end:8px;bottom:6px;font-size:11px;font-weight:600;color:var(--k-ink);background:color-mix(in srgb,var(--k-wh) 80%,transparent);padding:1px 7px;border-radius:99px}
+.art .bob{animation:kbob 3.2s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
+.art .rise{animation:krise 2.8s ease-in infinite;transform-box:fill-box}
+.art .d1s{animation-delay:.9s}.art .d2s{animation-delay:1.7s}
+.art .shake{animation:kshake .6s steps(2) infinite}
+@keyframes kbob{50%{transform:translateY(3px) rotate(-1.2deg)}}
+@keyframes krise{0%{transform:translateY(0);opacity:0}15%{opacity:1}100%{transform:translateY(-28px);opacity:0}}
+@keyframes kshake{50%{transform:translateX(2px)}}
+@media (prefers-reduced-motion:reduce){.art .bob,.art .rise,.art .shake{animation:none}.art .rise{opacity:1}}

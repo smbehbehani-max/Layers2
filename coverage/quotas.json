@@ -1,0 +1,381 @@
+{
+ "sa": {
+  "Riyadh": {
+   "now": {
+    "archaeological": 10,
+    "geological": 10,
+    "ecology": 12
+   },
+   "add": {}
+  },
+  "Makkah": {
+   "now": {
+    "archaeological": 8,
+    "geological": 3,
+    "ecology": 9
+   },
+   "add": {}
+  },
+  "Madinah": {
+   "now": {
+    "archaeological": 12,
+    "geological": 6,
+    "ecology": 6
+   },
+   "add": {}
+  },
+  "Eastern Province": {
+   "now": {
+    "archaeological": 7,
+    "geological": 3,
+    "ecology": 3
+   },
+   "add": {}
+  },
+  "Al-Qassim": {
+   "now": {
+    "archaeological": 1,
+    "ecology": 4
+   },
+   "add": {
+    "geological": 3
+   }
+  },
+  "Hail": {
+   "now": {
+    "archaeological": 11,
+    "ecology": 2,
+    "geological": 4
+   },
+   "add": {}
+  },
+  "Tabuk": {
+   "now": {
+    "archaeological": 23,
+    "geological": 4,
+    "ecology": 4
+   },
+   "add": {}
+  },
+  "Northern Borders": {
+   "now": {
+    "ecology": 2,
+    "archaeological": 1
+   },
+   "add": {
+    "geological": 3
+   }
+  },
+  "Al-Jawf": {
+   "now": {
+    "archaeological": 7
+   },
+   "add": {
+    "geological": 2
+   }
+  },
+  "Jazan": {
+   "now": {
+    "ecology": 3
+   },
+   "add": {
+    "geological": 3
+   }
+  },
+  "Najran": {
+   "now": {
+    "archaeological": 4,
+    "geological": 1
+   },
+   "add": {
+    "geological": 2
+   }
+  },
+  "Asir": {
+   "now": {
+    "ecology": 3,
+    "archaeological": 3
+   },
+   "add": {
+    "geological": 2
+   }
+  },
+  "Al-Bahah": {
+   "now": {
+    "archaeological": 1,
+    "ecology": 2
+   },
+   "add": {
+    "geological": 3
+   }
+  }
+ },
+ "om": {
+  "Muscat": {
+   "now": {
+    "archaeological": 1,
+    "geological": 4,
+    "ecology": 4
+   },
+   "add": {}
+  },
+  "Dhofar": {
+   "now": {
+    "archaeological": 3,
+    "ecology": 6
+   },
+   "add": {}
+  },
+  "Musandam": {
+   "now": {
+    "geological": 1,
+    "ecology": 1
+   },
+   "add": {
+    "archaeological": 2,
+    "geological": 2
+   }
+  },
+  "Al Buraimi": {
+   "now": {
+    "ecology": 1
+   },
+   "add": {
+    "geological": 3,
+    "archaeological": 2
+   }
+  },
+  "Ad Dakhiliyah": {
+   "now": {
+    "archaeological": 7,
+    "geological": 4,
+    "ecology": 3
+   },
+   "add": {}
+  },
+  "North Al Batinah": {
+   "now": {
+    "ecology": 1
+   },
+   "add": {
+    "geological": 1,
+    "archaeological": 4
+   }
+  },
+  "South Al Batinah": {
+   "now": {
+    "geological": 3,
+    "ecology": 3,
+    "archaeological": 3
+   },
+   "add": {}
+  },
+  "South Ash Sharqiyah": {
+   "now": {
+    "archaeological": 2,
+    "geological": 1,
+    "ecology": 4
+   },
+   "add": {}
+  },
+  "North Ash Sharqiyah": {
+   "now": {
+    "geological": 1,
+    "archaeological": 3
+   },
+   "add": {
+    "archaeological": 2
+   }
+  },
+  "Ad Dhahirah": {
+   "now": {
+    "archaeological": 1
+   },
+   "add": {
+    "archaeological": 2,
+    "any": 3
+   }
+  },
+  "Al Wusta": {
+   "now": {
+    "ecology": 1,
+    "geological": 1
+   },
+   "add": {
+    "any": 4
+   }
+  }
+ },
+ "ae": {
+  "Abu Dhabi": {
+   "now": {
+    "archaeological": 9,
+    "geological": 5,
+    "ecology": 6
+   },
+   "add": {}
+  },
+  "Dubai": {
+   "now": {
+    "archaeological": 4,
+    "ecology": 6
+   },
+   "add": {}
+  },
+  "Sharjah": {
+   "now": {
+    "archaeological": 9,
+    "geological": 2,
+    "ecology": 4
+   },
+   "add": {}
+  },
+  "Ajman": {
+   "now": {
+    "ecology": 1
+   },
+   "add": {
+    "geological": 5
+   }
+  },
+  "Umm Al Quwain": {
+   "now": {
+    "archaeological": 3,
+    "ecology": 1
+   },
+   "add": {
+    "geological": 2
+   }
+  },
+  "Ras Al Khaimah": {
+   "now": {
+    "archaeological": 4,
+    "geological": 1,
+    "ecology": 1
+   },
+   "add": {}
+  },
+  "Fujairah": {
+   "now": {
+    "ecology": 2,
+    "archaeological": 1
+   },
+   "add": {
+    "geological": 3
+   }
+  }
+ },
+ "qa": {
+  "Doha": {
+   "now": {
+    "geological": 1,
+    "ecology": 1,
+    "archaeological": 1
+   },
+   "add": {
+    "geological": 2,
+    "archaeological": 1
+   }
+  },
+  "Al Rayyan": {
+   "now": {
+    "geological": 3,
+    "archaeological": 1,
+    "ecology": 5
+   },
+   "add": {}
+  },
+  "Al Wakrah": {
+   "now": {
+    "geological": 2,
+    "ecology": 1
+   },
+   "add": {
+    "archaeological": 2,
+    "geological": 1
+   }
+  },
+  "Umm Salal": {
+   "now": {
+    "archaeological": 1,
+    "ecology": 2
+   },
+   "add": {
+    "geological": 2,
+    "archaeological": 1
+   }
+  },
+  "Al Khor": {
+   "now": {
+    "archaeological": 1,
+    "ecology": 1
+   },
+   "add": {
+    "geological": 1,
+    "archaeological": 3
+   }
+  },
+  "Al Shamal": {
+   "now": {
+    "archaeological": 10,
+    "ecology": 3
+   },
+   "add": {}
+  },
+  "Al Daayen": {
+   "now": {
+    "ecology": 2
+   },
+   "add": {
+    "archaeological": 1,
+    "any": 3
+   }
+  },
+  "Al Shahaniya": {
+   "now": {
+    "geological": 3,
+    "ecology": 3,
+    "archaeological": 1
+   },
+   "add": {}
+  }
+ },
+ "bh": {
+  "Capital": {
+   "now": {
+    "archaeological": 3,
+    "geological": 1,
+    "ecology": 1
+   },
+   "add": {
+    "geological": 1
+   }
+  },
+  "Muharraq": {
+   "now": {
+    "archaeological": 4,
+    "geological": 1,
+    "ecology": 2
+   },
+   "add": {
+    "geological": 1
+   }
+  },
+  "Northern": {
+   "now": {
+    "archaeological": 10,
+    "geological": 2,
+    "ecology": 6
+   },
+   "add": {}
+  },
+  "Southern": {
+   "now": {
+    "archaeological": 4,
+    "geological": 6,
+    "ecology": 5
+   },
+   "add": {}
+  }
+ }
+}

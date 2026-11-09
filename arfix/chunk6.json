@@ -1,0 +1,1328 @@
+[
+{
+"en": "Did a Hidden Cave Bring Down Shisr?",
+"ar": "هل أسقط كهف خفي قلعة شصر؟",
+"ctx": "om:D.sites.42.ta",
+"i": 2179
+},
+{
+"en": "The Wind Sculptures of Duqm and the Sharqiya Sands",
+"ar": "منحوتات الريح في الدقم ورمال الشرقية",
+"ctx": "om:D.sites.43.na",
+"i": 2180
+},
+{
+"en": "In Duqm, wind and water have carved soft limestone under a hard cap into statues. About 300 kilometres to the north, the Sharqiya Sands are the type dune field of the monsoon belt. Is the dune wind the sculptor of Duqm? Nobody has tested this yet.",
+"ar": "في الدقم نحتت الريح والماء حجرًا جيريًا هشًّا تحت غطاء صلب فصار تماثيل. وعلى بعد نحو 300 كيلومتر شمالًا تقع رمال الشرقية، النموذج المرجعي لحقول الكثبان في حزام الرياح الموسمية. هل ريح الكثبان هي نحّات الدقم؟ لم يختبر أحد ذلك بعد.",
+"ctx": "om:D.sites.43.sa",
+"i": 2181
+},
+{
+"en": "Soft 40-million-year-old limestone under a hard cap, carved into statues",
+"ar": "حجر جيري هشّ عمره 40 مليون سنة تحت غطاء صلب، منحوت كالتماثيل",
+"ctx": "om:D.sites.43.spec.lk.0[2]",
+"i": 2182
+},
+{
+"en": "A 12,500 km² sand sea, type dune field of the monsoon belt",
+"ar": "بحر رمال مساحته 12,500 كيلومتر مربع، النموذج المرجعي لحقول الكثبان في حزام الرياح الموسمية",
+"ctx": "om:D.sites.43.spec.lk.1[2]",
+"i": 2183
+},
+{
+"en": "The long axes and undercut faces of the Duqm forms will line up with the dune-building wind of the Sharqiya Sands, more closely than with the fractures in the rock.",
+"ar": "ستصطف المحاور الطويلة والواجهات المقوّضة لأشكال الدقم مع الريح التي تبني كثبان رمال الشرقية، بدرجة أوثق من اصطفافها مع شقوق الصخر.",
+"ctx": "om:D.sites.43.spec.pred",
+"i": 2184
+},
+{
+"en": "Born from a coincidence of records on this map. The Duqm record says wind helped sculpt the rocks; the Sharqiya record says the sand sea is the type dune field of the monsoon belt. One record shows the wind building, the other shows it carving.",
+"ar": "وُلدت الفكرة من تطابق سجلات على هذه الخريطة. يقول سجل الدقم إن الريح أسهمت في نحت الصخور، ويقول سجل الشرقية إن بحر الرمال هو النموذج المرجعي لحقول الكثبان في حزام الرياح الموسمية. سجل يُرينا الريح وهي تبني، وآخر يُرينا إياها وهي تنحت.",
+"ctx": "om:D.sites.43.spec.spot",
+"i": 2185
+},
+{
+"en": "Map the orientation of the Duqm forms and of the Sharqiya dune crests, compare both with wind records and with the fracture directions, and test the match statistically.",
+"ar": "رسم خريطة لاتجاهات أشكال الدقم ولقمم كثبان الشرقية، ومقارنة كليهما بسجلات الرياح وباتجاهات الشقوق، واختبار التطابق إحصائيًا.",
+"ctx": "om:D.sites.43.spec.test",
+"i": 2186
+},
+{
+"en": "If the Duqm forms point in random directions, or follow the fractures of the rock rather than the wind, the idea fails.",
+"ar": "إذا كانت أشكال الدقم تتجه اتجاهات عشوائية، أو تتبع شقوق الصخر لا الريح، تسقط الفكرة.",
+"ctx": "om:D.sites.43.spec.wrong",
+"i": 2187
+},
+{
+"en": "Is the Dune Wind the Sculptor of Duqm?",
+"ar": "هل ريح الكثبان هي نحّات الدقم؟",
+"ctx": "om:D.sites.43.ta",
+"i": 2188
+},
+{
+"en": "Falaj Daris and the Aflaj of Oman",
+"ar": "فلج دارس وأفلاج عُمان",
+"ctx": "om:D.sites.5.na",
+"i": 2189
+},
+{
+"en": "Underground channels up to 12 km long bring mountain water to oases, still divided by the stars",
+"ar": "قنوات تحت الأرض بطول 12 كم تجلب ماء الجبل إلى الواحات، وما زالت تُقسَّم بالنجوم",
+"ctx": "om:D.sites.5.sa",
+"i": 2190
+},
+{
+"en": "Water shared by the minute",
+"ar": "ماء يُقسَّم بالدقيقة",
+"ctx": "om:D.sites.5.ta",
+"i": 2191
+},
+{
+"en": "A port that Marco Polo and Ibn Battuta praised, ruled by a woman after 1311",
+"ar": "ميناء أثنى عليه ماركو بولو وابن بطوطة، حكمته امرأة بعد عام 1311",
+"ctx": "om:D.sites.6.sa",
+"i": 2192
+},
+{
+"en": "The queen’s mosque",
+"ar": "مسجد الملكة",
+"ctx": "om:D.sites.6.ta",
+"i": 2193
+},
+{
+"en": "Ras al-Jinz Bronze Age Village (RJ-2)",
+"ar": "قرية رأس الجنز من العصر البرونزي",
+"ctx": "om:D.sites.7.na",
+"i": 2194
+},
+{
+"en": "A village at the easternmost point of Arabia that traded with India 4,000 years ago",
+"ar": "قرية في أقصى شرق الجزيرة العربية تاجرت مع الهند قبل 4,000 عام",
+"ctx": "om:D.sites.7.sa",
+"i": 2195
+},
+{
+"en": "Fishermen who knew the Indus",
+"ar": "صيادون عرفوا السند",
+"ctx": "om:D.sites.7.ta",
+"i": 2196
+},
+{
+"en": "Semail Ophiolite",
+"ar": "أفيوليت سمائل",
+"ctx": "om:D.sites.8.na",
+"i": 2197
+},
+{
+"en": "Oman’s dark mountains are a 550 km sheet of oceanic crust and mantle pushed over the continent",
+"ar": "جبال عُمان الداكنة صفيحة من قشرة المحيط ووشاحه بطول 550 كم دُفعت فوق القارة",
+"ctx": "om:D.sites.8.sa",
+"i": 2198
+},
+{
+"en": "Jebel Shams and Wadi Nakhr",
+"ar": "جبل شمس ووادي نخر",
+"ctx": "om:D.sites.9.na",
+"i": 2199
+},
+{
+"en": "A canyon a kilometre deep cuts through the whole Hajar Supergroup",
+"ar": "أخدود بعمق كيلومتر يشق مجموعة الحجر الكبرى بأكملها",
+"ctx": "om:D.sites.9.sa",
+"i": 2200
+},
+{
+"en": "Three thousand metres of sea floor",
+"ar": "ثلاثة آلاف متر من قاع البحر",
+"ctx": "om:D.sites.9.ta",
+"i": 2201
+},
+{
+"en": "<b>Example source:</b> Endangered Species Research, 2020: Willson et al. report a sharp fall in loggerhead nests on Masirah Island within one generation.",
+"ar": "<b>مثال على مصدر:</b> Endangered Species Research، 2020: ويلسون وزملاؤه يرصدون تراجعًا حادًا في أعشاش السلاحف ضخمة الرأس في مصيرة.",
+"ctx": "om:HW.steps",
+"i": 2202
+},
+{
+"en": "<b>Searches like:</b> “Bat towers excavation”, “Sumhuram inscriptions”, “Jabal Samhan leopard camera traps”, “Masirah loggerhead nesting”.",
+"ar": "<b>عمليات بحث مثل:</b> «تنقيبات أبراج بات»، «نقوش سمهرم»، «كاميرات نمور جبل سمحان»، «تعشيش السلاحف في مصيرة».",
+"ctx": "om:HW.steps",
+"i": 2203
+},
+{
+"en": "<b>Extracted:</b> Place → Masirah Island · Published → 2020 · Finding → loggerhead nests down sharply in one generation · Team → Willson et al.",
+"ar": "<b>المستخرج:</b> الموقع ← جزيرة مصيرة · النشر ← 2020 · النتيجة ← تراجع حاد في الأعشاش خلال جيل واحد · الفريق ← ويلسون وزملاؤه.",
+"ctx": "om:HW.steps",
+"i": 2204
+},
+{
+"en": "<b>Title:</b> A decline inside one lifetime<br><b>العنوان:</b> تراجع في عمر جيل واحد",
+"ar": "<b>Title:</b> A decline inside one lifetime<br><b>العنوان:</b> تراجع في عمر جيل واحد",
+"ctx": "om:HW.steps",
+"i": 2205
+},
+{
+"en": "<b>Shown on:</b> Masirah Island Loggerheads card → New research → link to the original source.",
+"ar": "<b>يظهر في:</b> بطاقة سلاحف مصيرة ← بحث جديد ← رابط المصدر الأصلي.",
+"ctx": "om:HW.steps",
+"i": 2206
+},
+{
+"en": "<b>Example:</b> Semail Ophiolite → “The sea floor that climbed onto the land” · Late Cretaceous oceanic crust · about 95 million years ago.",
+"ar": "<b>مثال:</b> أفيوليت سمائل ← «قاع البحر الذي صعد إلى اليابسة» · قشرة محيطية من الطباشيري المتأخر · قبل نحو 95 مليون سنة.",
+"ctx": "om:HW.steps",
+"i": 2207
+},
+{
+"en": "How Layers of Oman works",
+"ar": "كيف يعمل تطبيق طبقات عُمان",
+"ctx": "om:HW.title",
+"i": 2208
+},
+{
+"en": "Layers of Oman maps the geology, archaeology and ecology of Oman: places with their sources, a timeline from the Eocene sea to today, and live directions, in Arabic and English. Illustrated stories are on their way.",
+"ar": "يرسم تطبيق طبقات عُمان جيولوجيا عُمان وآثارها وبيئتها: مواقع بمصادرها، وخط زمني من بحر الإيوسين حتى اليوم، وإرشادات حيّة، بالعربية والإنجليزية. والقصص المصوّرة في الطريق.",
+"ctx": "om:INS.aP1",
+"i": 2209
+},
+{
+"en": "About Layers of Oman",
+"ar": "حول طبقات عُمان",
+"ctx": "om:INS.aT",
+"i": 2210
+},
+{
+"en": "Made in Oman",
+"ar": "صُنع في عُمان",
+"ctx": "om:INS.made",
+"i": 2211
+},
+{
+"en": "Install Layers of Oman",
+"ar": "ثبّت طبقات عُمان",
+"ctx": "om:INS.t",
+"i": 2212
+},
+{
+"en": "Al Wusta Wildlife Reserve",
+"ar": "محمية الوسطى للحياة الفطرية",
+"ctx": "om:PZ.3",
+"i": 2213
+},
+{
+"en": "Bahla Fort (World Heritage, 1987)",
+"ar": "قلعة بهلاء (تراث عالمي، 1987)",
+"ctx": "om:PZ.4",
+"i": 2214
+},
+{
+"en": "Inscribed in 1987; reopened to visitors in 2012 after restoration.",
+"ar": "أُدرجت عام 1987؛ أُعيد فتحها للزوار عام 2012 بعد الترميم.",
+"ctx": "om:PZ.4.note",
+"i": 2215
+},
+{
+"en": "Bat, Al-Khutm and Al-Ayn (World Heritage, 1988)",
+"ar": "بات والخطم والعين (تراث عالمي، 1988)",
+"ctx": "om:PZ.5",
+"i": 2216
+},
+{
+"en": "Inscribed in 1988. Open sites; the Al-Ayn tombs are best seen in the late afternoon.",
+"ar": "أُدرجت عام 1988. مواقع مفتوحة؛ قبور العين تُرى أفضل في آخر النهار.",
+"ctx": "om:PZ.5.note",
+"i": 2217
+},
+{
+"en": "Land of Frankincense (World Heritage, 2000)",
+"ar": "أرض اللبان (تراث عالمي، 2000)",
+"ctx": "om:PZ.6",
+"i": 2218
+},
+{
+"en": "Four components: Wadi Dawkah, Shisr, Khor Rori and Al-Baleed. Museum at Al-Baleed.",
+"ar": "أربعة مكوّنات: وادي دوكة وشصر وخور روري والبليد. متحف في البليد.",
+"ctx": "om:PZ.6.note",
+"i": 2219
+},
+{
+"en": "Aflaj Irrigation Systems (World Heritage, 2006)",
+"ar": "أنظمة الأفلاج (تراث عالمي، 2006)",
+"ctx": "om:PZ.7",
+"i": 2220
+},
+{
+"en": "Five aflaj inscribed in 2006, led by Falaj Daris at Nizwa. All are in daily use.",
+"ar": "خمسة أفلاج أُدرجت عام 2006، أبرزها فلج دارس في نزوى. كلها مستخدمة يوميًا.",
+"ctx": "om:PZ.7.note",
+"i": 2221
+},
+{
+"en": "Ancient City of Qalhat (World Heritage, 2018)",
+"ar": "مدينة قلهات القديمة (تراث عالمي، 2018)",
+"ctx": "om:PZ.8",
+"i": 2222
+},
+{
+"en": "Inscribed in 2018. The Bibi Maryam mausoleum is visible from the road; the site is being prepared for visitors.",
+"ar": "أُدرجت عام 2018. ضريح بيبي مريم يُرى من الطريق؛ الموقع يُجهَّز للزوار.",
+"ctx": "om:PZ.8.note",
+"i": 2223
+},
+{
+"en": "Source: Environment Authority (Oman); UNESCO",
+"ar": "المصدر: هيئة البيئة (عُمان)؛ اليونسكو",
+"ctx": "om:PZT.src",
+"i": 2224
+},
+{
+"en": "Start at the eastern tip of Arabia, where a Bronze Age village traded with India.",
+"ar": "ابدأ من أقصى شرق الجزيرة العربية، حيث تاجرت قرية من العصر البرونزي مع الهند.",
+"ctx": "om:ROUTE.0[4]",
+"i": 2225
+},
+{
+"en": "Inland to Bat, where round towers and beehive tombs stand from the same century.",
+"ar": "إلى الداخل في بات، حيث تقف أبراج دائرية وقبور كخلايا النحل من القرن نفسه.",
+"ctx": "om:ROUTE.1[4]",
+"i": 2226
+},
+{
+"en": "South to Dhofar and the walled port that shipped frankincense to Rome.",
+"ar": "جنوبًا إلى ظفار والميناء المسوّر الذي شحن اللبان إلى روما.",
+"ctx": "om:ROUTE.2[4]",
+"i": 2227
+},
+{
+"en": "Back north to Nizwa, where channels dug 1,500 years ago still water the oasis.",
+"ar": "عُد شمالًا إلى نزوى، حيث ما زالت قنوات حُفرت قبل 1,500 عام تسقي الواحة.",
+"ctx": "om:ROUTE.3[4]",
+"i": 2228
+},
+{
+"en": "To the coast, and a port ruled by a woman that Marco Polo and Ibn Battuta described.",
+"ar": "إلى الساحل، وميناء حكمته امرأة ووصفه ماركو بولو وابن بطوطة.",
+"ctx": "om:ROUTE.4[4]",
+"i": 2229
+},
+{
+"en": "The sea floor on the land",
+"ar": "قاع البحر على اليابسة",
+"ctx": "om:ROUTE.5[2]",
+"i": 2230
+},
+{
+"en": "Now 95 million years back, to the ocean crust that became the Hajar Mountains.",
+"ar": "والآن قبل 95 مليون عام، إلى قشرة المحيط التي صارت جبال الحجر.",
+"ctx": "om:ROUTE.5[4]",
+"i": 2231
+},
+{
+"en": "Climb to the roof of Oman and look a kilometre down into the canyon.",
+"ar": "اصعد إلى سقف عُمان وانظر كيلومترًا إلى الأسفل في الأخدود.",
+"ctx": "om:ROUTE.6[4]",
+"i": 2232
+},
+{
+"en": "End on the fog-wrapped escarpment of Dhofar, where the Arabian leopard still lives.",
+"ar": "واختم على جرف ظفار الملفوف بالضباب، حيث ما زال النمر العربي يعيش.",
+"ctx": "om:ROUTE.7[4]",
+"i": 2233
+},
+{
+"en": "My story for Layers of Oman",
+"ar": "قصتي لطبقات عُمان",
+"ctx": "om:SB.mailSub",
+"i": 2234
+},
+{
+"en": "Back to Oman",
+"ar": "العودة إلى عُمان",
+"ctx": "om:SOONT.back",
+"i": 2235
+},
+{
+"en": "Based on the research of Mike Searle and Jon Cox",
+"ar": "مستندة إلى أبحاث مايك سيرل وجون كوكس",
+"ctx": "om:STORIES.0.credit",
+"i": 2236
+},
+{
+"en": "A Mountain Made of Ocean",
+"ar": "جبل من محيط",
+"ctx": "om:STORIES.0.pages.1.h",
+"i": 2237
+},
+{
+"en": "Stand in a wadi of the Hajar Mountains and look at the dark, rusty rock. It does not look like a sea. Yet geologists call it the Semail ophiolite, and they say it is the largest and best-preserved slab of ocean floor on any continent. It covers more than 10,000 square kilometres.",
+"ar": "قف في أحد أودية جبال الحجر وانظر إلى الصخر الداكن المائل إلى الصدأ. لا يبدو عليه أنه بحر. لكن الجيولوجيين يسمّونه أفيوليت سمائل، ويقولون إنه أكبر لوح من قاع المحيط على أي قارة وأحسنه حفظًا. تمتد مساحته على أكثر من 10,000 كيلومتر مربع.",
+"ctx": "om:STORIES.0.pages.1.p",
+"i": 2238
+},
+{
+"en": "The slab is about 550 kilometres long and 150 kilometres wide. Everything that normally lies hidden under the deep sea, from the lavas on top to the rock of the Earth’s mantle below, sits here in the open air. That is why geologists from every country come to Oman to see it.",
+"ar": "يبلغ طول اللوح نحو 550 كيلومترًا وعرضه نحو 150 كيلومترًا. وكل ما يختبئ عادةً تحت البحر العميق، من الحمم في الأعلى إلى صخر وشاح الأرض في الأسفل، يقف هنا في الهواء الطلق. لهذا يأتي الجيولوجيون من كل البلدان إلى عُمان ليروه.",
+"ctx": "om:STORIES.0.pages.1.p",
+"i": 2239
+},
+{
+"en": "Born Under the Sea",
+"ar": "وُلد تحت البحر",
+"ctx": "om:STORIES.0.pages.2.h",
+"i": 2240
+},
+{
+"en": "The rock was made between 96 and 94 million years ago, when dinosaurs still walked. Deep under an ocean, hot melted rock rose at a spreading centre, where the sea floor pulls apart. The crust formed above a subduction zone, a place where one plate was sliding down beneath another, dipping towards the north-east.",
+"ar": "تكوّن هذا الصخر قبل 96 إلى 94 مليون سنة، حين كانت الديناصورات لا تزال تمشي على الأرض. في أعماق محيط قديم صعدت صخور منصهرة ساخنة عند مركز انتشار، حيث ينفتح قاع البحر وينزلق جانباه. تشكّلت القشرة فوق نطاق اندساس، أي مكان تنزلق فيه صفيحة تحت أخرى، مائلًا نحو الشمال الشرقي.",
+"ctx": "om:STORIES.0.pages.2.p",
+"i": 2241
+},
+{
+"en": "As the young ocean plate was pushed over older rock, the rocks underneath were squeezed and baked. Searle and Cox showed that this baked layer, called the metamorphic sole, reached about 850 degrees Celsius between 95 and 93 million years ago. Hot enough to change rock from the inside.",
+"ar": "وحين دُفعت صفيحة المحيط الفتية فوق صخور أقدم، انضغطت الصخور التي تحتها وسُخّنت. وقد بيّن سيرل وكوكس أن هذه الطبقة المحروقة، وتسمى النعل المتحوّل، بلغت نحو 850 درجة مئوية بين 95 و93 مليون سنة مضت. حرارة تكفي لتغيير الصخر من داخله.",
+"ctx": "om:STORIES.0.pages.2.p",
+"i": 2242
+},
+{
+"en": "Dragged Down, Pushed Up",
+"ar": "سُحب إلى الأعماق ثم دُفع إلى الأعلى",
+"ctx": "om:STORIES.0.pages.3.h",
+"i": 2243
+},
+{
+"en": "Then came the strangest part. In the Late Cretaceous the whole ocean slab was shoved up onto the edge of Arabia. Geologists call this obduction. Normally ocean floor sinks back into the Earth. Here it rode up over the continent instead, like a carpet pushed over the edge of a table.",
+"ar": "ثم جاء الجزء الأغرب. في أواخر العصر الطباشيري دُفع لوح المحيط كله إلى الأعلى فوق حافة الجزيرة العربية. يسمّي الجيولوجيون ذلك الانبساط فوق القارة. في العادة يغوص قاع المحيط عائدًا إلى باطن الأرض، أما هنا فقد ركب فوق القارة، كسجّادة تُدفع فوق حافة طاولة.",
+"ctx": "om:STORIES.0.pages.3.p",
+"i": 2244
+},
+{
+"en": "At As Sifah, near the coast, there are rocks called eclogites. They were once part of the continent, but they were dragged 78 to 90 kilometres down into the Earth and then brought back to the surface. Holding one in your hand, you hold something that visited the deep mantle.",
+"ar": "وفي السيفة، قرب الساحل، توجد صخور تسمى الإكلوجيت. كانت يومًا جزءًا من القارة، لكنها سُحبت إلى عمق 78 إلى 90 كيلومترًا في باطن الأرض ثم أُعيدت إلى السطح. حين تمسك واحدة منها بيدك، فأنت تمسك شيئًا زار الوشاح العميق.",
+"ctx": "om:STORIES.0.pages.3.p",
+"i": 2245
+},
+{
+"en": "A Walk Through the Earth",
+"ar": "نزهة عبر طبقات الأرض",
+"ctx": "om:STORIES.0.pages.4.h",
+"i": 2246
+},
+{
+"en": "The best thing about the ophiolite is that you can walk through it. In a wadi such as Wadi Al Abyad you can cross the whole sequence in a single day. You start with lavas from an ancient volcanic arc and pillow basalts, round lumps of lava that cooled quickly under water.",
+"ar": "أجمل ما في الأفيوليت أنك تستطيع أن تمشي عبره. في وادٍ مثل وادي الأبيض يمكنك عبور التتابع كله في يوم واحد. تبدأ بحمم من قوس بركاني قديم وبازلت وسادي، وهو كتل مستديرة من الحمم بردت بسرعة تحت الماء.",
+"ctx": "om:STORIES.0.pages.4.p",
+"i": 2247
+},
+{
+"en": "Then come gabbros, the coarse rock that once sat in magma chambers under the sea floor. Finally you reach more than 12 kilometres of mantle rock called harzburgite. In most of the world this rock lies far below your feet. In Oman, a child can touch it before lunch.",
+"ar": "ثم يأتي الجابرو، الصخر الخشن الذي كان يسكن غرف الصهارة تحت قاع البحر. وأخيرًا تصل إلى أكثر من 12 كيلومترًا من صخر الوشاح المسمى الهارزبرجيت. في معظم أنحاء العالم يرقد هذا الصخر بعيدًا تحت قدميك، أما في عُمان فيستطيع طفل أن يلمسه قبل الغداء.",
+"ctx": "om:STORIES.0.pages.4.p",
+"i": 2248
+},
+{
+"en": "The Other Half of the Story",
+"ar": "النصف الآخر من الحكاية",
+"ctx": "om:STORIES.0.pages.5.h",
+"i": 2249
+},
+{
+"en": "The ophiolite was pushed onto rocks that tell their own story. At Jebel Shams, 3,010 metres high, Wadi Nakhr cuts a canyon more than 1,000 metres deep. Its walls show about 3,000 metres of limestone laid down in warm shallow seas from the Late Permian to the Late Cretaceous.",
+"ar": "دُفع الأفيوليت فوق صخور لها حكايتها الخاصة. عند جبل شمس، بارتفاع 3,010 أمتار، يحفر وادي نخر أخدودًا يزيد عمقه على 1,000 متر. وتُظهر جدرانه نحو 3,000 متر من الحجر الجيري الذي ترسّب في بحار دافئة ضحلة من أواخر العصر البرمي إلى أواخر الطباشيري.",
+"ctx": "om:STORIES.0.pages.5.p",
+"i": 2250
+},
+{
+"en": "These are the Jurassic Sahtan, Cretaceous Kahmah and Natih limestones. The same layers, buried deep under the desert, hold Oman’s oil. So one mountain range shows two seas: a deep ocean floor that climbed onto the land, and a shallow sea whose beds became the country’s wealth.",
+"ar": "هذه هي أحجار سحتن الجوراسية وكحمة ونطيح الطباشيرية. والطبقات نفسها، مدفونة عميقًا تحت الصحراء، تحفظ نفط عُمان. هكذا تُرينا سلسلة جبلية واحدة بحرين: قاع محيط عميق صعد إلى اليابسة، وبحرًا ضحلًا صارت طبقاته ثروة البلاد.",
+"ctx": "om:STORIES.0.pages.5.p",
+"i": 2251
+},
+{
+"en": "Next time you see the dark mountains behind Muscat, remember: you are looking at the bottom of an ocean, lifted into the sky.",
+"ar": "في المرة القادمة التي ترى فيها الجبال الداكنة خلف مسقط، تذكّر: أنت تنظر إلى قاع محيط رُفع إلى السماء.",
+"ctx": "om:STORIES.0.pages.6.p",
+"i": 2252
+},
+{
+"en": "How Oman’s mountains were once the floor of an ocean",
+"ar": "كيف كانت جبال عُمان يومًا قاعَ محيط",
+"ctx": "om:STORIES.0.tag",
+"i": 2253
+},
+{
+"en": "Round and Closed",
+"ar": "مستدير ومغلق",
+"ctx": "om:STORIES.1.pages.1.h",
+"i": 2254
+},
+{
+"en": "Nura walked all the way around the tower, counting her steps. It was round, as wide as twenty men lying head to toe, and made of big fitted stones. She looked for a door. There was none. Not a gap, not a window, just a smooth stone wall that went on and on.",
+"ar": "دارت نورة حول البرج كله وهي تعدّ خطواتها. كان مستديرًا، عرضه كعرض عشرين رجلًا مستلقين رأسًا إلى قدم، ومبنيًا من حجارة كبيرة متراصّة. بحثت عن باب فلم تجد. لا فتحة ولا نافذة، فقط جدار حجري أملس يمتد ويمتد.",
+"ctx": "om:STORIES.1.pages.1.p",
+"i": 2255
+},
+{
+"en": "“Grandmother, how do people get inside?” she asked. Her grandmother laughed. “Who said it is for going inside? Maybe it is for keeping things, or for showing the valley that we are here.” Nura frowned. At Bat there were several such towers, and nobody could tell her what they were for.",
+"ar": "سألت: «يا جدّتي، كيف يدخل الناس إلى داخله؟» ضحكت الجدّة: «ومن قال إنه للدخول؟ ربما هو لحفظ الأشياء، أو ليخبر الوادي بأننا هنا». عبست نورة. في بات أبراج كثيرة من هذا النوع، ولم يستطع أحد أن يقول لها ما نفعها.",
+"ctx": "om:STORIES.1.pages.1.p",
+"i": 2256
+},
+{
+"en": "The Rock Tower of Al-Khutm",
+"ar": "برج الخطم الصخري",
+"ctx": "om:STORIES.1.pages.2.h",
+"i": 2257
+},
+{
+"en": "The next morning Nura and her uncle walked west with the goats. It was not far, about the distance of a long song, two thousand paces from the village. On a spur of rock stood another tower, twenty metres across, with the valley spread beneath it like a mat.",
+"ar": "في الصباح التالي مشت نورة مع عمّها غربًا مع الماعز. لم يكن المكان بعيدًا، نحو ألفي خطوة من القرية، بقدر أغنية طويلة. وعلى نتوء صخري وقف برج آخر، عرضه عشرون مترًا، والوادي منبسط تحته كحصير.",
+"ctx": "om:STORIES.1.pages.2.p",
+"i": 2258
+},
+{
+"en": "“From up here you can see anyone who comes,” her uncle said. “A tower like this guards the gardens and the water.” Nura shaded her eyes. She could see the date palms, the fields and far away the shining threads of the wadi. Whoever built this had chosen the spot with care.",
+"ar": "قال عمّها: «من هنا ترين كل من يأتي. برج كهذا يحرس البساتين والماء». وضعت نورة يدها فوق عينيها. رأت النخيل والحقول، وبعيدًا خيوط الوادي اللامعة. من بنى هذا اختار مكانه بعناية.",
+"ctx": "om:STORIES.1.pages.2.p",
+"i": 2259
+},
+{
+"en": "The Ridge of Beehives",
+"ar": "سلسلة القبور المخروطية",
+"ctx": "om:STORIES.1.pages.3.h",
+"i": 2260
+},
+{
+"en": "In the cool season the family travelled south-east for two days, twenty-two kilometres along the mountain, to Al-Ayn. On a ridge above the village stood a line of stone tombs shaped like beehives, each built from flat stones stacked in rings, narrowing to the top.",
+"ar": "في الموسم البارد سافرت العائلة جنوبًا شرقًا يومين، اثنين وعشرين كيلومترًا على طول الجبل، إلى العين. وعلى سلسلة فوق القرية وقفت قبور حجرية تشبه خلايا النحل، كل واحد مبني من حجارة مسطحة مرصوصة في حلقات تضيق كلما ارتفعت.",
+"ctx": "om:STORIES.1.pages.3.p",
+"i": 2261
+},
+{
+"en": "“Our ancestors are there,” her grandmother said softly. “The old ones who first dug the gardens.” The tombs stood in a row against the great wall of the mountain, so the sunset lit them one after another. Nura thought they looked like a family standing together, watching the valley.",
+"ar": "قالت الجدّة بهدوء: «هناك يرقد أجدادنا، الأوائل الذين حفروا البساتين». وقفت القبور صفًا أمام جدار الجبل العظيم، فأضاءها الغروب واحدًا بعد الآخر. بدت لنورة كعائلة واقفة معًا تراقب الوادي.",
+"ctx": "om:STORIES.1.pages.3.p",
+"i": 2262
+},
+{
+"en": "A Question for the Night",
+"ar": "سؤال لليل",
+"ctx": "om:STORIES.1.pages.4.h",
+"i": 2263
+},
+{
+"en": "That night Nura lay on the roof and thought about the tower without a door. Perhaps it held the village grain, safe from goats and floods. Perhaps it had held water. Perhaps the top was a platform where the elders sat and watched the stars, as she was doing now.",
+"ar": "في تلك الليلة استلقت نورة على السطح وفكّرت في البرج الذي لا باب له. ربما كان يحفظ حبوب القرية بعيدًا عن الماعز والسيول. وربما كان يحفظ الماء. وربما كانت قمّته منصة يجلس عليها الكبار ويراقبون النجوم، كما تفعل هي الآن.",
+"ctx": "om:STORIES.1.pages.4.p",
+"i": 2264
+},
+{
+"en": "She decided she would ask every traveller who came to Bat. Someone, somewhere, must know. And if nobody knew, she would remember the question, and one day someone cleverer would find the answer. She fell asleep counting the stones of the wall in her head.",
+"ar": "قرّرت أن تسأل كل مسافر يصل إلى بات. لا بد أن أحدًا في مكان ما يعرف. وإن لم يعرف أحد، فستحفظ السؤال، وفي يوم ما سيجد شخص أذكى منها الجواب. ونامت وهي تعدّ حجارة الجدار في رأسها.",
+"ctx": "om:STORIES.1.pages.4.p",
+"i": 2265
+},
+{
+"en": "More than four thousand years later, in 1972, a Danish team led by Karen Frifelt dug at Bat and found that people had lived there, without a break, for some 4,000 years. In 1988 the towers and tombs became Oman’s second World Heritage site. And the question of the doorless towers is still being asked.",
+"ar": "بعد أكثر من أربعة آلاف عام، في 1972، نقّب فريق دنماركي بقيادة كارين فريفلت في بات ووجد أن الناس عاشوا هناك دون انقطاع نحو 4,000 عام. وفي 1988 صارت الأبراج والقبور ثاني موقع للتراث العالمي في عُمان. وما زال سؤال الأبراج التي لا أبواب لها يُطرح حتى اليوم.",
+"ctx": "om:STORIES.1.pages.5.p",
+"i": 2266
+},
+{
+"en": "A girl, a round tower and a ridge of tombs, 4,500 years ago",
+"ar": "فتاة وبرج مستدير وسلسلة قبور قبل 4,500 عام",
+"ctx": "om:STORIES.1.tag",
+"i": 2267
+},
+{
+"en": "Waiting for Dark",
+"ar": "في انتظار الظلام",
+"ctx": "om:STORIES.2.pages.1.h",
+"i": 2268
+},
+{
+"en": "Salem had waited all year for this night. His father had driven them to Ras al-Jinz, at the very eastern tip of Arabia, where the reserve protects about 45 kilometres of coast. At the lagoon of Khawr Jarama they watched birds settle in the mangroves while the sun went down.",
+"ar": "انتظر سالم هذه الليلة عامًا كاملًا. قاد والده السيارة بهما إلى رأس الجنز، عند أقصى طرف الجزيرة العربية شرقًا، حيث تحمي المحمية نحو 45 كيلومترًا من الساحل. وعند بحيرة خور جرامة راقبا الطيور تحطّ في أشجار القرم بينما تغرب الشمس.",
+"ctx": "om:STORIES.2.pages.1.p",
+"i": 2269
+},
+{
+"en": "“The rangers say there are about 130 kinds of birds here,” his father said. “Even white storks stop on their way south.” But Salem was not thinking about birds. The ranger had told them to come back after dark, to walk quietly, and never to shine a light at the sea.",
+"ar": "قال والده: «يقول الحرّاس إن هنا نحو 130 نوعًا من الطيور، حتى اللقلق الأبيض يتوقف هنا في طريقه إلى الجنوب». لكن سالمًا لم يكن يفكر في الطيور. فقد قال لهما الحارس أن يعودا بعد الظلام، وأن يمشيا بهدوء، وألّا يسلّطا ضوءًا نحو البحر أبدًا.",
+"ctx": "om:STORIES.2.pages.1.p",
+"i": 2270
+},
+{
+"en": "She Comes Out of the Sea",
+"ar": "تخرج من البحر",
+"ctx": "om:STORIES.2.pages.2.h",
+"i": 2271
+},
+{
+"en": "The ranger led the group along the sand in the dark. Then he stopped and crouched. A shape the size of a table was moving up the beach, slow and heavy, leaving two wide tracks. A green turtle. She had swum back to the beach where she herself had hatched.",
+"ar": "قاد الحارس المجموعة على الرمل في الظلام. ثم توقف وانحنى. كان شكل بحجم طاولة يصعد الشاطئ ببطء وثقل، تاركًا أثرين عريضين. سلحفاة خضراء. عادت سابحةً إلى الشاطئ نفسه الذي فقست فيه.",
+"ctx": "om:STORIES.2.pages.2.p",
+"i": 2272
+},
+{
+"en": "The turtle dug with her back flippers, throwing sand in soft showers. Then she grew very still and laid her eggs in the hole, dozens of them, white and round. “She is crying,” Salem whispered. “Salt water,” the ranger whispered back. “Her eyes are made for the sea, not the sand.”",
+"ar": "حفرت السلحفاة بزعانفها الخلفية، تقذف الرمل في رشّات ناعمة. ثم سكنت تمامًا ووضعت بيضها في الحفرة، عشرات البيضات البيضاء المستديرة. همس سالم: «إنها تبكي». همس الحارس: «ماء مالح. عيناها مصنوعتان للبحر لا للرمل».",
+"ctx": "om:STORIES.2.pages.2.p",
+"i": 2273
+},
+{
+"en": "The Hatchlings Run",
+"ar": "الصغار يركضون",
+"ctx": "om:STORIES.2.pages.3.h",
+"i": 2274
+},
+{
+"en": "Further along the beach the sand itself seemed to move. Tiny turtles, no bigger than Salem’s palm, were scrambling out of a nest and racing towards the pale line of the waves. Some tumbled over, righted themselves and ran on. Nothing could stop them.",
+"ar": "على امتداد الشاطئ بدا الرمل نفسه يتحرك. سلاحف صغيرة، لا تكبر كفّ سالم، تخرج من عشّ وتسابق نحو خط الموج الشاحب. تعثّر بعضها وانقلب ثم اعتدل وواصل الركض. لا شيء يوقفها.",
+"ctx": "om:STORIES.2.pages.3.p",
+"i": 2275
+},
+{
+"en": "“About 20,000 green turtles nest along Oman’s coast,” the ranger said, “on more than 275 beaches, and most of them come here. That is why the reserve was declared on 23 April 1996, and why 14 of us walk these beaches at night.” Salem counted the hatchlings until they vanished into the foam.",
+"ar": "قال الحارس: «نحو 20,000 سلحفاة خضراء تعشّش على ساحل عُمان، على أكثر من 275 شاطئًا، ومعظمها يأتي إلى هنا. لهذا أُعلنت المحمية في 23 أبريل 1996، ولهذا نمشي نحن الأربعة عشر على هذه الشواطئ ليلًا». عدّ سالم الصغار حتى اختفوا في الزبد.",
+"ctx": "om:STORIES.2.pages.3.p",
+"i": 2276
+},
+{
+"en": "The Fishermen on the Mesa",
+"ar": "الصيّادون على الهضبة",
+"ctx": "om:STORIES.2.pages.4.h",
+"i": 2277
+},
+{
+"en": "In the morning his father took him up to the flat hill above the lagoon. Low stone walls lay in the grass. “People lived here more than four thousand years ago,” his father said. “Fishermen. They are the oldest village on this cape, and their graves are up here too, hundreds of them.”",
+"ar": "في الصباح أخذه والده إلى التل المسطح فوق البحيرة. كانت جدران حجرية منخفضة ترقد بين العشب. قال والده: «عاش هنا أناس قبل أكثر من أربعة آلاف عام. صيّادون. هذه أقدم قرية على هذا الرأس، وقبورهم هنا فوق أيضًا، مئات منها».",
+"ctx": "om:STORIES.2.pages.4.p",
+"i": 2278
+},
+{
+"en": "Salem imagined them: men in boats sealed with black bitumen, hooks of copper, nets drying in the wind. Among their things, archaeologists found a piece of pot with writing from the Indus Valley, far across the sea, and a comb carved from Indian ivory. The fishermen of Ras al-Jinz knew the whole world.",
+"ar": "تخيّلهم سالم: رجال في قوارب مطلية بالقار الأسود، وخطاطيف من النحاس، وشباك تجفّ في الريح. وبين أشيائهم وجد علماء الآثار قطعة فخار عليها كتابة من وادي السند، بعيدًا وراء البحر، ومشطًا منحوتًا من عاج هندي. صيّادو رأس الجنز كانوا يعرفون العالم كله.",
+"ctx": "om:STORIES.2.pages.4.p",
+"i": 2279
+},
+{
+"en": "The same sea, the same beach, the same turtles coming home. The fishermen saw it 4,000 years ago, and Salem saw it last night. He hoped a child would see it 4,000 years from now.",
+"ar": "البحر نفسه، والشاطئ نفسه، والسلاحف نفسها تعود إلى بيتها. رآها الصيّادون قبل 4,000 عام، ورآها سالم الليلة الماضية. وتمنّى أن يراها طفل بعد 4,000 عام من الآن.",
+"ctx": "om:STORIES.2.pages.5.p",
+"i": 2280
+},
+{
+"en": "A boy on a beach at night, and the fishermen who watched the same sea",
+"ar": "فتى على شاطئ في الليل، وصيّادون راقبوا البحر نفسه",
+"ctx": "om:STORIES.2.tag",
+"i": 2281
+},
+{
+"en": "Tears of the Tree",
+"ar": "دموع الشجرة",
+"ctx": "om:STORIES.3.pages.1.h",
+"i": 2282
+},
+{
+"en": "Maryam held the basket while her father cut the bark. The frankincense trees of Wadi Dawkah were small and twisted, with papery bark that peeled like old skin. Where he had cut them weeks before, milky drops had hardened into pale yellow lumps. He picked them off one by one.",
+"ar": "أمسكت مريم السلة بينما كان أبوها يشقّ اللحاء. كانت أشجار اللبان في وادي دوكة صغيرة ملتوية، لحاؤها ورقي يتقشّر كجلد قديم. وحيث شقّها قبل أسابيع، تجمّدت قطرات حليبية في كتل صفراء شاحبة. قطفها واحدة واحدة.",
+"ctx": "om:STORIES.3.pages.1.p",
+"i": 2283
+},
+{
+"en": "“They cry, and we collect the tears,” he said. The dry valley smelled sweet and sharp. Maryam knew the trees grew here because of the fog. Every summer the monsoon wrapped the mountains in mist, and the trees drank it. Without the khareef there would be no tears, and no trade.",
+"ar": "قال: «إنها تبكي، ونحن نجمع دموعها». كانت رائحة الوادي الجاف حلوة حادّة. وعرفت مريم أن الأشجار تنمو هنا بسبب الضباب. ففي كل صيف يلفّ موسم الخريف الجبال بالرذاذ، فتشرب الأشجار منه. ومن دون الخريف لا دموع ولا تجارة.",
+"ctx": "om:STORIES.3.pages.1.p",
+"i": 2284
+},
+{
+"en": "Down Through the Fog",
+"ar": "نزولًا عبر الضباب",
+"ctx": "om:STORIES.3.pages.2.h",
+"i": 2285
+},
+{
+"en": "They loaded the camels and set off south towards the sea. As they climbed over the escarpment the air turned cool and wet. Cloud sat on the mountain like a wet blanket. Figs and wild olives dripped. Maryam could hardly see the camel in front of her.",
+"ar": "حمّلوا الجمال وانطلقوا جنوبًا نحو البحر. وحين صعدوا فوق حافة الجبل صار الهواء باردًا رطبًا. جثم السحاب على الجبل كبطانية مبللة. كان التين والزيتون البري يقطران. وبالكاد رأت مريم الجمل الذي أمامها.",
+"ctx": "om:STORIES.3.pages.2.p",
+"i": 2286
+},
+{
+"en": "Then they came down the other side, out of the cloud, and there was the coast, and a lagoon shining like a mirror. On a hill above the water stood a walled town with towers at its gate. “Sumhuram,” her father said. “The port the kings of Hadramawt built to buy our tears.”",
+"ar": "ثم نزلوا من الجانب الآخر، خارج السحاب، وإذا بالساحل أمامهم، وبحيرة تلمع كمرآة. وعلى تل فوق الماء وقفت مدينة مسوّرة لها أبراج عند بوابتها. قال أبوها: «سمهرم. الميناء الذي بناه ملوك حضرموت ليشتروا دموعنا».",
+"ctx": "om:STORIES.3.pages.2.p",
+"i": 2287
+},
+{
+"en": "The Writing in the Gate",
+"ar": "الكتابة في البوابة",
+"ctx": "om:STORIES.3.pages.3.h",
+"i": 2288
+},
+{
+"en": "The gate was a long stone passage with a turn in the middle, so no enemy could rush straight in. On its walls were lines of tall, square letters cut into the stone. Maryam ran her fingers over them. “What do they say?” An old guard smiled. “They name this city. Sumhuram.”",
+"ar": "كانت البوابة ممرًا حجريًا طويلًا فيه انعطاف في الوسط، حتى لا يندفع عدو مباشرة إلى الداخل. وعلى جدرانها سطور من حروف طويلة مربّعة محفورة في الحجر. مرّرت مريم أصابعها عليها: «ماذا تقول؟» ابتسم حارس عجوز: «تسمّي هذه المدينة. سمهرم».",
+"ctx": "om:STORIES.3.pages.3.p",
+"i": 2289
+},
+{
+"en": "Inside were narrow streets, a temple, houses and big stone warehouses. The warehouses were for one thing only: frankincense. Sacks and baskets of it waited in the dark, cool rooms. Maryam’s basket, carried all the way from Wadi Dawkah, was weighed and added to the pile.",
+"ar": "في الداخل أزقّة ضيقة ومعبد وبيوت ومخازن حجرية كبيرة. وكانت المخازن لشيء واحد فقط: اللبان. أكياس وسلال منه تنتظر في الغرف المظلمة الباردة. وُزنت سلة مريم، التي حُملت كل الطريق من وادي دوكة، وأُضيفت إلى الكومة.",
+"ctx": "om:STORIES.3.pages.3.p",
+"i": 2290
+},
+{
+"en": "Ships from Everywhere",
+"ar": "سفن من كل مكان",
+"ctx": "om:STORIES.3.pages.4.h",
+"i": 2291
+},
+{
+"en": "From the walls Maryam watched a ship come into the lagoon. Its sailors spoke a language she had never heard. Her father said some ships came from Rome, far to the west, and others from India, far to the east, and that writers in those lands called this port Moscha.",
+"ar": "من فوق الأسوار راقبت مريم سفينة تدخل البحيرة. كان بحّارتها يتكلمون لغة لم تسمعها قط. قال أبوها إن بعض السفن تأتي من روما بعيدًا في الغرب، وأخرى من الهند بعيدًا في الشرق، وإن الكتّاب في تلك البلاد يسمّون هذا الميناء موشا.",
+"ctx": "om:STORIES.3.pages.4.p",
+"i": 2292
+},
+{
+"en": "“Where does it all go?” she asked. “Into temples and palaces,” he said. “They burn it, and the smoke rises, and they think of the gods. Every one of those grains came from a tree like ours.” Maryam looked at her stained fingers. The whole world smelled of her valley.",
+"ar": "سألت: «وإلى أين يذهب كل هذا؟» قال: «إلى المعابد والقصور. يحرقونه فيصعد الدخان. وكل حبّة من تلك الحبّات جاءت من شجرة كشجرتنا». نظرت مريم إلى أصابعها الملطّخة. العالم كله تفوح منه رائحة واديها.",
+"ctx": "om:STORIES.3.pages.4.p",
+"i": 2293
+},
+{
+"en": "The port of Sumhuram was founded at the end of the first century BC and traded for centuries. Today its walls, its gate inscriptions and its warehouses still stand above Khor Rori, and in Wadi Dawkah the trees are still cut, and still cry.",
+"ar": "أُسّس ميناء سمهرم في نهاية القرن الأول قبل الميلاد وظلّ يتاجر قرونًا. واليوم ما زالت أسواره ونقوش بوابته ومخازنه قائمة فوق خور روري، وفي وادي دوكة ما زالت الأشجار تُشقّ، وما زالت تبكي.",
+"ctx": "om:STORIES.3.pages.5.p",
+"i": 2294
+},
+{
+"en": "A girl carries her family’s frankincense to the port of Sumhuram",
+"ar": "فتاة تحمل لبان عائلتها إلى ميناء سمهرم",
+"ctx": "om:STORIES.3.tag",
+"i": 2295
+},
+{
+"en": "Based on the research of the Wildlife Conservation Society and the Environment Society of Oman",
+"ar": "مستندة إلى أبحاث جمعية الحفاظ على الحياة البرية وجمعية البيئة العُمانية",
+"ctx": "om:STORIES.4.credit",
+"i": 2296
+},
+{
+"en": "A Whale That Stays Home",
+"ar": "حوت يبقى في بيته",
+"ctx": "om:STORIES.4.pages.1.h",
+"i": 2297
+},
+{
+"en": "Almost every humpback whale in the world is a traveller. They feed in cold water near the poles in summer, then swim thousands of kilometres to warm seas to have their calves. Off the coast of Oman lives a humpback that does something no other humpback does. It stays.",
+"ar": "كل الحيتان الحدباء في العالم تقريبًا مسافرة. تتغذى في المياه الباردة قرب القطبين صيفًا، ثم تسبح آلاف الكيلومترات إلى بحار دافئة لتلد صغارها. لكن قبالة ساحل عُمان يعيش حوت أحدب يفعل ما لا يفعله أي حوت أحدب آخر: يبقى.",
+"ctx": "om:STORIES.4.pages.1.p",
+"i": 2298
+},
+{
+"en": "The Arabian Sea humpback whale feeds and breeds in the same waters all year round. Its home, the Oman Arabian Sea Important Marine Mammal Area, covers 96,146 square kilometres of sea. At least 20 kinds of whale and dolphin use it, including blue, Bryde’s and sperm whales.",
+"ar": "يتغذى الحوت الأحدب في بحر العرب ويتكاثر في المياه نفسها طوال العام. ويغطي موطنه، منطقة الثدييات البحرية المهمة في بحر العرب العُماني، 96,146 كيلومترًا مربعًا من البحر. ويستخدمها ما لا يقل عن 20 نوعًا من الحيتان والدلافين، منها الحوت الأزرق وحوت برايد وحوت العنبر.",
+"ctx": "om:STORIES.4.pages.1.p",
+"i": 2299
+},
+{
+"en": "Counting by Tail",
+"ar": "العدّ بالذيل",
+"ctx": "om:STORIES.4.pages.2.h",
+"i": 2300
+},
+{
+"en": "How do you count whales in an ocean? Each humpback has a tail with its own pattern of black and white, like a fingerprint. Between 2000 and 2004 researchers photographed tails off Oman, matched the same whales seen again, and worked out the size of the group.",
+"ar": "كيف تعدّ الحيتان في محيط؟ لكل حوت أحدب ذيل له نقش خاص من الأبيض والأسود، كبصمة الإصبع. بين عامي 2000 و2004 صوّر الباحثون الذيول قبالة عُمان، وطابقوا الحيتان نفسها حين رأوها مرة أخرى، وحسبوا حجم المجموعة.",
+"ctx": "om:STORIES.4.pages.2.p",
+"i": 2301
+},
+{
+"en": "The answer was shocking: about 82 whales, perhaps as few as 60 or as many as 111. One of the smallest humpback populations on Earth. That number is the reason the IUCN lists the Arabian Sea humpback as Endangered.",
+"ar": "كان الجواب صادمًا: نحو 82 حوتًا، ربما 60 فقط أو 111 على الأكثر. واحدة من أصغر جماعات الحيتان الحدباء على الأرض. وهذا الرقم هو سبب إدراج الاتحاد الدولي لحفظ الطبيعة الحوت الأحدب في بحر العرب ضمن الأنواع المهددة بالانقراض.",
+"ctx": "om:STORIES.4.pages.2.p",
+"i": 2302
+},
+{
+"en": "Two Favourite Places",
+"ar": "مكانان مفضّلان",
+"ctx": "om:STORIES.4.pages.3.h",
+"i": 2303
+},
+{
+"en": "In 2014 and 2015 scientists fixed satellite tags to 14 whales and followed them from space. The whales kept returning to two places. One was Hallaniyat Bay off Dhofar, where mothers and calves gather, the whales’ nursery. The other was the Gulf of Masirah, where they feed.",
+"ar": "في عامي 2014 و2015 ثبّت العلماء أجهزة تتبّع بالأقمار الاصطناعية على 14 حوتًا وتابعوها من الفضاء. ظلت الحيتان تعود إلى مكانين. الأول خليج الحلانيات قبالة ظفار، حيث تجتمع الأمهات والصغار، حضانة الحيتان. والثاني خليج مصيرة، حيث تتغذى.",
+"ctx": "om:STORIES.4.pages.3.p",
+"i": 2304
+},
+{
+"en": "The Gulf of Masirah is also the sea beside Barr Al Hikman, the great mudflat where nearly half a million shorebirds winter and the largest seagrass beds in Oman grow. The same rich waters feed the birds, the turtles and the whales.",
+"ar": "وخليج مصيرة هو البحر المجاور لبرّ الحكمان، المسطح الطيني العظيم الذي يقضي فيه نحو نصف مليون طائر شاطئي الشتاء وتنمو فيه أكبر مروج الأعشاب البحرية في عُمان. المياه الغنية نفسها تطعم الطيور والسلاحف والحيتان.",
+"ctx": "om:STORIES.4.pages.3.p",
+"i": 2305
+},
+{
+"en": "A Story Written in DNA",
+"ar": "حكاية مكتوبة في الحمض النووي",
+"ctx": "om:STORIES.4.pages.4.h",
+"i": 2306
+},
+{
+"en": "In 2026 a team led by the Wildlife Conservation Society and the Environment Society of Oman compared the DNA of 2,285 humpback whales from around the world with the DNA of the Oman whales. They used mitochondrial DNA, which is passed from mother to calf.",
+"ar": "في 2026 قارن فريق بقيادة جمعية الحفاظ على الحياة البرية وجمعية البيئة العُمانية الحمض النووي لـ2,285 حوتًا أحدب من أنحاء العالم بالحمض النووي لحيتان عُمان. واستخدموا الحمض النووي للميتوكوندريا، الذي ينتقل من الأم إلى صغيرها.",
+"ctx": "om:STORIES.4.pages.4.p",
+"i": 2307
+},
+{
+"en": "The result: the Arabian Sea whales split from all other humpbacks between 43,000 and 113,000 years ago, and they have the lowest genetic diversity of any humpback group anywhere. The team said they deserve to be recognised as a fourth subspecies of humpback whale.",
+"ar": "والنتيجة: انفصلت حيتان بحر العرب عن كل الحيتان الحدباء الأخرى قبل 43,000 إلى 113,000 عام، ولديها أدنى تنوّع وراثي بين كل مجموعات الحيتان الحدباء في أي مكان. وقال الفريق إنها تستحق أن تُعدّ نوعًا فرعيًا رابعًا من الحوت الأحدب.",
+"ctx": "om:STORIES.4.pages.4.p",
+"i": 2308
+},
+{
+"en": "Eighty-two whales, alone for a hundred thousand years, sharing their sea with fishing nets, ships and noise. They never left Oman. Now it is Oman’s turn to make sure they can stay.",
+"ar": "اثنان وثمانون حوتًا، وحيدة منذ مئة ألف عام، تشارك بحرها شباك الصيد والسفن والضجيج. لم تغادر عُمان قط. والآن جاء دور عُمان لتضمن أنها تستطيع البقاء.",
+"ctx": "om:STORIES.4.pages.5.p",
+"i": 2309
+},
+{
+"en": "A tiny population of humpbacks that stopped migrating long ago",
+"ar": "جماعة صغيرة من الحيتان الحدباء توقفت عن الهجرة منذ زمن بعيد",
+"ctx": "om:STORIES.4.tag",
+"i": 2310
+},
+{
+"en": "A Hole Near the Sea",
+"ar": "حفرة قرب البحر",
+"ctx": "om:STORIES.5.pages.1.h",
+"i": 2311
+},
+{
+"en": "Hamad stood at the edge and looked down. The ground simply stopped. Below him was a pit about fifty metres one way and seventy the other, twenty metres deep, with water at the bottom so blue-green it seemed to glow. The sea was only six hundred metres away.",
+"ar": "وقف حمد عند الحافة ونظر إلى الأسفل. كانت الأرض تنتهي فجأة. تحته حفرة طولها نحو خمسين مترًا وعرضها سبعون، وعمقها عشرون مترًا، وفي قاعها ماء أزرق مخضرّ يكاد يتوهّج. ولم يكن البحر يبعد سوى ستمئة متر.",
+"ctx": "om:STORIES.5.pages.1.p",
+"i": 2312
+},
+{
+"en": "“Hawiyat Najm,” his grandfather said. “The deep well of the falling star. When I was your age, people said a star fell from the sky and punched this hole.” Hamad looked up at the clear sky, then down at the glowing water. It was a good story. But was it true?",
+"ar": "قال جدّه: «هوية نجم. البئر العميقة للنجم الساقط. حين كنت في مثل عمرك كان الناس يقولون إن نجمًا سقط من السماء وثقب هذه الحفرة». نظر حمد إلى السماء الصافية، ثم إلى الماء المتوهّج. كانت حكاية جميلة. لكن هل هي صحيحة؟",
+"ctx": "om:STORIES.5.pages.1.p",
+"i": 2313
+},
+{
+"en": "The Rock That Melts",
+"ar": "الصخر الذي يذوب",
+"ctx": "om:STORIES.5.pages.2.h",
+"i": 2314
+},
+{
+"en": "His cousin Latifa, who studied geology, had come with them. She picked up a pale grey stone. “Limestone,” she said. “It is made of the shells of tiny sea creatures, pressed together. And here is its secret: rainwater can dissolve it, very slowly, the way a sugar cube dissolves in tea.”",
+"ar": "جاءت معهم ابنة عمّه لطيفة، وكانت تدرس الجيولوجيا. التقطت حجرًا رماديًا شاحبًا وقالت: «حجر جيري. مصنوع من أصداف كائنات بحرية صغيرة انضغطت معًا. وهذا سرّه: ماء المطر يستطيع أن يذيبه ببطء شديد، كما يذوب مكعّب السكر في الشاي».",
+"ctx": "om:STORIES.5.pages.2.p",
+"i": 2315
+},
+{
+"en": "“Underground, the water ate out a hollow in the limestone. For a long time the roof held. Then one day it could not, and it fell in. No star. Just water and time.” Hamad was a little disappointed, and then, thinking about it, more amazed than before.",
+"ar": "«تحت الأرض أكل الماء تجويفًا في الحجر الجيري. صمد السقف زمنًا طويلًا. ثم جاء يوم لم يعد يحتمل، فانهار. لا نجم. مجرد ماء وزمن». شعر حمد بشيء من الخيبة، ثم حين فكّر في الأمر، صار أكثر انبهارًا من قبل.",
+"ctx": "om:STORIES.5.pages.2.p",
+"i": 2316
+},
+{
+"en": "Into the Mountain",
+"ar": "إلى داخل الجبل",
+"ctx": "om:STORIES.5.pages.3.h",
+"i": 2317
+},
+{
+"en": "A week later Latifa took him to the mountains, to Al Hoota Cave at the foot of Jebel Shams. “This is what a hollow looks like before the roof falls in,” she said. They walked 500 metres along a lit path into the dark. The cave is about five kilometres long and two million years old.",
+"ar": "بعد أسبوع أخذته لطيفة إلى الجبال، إلى كهف الهوتة عند سفح جبل شمس. قالت: «هكذا يبدو التجويف قبل أن ينهار سقفه». مشيا 500 متر على ممر مضاء إلى داخل الظلام. يبلغ طول الكهف نحو خمسة كيلومترات، وعمره نحو مليوني عام.",
+"ctx": "om:STORIES.5.pages.3.p",
+"i": 2318
+},
+{
+"en": "Stone icicles hung from the roof and rose from the floor. The air was cool and smelled of wet rock. Then the path ended at the edge of an underground lake, black and still, stretching 800 metres into the mountain. Hamad held his breath. It was like standing inside the Earth.",
+"ar": "تدلّت من السقف أعمدة حجرية كرقاقات الجليد، وارتفعت أخرى من الأرض. كان الهواء باردًا تفوح منه رائحة الصخر المبلّل. ثم انتهى الممر عند حافة بحيرة جوفية، سوداء ساكنة، تمتد 800 متر في قلب الجبل. حبس حمد أنفاسه. كأنه يقف داخل الأرض.",
+"ctx": "om:STORIES.5.pages.3.p",
+"i": 2319
+},
+{
+"en": "Fish Without Eyes",
+"ar": "أسماك بلا عيون",
+"ctx": "om:STORIES.5.pages.4.h",
+"i": 2320
+},
+{
+"en": "Something moved in the lake. Small pale fish, drifting near the edge. “Look at their faces,” Latifa whispered. Hamad looked. The fish had no eyes. “The Omani blind cave fish. They are born with eyes, but in the dark the adults lose them. Why keep eyes where there is nothing to see?”",
+"ar": "تحرّك شيء في البحيرة. أسماك صغيرة شاحبة تنساب قرب الحافة. همست لطيفة: «انظر إلى وجوهها». نظر حمد. لم يكن للأسماك عيون. «سمكة الكهف العُمانية العمياء. تُولد بعيون، لكن الكبار يفقدونها في الظلام. لماذا تحتفظ بعيون حيث لا شيء تراه؟»",
+"ctx": "om:STORIES.5.pages.4.p",
+"i": 2321
+},
+{
+"en": "More than a hundred kinds of animal live in the cave, she told him: bats, hunting spiders, water beetles. And the stalagmites on the floor grow a little each year from dripping water, so scientists can read them like tree rings and find out when Arabia was dry, long ago.",
+"ar": "وأخبرته أن أكثر من مئة نوع من الحيوانات تعيش في الكهف: خفافيش وعناكب صيّادة وخنافس مائية. وأن الصواعد على الأرض تنمو قليلًا كل عام من الماء المتقاطر، فيستطيع العلماء قراءتها كحلقات الأشجار ومعرفة متى كانت الجزيرة العربية جافة قديمًا.",
+"ctx": "om:STORIES.5.pages.4.p",
+"i": 2322
+},
+{
+"en": "Back at Hawiyat Najm, Hamad told his grandfather the true story of the hole. His grandfather listened, nodded, and said: “Water and time. That is a harder thing to believe than a star.”",
+"ar": "عند هوية نجم مرة أخرى، روى حمد لجدّه الحكاية الحقيقية للحفرة. أصغى الجدّ وهزّ رأسه وقال: «ماء وزمن. تصديق هذا أصعب من تصديق النجم».",
+"ctx": "om:STORIES.5.pages.5.p",
+"i": 2323
+},
+{
+"en": "A boy, a hole in the ground and the secret of dissolving rock",
+"ar": "فتى وحفرة في الأرض وسرّ الصخر الذائب",
+"ctx": "om:STORIES.5.tag",
+"i": 2324
+},
+{
+"en": "Based on the research of A. Willson and colleagues",
+"ar": "مستندة إلى أبحاث أ. ويلسون وزملائه",
+"ctx": "om:STORIES.6.credit",
+"i": 2325
+},
+{
+"en": "An Island of Turtles",
+"ar": "جزيرة السلاحف",
+"ctx": "om:STORIES.6.pages.1.h",
+"i": 2326
+},
+{
+"en": "Masirah Island has 83 kilometres of beaches. At night, big turtles with heavy, broad heads crawl out of the waves, dig a hole in the sand and lay their eggs. They are loggerhead turtles, and Masirah is one of the most important places on Earth where they nest.",
+"ar": "لجزيرة مصيرة شواطئ طولها 83 كيلومترًا. وفي الليل تزحف سلاحف كبيرة ذات رؤوس عريضة ثقيلة من بين الموج، فتحفر حفرة في الرمل وتضع بيضها. إنها السلاحف ضخمة الرأس، ومصيرة من أهم الأماكن على الأرض التي تعشّش فيها.",
+"ctx": "om:STORIES.6.pages.1.p",
+"i": 2327
+},
+{
+"en": "The turtles that nest here are the largest loggerhead population in the whole Indian Ocean. That makes Masirah a kind of record book for the species. If something is going wrong for loggerheads in this ocean, the beaches of Masirah are where the numbers will show it.",
+"ar": "والسلاحف التي تعشّش هنا هي أكبر جماعة من السلاحف ضخمة الرأس في المحيط الهندي كله. وهذا يجعل مصيرة أشبه بسجلّ لهذا النوع. فإن كان شيء يسير على غير ما يرام للسلاحف ضخمة الرأس في هذا المحيط، فشواطئ مصيرة هي المكان الذي ستكشفه فيه الأرقام.",
+"ctx": "om:STORIES.6.pages.1.p",
+"i": 2328
+},
+{
+"en": "Counting in the Sand",
+"ar": "العدّ في الرمل",
+"ctx": "om:STORIES.6.pages.2.h",
+"i": 2329
+},
+{
+"en": "It is hard to count turtles at sea. But on the beach every female leaves a track, a wide trail of flipper marks from the water to her nest and back again. Scientists walk the same stretches of sand, called index beaches, and count the tracks. Year after year, the counts can be compared.",
+"ar": "من الصعب أن تعدّ السلاحف في البحر. لكن كل أنثى تترك على الشاطئ أثرًا، دربًا عريضًا من علامات الزعانف يمتد من الماء إلى عشّها ثم يعود. ويمشي العلماء على المقاطع نفسها من الرمل، وتسمى الشواطئ الدليلية، ويعدّون الآثار. وهكذا يمكن مقارنة الأعداد عامًا بعد عام.",
+"ctx": "om:STORIES.6.pages.2.p",
+"i": 2330
+},
+{
+"en": "The turtles of Masirah have been watched since 1977. In the first years, from 1977 to 1986, the estimate was enormous: between 20,000 and 40,000 nesting females every year. It was one of the great turtle gatherings of the world.",
+"ar": "تخضع سلاحف مصيرة للمراقبة منذ 1977. وفي السنوات الأولى، من 1977 إلى 1986، كان التقدير هائلًا: ما بين 20,000 و40,000 أنثى تعشّش كل عام. كان ذلك من أعظم تجمّعات السلاحف في العالم.",
+"ctx": "om:STORIES.6.pages.2.p",
+"i": 2331
+},
+{
+"en": "The Numbers Fall",
+"ar": "الأرقام تهبط",
+"ctx": "om:STORIES.6.pages.3.h",
+"i": 2332
+},
+{
+"en": "Willson and his colleagues brought forty years of counts together. For 2008 to 2016 the estimate was 10,223 to 11,500 nesting females a year, laying about 55,000 nests. On the index beaches, the number of tracks fell by 79% between 1985–1996 and 2008–2016.",
+"ar": "جمع ويلسون وزملاؤه أعداد أربعين عامًا معًا. فكان التقدير للفترة من 2008 إلى 2016 ما بين 10,223 و11,500 أنثى تعشّش كل عام، تضع نحو 55,000 عشّ. وعلى الشواطئ الدليلية انخفض عدد الآثار بنسبة 79% بين الفترة 1985–1996 والفترة 2008–2016.",
+"ctx": "om:STORIES.6.pages.3.p",
+"i": 2333
+},
+{
+"en": "A loggerhead generation is about 47 years, so the drop came within a single lifetime of the turtles themselves. And by 2019 the density of nesting had fallen further still. Masirah is still a globally important beach, but it is emptying.",
+"ar": "يبلغ عمر الجيل الواحد من السلاحف ضخمة الرأس نحو 47 عامًا، أي أن هذا الهبوط حدث في عمر جيل واحد من السلاحف نفسها. وبحلول 2019 كانت كثافة التعشيش قد انخفضت أكثر. ما زالت مصيرة شاطئًا مهمًا على مستوى العالم، لكنها تفرغ.",
+"ctx": "om:STORIES.6.pages.3.p",
+"i": 2334
+},
+{
+"en": "Caught in the Nets",
+"ar": "عالقة في الشباك",
+"ctx": "om:STORIES.6.pages.4.h",
+"i": 2335
+},
+{
+"en": "Why? The team pointed to bycatch as the most likely cause: turtles caught by accident in gear meant for fish. Community surveys in 2013 estimated that 1,640 to 1,770 loggerheads a year were being caught in small-scale gillnets.",
+"ar": "لماذا؟ أشار الفريق إلى الصيد العرضي بوصفه السبب الأرجح: سلاحف تعلق مصادفةً في معدّات صُنعت لصيد السمك. وقدّرت استبيانات المجتمع المحلي في 2013 أن ما بين 1,640 و1,770 سلحفاة ضخمة الرأس تعلق كل عام في الشباك الخيشومية للصيد الحرفي.",
+"ctx": "om:STORIES.6.pages.4.p",
+"i": 2336
+},
+{
+"en": "A gillnet hangs in the water like an invisible curtain. A turtle that swims into it can be held under and drown, because it must come up to breathe air. Demersal trawling, dragging nets along the sea floor, has been illegal in Oman since 2011. The question now is how to make the gillnets safer too.",
+"ar": "تتدلّى الشبكة الخيشومية في الماء كستارة لا تُرى. والسلحفاة التي تسبح نحوها قد تُحبس تحت الماء فتغرق، لأنها تحتاج إلى الصعود لتتنفس الهواء. وقد صار الصيد بشباك الجرّ القاعية، التي تُسحب على قاع البحر، ممنوعًا في عُمان منذ 2011. والسؤال الآن هو كيف تُجعل الشباك الخيشومية أكثر أمانًا أيضًا.",
+"ctx": "om:STORIES.6.pages.4.p",
+"i": 2337
+},
+{
+"en": "Forty years of tracks in the sand tell a clear story. The loggerheads of Masirah are still coming home, but fewer every year. Each track counted is a message from the sea, and this one is a warning.",
+"ar": "أربعون عامًا من الآثار في الرمل تروي حكاية واضحة. ما زالت السلاحف ضخمة الرأس تعود إلى بيتها في مصيرة، لكنها تقلّ كل عام. وكل أثر يُعدّ رسالة من البحر، وهذه الرسالة تحذير.",
+"ctx": "om:STORIES.6.pages.5.p",
+"i": 2338
+},
+{
+"en": "Forty years of counting loggerhead turtles on one island, and what the numbers say",
+"ar": "أربعون عامًا من عدّ السلاحف ضخمة الرأس على جزيرة واحدة، وما تقوله الأرقام",
+"ctx": "om:STORIES.6.tag",
+"i": 2339
+},
+{
+"en": "Into the Khor",
+"ar": "إلى داخل الخور",
+"ctx": "om:STORIES.7.pages.1.h",
+"i": 2340
+},
+{
+"en": "Uncle Rashid steered the dhow round the headland and into Khor Ash Sham, and at once the world changed. Walls of grey rock rose straight out of the water on both sides, so high that Shamsa had to tip her head right back. “About eight hundred metres,” her uncle said. “And the khor runs sixteen kilometres into the mountains.”",
+"ar": "أدار العم راشد المركب حول الرأس ودخل خور الشم، فتغيّر العالم في الحال. ارتفعت جدران من الصخر الرمادي مستقيمةً من الماء على الجانبين، عالية حتى اضطرت شمسة إلى أن تميل برأسها إلى الوراء تمامًا. قال عمّها: «نحو ثمانمئة متر. ويمتد الخور ستة عشر كيلومترًا في قلب الجبال».",
+"ctx": "om:STORIES.7.pages.1.p",
+"i": 2341
+},
+{
+"en": "Shamsa trailed her hand in the calm water. “It looks as if a giant cut the mountain with a knife,” she said. Her uncle laughed. “No giant. A river did it, long ago. This was a valley once, with dry ground at the bottom. Now the sea fills it.”",
+"ar": "مرّرت شمسة يدها في الماء الساكن وقالت: «يبدو كأن عملاقًا شقّ الجبل بسكّين». ضحك عمّها: «لا عملاق. نهر فعل ذلك قبل زمن بعيد. كان هذا واديًا يومًا ما، قاعه أرض يابسة. والآن يملؤه البحر».",
+"ctx": "om:STORIES.7.pages.1.p",
+"i": 2342
+},
+{
+"en": "Not a Fjord",
+"ar": "ليس فيوردًا",
+"ctx": "om:STORIES.7.pages.2.h",
+"i": 2343
+},
+{
+"en": "A visitor on the boat, a woman with a big camera, called the khor a fjord. Rashid shook his head politely. “In the far north of the world, fjords were dug out by glaciers, rivers of ice. But no glaciers have covered Arabia since the Permian, hundreds of millions of years ago. Our inlets are rias: river valleys that the sea has drowned.”",
+"ar": "كانت على المركب زائرة تحمل آلة تصوير كبيرة، فسمّت الخور فيوردًا. هزّ راشد رأسه بأدب وقال: «في أقصى شمال العالم حفرت الأنهار الجليدية الفيوردات. لكن لم يغطِّ الجليد الجزيرة العربية منذ العصر البرمي، قبل مئات الملايين من السنين. خلجاننا خلجان غارقة: أودية أنهار أغرقها البحر».",
+"ctx": "om:STORIES.7.pages.2.p",
+"i": 2344
+},
+{
+"en": "“They look like fjords,” he said, “but water made them, not ice.” Shamsa liked that. It meant the khor had a secret. Far below the boat, under the green water, there had once been the bed of a river.",
+"ar": "وأضاف: «تشبه الفيوردات، لكن الماء هو الذي صنعها لا الجليد». أعجب ذلك شمسة. فهذا يعني أن للخور سرًّا. فبعيدًا تحت المركب، تحت الماء الأخضر، كان يومًا ما مجرى نهر.",
+"ctx": "om:STORIES.7.pages.2.p",
+"i": 2345
+},
+{
+"en": "The Sinking Land",
+"ar": "الأرض التي تغوص",
+"ctx": "om:STORIES.7.pages.3.h",
+"i": 2346
+},
+{
+"en": "“But why did the sea come in?” Shamsa asked. Rashid pointed across the water. “Arabia is pushing into another great plate, the Eurasian plate. The collision began about five million years ago. Our edge of Arabia is being bent down underneath it, like the end of a board pushed under a door.”",
+"ar": "سألت شمسة: «لكن لماذا دخل البحر؟» أشار راشد عبر الماء: «الجزيرة العربية تندفع نحو صفيحة عظيمة أخرى، هي الصفيحة الأوراسية. بدأ هذا التصادم قبل نحو خمسة ملايين سنة. وطرفنا من الجزيرة العربية ينثني نزولًا تحتها، كطرف لوح خشبي يُدفع تحت باب».",
+"ctx": "om:STORIES.7.pages.3.p",
+"i": 2347
+},
+{
+"en": "“So Musandam is sinking, about six millimetres a year. That is less than the width of your finger. But in a long life of eighty years it adds up to about half a metre. Slowly, slowly, the sea has climbed into the valleys.”",
+"ar": "«ولهذا تغوص مسندم نحو ستة مليمترات كل عام. هذا أقل من عرض إصبعك. لكن في عمر طويل من ثمانين عامًا يبلغ المجموع نحو نصف متر. وهكذا، شيئًا فشيئًا، صعد البحر إلى الأودية».",
+"ctx": "om:STORIES.7.pages.3.p",
+"i": 2348
+},
+{
+"en": "A Cliff Like a Book",
+"ar": "جرف كأنه كتاب",
+"ctx": "om:STORIES.7.pages.4.h",
+"i": 2349
+},
+{
+"en": "Shamsa looked at the cliffs again. They were striped, layer on layer. “Each stripe is a page,” said Rashid. “Most of these are Jurassic limestones, about 1,500 metres of them, laid down in an ancient sea. Right down at the waterline the oldest pages show: rocks from the Late Triassic, called the Ghalilah Formation.”",
+"ar": "نظرت شمسة إلى الجروف مرة أخرى. كانت مخطّطة، طبقة فوق طبقة. قال راشد: «كل خط صفحة. معظم هذه أحجار جيرية جوراسية، سُمكها نحو 1,500 متر، ترسّبت في بحر قديم. وعند خط الماء تمامًا تظهر أقدم الصفحات: صخور من أواخر العصر الترياسي، تسمى تكوين غليلة».",
+"ctx": "om:STORIES.7.pages.4.p",
+"i": 2350
+},
+{
+"en": "“And the mountains were squeezed too. Along a great break called the Hagab Thrust, the rocks were pushed together by about fifteen kilometres.” Shamsa pressed her palms together and imagined a whole range of mountains folding up like a rug.",
+"ar": "«وانضغطت الجبال أيضًا. فعلى امتداد كسر عظيم يسمى صدع حقب الزاحف، دُفعت الصخور بعضها نحو بعض بنحو خمسة عشر كيلومترًا». ضمّت شمسة كفّيها وتخيّلت سلسلة جبال كاملة تنطوي كسجّادة.",
+"ctx": "om:STORIES.7.pages.4.p",
+"i": 2351
+},
+{
+"en": "Telegraph Island and the Dolphins",
+"ar": "جزيرة التلغراف والدلافين",
+"ctx": "om:STORIES.7.pages.5.h",
+"i": 2352
+},
+{
+"en": "Further on they passed a small rocky island with old stone foundations on top. “Telegraph Island,” said Rashid. “In 1865 the British built a station here to pass on messages along a telegraph cable. Only three years later, in 1868, they abandoned it.”",
+"ar": "وبعد قليل مرّا بجزيرة صخرية صغيرة فوقها أساسات حجرية قديمة. قال راشد: «جزيرة التلغراف. في 1865 بنى البريطانيون هنا محطة لتمرير الرسائل على امتداد كابل تلغراف. وبعد ثلاث سنوات فقط، في 1868، هجروها».",
+"ctx": "om:STORIES.7.pages.5.p",
+"i": 2353
+},
+{
+"en": "Then a fin cut the water beside the boat, and another, and another. Dolphins! They raced the bow, leaping and blowing. “The khor has plenty of them,” Rashid said. “They like it here.” Shamsa laughed and waved, as if the dolphins might wave back.",
+"ar": "ثم شقّت زعنفة الماء بجانب المركب، ثم أخرى، ثم أخرى. دلافين! سابقت مقدّمة المركب وهي تقفز وتنفث الماء. قال راشد: «في الخور كثير منها. إنها تحب هذا المكان». ضحكت شمسة ولوّحت بيدها، كأن الدلافين ستلوّح لها.",
+"ctx": "om:STORIES.7.pages.5.p",
+"i": 2354
+},
+{
+"en": "On the way home Shamsa looked back at the cliffs glowing in the evening sun. A river had carved the valley, the sea had filled it, and the land was still sinking, six millimetres a year. The khor was not finished. It was still being made.",
+"ar": "في طريق العودة نظرت شمسة إلى الجروف المتوهّجة في شمس المساء. نهر حفر الوادي، والبحر ملأه، والأرض ما زالت تغوص ستة مليمترات كل عام. لم يكتمل الخور بعد. ما زال يُصنع.",
+"ctx": "om:STORIES.7.pages.6.p",
+"i": 2355
+},
+{
+"en": "A girl, her uncle’s dhow and a peninsula that is slowly sinking",
+"ar": "فتاة ومركب عمّها وشبه جزيرة تغوص ببطء",
+"ctx": "om:STORIES.7.tag",
+"i": 2356
+},
+{
+"en": "You crossed seven thousand years of human history and twenty million years of Earth history in ten stops. Keep exploring on your own. There are 34 more places waiting.",
+"ar": "عبرت سبعة آلاف عام من تاريخ الإنسان وعشرين مليون عام من تاريخ الأرض في عشر محطات. واصل الاستكشاف بنفسك، فهناك 34 موقعًا آخر بانتظارك.",
+"ctx": "om:T.doneP",
+"i": 2357
+},
+{
+"en": "Towers and tombs at Bat",
+"ar": "أبراج ومقابر بات",
+"ctx": "om:T.ms",
+"i": 2358
+},
+{
+"en": "Indus seals reach Ras al-Jinz",
+"ar": "أختام السند تصل رأس الجنز",
+"ctx": "om:T.ms",
+"i": 2359
+},
+{
+"en": "Sumhuram ships frankincense",
+"ar": "سمهرم تشحن اللبان",
+"ctx": "om:T.ms",
+"i": 2360
+},
+{
+"en": "Oil exported from Fahud",
+"ar": "تصدير النفط من فهود",
+"ctx": "om:T.ms",
+"i": 2361
+},
+{
+"en": "Search forts, turtles, frankincense…",
+"ar": "ابحث: قلاع، سلاحف، لبان…",
+"ctx": "om:T.searchE",
+"i": 2362
+},
+{
+"en": "44 places where Oman’s deep past still shows",
+"ar": "44 موقعًا يظهر فيها ماضي عُمان العميق",
+"ctx": "om:T.sub",
+"i": 2363
+},
+{
+"en": "Layers of Oman",
+"ar": "طبقات عُمان",
+"ctx": "om:T.title",
+"i": 2364
+},
+{
+"en": "How Oman changed over time",
+"ar": "كيف تغيّرت عُمان عبر الزمن",
+"ctx": "om:T.tlT",
+"i": 2365
+},
+{
+"en": "Muscat",
+"ar": "مسقط",
+"ctx": "om:T.water.city",
+"i": 2366
+},
+{
+"en": "Dhofar",
+"ar": "ظفار",
+"ctx": "om:T.water.dhofar",
+"i": 2367
+},
+{
+"en": "Hajar Mountains",
+"ar": "جبال الحجر",
+"ctx": "om:T.water.hajar",
+"i": 2368
+},
+{
+"en": "",
+"ar": "Layers of Oman · طبقات عُمان",
+"ctx": "om:html",
+"i": 2369
+},
+{
+"en": "At Zekreet the sea floor of 48 million years ago has been cut into tables and mushrooms: a 2 m cap of hard limestone over 10 m of soft marl, with gypsum plateaux between the hills. The wind carries salt, and salt eats the soft rock faster than the hard.",
+"ar": "في زكريت قُطع قاع بحر عمره 48 مليون عام إلى موائد وفطر: غطاء من حجر جيري صلب بسمك مترين فوق 10 أمتار من مارل طري، وهضاب جبسية بين التلال. تحمل الريح الملح، والملح يأكل الصخر الطري أسرع من الصلب.",
+"ctx": "qa:AISTORIES.0.pages.1.p",
+"i": 2370
+},
+{
+"en": "Forty-five kilometres away, Dahl Al Misfir drops 40 m into the ground. Its walls are lined with fibrous gypsum that gives off a faint glow. The crystals come from the Rus and Lower Dammam layers beneath the limestone, and the cave formed when water dissolved the rock below and the roof fell in.",
+"ar": "وعلى بُعد خمسة وأربعين كيلومترًا يهبط دحل المسفر 40 مترًا في الأرض. تكسو جدرانه ألياف جبس تشع توهجًا خافتًا. تأتي البلورات من طبقتي الرس والدمام الأدنى تحت الحجر الجيري، وتكوّن الكهف حين أذاب الماء الصخر في الأسفل فانهار السقف.",
+"ctx": "qa:AISTORIES.0.pages.1.p",
+"i": 2371
+},
+{
+"en": "Seen before: the gypsum caves of Western Ukraine",
+"ar": "حدث من قبل: كهوف الجبس في غرب أوكرانيا",
+"ctx": "qa:AISTORIES.0.pages.2.h",
+"i": 2372
+},
+{
+"en": "The longest gypsum caves on Earth lie under the fields of Western Ukraine, in a single Miocene gypsum bed only 10 to 30 m thick. Water moving through that bed hollowed out hundreds of kilometres of passages.",
+"ar": "تقع أطول كهوف الجبس على وجه الأرض تحت حقول غرب أوكرانيا، في طبقة جبس ميوسينية واحدة لا يتجاوز سمكها 10 إلى 30 مترًا. وقد نحت الماء المتحرك عبر تلك الطبقة مئات الكيلومترات من الممرات.",
+"ctx": "qa:AISTORIES.0.pages.2.p",
+"i": 2373
+},
+{
+"en": "Alexander Klimchouk showed in 1996 that where the gypsum sits in relation to the water table, and how deeply it is buried, decides where caves grow and where the surface collapses into dolines. The map of the sinkholes follows the map of the salt.",
+"ar": "وبيّن ألكسندر كليمتشوك عام 1996 أن موضع الجبس بالنسبة إلى منسوب المياه الجوفية، وعمق دفنه، هما ما يحدد أين تنمو الكهوف وأين ينهار السطح إلى حفر. فخريطة الحفر الانهيارية تتبع خريطة الملح.",
+"ctx": "qa:AISTORIES.0.pages.2.p",
+"i": 2374
+},
+{
+"en": "On this map three records name the same rocks. Qatar has more than 9,700 karst depressions in the Rus and Dammam formations, and Dahl Al Hamam in Doha is one of them. If the gypsum controls where they form, a borehole map of that gypsum would predict the next collapse, and explain why Zekreet looks the way it does.",
+"ar": "على هذه الخريطة تذكر ثلاثة سجلات الصخور نفسها. في قطر أكثر من 9,700 منخفض كارستي في تكويني الرس والدمام، ودحل الحمام في الدوحة واحد منها. فإذا كان الجبس هو ما يحدد أين تتكوّن، فإن خريطة لذلك الجبس من الآبار ستتنبأ بالانهيار القادم، وتفسّر لماذا تبدو زكريت كما تبدو.",
+"ctx": "qa:AISTORIES.0.pages.3.p",
+"i": 2375
+},
+{
+"en": "It could also be simpler than that: limestone dissolving on its own, wind working on a hard cap. The test is to map the salt and see whether the caves and the mushrooms follow it.",
+"ar": "وقد يكون الأمر أبسط من ذلك: حجر جيري يذوب وحده، وريح تعمل في غطاء صلب. والاختبار هو أن نرسم الملح ونرى إن كانت الكهوف والفطر تتبعه.",
+"ctx": "qa:AISTORIES.0.pages.3.p",
+"i": 2376
+},
+{
+"en": "Could one buried layer of gypsum explain both the mushroom rocks of Zekreet and the glowing cave of Dahl Al Misfir?",
+"ar": "هل تفسّر طبقة جبس مدفونة واحدة صخور الفطر في زكريت وكهف دحل المسفر المتوهج معًا؟",
+"ctx": "qa:AISTORIES.0.tag",
+"i": 2377
+},
+{
+"en": "The Salt beneath the Tables",
+"ar": "الملح تحت الموائد",
+"ctx": "qa:AISTORIES.0.title",
+"i": 2378
+},
+{
+"en": "At Al Da’asa, on the west coast, people lit nearly 60 fires over the centuries, pitched tents, ground grain, knapped flint and ate from painted bowls that came across the Arabian Gulf from the Ubaid world of Mesopotamia. They left, and came back, and left again.",
+"ar": "في الدعاسة على الساحل الغربي أشعل الناس نحو ستين موقدًا على مرّ القرون، ونصبوا الخيام، وطحنوا الحبوب، ونحتوا الصوان، وأكلوا من أوانٍ مزخرفة جاءت عبر الخليج العربي من عالم العبيد في بلاد الرافدين. رحلوا، وعادوا، ثم رحلوا من جديد.",
+"ctx": "qa:AISTORIES.1.pages.1.p",
+"i": 2379
+},
+{
+"en": "They needed water. Qatar has more than 9,700 hollows in its limestone, the dahl and rawdat, which collect the little rain that falls. At Umm Al Maa the hollow had wells good enough to name the place; at Barzan a rawda was worth two towers; in Doha, Dahl Al Hamam held a pool of good water in 1908.",
+"ar": "كانوا بحاجة إلى الماء. في حجر قطر الجيري أكثر من 9,700 منخفض، هي الدحول والروضات، تجمع ما يسقط من مطر قليل. في أم الماء كانت آبار المنخفض طيبة حتى سُمّي المكان بها؛ وفي برزان استحقت روضة برجين؛ وفي الدوحة حفظ دحل الحمام بركة ماء طيب عام 1908.",
+"ctx": "qa:AISTORIES.1.pages.1.p",
+"i": 2380
+},
+{
+"en": "Seen before: the Jubbah palaeolake",
+"ar": "حدث من قبل: بحيرة جبّة القديمة",
+"ctx": "qa:AISTORIES.1.pages.2.h",
+"i": 2381
+},
+{
+"en": "In the Nefud Desert of northern Saudi Arabia, a basin at Jubbah once held a lake whenever the climate turned wetter. In 2012 Michael Petraglia and his team showed that stone tools and camps cluster around its old shores, phase after phase.",
+"ar": "في صحراء النفود شمال السعودية، احتضن حوض في جبّة بحيرة كلما صار المناخ أكثر رطوبة. وفي عام 2012 بيّن مايكل بيتراليا وفريقه أن الأدوات الحجرية والمخيمات تتجمع حول شواطئها القديمة، مرحلة بعد مرحلة.",
+"ctx": "qa:AISTORIES.1.pages.2.p",
+"i": 2382
+},
+{
+"en": "The sand around the lake is almost empty of finds. People went where the water was, and dating the lake sediments gave the dates of the people. The landscape kept the appointment book.",
+"ar": "أما الرمل حول البحيرة فيكاد يخلو من اللقى. ذهب الناس حيث الماء، وأعطى تأريخ رواسب البحيرة تواريخ الناس. احتفظ المشهد الطبيعي بدفتر المواعيد.",
+"ctx": "qa:AISTORIES.1.pages.2.p",
+"i": 2383
+},
+{
+"en": "On this map the hollows were already there when the first fires were lit: the karst formed in the wet Middle Pleistocene, long before. If the Ubaid camps follow the hollows, cores from a rawda near Al Da’asa should hold pond mud of the right age, and the next Neolithic site could be found by geology before a spade touches the ground.",
+"ar": "على هذه الخريطة كانت المنخفضات موجودة حين أُشعلت النيران الأولى: فقد تكوّن الكارست في البلايستوسين الأوسط الرطب، قبل ذلك بزمن طويل. فإذا كانت المخيمات العبيدية تتبع المنخفضات، فستحوي عيّنات من روضة قرب الدعاسة طين برك من العمر المناسب، وقد يُعثر على الموقع النيوليثي التالي بالجيولوجيا قبل أن تمس المجرفة الأرض.",
+"ctx": "qa:AISTORIES.1.pages.3.p",
+"i": 2384
+},
+{
+"en": "Or the camps may have followed only the fish and the sheltered bays, with the rain mattering little. A careful survey could tell the two apart.",
+"ar": "أو ربما تبعت المخيمات الأسماك والخلجان المحمية فقط، ولم يكن للمطر شأن يُذكر. ومسح دقيق يمكنه أن يفرّق بين الاحتمالين.",
+"ctx": "qa:AISTORIES.1.pages.3.p",
+"i": 2385
+},
+{
+"en": "Qatar’s oldest camps sit on an almost rainless coast. Perhaps the hollows in the rock told people where to stop.",
+"ar": "تقع أقدم مخيمات قطر على ساحل يكاد يخلو من المطر. ربما أخبرت الحفر في الصخر الناس أين يتوقفون.",
+"ctx": "qa:AISTORIES.1.tag",
+"i": 2386
+},
+{
+"en": "Sixty Fires and a Hollow Full of Rain",
+"ar": "ستون موقدًا ومنخفض مليء بالمطر",
+"ctx": "qa:AISTORIES.1.title",
+"i": 2387
+},
+{
+"en": "South of Mesaieed lies a salt flat 55 km long. Geologists read it as a lagoon that filled up with sand blown in by the wind. Gypsum cemented the inland part about 6,000 years ago, crusted the middle about 4,000 years ago, and has barely touched the coast, which is only 2,000 years old. The shore walked seaward, and the sea gave way.",
+"ar": "جنوب مسيعيد تمتد سبخة طولها 55 كم. يقرؤها الجيولوجيون بحيرة شاطئية امتلأت برمل حملته الريح. أسمنت الجبس جزءها الداخلي قبل نحو 6,000 عام، وغطى وسطها بقشور قبل نحو 4,000 عام، ولم يكد يمس ساحلها الذي لا يتجاوز عمره 2,000 عام. مشى الشاطئ نحو البحر، وتراجع البحر.",
+"ctx": "qa:AISTORIES.2.pages.1.p",
+"i": 2388
+},
+{
+"en": "Keep going south and the dunes begin, crescents of sand with almost no plants on them, pushed south-east by the shamal. They do not stop at Khor Al Adaid. They slide into its water, and along its edges sabkhas are already growing out toward the sea.",
+"ar": "واصل جنوبًا فتبدأ الكثبان، أهلّة من رمل يكاد يخلو من النبات، تدفعها ريح الشمال إلى الجنوب الشرقي. ولا تتوقف عند خور العديد. بل تنزلق في مائه، وعلى حوافه تنمو السباخ بالفعل نحو البحر.",
+"ctx": "qa:AISTORIES.2.pages.1.p",
+"i": 2389
+},
+{
+"en": "Seen before: the drowned dunes of the Emirates coast",
+"ar": "حدث من قبل: كثبان ساحل الإمارات الغارقة",
+"ctx": "qa:AISTORIES.2.pages.2.h",
+"i": 2390
+},
+{
+"en": "Along the coast of the United Arab Emirates, Anthony Kirkham showed in 1998 that old dunes of carbonate sand, drowned when the sea rose after the last ice age, became the skeleton of today’s lagoons and barrier islands.",
+"ar": "على ساحل الإمارات العربية المتحدة بيّن أنتوني كيركهام عام 1998 أن كثبانًا قديمة من رمل كربوناتي، غرقت حين ارتفع البحر بعد العصر الجليدي الأخير، صارت هيكل بحيرات اليوم الشاطئية وجزره الحاجزة.",
+"ctx": "qa:AISTORIES.2.pages.2.p",
+"i": 2391
+},
+{
+"en": "Where wind-blown sand and tidal flats met sheltered water, the water filled in and a sabkha took its place. Lagoon, then flat, then salt: the southern shore of the Arabian Gulf has run this sequence before, and the rocks remember it.",
+"ar": "وحيث التقى رمل الريح والمسطحات المدّية بماء محمي، امتلأ الماء وحلت السبخة محله. بحيرة، ثم مسطح، ثم ملح: الساحل الجنوبي للخليج العربي أجرى هذا التسلسل من قبل، والصخور تتذكره.",
+"ctx": "qa:AISTORIES.2.pages.2.p",
+"i": 2392
+},
+{
+"en": "On this map the three records sit in a line along the same wind: a finished sabkha, a dune field with a nearly empty sand supply, and a lagoon catching that sand today. If the Inland Sea is filling, cores from its floor will show the sand layers thickening, and old photographs will show its shore creeping outward.",
+"ar": "على هذه الخريطة تصطف السجلات الثلاثة على خط ريح واحد: سبخة اكتملت، وحقل كثبان يكاد مخزون رمله يفرغ، وبحيرة تلتقط ذلك الرمل اليوم. فإذا كان البحر الداخلي يمتلئ، فستُظهر العيّنات من قاعه طبقات الرمل تزداد سمكًا، وستُظهر الصور القديمة شاطئه يزحف إلى الخارج.",
+"ctx": "qa:AISTORIES.2.pages.3.p",
+"i": 2393
+},
+{
+"en": "But the tide runs 10 km through the channel twice a day and may carry the sand back out, and the dunes may run dry before the lagoon does. The hourglass idea needs measuring before anyone believes it.",
+"ar": "لكن المد يجري 10 كم عبر القناة مرتين في اليوم وقد يحمل الرمل إلى الخارج من جديد، وقد تجف الكثبان قبل أن تمتلئ البحيرة. وفكرة الساعة الرملية تحتاج إلى قياس قبل أن يصدقها أحد.",
+"ctx": "qa:AISTORIES.2.pages.3.p",
+"i": 2394
+},
+{
+"en": "A salt flat at Mesaieed was once a lagoon. The dunes now pouring into Khor Al Adaid may be writing the same story again.",
+"ar": "كانت سبخة مسيعيد يومًا بحيرة شاطئية. والكثبان التي تنهال اليوم في خور العديد قد تكتب القصة نفسها من جديد.",
+"ctx": "qa:AISTORIES.2.tag",
+"i": 2395
+},
+{
+"en": "An Hourglass of Sand and Tide",
+"ar": "ساعة رملية من رمل ومد",
+"ctx": "qa:AISTORIES.2.title",
+"i": 2396
+},
+{
+"en": "On Al Khor Island, about 3,000,000 shells of the murex snail lie crushed beside Kassite pottery of 1400 to 1100 BC. The snail gives a purple dye, and the heap is claimed as the earliest known purple-dye works in the world.",
+"ar": "في جزيرة الخور تقبع نحو 3,000,000 صدفة لقوقع الموريكس مسحوقة بجانب فخار كاشي من 1400 إلى 1100 قبل الميلاد. يعطي القوقع صبغة أرجوانية، ويُقال إن الكومة أقدم مصنع معروف للأرجوان في العالم.",
+"ctx": "qa:AISTORIES.3.pages.1.p",
+"i": 2397
+},
+{
+"en": "Sixty kilometres to the north-west, at Ain Mohammed, archaeologists have uncovered an Abbasid building of about 780 to 830 AD: three units of paired rooms with plastered basins, platforms and drains through the walls, and no kitchens. The team thinks wool was washed and dyed there. The record does not say which dye.",
+"ar": "وعلى بعد ستين كيلومترًا إلى الشمال الغربي، في عين محمد، كشف الآثاريون مبنى عباسيًا من نحو 780 إلى 830 للميلاد: ثلاث وحدات من غرف متجاورة فيها أحواض مجصّصة ومنصات ومصارف تخترق الجدران، ولا مطابخ. ويرى الفريق أن الصوف كان يُغسل ويُصبغ هناك. لكن السجل لا يذكر أي صبغة.",
+"ctx": "qa:AISTORIES.3.pages.1.p",
+"i": 2398
+},
+{
+"en": "Seen before: the chemistry of royal purple",
+"ar": "حدث من قبل: كيمياء الأرجوان الملكي",
+"ctx": "qa:AISTORIES.3.pages.2.h",
+"i": 2399
+}
+]

@@ -1,0 +1,96 @@
+[
+ {
+  "id": "jabal-shada",
+  "n": "Jabal Shada al-A’la Nature Reserve",
+  "na": "محمية جبل شدا الأعلى",
+  "c": "ecology",
+  "ic": "plant",
+  "era": "N",
+  "s": "Granite mountain reserve with about 500 plant species",
+  "lat": 19.8456,
+  "lng": 41.3178,
+  "p": "Present",
+  "dr": "Protected 2002",
+  "el": "68.62 km², up to about 2,222 m",
+  "t0": 24,
+  "t1": 0,
+  "te": "The granite island of plants",
+  "ta": "جزيرة النباتات الجرانيتية",
+  "se": "An isolated granite mountain in Al-Bahah sheltering about 500 plant species and flies new to Saudi Arabia",
+  "sa": "جبل جرانيتي منعزل في الباحة يأوي نحو 500 نوع نباتي وذبابًا لم يُسجَّل في السعودية من قبل",
+  "desc": "An isolated granite massif in Al-Mekhwa District, Al-Bahah, protected in 2002 over 68.62 km² and rising to about 2,222 m. About 500 plant species are recorded, including endemic and Afrotropical relict taxa. A survey found 119 fly species in 87 genera and 30 families, 14 of them first records for Saudi Arabia; the reserve also supports south-west Arabian mountain wildlife. Reported as IUCN category II by the National Center for Wildlife.",
+  "sig": "A centre of plant and insect diversity in south-western Arabia with African affinities.",
+  "ex": "National Center for Wildlife; El-Hawagry et al. (2016)",
+  "disc": [
+   "About 500 plant species",
+   "14 fly species new to Saudi Arabia"
+  ],
+  "refs": [
+   "El-Hawagry, M.S., Abdel-Dayem, M.S., Elgharbawy, A.A. & Al Dhafer, H.M. (2016). A preliminary account of the fly fauna in Jabal Shada al-A’la Nature Reserve, Saudi Arabia, with new records and biogeographical remarks. ZooKeys 636, 107–139. https://doi.org/10.3897/zookeys.636.9905"
+  ],
+  "conf": "Coordinates are the centre of the published reserve bounds"
+ },
+ {
+  "id": "jurash",
+  "n": "Jurash",
+  "na": "جرش",
+  "c": "archaeological",
+  "ic": "wall",
+  "era": "H",
+  "s": "Fortified town on Wadi Bisha, from South Arabian walls to early mosques",
+  "lat": 18.2027,
+  "lng": 42.8241,
+  "p": "3rd century BC – early 11th century AD",
+  "dr": "Pre-Islamic fort c. 3rd century BC–early 7th century AD; Early Islamic town 7th–early 11th century AD",
+  "el": "Walls of huge granite and gneiss blocks",
+  "t0": 2250,
+  "t1": 980,
+  "te": "The town the floods kept burying",
+  "ta": "المدينة التي ظلّت السيول تدفنها",
+  "se": "A fort of giant granite blocks in Asir, later a town with two mosques, buried again and again by the floods of Wadi Bisha",
+  "sa": "حصن من كتل جرانيتية ضخمة في عسير، صار لاحقًا بلدة بمسجدين، ودفنته سيول وادي بيشة مرة بعد مرة",
+  "desc": "A settlement on Wadi Bisha in Asir Province, about 12 km south-east of Khamis Mushait, with two main phases. A pre-Islamic fortified settlement (about the 3rd century BC to the early 7th century AD) has massive defensive walls of local granodiorite-gneiss and granite blocks. An Early Islamic settlement (7th to early 11th century AD) added houses, workshops and two successive mosques built over parts of the earlier fort. Geological study documents repeated destructive flash floods from Wadi Bisha that buried and reshaped the deposits.",
+  "sig": "South Arabian building traditions, continuity into the Early Islamic period, and a clear link between preservation, local rock and long-term river floods.",
+  "ex": "Harrell (2025)",
+  "disc": [
+   "Giant granite block walls",
+   "Two successive mosques",
+   "Repeated flash-flood burial"
+  ],
+  "refs": [
+   "Harrell, J.A. (2025). Archaeological Geology of Jurash, ʿAsīr Province, Southwestern Saudi Arabia. Arabian Archaeology and Epigraphy 36(1), 230–244. https://doi.org/10.1111/aae.12259"
+  ],
+  "conf": "Timeline years are converted from the centuries given in the source"
+ },
+ {
+  "id": "istabl-antar-gorge",
+  "n": "Istabl Antar gorge",
+  "na": "خانق إسطبل عنتر",
+  "c": "geological",
+  "ic": "cliff",
+  "era": "D",
+  "s": "Narrow gorge through the western Khaybar–Kura lava fields",
+  "lat": 25.09866,
+  "lng": 38.88513,
+  "p": "Neogene–Quaternary",
+  "dr": "Neogene–Quaternary basalt",
+  "el": "Gorge through flood basalt",
+  "t0": 23000000,
+  "t1": 0,
+  "te": "A path cut through black lava",
+  "ta": "ممرّ يشقّ الحمم السوداء",
+  "se": "At Istabl Antar a narrow gorge slices through the western edge of the Khaybar–Kura lava fields",
+  "sa": "عند إسطبل عنتر يشقّ خانق ضيق الطرف الغربي لحقلَي خيبر وكورا البركانيين",
+  "desc": "Istabl Antar Station lies at a narrow gorge cutting through the westernmost part of the Khaybar–Kura harrats. The landscape is dominated by basalt grouped in the Neogene–Quaternary flood basalt family. The harrats basalt was designated an IUGS Geoheritage Stone in 2026.",
+  "sig": "A precisely located view into Saudi Arabia’s great basalt province, with value for geo-education and geotourism.",
+  "ex": "IUGS Geoheritage Stones (2026)",
+  "disc": [
+   "Gorge through basalt",
+   "IUGS Geoheritage Stone 2026"
+  ],
+  "refs": [
+   "International Commission on Geoheritage (2026). Harrats Basalt, Saudi Arabia. IUGS Geoheritage Stones. https://iugs-geoheritage.org/geoheritage_stones/harrats-basalt/"
+  ],
+  "conf": "Timeline span is the Neogene–Quaternary range given for the basalt family; the gorge itself is not dated"
+ }
+]

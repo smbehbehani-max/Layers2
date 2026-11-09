@@ -1,0 +1,554 @@
+[
+{
+"id": "bahra-1",
+"n": "Bahra 1",
+"na": "بحرة ١",
+"c": "archaeological",
+"lat": 29.6363,
+"lng": 47.9552
+},
+{
+"id": "h3-site",
+"n": "H3 (Jazirat Dubaji)",
+"na": "H3 جزيرة دوباجي",
+"c": "archaeological",
+"lat": 29.6417,
+"lng": 48.1506
+},
+{
+"id": "subiyah-tumuli",
+"n": "Al-Subiyah Tumuli Cemetery",
+"na": "مقبرة تلال الصبية",
+"c": "archaeological",
+"lat": 29.645,
+"lng": 48.05
+},
+{
+"id": "stone-platforms",
+"n": "Enigmatic Stone Platforms",
+"na": "المنصات الحجرية الغامضة",
+"c": "archaeological",
+"lat": 29.638,
+"lng": 48.08
+},
+{
+"id": "shell-midden-smq24",
+"n": "Shell Midden SMQ 24 (Mughaira)",
+"na": "كومة الأصداف SMQ 24",
+"c": "archaeological",
+"lat": 29.643,
+"lng": 48.02
+},
+{
+"id": "coastal-wells",
+"n": "Coastal Wells (SM 12 & SB 23)",
+"na": "آبار ساحلية",
+"c": "archaeological",
+"lat": 29.635,
+"lng": 48.12
+},
+{
+"id": "torpedo-jar-scatters",
+"n": "Torpedo Jar Pottery Scatters",
+"na": "مواقع جرار الطوربيد",
+"c": "archaeological",
+"lat": 29.62,
+"lng": 48.22
+},
+{
+"id": "kadhima",
+"n": "Kadhima (Kazma)",
+"na": "كاظمة",
+"c": "archaeological",
+"lat": 29.3929,
+"lng": 47.6713
+},
+{
+"id": "failaka-island",
+"n": "Failaka Island",
+"na": "جزيرة فيلكا",
+"c": "archaeological",
+"lat": 29.45,
+"lng": 48.33
+},
+{
+"id": "akkaz-island",
+"n": "Akkaz (Shuwaikh Island)",
+"na": "جزيرة عكاز / الشويخ",
+"c": "archaeological",
+"lat": 29.3601,
+"lng": 47.7835
+},
+{
+"id": "umm-an-namil",
+"n": "Umm an Namil Island",
+"na": "جزيرة أم النمل",
+"c": "archaeological",
+"lat": 29.3817,
+"lng": 47.8669
+},
+{
+"id": "bubiyan-island",
+"n": "Bubiyan Island",
+"na": "جزيرة بوبيان",
+"c": "archaeological",
+"lat": 29.783,
+"lng": 48.183
+},
+{
+"id": "kazma-shoreline",
+"n": "Kazma 6k Shoreline Transition",
+"na": "خط ساحل كاظمة القديم",
+"c": "archaeological",
+"lat": 29.3912,
+"lng": 47.762
+},
+{
+"id": "smq-49-tomb",
+"n": "SMQ 49 Family Tomb",
+"na": "مقبرة SMQ 49 العائلية",
+"c": "archaeological",
+"lat": 29.639,
+"lng": 47.925
+},
+{
+"id": "atraf-ancient-wells",
+"n": "Al-Atraf Ancient Wells",
+"na": "آبار العطرف القديمة",
+"c": "archaeological",
+"lat": 29.412,
+"lng": 47.655
+},
+{
+"id": "ghanim-paleochannel",
+"n": "Ghanim Paleochannel",
+"na": "القناة القديمة في غانم",
+"c": "archaeological",
+"lat": 29.6,
+"lng": 48.05
+},
+{
+"id": "faydhat-nayif-smelter",
+"n": "Faydhat Nayif Smelter",
+"na": "مصهر فيضة نايف",
+"c": "archaeological",
+"lat": 29.664,
+"lng": 47.881
+},
+{
+"id": "kazima-battle-site",
+"n": "Kazima Battle Site",
+"na": "موقع معركة كاظمة",
+"c": "archaeological",
+"lat": 29.38,
+"lng": 47.75
+},
+{
+"id": "subbiya-desert-wall",
+"n": "Subbiya Desert Wall",
+"na": "جدار الصبية الصحراوي",
+"c": "archaeological",
+"lat": 29.65,
+"lng": 48.0
+},
+{
+"id": "jal-az-zor",
+"n": "Jal Az-Zor Escarpment",
+"na": "جال الزور",
+"c": "geological",
+"lat": 29.55,
+"lng": 47.85
+},
+{
+"id": "mud-volcano-z1",
+"n": "Mud Volcano Zone 1 (Z1) — NW Cluster",
+"na": "منطقة البراكين الطينية 1 — الشمالية الغربية",
+"c": "geological",
+"lat": 29.6233,
+"lng": 48.02
+},
+{
+"id": "mud-volcano-z2",
+"n": "Mud Volcano Zone 2 (Z2) — Central Tidal Flat",
+"na": "منطقة البراكين الطينية 2 — السبخة المركزية",
+"c": "geological",
+"lat": 29.6167,
+"lng": 48.025
+},
+{
+"id": "mud-volcano-z3",
+"n": "Mud Volcano Zone 3 (Z3) — SE Marine Terrace",
+"na": "منطقة البراكين الطينية 3 — المصطبة البحرية الجنوبية الشرقية",
+"c": "geological",
+"lat": 29.605,
+"lng": 48.0333
+},
+{
+"id": "khor-subiyah",
+"n": "Khor Al-Subiyah",
+"na": "خور الصبية",
+"c": "geological",
+"lat": 29.6,
+"lng": 48.2
+},
+{
+"id": "coastal-sabkha",
+"n": "Kuwait Bay Coastal Sabkha",
+"na": "سبخات ساحل جون الكويت",
+"c": "geological",
+"lat": 29.5,
+"lng": 47.9
+},
+{
+"id": "kuwait-geopark",
+"n": "Kuwait Geopark",
+"na": "الحديقة الجيولوجية الكويتية",
+"c": "geological",
+"lat": 29.6,
+"lng": 48.0
+},
+{
+"id": "paleo-liquefaction",
+"n": "Paleo-Liquefaction Dikes (Bou-Rabee Field Stops)",
+"na": "سدود التسييل القديمة",
+"c": "geological",
+"lat": 29.6125,
+"lng": 48.04
+},
+{
+"id": "wadi-al-batin",
+"n": "Wadi Al-Batin (Pishon River)",
+"na": "وادي الباطن",
+"c": "geological",
+"lat": 29.3,
+"lng": 47.5
+},
+{
+"id": "bahrah-hydrothermal",
+"n": "Bahrah Deep-Fault Hydrothermal System",
+"na": "نظام بحرة الحراري المائي العميق",
+"c": "geological",
+"lat": 29.62,
+"lng": 47.93
+},
+{
+"id": "gypcrete-formations",
+"n": "Northern Kuwait Gypcrete Formations",
+"na": "تكوينات الجبسكريت في شمال الكويت",
+"c": "geological",
+"lat": 29.65,
+"lng": 47.88
+},
+{
+"id": "sabkha-seismites",
+"n": "Sabkha Seismite & Mud Pillow Field",
+"na": "حقل الزلزاليات والوسائد الطينية",
+"c": "geological",
+"lat": 29.61,
+"lng": 48.06
+},
+{
+"id": "holocene-sea-level",
+"n": "Holocene Paleo-Shoreline & Sea-Level Record",
+"na": "خط الساحل القديم وسجل مستوى البحر",
+"c": "geological",
+"lat": 29.58,
+"lng": 47.97
+},
+{
+"id": "jahra-escarpment-interface",
+"n": "Mutla-Jahra Escarpment Interface",
+"na": "واجهة جرف المطلاع - الجهراء",
+"c": "geological",
+"lat": 29.4314,
+"lng": 47.7359
+},
+{
+"id": "dextral-slip-fault",
+"n": "Jal Az-Zor Dextral-Slip Fault Zone",
+"na": "نطاق صدع جال الزور الانزلاقي الأيمن",
+"c": "geological",
+"lat": 29.6177,
+"lng": 48.0551
+},
+{
+"id": "had-safah-sinkholes",
+"n": "Had Safah Sinkhole Complex",
+"na": "مجمع حفر حد صفاة",
+"c": "geological",
+"lat": 29.5695,
+"lng": 47.8875
+},
+{
+"id": "petrified-wood-field",
+"n": "Permineralized Wood Field (Petrified Forest)",
+"na": "حقل الأخشاب المتحجرة",
+"c": "geological",
+"lat": 29.6406,
+"lng": 47.9398
+},
+{
+"id": "sand-injectite-biotope",
+"n": "Sand Injectite Field & Desert Biotope",
+"na": "حقل حقن الرمال والموئل الصحراوي",
+"c": "geological",
+"lat": 29.6529,
+"lng": 47.9982
+},
+{
+"id": "positive-flower-structure",
+"n": "Positive Flower Structure",
+"na": "تركيب الزهرة الموجب",
+"c": "geological",
+"lat": 29.4815,
+"lng": 47.7749
+},
+{
+"id": "karst-sinkhole-zone",
+"n": "Karst Plain Sinkhole Discovery Zone",
+"na": "منطقة اكتشاف الحفر الكارستية",
+"c": "geological",
+"lat": 29.6215,
+"lng": 48.0122
+},
+{
+"id": "wadi-batin-fault",
+"n": "Wadi Al-Batin Fault",
+"na": "صدع وادي الباطن",
+"c": "geological",
+"lat": 29.18,
+"lng": 46.55
+},
+{
+"id": "dibdibba-alluvial-fan",
+"n": "Dibdibba Alluvial Fan",
+"na": "مروحة الدبدبة الفيضية",
+"c": "geological",
+"lat": 29.15,
+"lng": 46.51
+},
+{
+"id": "subbiya-sandstone-pipes",
+"n": "Subbiya Sandstone Pipes",
+"na": "أنابيب الحجر الرملي في الصبية",
+"c": "geological",
+"lat": 29.6231,
+"lng": 48.0125
+},
+{
+"id": "huwaimiliyah-fossils",
+"n": "Al-Huwaimiliyah Fossils",
+"na": "أحافير الحويملية",
+"c": "geological",
+"lat": 29.815,
+"lng": 47.62
+},
+{
+"id": "anthropic-slope-markers",
+"n": "Anthropic Slope Markers",
+"na": "علامات المنحدرات البشرية",
+"c": "geological",
+"lat": 29.28,
+"lng": 46.72
+},
+{
+"id": "um-al-rimam-yardangs",
+"n": "Um Al-Rimam Yardangs",
+"na": "ياردانغ أم الرمام",
+"c": "geological",
+"lat": 29.56,
+"lng": 47.81
+},
+{
+"id": "sabbiya-varnish-ridge",
+"n": "As-Sabbiya Varnish Ridge",
+"na": "حافة الصبية المطلية",
+"c": "geological",
+"lat": 29.628,
+"lng": 47.985
+},
+{
+"id": "volcanic-flood-erratics",
+"n": "Volcanic Flood Erratics",
+"na": "الصخور البركانية المنقولة",
+"c": "geological",
+"lat": 30.05,
+"lng": 47.01
+},
+{
+"id": "bubiyan-coastal-sabkha",
+"n": "Bubiyan Coastal Sabkha",
+"na": "سبخة بوبيان الساحلية",
+"c": "geological",
+"lat": 29.86,
+"lng": 48.38
+},
+{
+"id": "jal-al-liyah-dunes",
+"n": "Jal Al-Liyah Dunes",
+"na": "كثبان جال الليا",
+"c": "geological",
+"lat": 29.682,
+"lng": 47.551
+},
+{
+"id": "lower-fars-marine-bed",
+"n": "Lower Fars Marine Bed",
+"na": "طبقة فارس البحرية السفلى",
+"c": "geological",
+"lat": 29.44,
+"lng": 47.74
+},
+{
+"id": "mud-volcano-outcrops",
+"n": "Mud-Volcano Outcrops (Northern)",
+"na": "نتوءات البراكين الطينية الشمالية",
+"c": "geological",
+"lat": 29.742,
+"lng": 48.092
+},
+{
+"id": "wadi-batin-playas",
+"n": "Wadi Al-Batin Playas",
+"na": "بحيرات وادي الباطن الجافة",
+"c": "geological",
+"lat": 29.3,
+"lng": 46.66
+},
+{
+"id": "jahra-freshwater-lens",
+"n": "Jahra Freshwater Lens & Red Palace Wells",
+"na": "عدسة المياه العذبة - آبار الجهراء",
+"c": "ecology",
+"lat": 29.3621,
+"lng": 47.6931
+},
+{
+"id": "jahra-halophytes",
+"n": "Halophytic Succession Zone",
+"na": "منطقة التعاقب الملحي النباتي",
+"c": "ecology",
+"lat": 29.3659,
+"lng": 47.6441
+},
+{
+"id": "basra-reed-warbler",
+"n": "Basra Reed Warbler Breeding Pocket",
+"na": "جيب تكاثر هازجة البصرة",
+"c": "ecology",
+"lat": 29.3585,
+"lng": 47.7012
+},
+{
+"id": "jahra-mudflat-nursery",
+"n": "Mudflat Benthic Nursery",
+"na": "حضانة القاع الطيني",
+"c": "ecology",
+"lat": 29.3675,
+"lng": 47.762
+},
+{
+"id": "iris-playa-meadow",
+"n": "Iris Playa Meadow (Khabra)",
+"na": "مرج السوسن - الخبرة",
+"c": "ecology",
+"lat": 29.5262,
+"lng": 47.8138
+},
+{
+"id": "sabriya-oil-ecology",
+"n": "Sabriya Oil Field Ecology",
+"na": "بيئة حقل الصابرية النفطي",
+"c": "ecology",
+"lat": 29.721,
+"lng": 47.854
+},
+{
+"id": "bahra-ecology",
+"n": "Bahra Area Ecology",
+"na": "بيئة منطقة بحرة",
+"c": "ecology",
+"lat": 29.635,
+"lng": 47.92
+},
+{
+"id": "um-al-aish-ecology",
+"n": "Um Al-Aish Ecology",
+"na": "بيئة أم العيش",
+"c": "ecology",
+"lat": 29.568,
+"lng": 47.735
+},
+{
+"id": "sabah-al-ahmad-reserve",
+"n": "Sabah Al-Ahmad Natural Reserve",
+"na": "محمية صباح الأحمد الطبيعية",
+"c": "ecology",
+"lat": 29.576,
+"lng": 47.804
+},
+{
+"id": "burgan-oil-ecology",
+"n": "Burgan Oil Field Ecology",
+"na": "بيئة حقل برقان النفطي",
+"c": "ecology",
+"lat": 29.068,
+"lng": 47.978
+},
+{
+"id": "umm-gudair-ecology",
+"n": "Umm Gudair Field Ecology",
+"na": "بيئة حقل أم قدير",
+"c": "ecology",
+"lat": 28.985,
+"lng": 47.762
+},
+{
+"id": "um-al-rros-ecology",
+"n": "Um Al-Rros Military Base Ecology",
+"na": "بيئة قاعدة أم الروس العسكرية",
+"c": "ecology",
+"lat": 29.152,
+"lng": 47.538
+},
+{
+"id": "khor-sabiyah-marsh",
+"n": "Khor As-Sabiyah Marsh",
+"na": "هور خور الصبية",
+"c": "ecology",
+"lat": 29.584,
+"lng": 48.156
+},
+{
+"id": "mubarak-reserve",
+"n": "Mubarak Reserve",
+"na": "محمية مبارك",
+"c": "ecology",
+"lat": 29.932,
+"lng": 48.181
+},
+{
+"id": "arfaj-steppe-habitat",
+"n": "Arfaj Steppe Habitat",
+"na": "موئل سهوب العرفج",
+"c": "ecology",
+"lat": 29.5,
+"lng": 47.8
+},
+{
+"id": "bubiyan-mangrove-plot",
+"n": "Bubiyan Mangrove Plot",
+"na": "قطعة أشجار القرم في بوبيان",
+"c": "ecology",
+"lat": 29.895,
+"lng": 48.31
+},
+{
+"id": "ahmadi-quarry",
+"n": "Al-Ahmadi Quarry (Dammam Formation outcrop)",
+"na": "محجر الأحمدي (تكشّف تكوين الدمام)",
+"c": "geological",
+"lat": 29.07,
+"lng": 48.07
+}
+]

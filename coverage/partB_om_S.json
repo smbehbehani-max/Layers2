@@ -1,0 +1,27 @@
+{
+ "quota": {
+  "Dhofar": {
+   "archaeological": 4,
+   "geological": 2
+  },
+  "Ad Dakhiliyah": {
+   "geological": 2,
+   "ecology": 1
+  },
+  "South Ash Sharqiyah": {
+   "geological": 2,
+   "archaeological": 2
+  },
+  "North Ash Sharqiyah": {
+   "ecology": 2,
+   "archaeological": 2,
+   "geological": 1
+  },
+  "Al Wusta": {
+   "archaeological": 2,
+   "geological": 2,
+   "ecology": 2
+  }
+ },
+ "focus": "Central and southern Oman: Dhofar coast and monsoon mountains (Mirbat, Taqah, Hasik, Jebel Samhan escarpment, Ain springs, frankincense), Jebel Akhdar / Jebel Shams canyons and caves (Al Hoota), Sharqiyah towns (Ibra, Mudhaibi, Jalan Bani Bu Ali, Sur), Wahiba edges and wadis, Al Wusta coast (Duqm, Barr al Hikman edges, Huqf, Mahout, Masirah region already partly covered). Avoid these, being handled separately: Al Hajar Geopark, Coral Garden and Fish Fossils (Jabal Akhdar), Bawshar, Wadi Al Meeh, Al Dhahirah Natural Reserve, Buraimi Oasis Natural Reserve, Al Jabal Al Gharbi Reserve, Ras Al Shajar, Oman Botanic Garden, Bandar Al Khairan, Rostaq Fort."
+}

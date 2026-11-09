@@ -1,0 +1,3344 @@
+[
+{
+"en": "Salt at Ras al-Barr",
+"ar": "الملح في رأس البر",
+"ctx": "bh:STORIES.7.pages.5.h",
+"i": 788
+},
+{
+"en": "The next weekend they drove to the very south of the island, to Ras al-Barr, where the land is low and flat and white. Yousef knelt and broke a crust with his finger. It crackled like sugar. \"Gypsum and salt,\" said Aunt Huda. \"Sea water and brine soak into the sand, the sun dries them out, and the minerals are left behind as a crust.\"",
+"ar": "في عطلة الأسبوع التالية قادا السيارة إلى أقصى جنوب الجزيرة، إلى رأس البر، حيث الأرض منخفضة مسطحة بيضاء. ركع يوسف وكسر قشرة بإصبعه، فطقطقت كالسكر. قالت العمة هدى: «جبس وملح. يتسرب ماء البحر والماء المالح إلى الرمل، وتجففهما الشمس، فتبقى المعادن قشرةً».",
+"ctx": "bh:STORIES.7.pages.5.p",
+"i": 789
+},
+{
+"en": "\"Out here even the water underground is too salty to use. But the sand gazelle comes here, and the waders stop on their way north and south.\" She pointed back toward the middle of the island. \"Under Jebel Dukhan there is anhydrite made by an older sea, millions of years ago. Here, the same thing is happening today.\"",
+"ar": "«وهنا حتى الماء الجوفي أملح من أن يُستعمل. لكن غزال الريم يأتي إلى هنا، والطيور الخواضة تتوقف في طريقها شمالًا وجنوبًا». وأشارت نحو وسط الجزيرة: «تحت جبل الدخان أنهيدريت صنعه بحر أقدم قبل ملايين السنين. وهنا يحدث الشيء نفسه اليوم».",
+"ctx": "bh:STORIES.7.pages.5.p",
+"i": 790
+},
+{
+"en": "Under the road, the sea keeps a diary of leaving and coming back. At Ras al-Barr, it is still writing the newest page.",
+"ar": "تحت الطريق يحتفظ البحر بمذكرات رحيله وعودته. وفي رأس البر ما زال يكتب أحدث صفحاتها.",
+"ctx": "bh:STORIES.7.pages.6.p",
+"i": 791
+},
+{
+"en": "Yousef learns that the sea under the causeway once went away, and came back",
+"ar": "يوسف يتعلم أن البحر تحت الجسر رحل يومًا ثم عاد",
+"ctx": "bh:STORIES.7.tag",
+"i": 792
+},
+{
+"en": "Barbar Temple I is built",
+"ar": "بناء معبد باربار الأول",
+"ctx": "bh:T.ms",
+"i": 793
+},
+{
+"en": "Dilmun city at Qal’at al-Bahrain",
+"ar": "مدينة دلمون في قلعة البحرين",
+"ctx": "bh:T.ms",
+"i": 794
+},
+{
+"en": "Oil found at Jebel Dukhan",
+"ar": "اكتشاف النفط في جبل الدخان",
+"ctx": "bh:T.ms",
+"i": 795
+},
+{
+"en": "Search temples, pearls, birds…",
+"ar": "ابحث: معابد، لؤلؤ، طيور…",
+"ctx": "bh:T.searchE",
+"i": 796
+},
+{
+"en": "44 places where Bahrain’s deep past still shows",
+"ar": "44 موقعًا يظهر فيها ماضي البحرين العميق",
+"ctx": "bh:T.sub",
+"i": 797
+},
+{
+"en": "Layers of Bahrain",
+"ar": "طبقات البحرين",
+"ctx": "bh:T.title",
+"i": 798
+},
+{
+"en": "How Bahrain changed over time",
+"ar": "كيف تغيّرت البحرين عبر الزمن",
+"ctx": "bh:T.tlT",
+"i": 799
+},
+{
+"en": "Manama",
+"ar": "المنامة",
+"ctx": "bh:T.water.city",
+"i": 800
+},
+{
+"en": "Muharraq",
+"ar": "المحرق",
+"ctx": "bh:T.water.muh",
+"i": 801
+},
+{
+"en": "Sitra",
+"ar": "سترة",
+"ctx": "bh:T.water.sitra",
+"i": 802
+},
+{
+"en": "Umm an Nasan",
+"ar": "أم النعسان",
+"ctx": "bh:T.water.umm",
+"i": 803
+},
+{
+"en": "",
+"ar": "Layers of Bahrain · طبقات البحرين",
+"ctx": "bh:html",
+"i": 804
+},
+{
+"en": "EVERYONE",
+"ar": "الجميع",
+"ctx": "hub:HW.all",
+"i": 805
+},
+{
+"en": "Back",
+"ar": "رجوع",
+"ctx": "hub:HW.back",
+"i": 806
+},
+{
+"en": "Next step",
+"ar": "الخطوة التالية",
+"ctx": "hub:HW.next",
+"i": 807
+},
+{
+"en": "Pause",
+"ar": "إيقاف",
+"ctx": "hub:HW.pause",
+"i": 808
+},
+{
+"en": "Play",
+"ar": "تشغيل",
+"ctx": "hub:HW.play",
+"i": 809
+},
+{
+"en": "papers · news · PDFs · emails",
+"ar": "أوراق · أخبار · ملفات · بريد",
+"ctx": "hub:HW.steps",
+"i": 810
+},
+{
+"en": "Research arrives from many places",
+"ar": "الأبحاث تصل من أماكن كثيرة",
+"ctx": "hub:HW.steps",
+"i": 811
+},
+{
+"en": "Journals, news sites, field reports and the original PDF catalogue all describe these places. Researchers can also send their own stories by email from the Stories shelf.",
+"ar": "المجلات العلمية والمواقع الإخبارية والتقارير الميدانية والكتالوج الأصلي كلها تصف هذه المواقع. ويمكن للباحثين أيضًا إرسال قصصهم بالبريد من رف القصص.",
+"ctx": "hub:HW.steps",
+"i": 812
+},
+{
+"en": "<b>Example source:</b> Archeowieści, 2 Dec 2024: Kuwaiti-Polish team discovers figurine, local pottery, and environmental clues.",
+"ar": "<b>مثال على مصدر:</b> Archeowieści، 2 ديسمبر 2024: الفريق الكويتي البولندي يكتشف تمثالًا وفخارًا محليًا وأدلة بيئية.",
+"ctx": "hub:HW.steps",
+"i": 813
+},
+{
+"en": "Weekly check",
+"ar": "الفحص الأسبوعي",
+"ctx": "hub:HW.steps",
+"i": 814
+},
+{
+"en": "Sundays, every week",
+"ar": "كل أحد أسبوعيًا",
+"ctx": "hub:HW.steps",
+"i": 815
+},
+{
+"en": "Every Sunday, a search runs on its own",
+"ar": "كل أحد يجري بحث تلقائي",
+"ctx": "hub:HW.steps",
+"i": 816
+},
+{
+"en": "A scheduled task searches for anything new about these places. It first reads what is already queued, approved or rejected, so it never suggests the same finding twice.",
+"ar": "تبحث مهمة مجدولة عن أي جديد حول هذه المواقع. وتقرأ أولًا ما هو في القائمة أو معتمد أو مرفوض، فلا تقترح الاكتشاف نفسه مرتين.",
+"ctx": "hub:HW.steps",
+"i": 817
+},
+{
+"en": "<b>Searches like:</b> “Bahra 1 excavation”, “Failaka temple”, “Kuwait mud volcanoes”, “Al-Ahmadi quarry Dammam Formation”.",
+"ar": "<b>عمليات بحث مثل:</b> «تنقيبات بحرة 1»، «معبد فيلكا»، «البراكين الطينية في الكويت»، «محجر الأحمدي تكوين الدمام».",
+"ctx": "hub:HW.steps",
+"i": 818
+},
+{
+"en": "Read & extract",
+"ar": "القراءة والاستخراج",
+"ctx": "hub:HW.steps",
+"i": 819
+},
+{
+"en": "place · date · coordinates",
+"ar": "الموقع · التاريخ · الإحداثيات",
+"ctx": "hub:HW.steps",
+"i": 820
+},
+{
+"en": "Each source is opened and read",
+"ar": "يُفتح كل مصدر ويُقرأ",
+"ctx": "hub:HW.steps",
+"i": 821
+},
+{
+"en": "Facts come only from pages actually opened: the place, the dates, the team, the link, and coordinates when the source states them. The finding is matched to a place on the map, or marked as a new place.",
+"ar": "تُؤخذ الحقائق فقط من صفحات فُتحت فعلًا: الموقع والتواريخ والفريق والرابط، والإحداثيات حين يذكرها المصدر. ثم يُربط الاكتشاف بموقع على الخريطة، أو يُعلَّم كموقع جديد.",
+"ctx": "hub:HW.steps",
+"i": 822
+},
+{
+"en": "<b>Extracted:</b> Place → Bahra 1 · Published → Dec 2024 · Find → Ubaid-style clay head · Team → Kuwaiti-Polish mission.",
+"ar": "<b>المستخرج:</b> الموقع ← بحرة 1 · النشر ← ديسمبر 2024 · الاكتشاف ← رأس طيني على طراز العبيد · الفريق ← البعثة الكويتية البولندية.",
+"ctx": "hub:HW.steps",
+"i": 823
+},
+{
+"en": "Write EN + AR",
+"ar": "الكتابة بلغتين",
+"ctx": "hub:HW.steps",
+"i": 824
+},
+{
+"en": "summary · title · source",
+"ar": "ملخص · عنوان · مصدر",
+"ctx": "hub:HW.steps",
+"i": 825
+},
+{
+"en": "A short summary in English and Arabic",
+"ar": "ملخص قصير بالعربية والإنجليزية",
+"ctx": "hub:HW.steps",
+"i": 826
+},
+{
+"en": "It writes a plain two-to-three sentence summary and title in both languages, uses “Arabian Gulf”, and keeps the source link so anyone can check it.",
+"ar": "يكتب ملخصًا بسيطًا من جملتين أو ثلاث وعنوانًا باللغتين، ويستخدم «الخليج العربي»، ويحتفظ برابط المصدر ليتحقق منه أي أحد.",
+"ctx": "hub:HW.steps",
+"i": 827
+},
+{
+"en": "<b>Title:</b> A unique clay head and the Gulf’s oldest pottery workshop at Bahra 1<br><b>العنوان:</b> رأس طيني فريد وأقدم ورشة فخار في الخليج في بحرة 1",
+"ar": "<b>Title:</b> A unique clay head and the Gulf’s oldest pottery workshop at Bahra 1<br><b>العنوان:</b> رأس طيني فريد وأقدم ورشة فخار في الخليج في بحرة 1",
+"ctx": "hub:HW.steps",
+"i": 828
+},
+{
+"en": "Owner reviews",
+"ar": "مراجعة المالك",
+"ctx": "hub:HW.steps",
+"i": 829
+},
+{
+"en": "approve · reject",
+"ar": "موافقة · رفض",
+"ctx": "hub:HW.steps",
+"i": 830
+},
+{
+"en": "Nothing goes live without the owner",
+"ar": "لا شيء يُنشر دون المالك",
+"ctx": "hub:HW.steps",
+"i": 831
+},
+{
+"en": "Drafts wait in a private queue under What’s new. The owner reads each one with its source and presses Approve or Reject. Viewers never see the queue.",
+"ar": "تنتظر المسودات في قائمة خاصة تحت «الجديد». يقرأ المالك كل واحدة مع مصدرها ويضغط «موافقة» أو «رفض». ولا يرى الزوار هذه القائمة.",
+"ctx": "hub:HW.steps",
+"i": 832
+},
+{
+"en": "<b>In the app:</b> What’s new <span class=\"ubadge\">3</span> → Waiting for your review (3) → Approve.",
+"ar": "<b>في التطبيق:</b> الجديد <span class=\"ubadge\">3</span> ← بانتظار مراجعتك (3) ← موافقة.",
+"ctx": "hub:HW.steps",
+"i": 833
+},
+{
+"en": "What’s new · card · map",
+"ar": "الجديد · البطاقة · الخريطة",
+"ctx": "hub:HW.steps",
+"i": 834
+},
+{
+"en": "Approved findings appear at once",
+"ar": "تظهر الاكتشافات المعتمدة فورًا",
+"ctx": "hub:HW.steps",
+"i": 835
+},
+{
+"en": "Signed-in viewers see the finding immediately in What’s new and as “New research” on the place’s card. A new place with coordinates appears as a gold star on the map.",
+"ar": "يرى المستخدمون المسجلون الاكتشاف فورًا في «الجديد» وكـ«بحث جديد» على بطاقة الموقع. ويظهر الموقع الجديد ذو الإحداثيات نجمةً ذهبية على الخريطة.",
+"ctx": "hub:HW.steps",
+"i": 836
+},
+{
+"en": "<b>Shown on:</b> Bahra 1 card → New research → link to the original source.",
+"ar": "<b>يظهر في:</b> بطاقة بحرة 1 ← بحث جديد ← رابط المصدر الأصلي.",
+"ctx": "hub:HW.steps",
+"i": 837
+},
+{
+"en": "Grows into a story",
+"ar": "يصبح قصة",
+"ctx": "hub:HW.steps",
+"i": 838
+},
+{
+"en": "title · story · cartoon",
+"ar": "عنوان · قصة · رسم",
+"ctx": "hub:HW.steps",
+"i": 839
+},
+{
+"en": "A new place can become a full entry",
+"ar": "الموقع الجديد قد يصبح مدخلًا كاملًا",
+"ctx": "hub:HW.steps",
+"i": 840
+},
+{
+"en": "On request, a new place becomes a complete entry: researcher record, Explorer title and story in both languages, a cartoon, an icon and a bar on the timeline. That is how the Al-Ahmadi quarry was added.",
+"ar": "عند الطلب يتحول الموقع الجديد إلى مدخل كامل: سجل للباحثين، وعنوان وقصة للمستكشف باللغتين، ورسم، وأيقونة، وشريط على الخط الزمني. هكذا أُضيف محجر الأحمدي.",
+"ctx": "hub:HW.steps",
+"i": 841
+},
+{
+"en": "<b>Example:</b> Al-Ahmadi quarry → “The Window into Deep Time” · Eocene Dammam Formation · 48–34 million years ago.",
+"ar": "<b>مثال:</b> محجر الأحمدي ← «نافذة على الزمن السحيق» · تكوين الدمام الإيوسيني · قبل 48–34 مليون سنة.",
+"ctx": "hub:HW.steps",
+"i": 842
+},
+{
+"en": "AUTOMATIC · EVERY SUNDAY",
+"ar": "تلقائي · كل أحد",
+"ctx": "hub:HW.strip",
+"i": 843
+},
+{
+"en": "Search, read, draft",
+"ar": "بحث وقراءة وصياغة",
+"ctx": "hub:HW.strip",
+"i": 844
+},
+{
+"en": "Every Sunday morning (Kuwait time) a scheduled task looks for new research about the places on this map, reads each source and drafts a bilingual summary with its link.",
+"ar": "صباح كل أحد بتوقيت الكويت تبحث مهمة مجدولة عن أبحاث جديدة حول مواقع هذه الخريطة، وتقرأ كل مصدر، وتصوغ ملخصًا بلغتين مع رابطه.",
+"ctx": "hub:HW.strip",
+"i": 845
+},
+{
+"en": "OWNER · ANY TIME",
+"ar": "المالك · في أي وقت",
+"ctx": "hub:HW.strip",
+"i": 846
+},
+{
+"en": "Approve or reject",
+"ar": "موافقة أو رفض",
+"ctx": "hub:HW.strip",
+"i": 847
+},
+{
+"en": "Drafts wait in a queue only the owner can see. Nothing reaches viewers until it is approved, and rejected items are never suggested again.",
+"ar": "تنتظر المسودات في قائمة لا يراها إلا المالك. لا يصل شيء إلى الزوار قبل الموافقة، ولا يُقترح ما رُفض مرة أخرى.",
+"ctx": "hub:HW.strip",
+"i": 848
+},
+{
+"en": "EVERYONE · INSTANTLY",
+"ar": "الجميع · فورًا",
+"ctx": "hub:HW.strip",
+"i": 849
+},
+{
+"en": "Live in the app",
+"ar": "مباشرة في التطبيق",
+"ctx": "hub:HW.strip",
+"i": 850
+},
+{
+"en": "Approved findings appear at once in What’s new and on the place’s card. A new place can grow into a full entry with a story and a cartoon.",
+"ar": "تظهر الاكتشافات المعتمدة فورًا في «الجديد» وعلى بطاقة الموقع. ويمكن أن يتحول موقع جديد إلى مدخل كامل بقصة ورسم.",
+"ctx": "hub:HW.strip",
+"i": 851
+},
+{
+"en": "From a new paper to a story on the map: what runs on its own every week, and the one step that stays with the owner.",
+"ar": "من ورقة علمية جديدة إلى قصة على الخريطة: ما يعمل تلقائيًا كل أسبوع، والخطوة الوحيدة التي تبقى بيد المالك.",
+"ctx": "hub:HW.sub",
+"i": 852
+},
+{
+"en": "For everyone",
+"ar": "للجميع",
+"ctx": "hub:HW.tAll",
+"i": 853
+},
+{
+"en": "On request",
+"ar": "عند الطلب",
+"ctx": "hub:HW.tAsk",
+"i": 854
+},
+{
+"en": "Owner’s step",
+"ar": "خطوة المالك",
+"ctx": "hub:HW.tYou",
+"i": 855
+},
+{
+"en": "OWNER",
+"ar": "المالك",
+"ctx": "hub:HW.you",
+"i": 856
+},
+{
+"en": "A Herd Walks Across the Mud",
+"ar": "قطيع يعبر الطين",
+"ctx": "hub:STX.ae.0",
+"i": 857
+},
+{
+"en": "Snakes of Copper in the Dunes",
+"ar": "أفاعٍ من نحاس في الكثبان",
+"ctx": "hub:STX.ae.1",
+"i": 858
+},
+{
+"en": "Where the Flamingos Chose to Nest",
+"ar": "حيث اختار الفلامنغو أن يعشّش",
+"ctx": "hub:STX.ae.2",
+"i": 859
+},
+{
+"en": "The Diver’s Weight",
+"ar": "ثقل الغواص",
+"ctx": "hub:STX.ae.3",
+"i": 860
+},
+{
+"en": "Nura and the Leaning Mountain",
+"ar": "نورة والجبل المائل",
+"ctx": "hub:STX.ae.4",
+"i": 861
+},
+{
+"en": "Maryam and the Sea Cow",
+"ar": "مريم وبقرة البحر",
+"ctx": "hub:STX.ae.5",
+"i": 862
+},
+{
+"en": "The Tower with a Well at Its Heart",
+"ar": "البرج الذي في قلبه بئر",
+"ctx": "hub:STX.ae.6",
+"i": 863
+},
+{
+"en": "Hind and the Coin Mould",
+"ar": "هند وقالب النقود",
+"ctx": "hub:STX.ae.7",
+"i": 864
+},
+{
+"en": "The City Under the Fort",
+"ar": "المدينة تحت القلعة",
+"ctx": "hub:STX.bh.0",
+"i": 865
+},
+{
+"en": "The Mountain of Smoke",
+"ar": "جبل الدخان",
+"ctx": "hub:STX.bh.1",
+"i": 866
+},
+{
+"en": "A Reef at the Edge",
+"ar": "شعاب على الحافة",
+"ctx": "hub:STX.bh.2",
+"i": 867
+},
+{
+"en": "The Stone Across the Water",
+"ar": "الحجر عبر الماء",
+"ctx": "hub:STX.bh.3",
+"i": 868
+},
+{
+"en": "The Diver's Goatskin",
+"ar": "قِربة الغواص",
+"ctx": "hub:STX.bh.4",
+"i": 869
+},
+{
+"en": "Islands of a Hundred Thousand Birds",
+"ar": "جزر مئة ألف طائر",
+"ctx": "hub:STX.bh.5",
+"i": 870
+},
+{
+"en": "From Cairns to Kings",
+"ar": "من أكوام الحجارة إلى الملوك",
+"ctx": "hub:STX.bh.6",
+"i": 871
+},
+{
+"en": "The Road Over a Dry Sea",
+"ar": "طريق فوق بحر جاف",
+"ctx": "hub:STX.bh.7",
+"i": 872
+},
+{
+"en": "The Silent Volcanoes of Bahrah",
+"ar": "براكين بحرة الصامتة",
+"ctx": "hub:STX.kw.0",
+"i": 873
+},
+{
+"en": "The First Sail",
+"ar": "الشراع الأول",
+"ctx": "hub:STX.kw.1",
+"i": 874
+},
+{
+"en": "The Owl of Bahra",
+"ar": "بومة بحرة",
+"ctx": "hub:STX.kw.2",
+"i": 875
+},
+{
+"en": "When Elephants Walked Here",
+"ar": "حين مشت الأفيال هنا",
+"ctx": "hub:STX.kw.3",
+"i": 876
+},
+{
+"en": "The Caravan of Kadhima",
+"ar": "قافلة كاظمة",
+"ctx": "hub:STX.kw.4",
+"i": 877
+},
+{
+"en": "Return of the Oryx",
+"ar": "عودة المها",
+"ctx": "hub:STX.kw.5",
+"i": 878
+},
+{
+"en": "The Sea Floor That Climbed Onto the Land",
+"ar": "قاع البحر الذي صعد إلى اليابسة",
+"ctx": "hub:STX.om.0",
+"i": 879
+},
+{
+"en": "The Tower With No Door",
+"ar": "البرج الذي لا باب له",
+"ctx": "hub:STX.om.1",
+"i": 880
+},
+{
+"en": "Twenty Thousand Turtles",
+"ar": "عشرون ألف سلحفاة",
+"ctx": "hub:STX.om.2",
+"i": 881
+},
+{
+"en": "Smoke for the Whole World",
+"ar": "دخان للعالم كله",
+"ctx": "hub:STX.om.3",
+"i": 882
+},
+{
+"en": "The Whales That Never Left",
+"ar": "الحيتان التي لم ترحل قط",
+"ctx": "hub:STX.om.4",
+"i": 883
+},
+{
+"en": "The Well of the Falling Star",
+"ar": "بئر النجم الساقط",
+"ctx": "hub:STX.om.5",
+"i": 884
+},
+{
+"en": "The Vanishing Tracks of Masirah",
+"ar": "آثار مصيرة التي تتلاشى",
+"ctx": "hub:STX.om.6",
+"i": 885
+},
+{
+"en": "The Valley the Sea Swallowed",
+"ar": "الوادي الذي ابتلعه البحر",
+"ctx": "hub:STX.om.7",
+"i": 886
+},
+{
+"en": "The Town That Pearls Built",
+"ar": "المدينة التي بناها اللؤلؤ",
+"ctx": "hub:STX.qa.0",
+"i": 887
+},
+{
+"en": "The Turtle in the Rock",
+"ar": "السلحفاة في الصخر",
+"ctx": "hub:STX.qa.1",
+"i": 888
+},
+{
+"en": "The Hill of Smoke",
+"ar": "تل الدخان",
+"ctx": "hub:STX.qa.2",
+"i": 889
+},
+{
+"en": "Mushrooms of Stone",
+"ar": "فطر من حجر",
+"ctx": "hub:STX.qa.3",
+"i": 890
+},
+{
+"en": "A Hundred Giants",
+"ar": "مئة عملاق",
+"ctx": "hub:STX.qa.4",
+"i": 891
+},
+{
+"en": "Where the Dunes Drink the Sea",
+"ar": "حيث تشرب الكثبان البحر",
+"ctx": "hub:STX.qa.5",
+"i": 892
+},
+{
+"en": "The Purple Island",
+"ar": "الجزيرة الأرجوانية",
+"ctx": "hub:STX.qa.6",
+"i": 893
+},
+{
+"en": "Five White Oryx",
+"ar": "خمس مهوات بيضاء",
+"ctx": "hub:STX.qa.7",
+"i": 894
+},
+{
+"en": "Carved with a Date",
+"ar": "منقوشة بتاريخ",
+"ctx": "hub:STX.sa.0",
+"i": 895
+},
+{
+"en": "Nura and the Standing Stone",
+"ar": "نورة والحجر القائم",
+"ctx": "hub:STX.sa.1",
+"i": 896
+},
+{
+"en": "The Cave in the Lava",
+"ar": "الكهف في الحَرّة",
+"ctx": "hub:STX.sa.2",
+"i": 897
+},
+{
+"en": "Fifty-Two Nights of Fire",
+"ar": "اثنتان وخمسون ليلة من النار",
+"ctx": "hub:STX.sa.3",
+"i": 898
+},
+{
+"en": "The Place of Iron",
+"ar": "أرض الحديد",
+"ctx": "hub:STX.sa.4",
+"i": 899
+},
+{
+"en": "The Day the Oryx Came Home",
+"ar": "يوم عاد المها",
+"ctx": "hub:STX.sa.5",
+"i": 900
+},
+{
+"en": "The Granite Island of Plants",
+"ar": "جزيرة النباتات الجرانيتية",
+"ctx": "hub:STX.sa.6",
+"i": 901
+},
+{
+"en": "Hind and the Sixty Rooms",
+"ar": "هند والغرف الستون",
+"ctx": "hub:STX.sa.7",
+"i": 902
+},
+{
+"en": "Discover the Arab Gulf countries",
+"ar": "اكتشف دول الخليج العربي",
+"ctx": "hub:TX.ah1",
+"i": 903
+},
+{
+"en": "Beyond the Ordinary.",
+"ar": "بما يتجاوز المألوف.",
+"ctx": "hub:TX.ah2",
+"i": 904
+},
+{
+"en": "Artificial Intelligence",
+"ar": "الذكاء الاصطناعي",
+"ctx": "hub:TX.ai",
+"i": 905
+},
+{
+"en": "Connecting knowledge, interpreting relationships and revealing stories.",
+"ar": "يربط المعرفة، ويفسّر العلاقات، ويكشف القصص.",
+"ctx": "hub:TX.aid",
+"i": 906
+},
+{
+"en": "Explore destinations through geological, archaeological and ecological layers, with AI revealing the connections and stories behind each place.",
+"ar": "استكشف الوجهات عبر طبقاتها الجيولوجية والأثرية والبيئية، مع ذكاء اصطناعي يكشف الروابط والقصص خلف كل مكان.",
+"ctx": "hub:TX.as",
+"i": 907
+},
+{
+"en": "Back to timeline",
+"ar": "العودة إلى الخط الزمني",
+"ctx": "hub:TX.bk",
+"i": 908
+},
+{
+"en": "by GEOHERITAGE",
+"ar": "من جيوهيريتيج",
+"ctx": "hub:TX.by",
+"i": 909
+},
+{
+"en": "Explore the Arab Gulf countries",
+"ar": "استكشف دول الخليج العربي",
+"ctx": "hub:TX.c1",
+"i": 910
+},
+{
+"en": "AI connections",
+"ar": "روابط ذكية",
+"ctx": "hub:TX.cai",
+"i": 911
+},
+{
+"en": "Years ago →",
+"ar": "سنوات مضت ←",
+"ctx": "hub:TX.cnA",
+"i": 912
+},
+{
+"en": "Million years ago →",
+"ar": "ملايين السنين ←",
+"ctx": "hub:TX.cnG",
+"i": 913
+},
+{
+"en": "Month of the year →",
+"ar": "شهور السنة ←",
+"ctx": "hub:TX.cnS",
+"i": 914
+},
+{
+"en": "Year →",
+"ar": "السنة ←",
+"ctx": "hub:TX.cnY",
+"i": 915
+},
+{
+"en": "Six editions side by side: places, oldest surface rock, oldest human trace, ecology places, protected areas and World Heritage sites. Tap a country name to open it.",
+"ar": "النسخ الست جنبًا إلى جنب: المواقع، وأقدم صخرة سطحية، وأقدم أثر بشري، والمواقع البيئية، والمحميات، ومواقع التراث العالمي. اضغط على اسم الدولة لفتحها.",
+"ctx": "hub:TX.cs",
+"i": 916
+},
+{
+"en": "Across the Arab Gulf countries",
+"ar": "عبر دول الخليج العربي",
+"ctx": "hub:TX.ct",
+"i": 917
+},
+{
+"en": "Precambrian",
+"ar": "ما قبل الكمبري",
+"ctx": "hub:TX.e1",
+"i": 918
+},
+{
+"en": "Palaeozoic",
+"ar": "الباليوزي",
+"ctx": "hub:TX.e2",
+"i": 919
+},
+{
+"en": "Mesozoic",
+"ar": "الميزوزي",
+"ctx": "hub:TX.e3",
+"i": 920
+},
+{
+"en": "Ancient",
+"ar": "عريقة",
+"ctx": "hub:TX.eaS",
+"i": 921
+},
+{
+"en": "Ancient living places — their own age",
+"ar": "أماكن حية عريقة — بعمرها الحقيقي",
+"ctx": "hub:TX.eaT",
+"i": 922
+},
+{
+"en": "Living places by the year they were recorded or protected, graded on worldwide criteria.",
+"ar": "الأماكن الحية حسب سنة تسجيلها أو حمايتها، مصنّفة وفق معايير عالمية.",
+"ctx": "hub:TX.econ",
+"i": 923
+},
+{
+"en": "LAYERS AI",
+"ar": "ذكاء طبقات",
+"ctx": "hub:TX.eng",
+"i": 924
+},
+{
+"en": "Deep time",
+"ar": "الزمن السحيق",
+"ctx": "hub:TX.er1",
+"i": 925
+},
+{
+"en": "Deep",
+"ar": "سحيق",
+"ctx": "hub:TX.er1s",
+"i": 926
+},
+{
+"en": "Cenozoic",
+"ar": "السينوزي",
+"ctx": "hub:TX.er2",
+"i": 927
+},
+{
+"en": "Cenoz.",
+"ar": "سينوزي",
+"ctx": "hub:TX.er2s",
+"i": 928
+},
+{
+"en": "Ice ages",
+"ar": "العصور الجليدية",
+"ctx": "hub:TX.er3",
+"i": 929
+},
+{
+"en": "Ice",
+"ar": "جليدي",
+"ctx": "hub:TX.er3s",
+"i": 930
+},
+{
+"en": "Our era",
+"ar": "عصرنا",
+"ctx": "hub:TX.er4",
+"i": 931
+},
+{
+"en": "Now",
+"ar": "الآن",
+"ctx": "hub:TX.er4s",
+"i": 932
+},
+{
+"en": "How many living places in each country reach each worldwide grade.",
+"ar": "عدد الأماكن الحية في كل دولة لكل درجة عالمية.",
+"ctx": "hub:TX.erS",
+"i": 933
+},
+{
+"en": "Protected",
+"ar": "محمية",
+"ctx": "hub:TX.erS2",
+"i": 934
+},
+{
+"en": "Ecology rarity",
+"ar": "ندرة البيئة",
+"ctx": "hub:TX.erT",
+"i": 935
+},
+{
+"en": "Recorded or protected — by year",
+"ar": "سُجّلت أو حُميت — حسب السنة",
+"ctx": "hub:TX.erT2",
+"i": 936
+},
+{
+"en": "Seasonal",
+"ar": "موسمية",
+"ctx": "hub:TX.esS",
+"i": 937
+},
+{
+"en": "Every year — seasonal living events",
+"ar": "كل عام — أحداث حية موسمية",
+"ctx": "hub:TX.esT",
+"i": 938
+},
+{
+"en": "The ice ages begin",
+"ar": "تبدأ العصور الجليدية",
+"ctx": "hub:TX.ev1",
+"i": 939
+},
+{
+"en": "The last ice age ends",
+"ar": "ينتهي آخر عصر جليدي",
+"ctx": "hub:TX.ev2",
+"i": 940
+},
+{
+"en": "GEO — geological and geographical. HERITAGE — what makes a place matter. LAYERS — how you explore it.",
+"ar": "جيو — الجيولوجيا والجغرافيا. التراث — ما يجعل المكان مهمًا. طبقات — طريقك لاستكشافه.",
+"ctx": "hub:TX.f1",
+"i": 941
+},
+{
+"en": "Core innovations",
+"ar": "ابتكارات جوهرية",
+"ctx": "hub:TX.g1",
+"i": 942
+},
+{
+"en": "Reads new research every week",
+"ar": "يقرأ أبحاثًا جديدة كل أسبوع",
+"ctx": "hub:TX.g1l",
+"i": 943
+},
+{
+"en": "Tourism innovations",
+"ar": "ابتكارات سياحية",
+"ctx": "hub:TX.g2",
+"i": 944
+},
+{
+"en": "A person checks every record",
+"ar": "إنسان يراجع كل سجل",
+"ctx": "hub:TX.g2l",
+"i": 945
+},
+{
+"en": "Platform and ecosystem",
+"ar": "المنصة والمنظومة",
+"ctx": "hub:TX.g3",
+"i": 946
+},
+{
+"en": "The map grows — nothing is deleted",
+"ar": "تنمو الخريطة ولا يُحذف شيء",
+"ctx": "hub:TX.g3l",
+"i": 947
+},
+{
+"en": "and counting",
+"ar": "وفي ازدياد",
+"ctx": "hub:TX.gcount",
+"i": 948
+},
+{
+"en": "Country",
+"ar": "الدولة",
+"ctx": "hub:TX.hc1",
+"i": 949
+},
+{
+"en": "Places",
+"ar": "المواقع",
+"ctx": "hub:TX.hc2",
+"i": 950
+},
+{
+"en": "Oldest surface rock",
+"ar": "أقدم صخرة سطحية",
+"ctx": "hub:TX.hc3",
+"i": 951
+},
+{
+"en": "Oldest human trace",
+"ar": "أقدم أثر بشري",
+"ctx": "hub:TX.hc4",
+"i": 952
+},
+{
+"en": "Protected areas",
+"ar": "محميات",
+"ctx": "hub:TX.hc6",
+"i": 953
+},
+{
+"en": "World Heritage",
+"ar": "تراث عالمي",
+"ctx": "hub:TX.hc7",
+"i": 954
+},
+{
+"en": "Rarest living place",
+"ar": "أندر مكان حي",
+"ctx": "hub:TX.hc8",
+"i": 955
+},
+{
+"en": "Tap a country to explore its layers",
+"ar": "اضغط على دولة لاستكشاف طبقاتها",
+"ctx": "hub:TX.hint",
+"i": 956
+},
+{
+"en": "How it works",
+"ar": "كيف يعمل",
+"ctx": "hub:TX.how",
+"i": 957
+},
+{
+"en": "Tap an Arab Gulf country",
+"ar": "اضغط على دولة خليجية",
+"ctx": "hub:TX.hp1",
+"i": 958
+},
+{
+"en": "to discover its layers.",
+"ar": "لتكتشف طبقاتها.",
+"ctx": "hub:TX.hp2",
+"i": 959
+},
+{
+"en": "Sources",
+"ar": "المصادر",
+"ctx": "hub:TX.hs0",
+"i": 960
+},
+{
+"en": "Regular check",
+"ar": "فحص منتظم",
+"ctx": "hub:TX.hs1",
+"i": 961
+},
+{
+"en": "Read & extract",
+"ar": "قراءة واستخراج",
+"ctx": "hub:TX.hs2",
+"i": 962
+},
+{
+"en": "Write EN + AR",
+"ar": "كتابة بالعربية والإنجليزية",
+"ctx": "hub:TX.hs3",
+"i": 963
+},
+{
+"en": "Publish",
+"ar": "نشر",
+"ctx": "hub:TX.hs5",
+"i": 964
+},
+{
+"en": "Journals, heritage bodies, surveys, museums and news about these places are monitored.",
+"ar": "تُرصد المجلات العلمية وهيئات التراث والمسوح والمتاحف والأخبار عن هذه الأماكن.",
+"ctx": "hub:TX.hsd0",
+"i": 965
+},
+{
+"en": "Every week the agent looks for new papers and announcements.",
+"ar": "كل أسبوع يبحث الوكيل عن أوراق وإعلانات جديدة.",
+"ctx": "hub:TX.hsd1",
+"i": 966
+},
+{
+"en": "Each source is opened and read; place, dates, team and measurements are taken only from what it says.",
+"ar": "يُفتح كل مصدر ويُقرأ؛ وتؤخذ الأماكن والتواريخ والفِرق والقياسات مما يقوله فقط.",
+"ctx": "hub:TX.hsd2",
+"i": 967
+},
+{
+"en": "A record, an explorer title and a summary are written in both languages, with the reference kept.",
+"ar": "يُكتب سجل وعنوان استكشافي وملخص باللغتين مع الاحتفاظ بالمرجع.",
+"ctx": "hub:TX.hsd3",
+"i": 968
+},
+{
+"en": "Nothing is published until a person reviews it.",
+"ar": "لا يُنشر شيء قبل أن يراجعه إنسان.",
+"ctx": "hub:TX.hsd4",
+"i": 969
+},
+{
+"en": "The map, timeline and stories update; AI connections stay labelled as untested ideas.",
+"ar": "تُحدَّث الخريطة والخط الزمني والقصص؛ وتبقى الروابط الذكية مُعلَّمة كأفكار غير مختبَرة.",
+"ctx": "hub:TX.hsd5",
+"i": 970
+},
+{
+"en": "human",
+"ar": "بشري",
+"ctx": "hub:TX.hsk0",
+"i": 971
+},
+{
+"en": "automatic",
+"ar": "تلقائي",
+"ctx": "hub:TX.hsk1",
+"i": 972
+},
+{
+"en": "Human check",
+"ar": "مراجعة بشرية",
+"ctx": "hub:TX.hum",
+"i": 973
+},
+{
+"en": "before publishing",
+"ar": "قبل النشر",
+"ctx": "hub:TX.hums",
+"i": 974
+},
+{
+"en": "From a new paper to a story on the map: how research is found, checked and published to the app.",
+"ar": "من ورقة علمية جديدة إلى قصة على الخريطة: كيف يُرصد البحث ويُراجع ويُنشر في التطبيق.",
+"ctx": "hub:TX.hwP",
+"i": 975
+},
+{
+"en": "How LAYERS works",
+"ar": "كيف يعمل «طبقات»",
+"ctx": "hub:TX.hwT",
+"i": 976
+},
+{
+"en": "Hypotheses",
+"ar": "فرضيات",
+"ctx": "hub:TX.hyp",
+"i": 977
+},
+{
+"en": "labelled untested",
+"ar": "مُعلَّمة غير مختبَرة",
+"ctx": "hub:TX.hyps",
+"i": 978
+},
+{
+"en": "AI connecting disciplines",
+"ar": "ذكاء يربط التخصصات",
+"ctx": "hub:TX.i0",
+"i": 979
+},
+{
+"en": "Geology, archaeology and ecology read together, so one place tells one connected story.",
+"ar": "الجيولوجيا والآثار والبيئة تُقرأ معًا، فيروي المكان قصة واحدة متصلة.",
+"ctx": "hub:TX.i0d",
+"i": 980
+},
+{
+"en": "AI hypotheses",
+"ar": "فرضيات ذكية",
+"ctx": "hub:TX.i1",
+"i": 981
+},
+{
+"en": "New, testable ideas about links between places — always labelled as untested.",
+"ar": "أفكار جديدة قابلة للاختبار عن الروابط بين الأماكن، مُعلَّمة دائمًا كغير مختبَرة.",
+"ctx": "hub:TX.i1d",
+"i": 982
+},
+{
+"en": "Research made accessible",
+"ar": "أبحاث في متناول الجميع",
+"ctx": "hub:TX.i2",
+"i": 983
+},
+{
+"en": "Scientific papers turned into illustrated stories and clear explanations, in two languages.",
+"ar": "أوراق علمية تتحوّل إلى قصص مصوّرة وشروح واضحة باللغتين.",
+"ctx": "hub:TX.i2d",
+"i": 984
+},
+{
+"en": "Self-updating knowledge",
+"ar": "معرفة تُحدِّث نفسها",
+"ctx": "hub:TX.i3",
+"i": 985
+},
+{
+"en": "New discoveries are found, read and checked every week, so the map never goes stale.",
+"ar": "تُرصد الاكتشافات الجديدة وتُقرأ وتُراجع كل أسبوع، فلا تشيخ الخريطة.",
+"ctx": "hub:TX.i3d",
+"i": 986
+},
+{
+"en": "Science into journeys",
+"ar": "من العلم إلى الرحلات",
+"ctx": "hub:TX.i4",
+"i": 987
+},
+{
+"en": "Knowledge becomes destinations, thematic routes and learning experiences for visitors.",
+"ar": "تتحوّل المعرفة إلى وجهات ومسارات موضوعية وتجارب تعلّم للزوّار.",
+"ctx": "hub:TX.i4d",
+"i": 988
+},
+{
+"en": "iPhone / iPad",
+"ar": "آيفون / آيباد",
+"ctx": "hub:TX.in1",
+"i": 989
+},
+{
+"en": "Open this page in Safari, tap Share, then “Add to Home Screen”.",
+"ar": "افتح هذه الصفحة في سفاري، ثم «مشاركة»، ثم «إضافة إلى الشاشة الرئيسية».",
+"ctx": "hub:TX.in1d",
+"i": 990
+},
+{
+"en": "Android",
+"ar": "أندرويد",
+"ctx": "hub:TX.in2",
+"i": 991
+},
+{
+"en": "Open in Chrome, tap the menu (⋮), then “Install app” or “Add to Home screen”.",
+"ar": "افتح في كروم، ثم القائمة (⋮)، ثم «تثبيت التطبيق».",
+"ctx": "hub:TX.in2d",
+"i": 992
+},
+{
+"en": "Computer",
+"ar": "الحاسوب",
+"ctx": "hub:TX.in3",
+"i": 993
+},
+{
+"en": "In Chrome or Edge, click the install icon at the right of the address bar.",
+"ar": "في كروم أو إيدج، اضغط على أيقونة التثبيت يمين شريط العنوان.",
+"ctx": "hub:TX.in3d",
+"i": 994
+},
+{
+"en": "The app installs from the browser and works offline.",
+"ar": "يُثبَّت التطبيق من المتصفح ويعمل دون إنترنت.",
+"ctx": "hub:TX.inP",
+"i": 995
+},
+{
+"en": "Install LAYERS",
+"ar": "ثبّت «طبقات»",
+"ctx": "hub:TX.inT",
+"i": 996
+},
+{
+"en": "Install app",
+"ar": "ثبّت التطبيق",
+"ctx": "hub:TX.inst",
+"i": 997
+},
+{
+"en": "Watch the introduction",
+"ar": "شاهد المقدمة",
+"ctx": "hub:TX.intro",
+"i": 998
+},
+{
+"en": "Multidisciplinary integration",
+"ar": "تكامل متعدد التخصصات",
+"ctx": "hub:TX.j0",
+"i": 999
+},
+{
+"en": "Geology, archaeology and ecology in one exploration experience.",
+"ar": "الجيولوجيا والآثار والبيئة في تجربة استكشاف واحدة.",
+"ctx": "hub:TX.j0d",
+"i": 1000
+},
+{
+"en": "Cross-disciplinary interpretation",
+"ar": "تفسير عابر للتخصصات",
+"ctx": "hub:TX.j1",
+"i": 1001
+},
+{
+"en": "Educational tourism",
+"ar": "سياحة تعليمية",
+"ctx": "hub:TX.j10",
+"i": 1002
+},
+{
+"en": "Destinations become learning experiences for families, students and enthusiasts.",
+"ar": "تتحوّل الوجهات إلى تجارب تعلّم للعائلات والطلاب والهواة.",
+"ctx": "hub:TX.j10d",
+"i": 1003
+},
+{
+"en": "Hidden heritage",
+"ar": "تراث خفي",
+"ctx": "hub:TX.j11",
+"i": 1004
+},
+{
+"en": "Overlooked places that conventional tourism platforms do not highlight.",
+"ar": "أماكن مُهمَلة لا تُبرزها منصات السياحة التقليدية.",
+"ctx": "hub:TX.j11d",
+"i": 1005
+},
+{
+"en": "Living platform",
+"ar": "منصة حية",
+"ctx": "hub:TX.j12",
+"i": 1006
+},
+{
+"en": "Content evolves as new research and verified information arrive.",
+"ar": "يتطوّر المحتوى مع وصول أبحاث جديدة ومعلومات مُراجعة.",
+"ctx": "hub:TX.j12d",
+"i": 1007
+},
+{
+"en": "Transparent validation",
+"ar": "تحقق شفاف",
+"ctx": "hub:TX.j13",
+"i": 1008
+},
+{
+"en": "Published evidence, scientific interpretation and AI hypotheses are kept apart.",
+"ar": "تُفصل الأدلة المنشورة عن التفسير العلمي وعن فرضيات الذكاء الاصطناعي.",
+"ctx": "hub:TX.j13d",
+"i": 1009
+},
+{
+"en": "Citizen science",
+"ar": "علم المواطن",
+"ctx": "hub:TX.j14",
+"i": 1010
+},
+{
+"en": "Visitors, researchers and communities can contribute observations and finds.",
+"ar": "يمكن للزوّار والباحثين والمجتمعات المساهمة بالملاحظات والاكتشافات.",
+"ctx": "hub:TX.j14d",
+"i": 1011
+},
+{
+"en": "One regional framework",
+"ar": "إطار إقليمي واحد",
+"ctx": "hub:TX.j15",
+"i": 1012
+},
+{
+"en": "Six countries explored through a common geographical-heritage lens.",
+"ar": "ست دول تُستكشف عبر عدسة تراث جغرافي مشتركة.",
+"ctx": "hub:TX.j15d",
+"i": 1013
+},
+{
+"en": "Visual storytelling",
+"ar": "سرد بصري",
+"ctx": "hub:TX.j16",
+"i": 1014
+},
+{
+"en": "Interactive maps, layers and timelines explain what text and photos cannot.",
+"ar": "خرائط وطبقات وخطوط زمنية تفاعلية تشرح ما لا يشرحه النص والصور.",
+"ctx": "hub:TX.j16d",
+"i": 1015
+},
+{
+"en": "AI finds relationships between disciplines instead of listing disconnected facts.",
+"ar": "يجد الذكاء الاصطناعي العلاقات بين التخصصات بدل سرد حقائق متفرقة.",
+"ctx": "hub:TX.j1d",
+"i": 1016
+},
+{
+"en": "AI-powered hypotheses",
+"ar": "فرضيات مدعومة بالذكاء الاصطناعي",
+"ctx": "hub:TX.j2",
+"i": 1017
+},
+{
+"en": "Possible links not yet documented, e.g. geology shaping ancient settlement — clearly separated from established findings.",
+"ar": "روابط محتملة لم تُوثَّق بعد، مثل تأثير الجيولوجيا على الاستيطان القديم، مفصولة بوضوح عن النتائج المثبتة.",
+"ctx": "hub:TX.j2d",
+"i": 1018
+},
+{
+"en": "Research democratisation",
+"ar": "تبسيط البحث العلمي",
+"ctx": "hub:TX.j3",
+"i": 1019
+},
+{
+"en": "Papers and technical reports become stories, visuals and interactive experiences.",
+"ar": "تتحوّل الأوراق والتقارير التقنية إلى قصص ورسوم وتجارب تفاعلية.",
+"ctx": "hub:TX.j3d",
+"i": 1020
+},
+{
+"en": "Automated heritage discovery",
+"ar": "اكتشاف تراثي آلي",
+"ctx": "hub:TX.j4",
+"i": 1021
+},
+{
+"en": "Credible sources are monitored for newly documented sites, prepared for verification.",
+"ar": "تُرصد مصادر موثوقة بحثًا عن مواقع موثَّقة حديثًا وتُجهَّز للمراجعة.",
+"ctx": "hub:TX.j4d",
+"i": 1022
+},
+{
+"en": "Interconnected knowledge",
+"ar": "معرفة مترابطة",
+"ctx": "hub:TX.j5",
+"i": 1023
+},
+{
+"en": "Similarities between distant places, including across the six countries.",
+"ar": "أوجه الشبه بين أماكن متباعدة، حتى عبر الدول الست.",
+"ctx": "hub:TX.j5d",
+"i": 1024
+},
+{
+"en": "Space and time together",
+"ar": "المكان والزمان معًا",
+"ctx": "hub:TX.j6",
+"i": 1025
+},
+{
+"en": "Geography combined with geological time, archaeological chronology and environmental change.",
+"ar": "الجغرافيا مع الزمن الجيولوجي والتسلسل الأثري والتغيّر البيئي.",
+"ctx": "hub:TX.j6d",
+"i": 1026
+},
+{
+"en": "Intelligent discovery",
+"ar": "اكتشاف ذكي",
+"ctx": "hub:TX.j7",
+"i": 1027
+},
+{
+"en": "Find destinations by interest: geological wonders, ancient civilisations, living ecosystems.",
+"ar": "اعثر على الوجهات حسب الاهتمام: عجائب جيولوجية، حضارات قديمة، نظم بيئية حية.",
+"ctx": "hub:TX.j7d",
+"i": 1028
+},
+{
+"en": "Thematic journeys",
+"ar": "رحلات موضوعية",
+"ctx": "hub:TX.j8",
+"i": 1029
+},
+{
+"en": "Routes that connect places by a shared scientific, historical or environmental theme.",
+"ar": "مسارات تربط الأماكن بموضوع علمي أو تاريخي أو بيئي مشترك.",
+"ctx": "hub:TX.j8d",
+"i": 1030
+},
+{
+"en": "Context-aware recommendations",
+"ar": "توصيات واعية بالسياق",
+"ctx": "hub:TX.j9",
+"i": 1031
+},
+{
+"en": "Suggestions by interest, location, time available and what each place offers.",
+"ar": "اقتراحات حسب الاهتمام والموقع والوقت المتاح وما يقدّمه كل مكان.",
+"ctx": "hub:TX.j9d",
+"i": 1032
+},
+{
+"en": "What is LAYERS",
+"ar": "ما هو «طبقات»",
+"ctx": "hub:TX.k2",
+"i": 1033
+},
+{
+"en": "Powered by",
+"ar": "بقوة",
+"ctx": "hub:TX.k3",
+"i": 1034
+},
+{
+"en": "Six countries",
+"ar": "ست دول",
+"ctx": "hub:TX.k4",
+"i": 1035
+},
+{
+"en": "Why it is different",
+"ar": "لماذا هو مختلف",
+"ctx": "hub:TX.k6",
+"i": 1036
+},
+{
+"en": "Two ways in",
+"ar": "طريقان للدخول",
+"ctx": "hub:TX.k7",
+"i": 1037
+},
+{
+"en": "yrs ago",
+"ar": "سنة مضت",
+"ctx": "hub:TX.kya",
+"i": 1038
+},
+{
+"en": "New research about these places is found, read, written in both languages and checked before it reaches the map. Every record keeps its sources.",
+"ar": "تُرصد الأبحاث الجديدة عن هذه الأماكن وتُقرأ وتُكتب باللغتين وتُراجع قبل أن تصل إلى الخريطة. وكل سجل يحتفظ بمصادره.",
+"ctx": "hub:TX.l5",
+"i": 1039
+},
+{
+"en": "Archaeological",
+"ar": "آثار",
+"ctx": "hub:TX.larch",
+"i": 1040
+},
+{
+"en": "Ecological",
+"ar": "بيئة",
+"ctx": "hub:TX.leco",
+"i": 1041
+},
+{
+"en": "Geological",
+"ar": "جيولوجيا",
+"ctx": "hub:TX.lgeo",
+"i": 1042
+},
+{
+"en": "Research digest: weekly · last update 7 Nov 2026",
+"ar": "موجز الأبحاث: أسبوعي · آخر تحديث 7 نوفمبر 2026",
+"ctx": "hub:TX.live",
+"i": 1043
+},
+{
+"en": "always growing",
+"ar": "في نموّ دائم",
+"ctx": "hub:TX.loop",
+"i": 1044
+},
+{
+"en": "million years ago",
+"ar": "مليون سنة مضت",
+"ctx": "hub:TX.ma",
+"i": 1045
+},
+{
+"en": "Ma",
+"ar": "مليون سنة",
+"ctx": "hub:TX.ma0",
+"i": 1046
+},
+{
+"en": "Made in Kuwait",
+"ar": "صُنع في الكويت",
+"ctx": "hub:TX.made",
+"i": 1047
+},
+{
+"en": "Explorer",
+"ar": "مستكشف",
+"ctx": "hub:TX.me",
+"i": 1048
+},
+{
+"en": "Stories, cartoon maps and gentle colours for families and the curious.",
+"ar": "قصص وخرائط كرتونية وألوان هادئة للعائلات والفضوليين.",
+"ctx": "hub:TX.med",
+"i": 1049
+},
+{
+"en": "Researcher",
+"ar": "باحث",
+"ctx": "hub:TX.mr",
+"i": 1050
+},
+{
+"en": "Sources, data, timelines and hypotheses for people who want depth.",
+"ar": "مصادر وبيانات وخطوط زمنية وفرضيات لمن يريد العمق.",
+"ctx": "hub:TX.mrd",
+"i": 1051
+},
+{
+"en": "UAE",
+"ar": "الإمارات",
+"ctx": "hub:TX.n.ae",
+"i": 1052
+},
+{
+"en": "Bahrain",
+"ar": "البحرين",
+"ctx": "hub:TX.n.bh",
+"i": 1053
+},
+{
+"en": "Kuwait",
+"ar": "الكويت",
+"ctx": "hub:TX.n.kw",
+"i": 1054
+},
+{
+"en": "Oman",
+"ar": "عُمان",
+"ctx": "hub:TX.n.om",
+"i": 1055
+},
+{
+"en": "Qatar",
+"ar": "قطر",
+"ctx": "hub:TX.n.qa",
+"i": 1056
+},
+{
+"en": "Saudi Arabia",
+"ar": "السعودية",
+"ctx": "hub:TX.n.sa",
+"i": 1057
+},
+{
+"en": "Connections",
+"ar": "روابط",
+"ctx": "hub:TX.o1",
+"i": 1058
+},
+{
+"en": "Interpretations",
+"ar": "تفسيرات",
+"ctx": "hub:TX.o2",
+"i": 1059
+},
+{
+"en": "Stories",
+"ar": "قصص",
+"ctx": "hub:TX.o3",
+"i": 1060
+},
+{
+"en": "Lower Palaeolithic",
+"ar": "العصر الحجري القديم الأسفل",
+"ctx": "hub:TX.p1",
+"i": 1061
+},
+{
+"en": "Lower Pal.",
+"ar": "حجري قديم أسفل",
+"ctx": "hub:TX.p1s",
+"i": 1062
+},
+{
+"en": "Middle Palaeolithic",
+"ar": "الحجري القديم الأوسط",
+"ctx": "hub:TX.p2",
+"i": 1063
+},
+{
+"en": "Middle Pal.",
+"ar": "أوسط",
+"ctx": "hub:TX.p2s",
+"i": 1064
+},
+{
+"en": "Upper Palaeolithic",
+"ar": "الحجري القديم الأعلى",
+"ctx": "hub:TX.p3",
+"i": 1065
+},
+{
+"en": "Upper",
+"ar": "أعلى",
+"ctx": "hub:TX.p3s",
+"i": 1066
+},
+{
+"en": "Neolithic",
+"ar": "العصر الحجري الحديث",
+"ctx": "hub:TX.p4",
+"i": 1067
+},
+{
+"en": "Neolithic",
+"ar": "حجري حديث",
+"ctx": "hub:TX.p4s",
+"i": 1068
+},
+{
+"en": "Bronze Age · Dilmun & Umm an-Nar",
+"ar": "العصر البرونزي · دلمون وأم النار",
+"ctx": "hub:TX.p5",
+"i": 1069
+},
+{
+"en": "Iron Age",
+"ar": "العصر الحديدي",
+"ctx": "hub:TX.p6",
+"i": 1070
+},
+{
+"en": "Late pre-Islamic",
+"ar": "أواخر ما قبل الإسلام",
+"ctx": "hub:TX.p7",
+"i": 1071
+},
+{
+"en": "Islamic era",
+"ar": "العصر الإسلامي",
+"ctx": "hub:TX.p8",
+"i": 1072
+},
+{
+"en": "Privacy",
+"ar": "الخصوصية",
+"ctx": "hub:TX.priv",
+"i": 1073
+},
+{
+"en": "Oldest rock at the surface",
+"ar": "أقدم صخرة على السطح",
+"ctx": "hub:TX.r1",
+"i": 1074
+},
+{
+"en": "Most ecology places",
+"ar": "الأكثر مواقع بيئية",
+"ctx": "hub:TX.r3",
+"i": 1075
+},
+{
+"en": "Most World Heritage sites",
+"ar": "الأكثر مواقع تراث عالمي",
+"ctx": "hub:TX.r4",
+"i": 1076
+},
+{
+"en": "Most exceptional living places",
+"ar": "الأكثر أماكن حية استثنائية",
+"ctx": "hub:TX.r5",
+"i": 1077
+},
+{
+"en": "About",
+"ar": "عن التطبيق",
+"ctx": "hub:TX.ra1",
+"i": 1078
+},
+{
+"en": "Innovation",
+"ar": "الابتكار",
+"ctx": "hub:TX.ra10",
+"i": 1079
+},
+{
+"en": "Records",
+"ar": "أرقام قياسية",
+"ctx": "hub:TX.ra5",
+"i": 1080
+},
+{
+"en": "How it learns",
+"ar": "كيف يتعلّم",
+"ctx": "hub:TX.ra6",
+"i": 1081
+},
+{
+"en": "Install",
+"ar": "تثبيت",
+"ctx": "hub:TX.ra7",
+"i": 1082
+},
+{
+"en": "Introduction",
+"ar": "المقدمة",
+"ctx": "hub:TX.ra8",
+"i": 1083
+},
+{
+"en": "Archaeology scale",
+"ar": "مقياس الآثار",
+"ctx": "hub:TX.ra9",
+"i": 1084
+},
+{
+"en": "notable",
+"ar": "لافت",
+"ctx": "hub:TX.rar1",
+"i": 1085
+},
+{
+"en": "rare",
+"ar": "نادر",
+"ctx": "hub:TX.rar2",
+"i": 1086
+},
+{
+"en": "unique",
+"ar": "فريد",
+"ctx": "hub:TX.rar3",
+"i": 1087
+},
+{
+"en": "References used by the places on these scales",
+"ar": "المراجع التي تستند إليها الأماكن في هذه المقاييس",
+"ctx": "hub:TX.refn",
+"i": 1088
+},
+{
+"en": "References",
+"ar": "المراجع",
+"ctx": "hub:TX.refs",
+"i": 1089
+},
+{
+"en": "All Arab Gulf countries",
+"ar": "كل دول الخليج العربي",
+"ctx": "hub:TX.rl",
+"i": 1090
+},
+{
+"en": "places",
+"ar": "موقعًا",
+"ctx": "hub:TX.s1",
+"i": 1091
+},
+{
+"en": "countries",
+"ar": "دول",
+"ctx": "hub:TX.s2",
+"i": 1092
+},
+{
+"en": "layers",
+"ar": "طبقات",
+"ctx": "hub:TX.s3",
+"i": 1093
+},
+{
+"en": "languages",
+"ar": "لغتان",
+"ctx": "hub:TX.s4",
+"i": 1094
+},
+{
+"en": "illustrated stories",
+"ar": "قصة مصوّرة",
+"ctx": "hub:TX.s5",
+"i": 1095
+},
+{
+"en": "AI connections",
+"ar": "رابطًا ذكيًا",
+"ctx": "hub:TX.s6",
+"i": 1096
+},
+{
+"en": "references",
+"ar": "مرجعًا",
+"ctx": "hub:TX.s7",
+"i": 1097
+},
+{
+"en": "Archaeological spots",
+"ar": "مواقع أثرية",
+"ctx": "hub:TX.sa1",
+"i": 1098
+},
+{
+"en": "Places where people left traces: settlements, tombs, forts, rock art.",
+"ar": "أماكن ترك فيها البشر آثارًا: مستوطنات ومقابر وحصون ونقوش صخرية.",
+"ctx": "hub:TX.sa1t",
+"i": 1099
+},
+{
+"en": "AI hypotheses",
+"ar": "فرضيات الذكاء الاصطناعي",
+"ctx": "hub:TX.sai1",
+"i": 1100
+},
+{
+"en": "Where AI links published records into a new, untested idea: a hypothesis to check, not a finding.",
+"ar": "حيث يربط الذكاء الاصطناعي سجلات منشورة في فكرة جديدة غير مختبَرة: فرضية للفحص لا نتيجة.",
+"ctx": "hub:TX.sai1t",
+"i": 1101
+},
+{
+"en": "Ecological spots",
+"ar": "مواقع بيئية",
+"ctx": "hub:TX.se1",
+"i": 1102
+},
+{
+"en": "Living places: reserves, wetlands, reefs and nesting beaches.",
+"ar": "أماكن حية: محميات وأراضٍ رطبة وشعاب وشواطئ تعشيش.",
+"ctx": "hub:TX.se1t",
+"i": 1103
+},
+{
+"en": "Geological spots",
+"ar": "مواقع جيولوجية",
+"ctx": "hub:TX.sg1",
+"i": 1104
+},
+{
+"en": "Rocks, landforms and fossils that record how the land formed.",
+"ar": "صخور وتضاريس وأحافير تسجّل كيف تكوّنت الأرض.",
+"ctx": "hub:TX.sg1t",
+"i": 1105
+},
+{
+"en": "New research",
+"ar": "أبحاث جديدة",
+"ctx": "hub:TX.src",
+"i": 1106
+},
+{
+"en": "monitored weekly",
+"ar": "تُرصد أسبوعيًا",
+"ctx": "hub:TX.srcs",
+"i": 1107
+},
+{
+"en": "Scientific stories",
+"ar": "قصص علمية",
+"ctx": "hub:TX.sst1",
+"i": 1108
+},
+{
+"en": "Illustrated stories written by AI from the published research behind each place. The facts and references are real; the storytelling is AI-generated.",
+"ar": "قصص مصوّرة كتبها الذكاء الاصطناعي من الأبحاث المنشورة وراء كل مكان. الحقائق والمراجع حقيقية، أما الصياغة القصصية فمن الذكاء الاصطناعي.",
+"ctx": "hub:TX.sst1t",
+"i": 1109
+},
+{
+"en": "Ecological",
+"ar": "البيئة",
+"ctx": "hub:TX.st1",
+"i": 1110
+},
+{
+"en": "Archaeological",
+"ar": "الآثار",
+"ctx": "hub:TX.st2",
+"i": 1111
+},
+{
+"en": "Geological",
+"ar": "الجيولوجيا",
+"ctx": "hub:TX.st3",
+"i": 1112
+},
+{
+"en": "from",
+"ar": "من",
+"ctx": "hub:TX.stF",
+"i": 1113
+},
+{
+"en": "Opening",
+"ar": "نفتح",
+"ctx": "hub:TX.stGo",
+"i": 1114
+},
+{
+"en": "Picking a story…",
+"ar": "نختار قصة…",
+"ctx": "hub:TX.stP",
+"i": 1115
+},
+{
+"en": "Common",
+"ar": "شائع",
+"ctx": "hub:TX.t.common",
+"i": 1116
+},
+{
+"en": "Exceptional",
+"ar": "استثنائي",
+"ctx": "hub:TX.t.exceptional",
+"i": 1117
+},
+{
+"en": "Uncommon",
+"ar": "غير شائع",
+"ctx": "hub:TX.t.uncommon",
+"i": 1118
+},
+{
+"en": "One Landscape. Multiple Stories.",
+"ar": "أرض واحدة. قصص متعددة.",
+"ctx": "hub:TX.t2",
+"i": 1119
+},
+{
+"en": "A map that keeps learning",
+"ar": "خريطة لا تتوقف عن التعلّم",
+"ctx": "hub:TX.t5",
+"i": 1120
+},
+{
+"en": "Five things no tourism map does",
+"ar": "خمسة أشياء لا تفعلها أي خريطة سياحية",
+"ctx": "hub:TX.t6",
+"i": 1121
+},
+{
+"en": "The innovation components of LAYERS, grouped: core, tourism, and platform.",
+"ar": "مكوّنات الابتكار في «طبقات» مجمّعة: الجوهر، والسياحة، والمنصة.",
+"ctx": "hub:TX.t6s",
+"i": 1122
+},
+{
+"en": "One map. Two audiences.",
+"ar": "خريطة واحدة. جمهوران.",
+"ctx": "hub:TX.t7",
+"i": 1123
+},
+{
+"en": "Archaeological time scale",
+"ar": "المقياس الزمني الأثري",
+"ctx": "hub:TX.ta",
+"i": 1124
+},
+{
+"en": "Discover the Arab Gulf Countries Beyond the Ordinary.",
+"ar": "اكتشف دول الخليج العربي بما يتجاوز المألوف.",
+"ctx": "hub:TX.tag1",
+"i": 1125
+},
+{
+"en": "A new way to experience the Arab Gulf countries.",
+"ar": "طريقة جديدة لتجربة دول الخليج العربي.",
+"ctx": "hub:TX.tag2",
+"i": 1126
+},
+{
+"en": "The oldest human trace recorded in each country, ranked from oldest to youngest (years before today, logarithmic).",
+"ar": "أقدم أثر بشري مسجَّل في كل دولة، مرتبًا من الأقدم إلى الأحدث (سنوات قبل اليوم، لوغاريتمي).",
+"ctx": "hub:TX.tas",
+"i": 1127
+},
+{
+"en": "Other recorded living places",
+"ar": "أماكن حية أخرى مسجّلة",
+"ctx": "hub:TX.td.common",
+"i": 1128
+},
+{
+"en": "UNESCO World Heritage or Biosphere Reserve, or found nowhere else on Earth",
+"ar": "تراث عالمي لليونسكو أو محمية محيط حيوي، أو لا يوجد في أي مكان آخر على الأرض",
+"ctx": "hub:TX.td.exceptional",
+"i": 1129
+},
+{
+"en": "Ramsar wetland, UNESCO tentative list, or home to an IUCN Endangered species",
+"ar": "أرض رطبة في رامسار، أو على القائمة التمهيدية لليونسكو، أو موطن لنوع مهدد بالانقراض وفق الاتحاد الدولي لحفظ الطبيعة",
+"ctx": "hub:TX.td.rare",
+"i": 1130
+},
+{
+"en": "A protected area, mangroves, coral or nesting beaches",
+"ar": "منطقة محمية، أو مانغروف أو مرجان أو شواطئ تعشيش",
+"ctx": "hub:TX.td.uncommon",
+"i": 1131
+},
+{
+"en": "Geological time scale",
+"ar": "المقياس الزمني الجيولوجي",
+"ctx": "hub:TX.tg",
+"i": 1132
+},
+{
+"en": "The oldest rock exposed at the surface in each country, ranked from oldest to youngest (million years before today, logarithmic).",
+"ar": "أقدم صخرة مكشوفة على السطح في كل دولة، مرتبةً من الأقدم إلى الأحدث (مليون سنة قبل اليوم، لوغاريتمي).",
+"ctx": "hub:TX.tgs",
+"i": 1133
+},
+{
+"en": "1 billion",
+"ar": "مليار",
+"ctx": "hub:TX.tk0",
+"i": 1134
+},
+{
+"en": "100 Myr",
+"ar": "100 مليون",
+"ctx": "hub:TX.tk1",
+"i": 1135
+},
+{
+"en": "10 Myr",
+"ar": "10 ملايين",
+"ctx": "hub:TX.tk2",
+"i": 1136
+},
+{
+"en": "1 Myr",
+"ar": "مليون",
+"ctx": "hub:TX.tk3",
+"i": 1137
+},
+{
+"en": "100,000",
+"ar": "100 ألف",
+"ctx": "hub:TX.tk4",
+"i": 1138
+},
+{
+"en": "10,000 yr",
+"ar": "10 آلاف",
+"ctx": "hub:TX.tk5",
+"i": 1139
+},
+{
+"en": "1,000",
+"ar": "ألف",
+"ctx": "hub:TX.tk6",
+"i": 1140
+},
+{
+"en": "Today",
+"ar": "اليوم",
+"ctx": "hub:TX.tk7",
+"i": 1141
+},
+{
+"en": "Two scales: the oldest surface rock and most-cited geological places of each country, and the oldest human traces and most-cited archaeological places. Scroll sideways; tap a row to open it in its country.",
+"ar": "مقياسان: أقدم صخرة سطحية وأكثر الأماكن الجيولوجية استشهادًا في كل دولة، وأقدم الآثار البشرية وأكثر الأماكن الأثرية استشهادًا. مرّر جانبيًا؛ واضغط على صف لفتحه في دولته.",
+"ctx": "hub:TX.tlS",
+"i": 1142
+},
+{
+"en": "One timeline, six countries",
+"ar": "خط زمني واحد وست دول",
+"ctx": "hub:TX.tlT",
+"i": 1143
+},
+{
+"en": "Layers of the Arab Gulf countries",
+"ar": "طبقات دول الخليج العربي",
+"ctx": "hub:TX.tt1",
+"i": 1144
+},
+{
+"en": "Six countries · three layers · one map",
+"ar": "ست دول · ثلاث طبقات · خريطة واحدة",
+"ctx": "hub:TX.tt2",
+"i": 1145
+},
+{
+"en": "Compare",
+"ar": "مقارنة",
+"ctx": "hub:TX.vcmp",
+"i": 1146
+},
+{
+"en": "Map",
+"ar": "الخريطة",
+"ctx": "hub:TX.vmap",
+"i": 1147
+},
+{
+"en": "Timeline",
+"ar": "الخط الزمني",
+"ctx": "hub:TX.vtl",
+"i": 1148
+},
+{
+"en": "Arabian Gulf",
+"ar": "الخليج العربي",
+"ctx": "hub:TX.wl1",
+"i": 1149
+},
+{
+"en": "Red Sea",
+"ar": "البحر الأحمر",
+"ctx": "hub:TX.wl2",
+"i": 1150
+},
+{
+"en": "Arabian Sea",
+"ar": "بحر العرب",
+"ctx": "hub:TX.wl3",
+"i": 1151
+},
+{
+"en": "Gulf of Oman",
+"ar": "خليج عُمان",
+"ctx": "hub:TX.wl4",
+"i": 1152
+},
+{
+"en": "",
+"ar": "العربية",
+"ctx": "hub:html",
+"i": 1153
+},
+{
+"en": "",
+"ar": "عدسة مياه عذبة عمرها نحو 10,000 عام",
+"ctx": "hub:html",
+"i": 1154
+},
+{
+"en": "",
+"ar": "سبخة ملحية عمرها نحو 6,000 عام",
+"ctx": "hub:html",
+"i": 1155
+},
+{
+"en": "",
+"ar": "يُحصد اللبان هنا منذ أكثر من 2,000 عام",
+"ctx": "hub:html",
+"i": 1156
+},
+{
+"en": "",
+"ar": "شجرة غاف واحدة، زُرعت نحو 1582",
+"ctx": "hub:html",
+"i": 1157
+},
+{
+"en": "",
+"ar": "تفتّح الربيع",
+"ctx": "hub:html",
+"i": 1158
+},
+{
+"en": "",
+"ar": "تعشيش السلاحف صقرية المنقار",
+"ctx": "hub:html",
+"i": 1159
+},
+{
+"en": "",
+"ar": "★ أهم موقع تعشيش للسلاحف صقرية المنقار في شمال الخليج",
+"ctx": "hub:html",
+"i": 1160
+},
+{
+"en": "",
+"ar": "تجمّع أسماك القرش الحوتي",
+"ctx": "hub:html",
+"i": 1161
+},
+{
+"en": "",
+"ar": "★ من أكبر تجمعات القرش الحوتي على الأرض",
+"ctx": "hub:html",
+"i": 1162
+},
+{
+"en": "",
+"ar": "غابات ضباب الخريف",
+"ctx": "hub:html",
+"i": 1163
+},
+{
+"en": "",
+"ar": "★ غابة ضباب الرياح الموسمية في الجزيرة العربية",
+"ctx": "hub:html",
+"i": 1164
+},
+{
+"en": "",
+"ar": "تعشيش الطيور البحرية",
+"ctx": "hub:html",
+"i": 1165
+},
+{
+"en": "",
+"ar": "غابة الخريف الموسمية",
+"ctx": "hub:html",
+"i": 1166
+},
+{
+"en": "",
+"ar": "★ غابة الرياح الموسمية الوحيدة في شبه الجزيرة العربية",
+"ctx": "hub:html",
+"i": 1167
+},
+{
+"en": "",
+"ar": "شتاء الفلامنغو والنوارس",
+"ctx": "hub:html",
+"i": 1168
+},
+{
+"en": "",
+"ar": "★ أكبر مستعمرة لغاق سقطرى في العالم",
+"ctx": "hub:html",
+"i": 1169
+},
+{
+"en": "",
+"ar": "الطيور المائية الشاتية",
+"ctx": "hub:html",
+"i": 1170
+},
+{
+"en": "",
+"ar": "مبيت الهيبوكوليس الشتوي",
+"ctx": "hub:html",
+"i": 1171
+},
+{
+"en": "",
+"ar": "شتاء الطيور المهاجرة",
+"ctx": "hub:html",
+"i": 1172
+},
+{
+"en": "",
+"ar": "شتاء الفلامنغو",
+"ctx": "hub:html",
+"i": 1173
+},
+{
+"en": "",
+"ar": "طيور الشاطئ الشاتية",
+"ctx": "hub:html",
+"i": 1174
+},
+{
+"en": "",
+"ar": "شتاء طيور الشاطئ القطبية",
+"ctx": "hub:html",
+"i": 1175
+},
+{
+"en": "",
+"ar": "★ أهم أرض رطبة للتشتية في الشرق الأوسط",
+"ctx": "hub:html",
+"i": 1176
+},
+{
+"en": "",
+"ar": "تجمّع قطعان الأطوم",
+"ctx": "hub:html",
+"i": 1177
+},
+{
+"en": "",
+"ar": "★ ثاني أكبر تجمع للأطوم في العالم",
+"ctx": "hub:html",
+"i": 1178
+},
+{
+"en": "",
+"ar": "تكاثر الفلامنغو",
+"ctx": "hub:html",
+"i": 1179
+},
+{
+"en": "",
+"ar": "★ أول موقع منتظم لتكاثر الفلامنغو في الخليج",
+"ctx": "hub:html",
+"i": 1180
+},
+{
+"en": "",
+"ar": "عربي",
+"ctx": "hub:html",
+"i": 1181
+},
+{
+"en": "",
+"ar": "طبقات · جيوهيريتيج",
+"ctx": "hub:html",
+"i": 1182
+},
+{
+"en": "",
+"ar": "لا إله إلا الله محمد رسول الله",
+"ctx": "hub:html",
+"i": 1183
+},
+{
+"en": "",
+"ar": "العنوان:",
+"ctx": "hub:html",
+"i": 1184
+},
+{
+"en": "",
+"ar": "مثال على مصدر:",
+"ctx": "hub:html",
+"i": 1185
+},
+{
+"en": "",
+"ar": "عمليات بحث مثل:",
+"ctx": "hub:html",
+"i": 1186
+},
+{
+"en": "",
+"ar": "المستخرج:",
+"ctx": "hub:html",
+"i": 1187
+},
+{
+"en": "",
+"ar": "في التطبيق:",
+"ctx": "hub:html",
+"i": 1188
+},
+{
+"en": "",
+"ar": "يظهر في:",
+"ctx": "hub:html",
+"i": 1189
+},
+{
+"en": "",
+"ar": "مثال:",
+"ctx": "hub:html",
+"i": 1190
+},
+{
+"en": "",
+"ar": "ع",
+"ctx": "hub:html",
+"i": 1191
+},
+{
+"en": "The clue",
+"ar": "الدليل",
+"ctx": "kw:AISTORIES.0.pages.1.h",
+"i": 1192
+},
+{
+"en": "From above, the desert south of Subiya is pale and smooth. But in one spot, dark round patches sit in a loose cluster, each 10 to 30 metres across.",
+"ar": "من الأعلى تبدو الصحراء جنوب الصبية فاتحة وملساء. لكن في بقعة واحدة تتجمع بقع دائرية داكنة، قطر كل منها 10 إلى 30 مترًا.",
+"ctx": "kw:AISTORIES.0.pages.1.p",
+"i": 1193
+},
+{
+"en": "Their colour and texture do not match wind-blown sand or salt flats. Either something is staining the ground from below, or something was burnt here.",
+"ar": "لونها وملمسها لا يشبهان الرمال التي تحملها الريح ولا السباخ. فإما أن شيئًا يصبغ الأرض من الأسفل، وإما أن شيئًا احترق هنا.",
+"ctx": "kw:AISTORIES.0.pages.1.p",
+"i": 1194
+},
+{
+"en": "Seen before: the seeps of Burgan",
+"ar": "حدث من قبل: تسربات برقان",
+"ctx": "kw:AISTORIES.0.pages.2.h",
+"i": 1195
+},
+{
+"en": "Kuwait has followed dark stains before. In 1912 a geologist described bitumen seeps on the surface at Burgan, and the seeps at Bahrah and Burgan were surveyed in 1914 and 1917.",
+"ar": "تتبّعت الكويت البقع الداكنة من قبل. ففي عام 1912 وصف جيولوجي تسربات قار على سطح الأرض في برقان، ومُسحت تسربات بحرة وبرقان عامي 1914 و1917.",
+"ctx": "kw:AISTORIES.0.pages.2.p",
+"i": 1196
+},
+{
+"en": "The first test well, at Bahrah in 1936, found only minor oil shows. Burgan No. 1 was drilled right at a seep, and on 23 February 1938 it struck the gusher that put Kuwait on the world oil map.",
+"ar": "لم تجد البئر الاختبارية الأولى في بحرة عام 1936 سوى آثار نفط ضئيلة. أما بئر برقان رقم 1 فحُفرت عند تسرّب مباشرة، وفي 23 فبراير 1938 تدفق منها النفط ووضع الكويت على خريطة النفط العالمية.",
+"ctx": "kw:AISTORIES.0.pages.2.p",
+"i": 1197
+},
+{
+"en": "This patch lies in a corridor of restless ground: the Bahrah deep-fault system leaks oil and gas to the north-west, mud volcanoes once breathed old water nearby, and earthquake-made sand dikes cut the coast to the east.",
+"ar": "تقع هذه البقعة في ممر من الأرض القلقة: نظام صدوع بحرة العميقة يسرّب النفط والغاز إلى الشمال الغربي، والبراكين الطينية القريبة نفثت يومًا ماءً قديمًا، وسدود رملية صنعها زلزال تقطع الساحل إلى الشرق.",
+"ctx": "kw:AISTORIES.0.pages.3.p",
+"i": 1198
+},
+{
+"en": "If fluids found a path up here too, the dark circles would be the newest member of that family.",
+"ar": "فإن وجدت السوائل طريقًا إلى السطح هنا أيضًا، فالدوائر الداكنة أحدث أفراد هذه العائلة.",
+"ctx": "kw:AISTORIES.0.pages.3.p",
+"i": 1199
+},
+{
+"en": "Dark circles on the desert, and the seeps that once led to Kuwait’s first oil",
+"ar": "دوائر داكنة على الصحراء، والتسربات التي قادت يومًا إلى أول نفط في الكويت",
+"ctx": "kw:AISTORIES.0.tag",
+"i": 1200
+},
+{
+"en": "Stains That Point to Oil",
+"ar": "بقع تدل على النفط",
+"ctx": "kw:AISTORIES.0.title",
+"i": 1201
+},
+{
+"en": "Most of Kuwait’s desert looks like one long beige page. But on one face of Jal Az-Zor, satellite images show stripes of orange-red, grey-purple and cream, bending with the slope like the layers of a cake.",
+"ar": "تبدو معظم صحراء الكويت صفحة بيجية طويلة. لكن على واجهة من جال الزور تُظهر الصور الفضائية خطوطًا برتقالية حمراء ورمادية بنفسجية وكريمية، تنحني مع المنحدر كطبقات الكعكة.",
+"ctx": "kw:AISTORIES.1.pages.1.p",
+"i": 1202
+},
+{
+"en": "Colour in rock is chemistry you can see. Red usually means iron oxide; pale patches can mean that something has washed the iron away.",
+"ar": "اللون في الصخر كيمياء نراها بأعيننا. فالأحمر يعني غالبًا أكسيد الحديد، والبقع الفاتحة قد تعني أن شيئًا ما غسل الحديد بعيدًا.",
+"ctx": "kw:AISTORIES.1.pages.1.p",
+"i": 1203
+},
+{
+"en": "Seen before: Lisbon Valley, Utah",
+"ar": "حدث من قبل: وادي ليزبن في يوتا",
+"ctx": "kw:AISTORIES.1.pages.2.h",
+"i": 1204
+},
+{
+"en": "In Lisbon Valley, Utah, red sandstones are bleached pale in places. Geologists traced the bleaching to tiny, slow leaks of oil and gas from below, which change the iron and clay minerals in the rock.",
+"ar": "في وادي ليزبن بولاية يوتا ابيضّت الصخور الرملية الحمراء في مواضع عدة. وتتبّع الجيولوجيون هذا الابيضاض إلى تسربات دقيقة وبطيئة للنفط والغاز من الأسفل، تغيّر معادن الحديد والطين في الصخر.",
+"ctx": "kw:AISTORIES.1.pages.2.p",
+"i": 1205
+},
+{
+"en": "Because the change shows in colour, and in light our eyes cannot see, they mapped it from aircraft and satellites, then checked it with rock samples. Colour became a clue to what lies underground.",
+"ar": "ولأن التغيّر يظهر في اللون، وفي ضوء لا تراه أعيننا، رسموا خرائطه من الطائرات والأقمار الصناعية ثم تحققوا منه بعينات صخرية. فصار اللون دليلًا على ما تحت الأرض.",
+"ctx": "kw:AISTORIES.1.pages.2.p",
+"i": 1206
+},
+{
+"en": "Jal Az-Zor is cut by a fault zone and sits beside the Bahrah deep-fault system, where fluids rise from the basement. Bleaching by rising fluids would explain pale zones next to red ones.",
+"ar": "يقطع جال الزور نطاقٌ صدعي، ويجاور نظام صدوع بحرة العميقة حيث تصعد السوائل من القاعدة الصخرية. ابيضاض الصخر بفعل السوائل الصاعدة يفسّر وجود مناطق فاتحة بجوار الحمراء.",
+"ctx": "kw:AISTORIES.1.pages.3.p",
+"i": 1207
+},
+{
+"en": "There is a human thread too: Ubaid potters at Bahra 1, about 6 km away, needed pigments. If the red bands are rich in iron, they were the nearest red earth.",
+"ar": "وهناك خيط بشري أيضًا: خزّافو العبيد في بحرة 1، على بعد نحو 6 كيلومترات، احتاجوا إلى الأصباغ. فإن كانت الأشرطة الحمراء غنية بالحديد، فهي أقرب تربة حمراء إليهم.",
+"ctx": "kw:AISTORIES.1.pages.3.p",
+"i": 1208
+},
+{
+"en": "Red, purple and cream bands on Jal Az-Zor, and the valley in Utah where colour gave away hidden oil",
+"ar": "أشرطة حمراء وبنفسجية وكريمية على جال الزور، ووادٍ في يوتا كشف لونُه عن نفط خفي",
+"ctx": "kw:AISTORIES.1.tag",
+"i": 1209
+},
+{
+"en": "When Rocks Change Colour",
+"ar": "حين تغيّر الصخور ألوانها",
+"ctx": "kw:AISTORIES.1.title",
+"i": 1210
+},
+{
+"en": "Each spring, the Khabra meadow on Jal Az-Zor turns green with desert iris and grasses, a bright patch on satellite images. Its clay holds rainwater like a bowl.",
+"ar": "كل ربيع يخضرّ مرج الخبرة على جال الزور بالسوسن الصحراوي والأعشاب، فيبدو بقعة لامعة في الصور الفضائية. وطينه يحفظ ماء المطر كالوعاء.",
+"ctx": "kw:AISTORIES.10.pages.1.p",
+"i": 1211
+},
+{
+"en": "It also sits where the escarpment suddenly changes direction, not far from a pressure ridge squeezed up by a strike-slip fault.",
+"ar": "ويقع أيضًا حيث تغيّر الحافة اتجاهها فجأة، غير بعيد عن حيد ضغطي رفعه صدع انزلاقي.",
+"ctx": "kw:AISTORIES.10.pages.1.p",
+"i": 1212
+},
+{
+"en": "Seen before: the San Andreas Fault",
+"ar": "حدث من قبل: صدع سان أندرياس",
+"ctx": "kw:AISTORIES.10.pages.2.h",
+"i": 1213
+},
+{
+"en": "In California’s Coachella Valley, fan palm oases grow along strands of the San Andreas Fault, where springs rise along the fault lines.",
+"ar": "في وادي كوتشيلا بكاليفورنيا تنمو واحات نخيل المراوح على امتداد فروع صدع سان أندرياس، حيث تنبع العيون على خطوط الصدع.",
+"ctx": "kw:AISTORIES.10.pages.2.p",
+"i": 1214
+},
+{
+"en": "Seismic surveys at Desert Hot Springs showed how such faults work: one strand acts as a barrier to groundwater, and the water table changes by about 60 metres across a 200-metre-wide fault zone. Water gathers on one side, and life gathers with it.",
+"ar": "وأظهرت مسوح زلزالية في ديزرت هوت سبرينغز كيف تعمل هذه الصدوع: فأحد فروعها حاجز أمام المياه الجوفية، ويتغير منسوب الماء نحو 60 مترًا عبر نطاق صدعي عرضه 200 متر. فيتجمع الماء على جانب، وتتجمع الحياة معه.",
+"ctx": "kw:AISTORIES.10.pages.2.p",
+"i": 1215
+},
+{
+"en": "Jal Az-Zor is cut by a fault zone that reaches south-west towards the pressure ridge near Jahra. Sinkholes have opened at Had Safah, and the Arfaj steppe spreads nearby.",
+"ar": "يقطع جال الزور نطاق صدعي يمتد جنوبًا غربًا نحو الحيد الضغطي قرب الجهراء. وقد انفتحت حفر انهيارية في حد صفاة، وتنتشر سهوب العرفج بالقرب.",
+"ctx": "kw:AISTORIES.10.pages.3.p",
+"i": 1216
+},
+{
+"en": "If these faults steer groundwater, the greenest spots, the sinkholes and the best wells should line up with them, like beads on a string.",
+"ar": "فإن كانت هذه الصدوع توجّه المياه الجوفية، فإن أكثر البقع خضرة والحفر الانهيارية وأفضل الآبار ستصطف عليها كحبات في خيط.",
+"ctx": "kw:AISTORIES.10.pages.3.p",
+"i": 1217
+},
+{
+"en": "A spring meadow on Jal Az-Zor, and the palm oases that line up along the San Andreas Fault",
+"ar": "مرج ربيعي على جال الزور، وواحات النخيل المصطفّة على صدع سان أندرياس",
+"ctx": "kw:AISTORIES.10.tag",
+"i": 1218
+},
+{
+"en": "Green Lines on a Fault",
+"ar": "خطوط خضراء على صدع",
+"ctx": "kw:AISTORIES.10.title",
+"i": 1219
+},
+{
+"en": "Off the Kazma coast the water is shallow and pale green. In it, satellite images show a dark oval about 200 metres across, with a sharper edge than the seabed around it.",
+"ar": "قبالة ساحل كاظمة الماء ضحل وأخضر فاتح. وفيه تُظهر الصور الفضائية شكلًا بيضاويًا داكنًا بعرض نحو 200 متر، حافته أوضح من قاع البحر من حوله.",
+"ctx": "kw:AISTORIES.2.pages.1.p",
+"i": 1220
+},
+{
+"en": "Thousands of years ago the shoreline here lay somewhere else, so ground that is now under water was once dry land.",
+"ar": "قبل آلاف السنين كان خط الساحل هنا في مكان آخر، فالأرض المغمورة اليوم كانت يومًا يابسة.",
+"ctx": "kw:AISTORIES.2.pages.1.p",
+"i": 1221
+},
+{
+"en": "Seen before: Atlit-Yam",
+"ar": "حدث من قبل: عتليت يام",
+"ctx": "kw:AISTORIES.2.pages.2.h",
+"i": 1222
+},
+{
+"en": "Off the Carmel coast in the eastern Mediterranean, about 400 metres from the beach, archaeologists study Atlit-Yam: a 9,000-year-old village of farmers and fishers that now lies under the sea.",
+"ar": "قبالة ساحل الكرمل في شرق البحر المتوسط، على بعد نحو 400 متر من الشاطئ، يدرس علماء الآثار موقع عتليت يام: قرية مزارعين وصيادين عمرها 9,000 عام ترقد اليوم تحت البحر.",
+"ctx": "kw:AISTORIES.2.pages.2.p",
+"i": 1223
+},
+{
+"en": "It is one of 23 drowned prehistoric sites known along that coast, and one of the best-preserved underwater settlements in the world. Rising seas covered it, and sand and water kept it safe.",
+"ar": "وهي واحدة من 23 موقعًا غارقًا من عصور ما قبل التاريخ معروفة على ذلك الساحل، ومن أفضل المستوطنات المغمورة حفظًا في العالم. غطّاها البحر حين ارتفع، وحفظها الرمل والماء.",
+"ctx": "kw:AISTORIES.2.pages.2.p",
+"i": 1224
+},
+{
+"en": "The sea reached Kuwait Bay’s northern shore about 7,400 years ago and stood higher than today for thousands of years, so the coast kept moving. Much later, Kadhima’s sweet water drew caravans to this same corner of the bay.",
+"ar": "وصل البحر إلى الشاطئ الشمالي لجون الكويت قبل نحو 7,400 عام، وظل أعلى مما هو اليوم آلاف السنين، فظل الساحل يتحرك. وبعد زمن طويل جذب ماء كاظمة العذب القوافل إلى الركن نفسه من الجون.",
+"ctx": "kw:AISTORIES.2.pages.3.p",
+"i": 1225
+},
+{
+"en": "If people lived on an older shore before the water rose, their traces would now lie offshore, perhaps exactly where something dark breaks the pattern of the seabed.",
+"ar": "فإن عاش الناس على ساحل أقدم قبل أن يرتفع الماء، فآثارهم اليوم في البحر، وربما تمامًا حيث يكسر شيء داكن نمط القاع.",
+"ctx": "kw:AISTORIES.2.pages.3.p",
+"i": 1226
+},
+{
+"en": "A dark oval in Kuwait Bay, and a 9,000-year-old village found under the eastern Mediterranean",
+"ar": "شكل بيضاوي داكن في جون الكويت، وقرية عمرها 9,000 عام وُجدت تحت مياه شرق المتوسط",
+"ctx": "kw:AISTORIES.2.tag",
+"i": 1227
+},
+{
+"en": "Villages Under the Waves",
+"ar": "قرى تحت الأمواج",
+"ctx": "kw:AISTORIES.2.title",
+"i": 1228
+},
+{
+"en": "North-west of Failaka the sea turns turquoise over a wide, shallow shelf, then drops away to deep blue. From above it looks like the ghost of a coastline.",
+"ar": "شمال غرب فيلكا يتحول البحر إلى لون فيروزي فوق رصيف واسع ضحل، ثم ينحدر إلى الأزرق العميق. من الأعلى يبدو كأنه طيف خط ساحل.",
+"ctx": "kw:AISTORIES.3.pages.1.p",
+"i": 1229
+},
+{
+"en": "For tens of thousands of years before the end of the Ice Age, the floor of the Gulf was dry land. The sea only filled it back in about 8,000 years ago.",
+"ar": "طوال عشرات آلاف السنين قبل نهاية العصر الجليدي كان قاع الخليج يابسة. ولم يملأه البحر من جديد إلا قبل نحو 8,000 عام.",
+"ctx": "kw:AISTORIES.3.pages.1.p",
+"i": 1230
+},
+{
+"en": "Seen before: Doggerland",
+"ar": "حدث من قبل: دوغرلاند",
+"ctx": "kw:AISTORIES.3.pages.2.h",
+"i": 1231
+},
+{
+"en": "Under the North Sea lies Doggerland, a lost country of hills, plains and river valleys drowned by rising seas after the Ice Age.",
+"ar": "تحت بحر الشمال ترقد دوغرلاند، أرض مفقودة من التلال والسهول وأودية الأنهار أغرقها ارتفاع البحر بعد العصر الجليدي.",
+"ctx": "kw:AISTORIES.3.pages.2.p",
+"i": 1232
+},
+{
+"en": "Archaeologists at the University of Birmingham mapped about 45,000 km² of it using seismic data collected by the oil and gas industry, tracing old river channels and checking them with sediment cores.",
+"ar": "ورسم علماء آثار في جامعة برمنغهام خريطة نحو 45,000 كيلومتر مربع منها باستخدام بيانات زلزالية جمعتها صناعة النفط والغاز، فتتبّعوا قنوات الأنهار القديمة وتحققوا منها بعينات لبية.",
+"ctx": "kw:AISTORIES.3.pages.2.p",
+"i": 1233
+},
+{
+"en": "Archaeologist Jeffrey Rose has argued that the Gulf basin was a refuge, a “Gulf Oasis”, until the sea flooded it. Around 7,500 years ago more than 60 new sites appear along the Gulf shores; in Kuwait, H3 and Bahra 1 belong to the same time.",
+"ar": "يرى عالم الآثار جيفري روز أن حوض الخليج كان ملاذًا، «واحة الخليج»، حتى أغرقه البحر. وقبل نحو 7,500 عام تظهر أكثر من 60 موقعًا جديدًا على سواحل الخليج، وفي الكويت يعود H3 وبحرة 1 إلى الزمن نفسه.",
+"ctx": "kw:AISTORIES.3.pages.3.p",
+"i": 1234
+},
+{
+"en": "Were their builders families pushed out by the rising water? The platform off Failaka would be part of that lost landscape, and the place to look.",
+"ar": "هل كان بناتها عائلات طردها الماء الصاعد؟ الرصيف قبالة فيلكا جزء من ذلك المشهد المفقود، والمكان المناسب للبحث.",
+"ctx": "kw:AISTORIES.3.pages.3.p",
+"i": 1235
+},
+{
+"en": "A shallow shelf off Failaka, the drowned land under the North Sea, and the lost oasis of the Gulf",
+"ar": "رصيف ضحل قبالة فيلكا، وأرض غارقة تحت بحر الشمال، وواحة الخليج المفقودة",
+"ctx": "kw:AISTORIES.3.tag",
+"i": 1236
+},
+{
+"en": "The Land That Drowned",
+"ar": "الأرض التي غرقت",
+"ctx": "kw:AISTORIES.3.title",
+"i": 1237
+},
+{
+"en": "From space, western Bubiyan looks like a page of tree branches drawn in silver: tidal creeks splitting again and again across the mud.",
+"ar": "من الفضاء يبدو غرب بوبيان صفحة من أغصان شجر مرسومة بالفضة: خيران مدّية تتفرع مرة بعد مرة عبر الطين.",
+"ctx": "kw:AISTORIES.4.pages.1.p",
+"i": 1238
+},
+{
+"en": "Some creeks still fill with every tide. Others are dry ghosts, cut off when the sea stood at a different height. A dark band running east to west may mark an old shoreline.",
+"ar": "بعض الخيران ما زال يمتلئ مع كل مدّ، وبعضها أطياف جافة انقطعت حين كان البحر على ارتفاع آخر. وشريط داكن يمتد من الشرق إلى الغرب قد يحدد خط ساحل قديمًا.",
+"ctx": "kw:AISTORIES.4.pages.1.p",
+"i": 1239
+},
+{
+"en": "Seen before: the Abu Dhabi sabkha",
+"ar": "حدث من قبل: سبخة أبوظبي",
+"ctx": "kw:AISTORIES.4.pages.2.h",
+"i": 1240
+},
+{
+"en": "In the 1960s, geologists working on the salt flats and tidal creeks of the Abu Dhabi coast watched minerals such as dolomite and gypsum forming in the modern sabkha.",
+"ar": "في ستينيات القرن العشرين راقب جيولوجيون يعملون في سباخ ساحل أبوظبي وخيرانه المدّية معادن مثل الدولوميت والجبس وهي تتكوّن في السبخة الحديثة.",
+"ctx": "kw:AISTORIES.4.pages.2.p",
+"i": 1241
+},
+{
+"en": "Those living coasts became a key for reading ancient ones: similar sabkha layers are recognised in much older rocks of the region, and some of them hold major oil and gas reservoirs.",
+"ar": "فصارت تلك السواحل الحية مفتاحًا لقراءة السواحل القديمة: إذ تُعرف طبقات سبخية مشابهة في صخور أقدم بكثير في المنطقة، وبعضها يحتضن مكامن كبيرة للنفط والغاز.",
+"ctx": "kw:AISTORIES.4.pages.2.p",
+"i": 1242
+},
+{
+"en": "Bubiyan’s creeks are a living version of the same story, and they may record Kuwait’s sea-level swings: in Kuwait Bay the sea stood 3.5 m or more above today around 5,700 and 4,000 years ago, then fell.",
+"ar": "خيران بوبيان نسخة حية من القصة نفسها، وقد تسجل تقلبات مستوى البحر في الكويت: ففي جون الكويت كان البحر أعلى من اليوم بـ3.5 أمتار أو أكثر قبل نحو 5,700 و4,000 عام، ثم انخفض.",
+"ctx": "kw:AISTORIES.4.pages.3.p",
+"i": 1243
+},
+{
+"en": "People followed the shore: shell middens such as SMQ 24 sit on old coasts, and mangroves are being planted on Bubiyan today. The abandoned creeks could be a calendar of when the sea moved.",
+"ar": "وتبع الناس الساحل: فأكوام الأصداف مثل SMQ 24 تقع على سواحل قديمة، وتُزرع أشجار القرم في بوبيان اليوم. وقد تكون الخيران المهجورة تقويمًا لزمن تحرك البحر.",
+"ctx": "kw:AISTORIES.4.pages.3.p",
+"i": 1244
+},
+{
+"en": "Bubiyan’s branching creeks, and the Abu Dhabi salt flats that taught geologists to read ancient coasts",
+"ar": "خيران بوبيان المتفرعة، وسباخ أبوظبي التي علّمت الجيولوجيين قراءة السواحل القديمة",
+"ctx": "kw:AISTORIES.4.tag",
+"i": 1245
+},
+{
+"en": "Rivers Drawn by the Tide",
+"ar": "أنهار رسمها المد",
+"ctx": "kw:AISTORIES.4.title",
+"i": 1246
+},
+{
+"en": "Bahra 1 was the largest Ubaid village outside Mesopotamia, with stone houses and workshops full of shell beads. Around 4900 BC, after about six centuries, it fell silent.",
+"ar": "كانت بحرة 1 أكبر قرية من عصر العبيد خارج بلاد ما بين النهرين، فيها بيوت من الحجر وورش مليئة بخرز الأصداف. ونحو 4900 ق.م، بعد قرابة ستة قرون، صمتت.",
+"ctx": "kw:AISTORIES.5.pages.1.p",
+"i": 1247
+},
+{
+"en": "A few kilometres east, the sand is cut by cemented dikes: pipes of sand that shot upward when the ground shook so hard it behaved like a liquid. They point to one big event, about 7,000 years ago.",
+"ar": "وعلى بعد كيلومترات قليلة إلى الشرق تقطع الرمالَ سدودٌ متصلبة: أنابيب من الرمل اندفعت إلى الأعلى حين اهتزت الأرض بقوة حتى تصرفت كالسائل. وهي تشير إلى حدث واحد كبير قبل نحو 7,000 عام.",
+"ctx": "kw:AISTORIES.5.pages.1.p",
+"i": 1248
+},
+{
+"en": "Seen before: Helike",
+"ar": "حدث من قبل: هيليكي",
+"ctx": "kw:AISTORIES.5.pages.2.h",
+"i": 1249
+},
+{
+"en": "In 373 BC an earthquake and a sea wave destroyed the Greek city of Helike in a single night, and its ruins vanished from sight.",
+"ar": "في عام 373 ق.م دمّر زلزال وموجة بحرية مدينة هيليكي اليونانية في ليلة واحدة، واختفت أطلالها عن الأنظار.",
+"ctx": "kw:AISTORIES.5.pages.2.p",
+"i": 1250
+},
+{
+"en": "Centuries later, researchers drilled cores into the delta where it had stood and found pottery fragments throughout the upper 12 metres of mud. The settlement’s world was buried, not gone.",
+"ar": "وبعد قرون طويلة حفر الباحثون عينات لبية في الدلتا حيث كانت، فوجدوا شظايا فخار في الأمتار الاثني عشر العليا من الطين. لم يضع عالم المدينة، بل دُفن.",
+"ctx": "kw:AISTORIES.5.pages.2.p",
+"i": 1251
+},
+{
+"en": "On this map the dots line up: Bahra 1’s last years, the liquefaction dikes, the seismites and the mud volcanoes of the Subiya sabkha, all on one restless coast.",
+"ar": "على هذه الخريطة تصطف النقاط: سنوات بحرة 1 الأخيرة، وسدود التسييل، والطبقات الزلزالية، والبراكين الطينية في سبخة الصبية، كلها على ساحل واحد قلق.",
+"ctx": "kw:AISTORIES.5.pages.3.p",
+"i": 1252
+},
+{
+"en": "It is not the only possible story. The sea was rising and moving the shore, and the climate was changing. A good test must be able to tell these stories apart.",
+"ar": "وليست هذه القصة الوحيدة الممكنة. فالبحر كان يرتفع ويحرّك الساحل، والمناخ كان يتغير. والاختبار الجيد يجب أن يفرّق بين هذه القصص.",
+"ctx": "kw:AISTORIES.5.pages.3.p",
+"i": 1253
+},
+{
+"en": "Kuwait’s largest Ubaid village fell silent about 7,000 years ago, when an earthquake liquefied the coast",
+"ar": "صمتت أكبر قرية من عصر العبيد في الكويت قبل نحو 7,000 عام، حين سيّل زلزالٌ رمال الساحل",
+"ctx": "kw:AISTORIES.5.tag",
+"i": 1254
+},
+{
+"en": "The Day the Ground Turned to Water",
+"ar": "يوم صارت الأرض ماءً",
+"ctx": "kw:AISTORIES.5.title",
+"i": 1255
+},
+{
+"en": "At H3 on the Subiya coast, archaeologists found lumps of bitumen with barnacles on one side and the imprint of reed bundles on the other: the earliest evidence of seagoing boats in the world.",
+"ar": "في موقع H3 على ساحل الصبية وجد علماء الآثار كتلًا من القار على أحد وجهيها أصداف البرنقيل وعلى الآخر طبعة حزم القصب: أقدم دليل على القوارب البحرية في العالم.",
+"ctx": "kw:AISTORIES.6.pages.1.p",
+"i": 1256
+},
+{
+"en": "Chemists read the bitumen’s molecular fingerprint. It came from Burgan, more than 60 km to the south, the same seeps that later led geologists to drill Burgan No. 1, which struck oil on 23 February 1938.",
+"ar": "وقرأ الكيميائيون البصمة الجزيئية للقار، فإذا هو من برقان على بعد أكثر من 60 كيلومترًا إلى الجنوب، من التسربات نفسها التي قادت الجيولوجيين لاحقًا إلى حفر بئر برقان رقم 1، فتدفق منها النفط في 23 فبراير 1938.",
+"ctx": "kw:AISTORIES.6.pages.1.p",
+"i": 1257
+},
+{
+"en": "Seen before: the bitumen of Failaka",
+"ar": "حدث من قبل: قار فيلكا",
+"ctx": "kw:AISTORIES.6.pages.2.h",
+"i": 1258
+},
+{
+"en": "On Failaka and Umm an-Namel islands, archaeologists found bitumen from the Dilmun period to the Early Islamic period, and chemists read its fingerprints too.",
+"ar": "في جزيرتي فيلكا وأم النمل وجد علماء الآثار قارًا يمتد من عصر دلمون حتى العصر الإسلامي المبكر، وقرأ الكيميائيون بصماته أيضًا.",
+"ctx": "kw:AISTORIES.6.pages.2.p",
+"i": 1259
+},
+{
+"en": "The answer was a surprise: almost all of it had been imported from central and northern Iraq, from Hit-Abu Jir and around Mosul, not taken from Kuwait’s own seeps. The same test can tell a local seep from a far-away one.",
+"ar": "وكانت النتيجة مفاجأة: فمعظمه كان مستوردًا من وسط العراق وشماله، من هيت وأبو جير ومن حول الموصل، لا من تسربات الكويت نفسها. فالاختبار نفسه يستطيع أن يميّز التسرب المحلي من البعيد.",
+"ctx": "kw:AISTORIES.6.pages.2.p",
+"i": 1260
+},
+{
+"en": "Bahra 1, the bigger Ubaid village nearby, sits close to another leak: the Bahrah seeps above deep faults, surveyed by geologists in 1914 and 1917.",
+"ar": "أما بحرة 1، قرية العبيد الأكبر القريبة، فتقع بجوار تسرّب آخر: تسربات بحرة فوق صدوع عميقة، مسحها الجيولوجيون عامي 1914 و1917.",
+"ctx": "kw:AISTORIES.6.pages.3.p",
+"i": 1261
+},
+{
+"en": "Did Bahra’s people use the bitumen on their doorstep, or did everyone depend on Burgan? And did anyone camp at the Burgan seeps to gather it?",
+"ar": "هل استخدم أهل بحرة القار الذي على عتبة بيوتهم، أم اعتمد الجميع على برقان؟ وهل خيّم أحد عند تسربات برقان ليجمعه؟",
+"ctx": "kw:AISTORIES.6.pages.3.p",
+"i": 1262
+},
+{
+"en": "Ubaid sailors coated their boats with bitumen from Burgan, the same seeps that led to the 1938 gusher",
+"ar": "طلى بحّارة العبيد قواربهم بقار من برقان، من التسربات نفسها التي قادت إلى تدفق النفط عام 1938",
+"ctx": "kw:AISTORIES.6.tag",
+"i": 1263
+},
+{
+"en": "Seven Thousand Years of Kuwaiti Oil",
+"ar": "سبعة آلاف عام من النفط الكويتي",
+"ctx": "kw:AISTORIES.6.title",
+"i": 1264
+},
+{
+"en": "After the 1991 war, scientist Farouk El-Baz noticed something odd in Kuwait’s desert: smooth pebbles of granite and basalt, rocks found in abundance only in western Arabia.",
+"ar": "بعد حرب 1991 لاحظ العالم فاروق الباز شيئًا غريبًا في صحراء الكويت: حصى أملس من الغرانيت والبازلت، وهي صخور لا تكثر إلا في غرب الجزيرة العربية.",
+"ctx": "kw:AISTORIES.7.pages.1.p",
+"i": 1265
+},
+{
+"en": "On satellite images he traced a dry channel from the Hijaz mountains to Kuwait, partly hidden under dunes. He called it the Kuwait River; its last stretch is Wadi Al-Batin.",
+"ar": "وفي الصور الفضائية تتبّع قناة جافة من جبال الحجاز إلى الكويت، يختفي بعضها تحت الكثبان، وسمّاها نهر الكويت. وآخر امتداد لها هو وادي الباطن.",
+"ctx": "kw:AISTORIES.7.pages.1.p",
+"i": 1266
+},
+{
+"en": "Seen before: the radar rivers of the Sahara",
+"ar": "حدث من قبل: أنهار الصحراء الكبرى تحت الرادار",
+"ctx": "kw:AISTORIES.7.pages.2.h",
+"i": 1267
+},
+{
+"en": "In November 1981 a radar on the Space Shuttle Columbia looked through the dry sand of the eastern Sahara and saw buried river valleys, some almost as wide as the Nile.",
+"ar": "في نوفمبر 1981 نظر رادار على متن المكوك الفضائي كولومبيا عبر الرمال الجافة في شرق الصحراء الكبرى، فرأى أودية أنهار مدفونة، بعضها يكاد يعادل وادي النيل عرضًا.",
+"ctx": "kw:AISTORIES.7.pages.2.p",
+"i": 1268
+},
+{
+"en": "Field teams found Stone Age tools in the soils along the old channels, and the hidden rivers explained where playas and oases appear.",
+"ar": "ووجدت الفرق الميدانية أدوات من العصر الحجري في التربة على امتداد القنوات القديمة، وفسّرت الأنهار الخفية مواضع ظهور الفيضات والواحات.",
+"ctx": "kw:AISTORIES.7.pages.2.p",
+"i": 1269
+},
+{
+"en": "In Kuwait, the old river’s gravel fan, the Dibdibba, spreads across the north. Playas fill along Wadi Al-Batin, and the Jahra freshwater lens and the old wells of Al-Atraf and Kadhima lie near the fan’s edge.",
+"ar": "في الكويت تنتشر مروحة الحصى التي خلّفها النهر القديم، الدبدبة، عبر الشمال. وتمتلئ الفيضات على امتداد وادي الباطن، وتقع عدسة المياه العذبة في الجهراء وآبار العطرف وكاظمة القديمة قرب حافة المروحة.",
+"ctx": "kw:AISTORIES.7.pages.3.p",
+"i": 1270
+},
+{
+"en": "If the river left buried channels, they may be hidden pipes that decide where water, plants, wells and caravans gathered.",
+"ar": "فإن خلّف النهر قنوات مدفونة، فقد تكون أنابيب خفية تحدد أين اجتمع الماء والنبات والآبار والقوافل.",
+"ctx": "kw:AISTORIES.7.pages.3.p",
+"i": 1271
+},
+{
+"en": "Pebbles from western Arabia, a river seen from space, and where Kuwait’s water and wells line up",
+"ar": "حصى من غرب الجزيرة العربية، ونهر رُصد من الفضاء، وأين تصطف مياه الكويت وآبارها",
+"ctx": "kw:AISTORIES.7.tag",
+"i": 1272
+},
+{
+"en": "Follow the Buried River",
+"ar": "اتبع النهر المدفون",
+"ctx": "kw:AISTORIES.7.title",
+"i": 1273
+},
+{
+"en": "In northern Kuwait, at Al-Huwaimiliyah, the ground has given up teeth and bones of Deinotherium, an elephant relative with tusks curving down from its lower jaw.",
+"ar": "في شمال الكويت، في الحويملية، أخرجت الأرض أسنان الدينوثيريوم وعظامه، وهو قريب للفيل ينحني نابه من فكه السفلي.",
+"ctx": "kw:AISTORIES.8.pages.1.p",
+"i": 1274
+},
+{
+"en": "Bones tell us who lived here. Footprints would tell us how they lived: how they walked, and whether they moved in herds or alone.",
+"ar": "العظام تخبرنا من عاش هنا، أما آثار الأقدام فتخبرنا كيف عاش: كيف مشى، وهل تنقّل في قطعان أم وحيدًا.",
+"ctx": "kw:AISTORIES.8.pages.1.p",
+"i": 1275
+},
+{
+"en": "Seen before: Mleisa 1, United Arab Emirates",
+"ar": "حدث من قبل: مليسا 1 في الإمارات",
+"ctx": "kw:AISTORIES.8.pages.2.h",
+"i": 1276
+},
+{
+"en": "At Mleisa 1, rocks 6 to 8 million years old preserve the tracks of at least 13 elephant relatives walking together, crossed by the 260-metre trail of one big individual, the longest continuous fossil trackway known.",
+"ar": "في موقع مليسا 1 تحفظ صخور عمرها 6 إلى 8 ملايين عام آثار ما لا يقل عن 13 من أقرباء الأفيال تمشي معًا، يقطعها درب طوله 260 مترًا لفرد واحد ضخم، وهو أطول درب أحفوري متصل معروف.",
+"ctx": "kw:AISTORIES.8.pages.2.p",
+"i": 1277
+},
+{
+"en": "The prints were too small for satellite images and the site too big to photograph from the ground, so researchers hung a camera from a kite and stitched the photos into one giant map.",
+"ar": "كانت الآثار أصغر من أن تُرى في الصور الفضائية، والموقع أكبر من أن يُصوَّر من الأرض، فعلّق الباحثون كاميرا بطائرة ورقية وجمعوا الصور في خريطة واحدة عملاقة.",
+"ctx": "kw:AISTORIES.8.pages.2.p",
+"i": 1278
+},
+{
+"en": "Kuwait’s Miocene rivers and floodplains, the same world that left petrified wood and Deinotherium bones, were exactly the kind of soft, muddy ground that keeps footprints.",
+"ar": "أنهار الكويت وسهولها الفيضية في الميوسين، العالم نفسه الذي خلّف الأخشاب المتحجرة وعظام الدينوثيريوم، هي بالضبط نوع الأرض الطينية اللينة التي تحفظ آثار الأقدام.",
+"ctx": "kw:AISTORIES.8.pages.3.p",
+"i": 1279
+},
+{
+"en": "Where wind has swept old bedding surfaces clean, a herd’s path could be lying in plain sight, waiting for someone to look from above.",
+"ar": "وحيث كنست الرياح أسطح الطبقات القديمة، قد يكون درب قطيع ممددًا أمام الأعين، ينتظر من ينظر من الأعلى.",
+"ctx": "kw:AISTORIES.8.pages.3.p",
+"i": 1280
+},
+{
+"en": "Kuwait has Miocene elephant fossils. In the Emirates, a kite camera revealed a whole herd’s footprints.",
+"ar": "في الكويت أحافير أفيال من الميوسين، وفي الإمارات كشفت كاميرا معلّقة بطائرة ورقية آثار قطيع كامل.",
+"ctx": "kw:AISTORIES.8.tag",
+"i": 1281
+},
+{
+"en": "Elephant Highways",
+"ar": "طرق الأفيال",
+"ctx": "kw:AISTORIES.8.title",
+"i": 1282
+},
+{
+"en": "Along 16 km of the Subiya coast, surveyors recorded 21 long, narrow stone platforms, 6 to 21 metres long, edged with a curb of upright slabs.",
+"ar": "على امتداد 16 كيلومترًا من ساحل الصبية سجّل المسّاحون 21 منصة حجرية طويلة وضيقة، طولها من 6 إلى 21 مترًا، تحيط بها حافة من ألواح حجرية قائمة.",
+"ctx": "kw:AISTORIES.9.pages.1.p",
+"i": 1283
+},
+{
+"en": "Seen from above, one end is broad and rounded and the other narrows to a point, like the bow of a boat or the tip of a spear.",
+"ar": "ومن الأعلى يبدو أحد طرفيها عريضًا مستديرًا، ويضيق الآخر حتى يصير رأسًا مدببًا، كمقدمة قارب أو رأس رمح.",
+"ctx": "kw:AISTORIES.9.pages.1.p",
+"i": 1284
+},
+{
+"en": "Seen before: the stone ships of the Baltic",
+"ar": "حدث من قبل: سفن الحجر في البلطيق",
+"ctx": "kw:AISTORIES.9.pages.2.h",
+"i": 1285
+},
+{
+"en": "Around the Baltic Sea, Bronze Age people built life-size ships out of standing stones about 3,000 years ago, especially on the island of Gotland. Some hold burials; others hold hearths and traces of gatherings.",
+"ar": "حول بحر البلطيق بنى أهل العصر البرونزي قبل نحو 3,000 عام سفنًا بالحجم الطبيعي من حجارة قائمة، خصوصًا في جزيرة غوتلاند. بعضها يضم مدافن، وبعضها يضم مواقد وآثار تجمعات.",
+"ctx": "kw:AISTORIES.9.pages.2.p",
+"i": 1286
+},
+{
+"en": "The most famous, Ale’s Stones in Sweden, is a 67-metre ship of 59 boulders, built much later, about 1,400 years ago. Seafaring peoples, far apart in time, turned the boat into a monument.",
+"ar": "وأشهرها «أحجار آلي» في السويد، سفينة طولها 67 مترًا من 59 صخرة، بُنيت بعد ذلك بكثير، قبل نحو 1,400 عام. شعوب بحرية تفصل بينها الأزمنة حوّلت القارب إلى نُصب.",
+"ctx": "kw:AISTORIES.9.pages.2.p",
+"i": 1287
+},
+{
+"en": "In Kuwait, the burial mounds on the same terraces date from the end of the 4th to the middle of the 2nd millennium BC, when the sea stood at its highest, and their builders had close ties to the sea. And H3 holds the world’s oldest evidence of seagoing boats.",
+"ar": "في الكويت تعود المدافن على المصاطب نفسها إلى ما بين نهاية الألف الرابع ومنتصف الألف الثاني قبل الميلاد، حين كان البحر في أعلى مستوياته، وكان بناتها وثيقي الصلة بالبحر. وفي H3 أقدم دليل على القوارب البحرية في العالم.",
+"ctx": "kw:AISTORIES.9.pages.3.p",
+"i": 1288
+},
+{
+"en": "Were the platforms boat-shaped memorials, or ritual tables by the water? Their shape is a question worth asking.",
+"ar": "هل كانت المنصات نُصبًا تذكارية على شكل قوارب، أم موائد طقسية بجوار الماء؟ شكلها سؤال يستحق أن يُطرح.",
+"ctx": "kw:AISTORIES.9.pages.3.p",
+"i": 1289
+},
+{
+"en": "Kuwait’s boat-shaped stone platforms, and the stone ships of the Baltic",
+"ar": "منصات حجرية على شكل قوارب في الكويت، وسفن الحجر على بحر البلطيق",
+"ctx": "kw:AISTORIES.9.tag",
+"i": 1290
+},
+{
+"en": "Boats Made of Stone",
+"ar": "قوارب من حجر",
+"ctx": "kw:AISTORIES.9.title",
+"i": 1291
+},
+{
+"en": "Bahra 1",
+"ar": "بحرة ١",
+"ctx": "kw:D.sites.0.na",
+"i": 1292
+},
+{
+"en": "Seven and a half thousand years ago, this was a busy village of stone houses. People sat in a courtyard carving shells into ornaments, fired pottery in more than twenty kilns, and traded goods that travelled all the way to Mesopotamia. Look closely and you may picture the little owl figure someone shaped here, one of the oldest pieces of art found in Arabia.",
+"ar": "قبل سبعة آلاف وخمسمئة عام كانت هنا قرية نابضة ببيوت من الحجر. جلس أهلها في فناء يحوّلون الأصداف إلى حُليّ، وأشعلوا أكثر من عشرين فرنًا لصناعة الفخار، وتاجروا بسلع وصلت إلى بلاد ما بين النهرين. تخيّل تمثال البومة الصغير الذي صنعه أحدهم هنا، وهو من أقدم الأعمال الفنية في جزيرة العرب.",
+"ctx": "kw:D.sites.0.sa",
+"i": 1293
+},
+{
+"en": "The Shell Workshop",
+"ar": "ورشة الأصداف",
+"ctx": "kw:D.sites.0.ta",
+"i": 1294
+},
+{
+"en": "H3 (Jazirat Dubaji)",
+"ar": "H3 جزيرة دوباجي",
+"ctx": "kw:D.sites.1.na",
+"i": 1295
+},
+{
+"en": "On a narrow tongue of land by the sea, fishermen left behind the oldest clues to seagoing boats anywhere on Earth. Lumps of tar still carry barnacles on one side and the print of reeds on the other. A clay disc shows a boat with two masts, the earliest picture of a sail ever found. Human sailing may have started right here.",
+"ar": "على لسان ضيق من اليابسة بجوار البحر، ترك الصيادون أقدم دليل على القوارب البحرية في العالم. قطع من القار ما زالت تحمل محار البرنقيل على وجه وآثار القصب على الوجه الآخر. وقرص من الطين يصوّر قاربًا بصاريتين، وهو أقدم رسم لشراع عُثر عليه. ربما بدأ الإنسان رحلته مع الإبحار من هنا.",
+"ctx": "kw:D.sites.1.sa",
+"i": 1296
+},
+{
+"en": "Where Sailing Began",
+"ar": "حيث بدأ الإبحار",
+"ctx": "kw:D.sites.1.ta",
+"i": 1297
+},
+{
+"en": "Umm an Namil Island",
+"ar": "جزيرة أم النمل",
+"ctx": "kw:D.sites.10.na",
+"i": 1298
+},
+{
+"en": "Shaped like a drumstick and only two metres above the waves, this tiny island was a safe anchorage for sailors for thousands of years. Traders of the Bronze Age and later empires all left something behind.",
+"ar": "جزيرة صغيرة على هيئة عصا الطبل، لا ترتفع عن الموج إلا مترين، كانت مرسى آمنًا للبحّارة آلاف السنين. وقد ترك فيها تجار العصر البرونزي ومن جاء بعدهم من الإمبراطوريات شيئًا من آثارهم.",
+"ctx": "kw:D.sites.10.sa",
+"i": 1299
+},
+{
+"en": "The Little Drumstick Island",
+"ar": "الجزيرة الصغيرة",
+"ctx": "kw:D.sites.10.ta",
+"i": 1300
+},
+{
+"en": "Bubiyan Island",
+"ar": "جزيرة بوبيان",
+"ctx": "kw:D.sites.11.na",
+"i": 1301
+},
+{
+"en": "The biggest of Kuwait’s islands was built by rivers. Mud carried down by the Tigris and Euphrates settled here over the last few thousand years, forming a vast, flat land of mudflats, winding tidal channels and salty mounds.",
+"ar": "أكبر جزر الكويت صنعتها الأنهار. فالطمي الذي حمله دجلة والفرات استقر هنا على مدى آلاف السنين الأخيرة، فتكوّنت أرض منبسطة واسعة من المسطحات الطينية والقنوات المدّية المتعرجة والتلال المالحة.",
+"ctx": "kw:D.sites.11.sa",
+"i": 1302
+},
+{
+"en": "Gift of the Great Rivers",
+"ar": "هدية النهرين العظيمين",
+"ctx": "kw:D.sites.11.ta",
+"i": 1303
+},
+{
+"en": "Kazma 6k Shoreline Transition",
+"ar": "خط ساحل كاظمة القديم",
+"ctx": "kw:D.sites.12.na",
+"i": 1304
+},
+{
+"en": "Six thousand years ago the sea reached much farther inland than it does today. This line marks that old shore. People here coated reed baskets with tar to make them waterproof, a sign that this coast was already a busy maritime place long before later ports.",
+"ar": "قبل ستة آلاف عام كان البحر يمتد إلى الداخل أبعد بكثير مما هو عليه اليوم. وهذا الخط يرسم ذلك الشاطئ القديم. هنا طلى الناس سلال القصب بالقار لتصبح مانعة للماء، دليلًا على أن هذا الساحل كان مكانًا بحريًا نشطًا قبل الموانئ اللاحقة بزمن طويل.",
+"ctx": "kw:D.sites.12.sa",
+"i": 1305
+},
+{
+"en": "Where the Sea Used to Be",
+"ar": "حيث كان البحر",
+"ctx": "kw:D.sites.12.ta",
+"i": 1306
+},
+{
+"en": "SMQ 49 Family Tomb",
+"ar": "مقبرة SMQ 49 العائلية",
+"ctx": "kw:D.sites.13.na",
+"i": 1307
+},
+{
+"en": "Inside this mound are several rooms built for the dead, a sign that the family buried here was important. Beside them lay the bones of horse-like animals, rare treasures linked to trade routes that stretched as far as Central Asia.",
+"ar": "داخل هذه التلة عدة غرف بُنيت للموتى، دليلًا على مكانة العائلة المدفونة هنا. وإلى جوارهم عظام حيوانات من فصيلة الخيل، كنوز نادرة ترتبط بطرق تجارة امتدت حتى آسيا الوسطى.",
+"ctx": "kw:D.sites.13.sa",
+"i": 1308
+},
+{
+"en": "The Tomb of the Honoured Family",
+"ar": "قبر العائلة الرفيعة",
+"ctx": "kw:D.sites.13.ta",
+"i": 1309
+},
+{
+"en": "Al-Atraf Ancient Wells",
+"ar": "آبار العطرف القديمة",
+"ctx": "kw:D.sites.14.na",
+"i": 1310
+},
+{
+"en": "Long ago people knew where to dig. They found pockets of fresh water trapped above layers of clay and reached them with hand-dug wells. It is a quiet record of clever desert knowledge used for more than two thousand years.",
+"ar": "منذ زمن بعيد عرف الناس أين يحفرون. اكتشفوا جيوبًا من الماء العذب محبوسة فوق طبقات الطين، فوصلوا إليها بآبار حفروها بأيديهم. إنه سجل هادئ لمعرفة صحراوية ذكية استُخدمت أكثر من ألفي عام.",
+"ctx": "kw:D.sites.14.sa",
+"i": 1311
+},
+{
+"en": "The Water Finders",
+"ar": "باحثو الماء",
+"ctx": "kw:D.sites.14.ta",
+"i": 1312
+},
+{
+"en": "Ghanim Paleochannel",
+"ar": "القناة القديمة في غانم",
+"ctx": "kw:D.sites.15.na",
+"i": 1313
+},
+{
+"en": "How did the first villagers survive in the desert? Beneath the sand runs a buried river channel. Its fresh water may have kept the shell-carving village alive seven thousand years ago.",
+"ar": "كيف عاش أوائل القرويين في الصحراء؟ تحت الرمال تجري قناة نهر مدفونة. ولعل ماءها العذب هو ما أبقى قرية صانعي الأصداف حيّة قبل سبعة آلاف عام.",
+"ctx": "kw:D.sites.15.sa",
+"i": 1314
+},
+{
+"en": "The Hidden River",
+"ar": "النهر الخفي",
+"ctx": "kw:D.sites.15.ta",
+"i": 1315
+},
+{
+"en": "Faydhat Nayif Smelter",
+"ar": "مصهر فيضة نايف",
+"ctx": "kw:D.sites.16.na",
+"i": 1316
+},
+{
+"en": "A thousand years ago fires roared here. Heaps of iron slag and stone foundations show that people smelted metal in the desert, a job that needed skill, fuel and trade to keep going.",
+"ar": "قبل ألف عام كانت النيران تتأجج هنا. أكوام من خبث الحديد وأساسات حجرية تدل على أن الناس صهروا المعدن في الصحراء، وهي مهنة احتاجت إلى مهارة ووقود وتجارة كي تستمر.",
+"ctx": "kw:D.sites.16.sa",
+"i": 1317
+},
+{
+"en": "The Iron Furnaces",
+"ar": "أفران الحديد",
+"ctx": "kw:D.sites.16.ta",
+"i": 1318
+},
+{
+"en": "Kazima Battle Site",
+"ar": "موقع معركة كاظمة",
+"ctx": "kw:D.sites.17.na",
+"i": 1319
+},
+{
+"en": "In 633 AD the landscape itself shaped history. The slope of the escarpment funnelled armies together in one of the first great battles of the Islamic conquests, a victory that opened the road north.",
+"ar": "في عام 633م صنعت الأرض نفسها التاريخ. فقد جمع انحدار الجرف الجيوش في ممر واحد، في واحدة من أولى المعارك الكبرى في الفتوحات الإسلامية، وكان النصر فيها فاتحة الطريق نحو الشمال.",
+"ctx": "kw:D.sites.17.sa",
+"i": 1320
+},
+{
+"en": "The Battle of the Chains",
+"ar": "معركة ذات السلاسل",
+"ctx": "kw:D.sites.17.ta",
+"i": 1321
+},
+{
+"en": "Subbiya Desert Wall",
+"ar": "جدار الصبية الصحراوي",
+"ctx": "kw:D.sites.18.na",
+"i": 1322
+},
+{
+"en": "A line of stones runs for kilometres across the desert. Was it a border, a guide for caravans, or a mark of grazing land? More than a thousand years later, it is still one of Kuwait’s great puzzles.",
+"ar": "خط من الحجارة يمتد كيلومترات عبر الصحراء. هل كان حدًّا، أم دليلًا للقوافل، أم علامة لأراضي الرعي؟ بعد أكثر من ألف عام ما زال من أكبر ألغاز الكويت.",
+"ctx": "kw:D.sites.18.sa",
+"i": 1323
+},
+{
+"en": "The Wall Across the Sand",
+"ar": "الجدار العابر للرمال",
+"ctx": "kw:D.sites.18.ta",
+"i": 1324
+},
+{
+"en": "Jal Az-Zor Escarpment",
+"ar": "جال الزور",
+"ctx": "kw:D.sites.19.na",
+"i": 1325
+},
+{
+"en": "Kuwait’s most dramatic landform rises 145 metres above the bay. Its cliff face is striped in many colours, each band a chapter of Earth’s story written over millions of years. Slow forces deep underground are still lifting it, raising old sea beds high into the air.",
+"ar": "أبرز تضاريس الكويت يرتفع 145 مترًا فوق الجون. واجهته مخططة بألوان كثيرة، وكل شريط منها فصل من قصة الأرض كُتب على مدى ملايين السنين. وما زالت قوى بطيئة في باطن الأرض ترفعه، حاملةً قيعان بحار قديمة إلى الأعالي.",
+"ctx": "kw:D.sites.19.sa",
+"i": 1326
+},
+{
+"en": "The Great Cliff",
+"ar": "الجرف العظيم",
+"ctx": "kw:D.sites.19.ta",
+"i": 1327
+},
+{
+"en": "Al-Subiyah Tumuli Cemetery",
+"ar": "مقبرة تلال الصبية",
+"ctx": "kw:D.sites.2.na",
+"i": 1328
+},
+{
+"en": "Across the terraces above the old bay rise about 130 stone burial mounds. They were built over nearly two thousand years by people who moved with the seasons and lived close to the sea. Inside, explorers found stone beads, shell ornaments and a tiny carved seal, gifts for a journey into the afterlife.",
+"ar": "على المدرجات المطلّة على الجون القديم ترتفع نحو 130 تلة دفن حجرية. بناها على مدى قرابة ألفي عام أناسٌ تنقّلوا مع المواسم وعاشوا قريبًا من البحر. وفي داخلها وُجدت خرز من الأحجار الكريمة وحُليّ من الأصداف وختم صغير منقوش، هدايا لرحلة إلى العالم الآخر.",
+"ctx": "kw:D.sites.2.sa",
+"i": 1329
+},
+{
+"en": "Hill of a Hundred Graves",
+"ar": "تلال المئة قبر",
+"ctx": "kw:D.sites.2.ta",
+"i": 1330
+},
+{
+"en": "Mud Volcano Zone 1 (Z1) — NW Cluster",
+"ar": "منطقة البراكين الطينية 1 — الشمالية الغربية",
+"ctx": "kw:D.sites.20.na",
+"i": 1331
+},
+{
+"en": "Here the ground breathes. Pressure deep below pushes gas, water and mud up through cracks, building little cones and craters. This is the busiest cluster of mud volcanoes on the coast, and they have erupted again and again.",
+"ar": "هنا تتنفس الأرض. ضغط عميق يدفع الغاز والماء والطين عبر الشقوق، فتتشكل مخاريط وفوهات صغيرة. وهذه أنشط مجموعة من البراكين الطينية على الساحل، وقد ثارت مرة بعد مرة.",
+"ctx": "kw:D.sites.20.sa",
+"i": 1332
+},
+{
+"en": "Where the Earth Bubbles",
+"ar": "حيث تغلي الأرض",
+"ctx": "kw:D.sites.20.ta",
+"i": 1333
+},
+{
+"en": "Mud Volcano Zone 2 (Z2) — Central Tidal Flat",
+"ar": "منطقة البراكين الطينية 2 — السبخة المركزية",
+"ctx": "kw:D.sites.21.na",
+"i": 1334
+},
+{
+"en": "Out on the salty flats, where the tide comes and goes, mud volcanoes rise from the sand. The layers here also hold some of the clearest records of ancient earthquakes preserved anywhere in soft ground.",
+"ar": "على المسطحات المالحة حيث يأتي المد ويذهب، ترتفع براكين طينية من الرمل. وتحفظ الطبقات هنا أيضًا بعضًا من أوضح سجلات الزلازل القديمة المحفوظة في الأرض الرخوة.",
+"ctx": "kw:D.sites.21.sa",
+"i": 1335
+},
+{
+"en": "Craters on the Tidal Flat",
+"ar": "فوهات على المسطح المدّي",
+"ctx": "kw:D.sites.21.ta",
+"i": 1336
+},
+{
+"en": "Mud Volcano Zone 3 (Z3) — SE Marine Terrace",
+"ar": "منطقة البراكين الطينية 3 — المصطبة البحرية الجنوبية الشرقية",
+"ctx": "kw:D.sites.22.na",
+"i": 1337
+},
+{
+"en": "The most powerful of the mud volcano zones. Craters wider than two metres and huge folded layers show moments when pressure underground became extreme, perhaps during great earthquakes.",
+"ar": "أقوى مناطق البراكين الطينية. فوهات يزيد عرضها على مترين وطبقات ضخمة مطويّة تكشف لحظات بلغ فيها الضغط تحت الأرض أقصاه، ربما خلال زلازل عظيمة.",
+"ctx": "kw:D.sites.22.sa",
+"i": 1338
+},
+{
+"en": "The Giant Craters",
+"ar": "الفوهات العملاقة",
+"ctx": "kw:D.sites.22.ta",
+"i": 1339
+},
+{
+"en": "Khor Al-Subiyah",
+"ar": "خور الصبية",
+"ctx": "kw:D.sites.23.na",
+"i": 1340
+},
+{
+"en": "This strong tidal channel between the coast and Bubiyan was once where a great river poured into the Arabian Gulf. Today its mudflats and channels are a nursery where young fish and shrimp grow up.",
+"ar": "هذه القناة المدّية القوية بين الساحل وبوبيان كانت يومًا مصبّ نهر عظيم في الخليج العربي. واليوم صارت مسطحاتها وقنواتها حضانة تكبر فيها صغار الأسماك والروبيان.",
+"ctx": "kw:D.sites.23.sa",
+"i": 1341
+},
+{
+"en": "The Lost River Mouth",
+"ar": "مصبّ النهر المفقود",
+"ctx": "kw:D.sites.23.ta",
+"i": 1342
+},
+{
+"en": "Kuwait Bay Coastal Sabkha",
+"ar": "سبخات ساحل جون الكويت",
+"ctx": "kw:D.sites.24.na",
+"i": 1343
+},
+{
+"en": "The sea floods in, the sun bakes it dry, and salt crystals grow. Repeated over thousands of years, this cycle made a shining salt crust. It may also explain why people stopped living on this coast for a thousand years.",
+"ar": "يغمر البحر الأرض، ثم تجففها الشمس، فتنمو بلورات الملح. وتكرار ذلك آلاف السنين صنع قشرة ملحية لامعة. وقد يفسّر ذلك سبب هجر الناس هذا الساحل ألف عام.",
+"ctx": "kw:D.sites.24.sa",
+"i": 1344
+}
+]

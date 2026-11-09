@@ -1,0 +1,1478 @@
+[
+{
+"en": "If occupied tubes are scattered at random, or their dates never overlap the mustatil centuries, or Umm Jirsan proves to be the only one used, the chain-of-waystations idea fails.",
+"ar": "إذا كانت الأنابيب المسكونة مبعثرة عشوائيًا، أو لم تتداخل تواريخها مع قرون المستطيلات أبدًا، أو ثبت أن أم جرسان الوحيد المستخدم، تسقط فكرة سلسلة المحطات.",
+"ctx": "sa:D.sites.85.spec.wrong",
+"i": 3050
+},
+{
+"en": "Did herders use the lava caves as a chain of shelters?",
+"ar": "هل استخدم الرعاة كهوف الحمم سلسلة ملاجئ؟",
+"ctx": "sa:D.sites.85.ta",
+"i": 3051
+},
+{
+"en": "The Jubbah Lake and the Changing Pictures",
+"ar": "بحيرة جبة والصور المتغيرة",
+"ctx": "sa:D.sites.86.na",
+"i": 3052
+},
+{
+"en": "The pictures at Jubbah go from wild animals to cattle to camels, carved above a lake that dried. Does the order of the art follow the water? Nobody has tested this yet.",
+"ar": "تنتقل الصور في جبة من حيوانات برية إلى أبقار إلى جمال، منقوشة فوق بحيرة جفّت. فهل يتبع ترتيب الفن الماءَ؟ لم يختبر أحد ذلك بعد.",
+"ctx": "sa:D.sites.86.sa",
+"i": 3053
+},
+{
+"en": "The carvings above the vanished lake, 10,000 years of pictures",
+"ar": "النقوش فوق البحيرة المختفية، 10,000 عام من الصور",
+"ctx": "sa:D.sites.86.spec.lk.0[2]",
+"i": 3054
+},
+{
+"en": "The cattle herders of a wetter Arabia, c. 5300–5000 BC",
+"ar": "رعاة الأبقار في جزيرة عربية أكثر مطرًا، نحو 5300–5000 ق.م",
+"ctx": "sa:D.sites.86.spec.lk.1[2]",
+"i": 3055
+},
+{
+"en": "Standing stones with fifth-millennium BC wells beside them",
+"ar": "أحجار قائمة وبجوارها آبار من الألف الخامس ق.م",
+"ctx": "sa:D.sites.86.spec.lk.2[2]",
+"i": 3056
+},
+{
+"en": "Rock art of herders with dogs in the same wetter centuries",
+"ar": "فن صخري لرعاة مع كلاب في القرون الرطبة نفسها",
+"ctx": "sa:D.sites.86.spec.lk.3[2]",
+"i": 3057
+},
+{
+"en": "Cores from the Jubbah lake bed will show open water during the centuries of the wild-animal panels, shallow or seasonal water during the cattle panels, and a dry bed before the horse and camel panels and the first wells.",
+"ar": "ستُظهر عينات قاع بحيرة جبة ماءً مفتوحًا خلال قرون لوحات الحيوانات البرية، وماءً ضحلًا أو موسميًا خلال لوحات الأبقار، وقاعًا جافًا قبل لوحات الخيل والجمال والآبار الأولى.",
+"ctx": "sa:D.sites.86.spec.pred",
+"i": 3058
+},
+{
+"en": "Born from a lake bed and a cliff on this map. Jubbah’s oldest carvings, about 10,000 years old, show wild animals above a lake 20 by 5 km; later panels show cattle, then camels. To the south, cattle herders built mustatils around 5300–5000 BC; to the north-west, people dug wells beside the Rajajil stones in the fifth millennium BC. Water first, then herds, then wells.",
+"ar": "وُلدت الفكرة من قاع بحيرة وجرف على هذه الخريطة. تُظهر أقدم نقوش جبة، وعمرها نحو 10,000 عام، حيوانات برية فوق بحيرة طولها 20 كيلومترًا وعرضها 5؛ وتُظهر اللوحات اللاحقة أبقارًا ثم جمالًا. وإلى الجنوب بنى رعاة الأبقار المستطيلات نحو 5300–5000 ق.م؛ وإلى الشمال الغربي حفر الناس آبارًا بجوار أحجار الرجاجيل في الألف الخامس ق.م. الماء أولًا، ثم القطعان، ثم الآبار.",
+"ctx": "sa:D.sites.86.spec.spot",
+"i": 3059
+},
+{
+"en": "Core and date the lake sediments; date the panels by varnish, overlap and species; lay the two timelines side by side and see whether the changes in the art fall at the changes in the water.",
+"ar": "أخذ عينات لبية من رواسب البحيرة وتأريخها؛ وتأريخ اللوحات بالطلاء الصخري والتراكب والأنواع؛ ووضع الخطين الزمنيين جنبًا إلى جنب لمعرفة ما إذا كانت تغيرات الفن تقع عند تغيرات الماء.",
+"ctx": "sa:D.sites.86.spec.test",
+"i": 3060
+},
+{
+"en": "If the lake was already dry when the wild-animal panels were carved, or stayed full through the cattle and camel panels, the art did not follow the water and the idea fails.",
+"ar": "إذا كانت البحيرة جافة أصلًا حين نُقشت لوحات الحيوانات البرية، أو ظلت ممتلئة طوال لوحات الأبقار والجمال، فلم يتبع الفنُّ الماءَ وتسقط الفكرة.",
+"ctx": "sa:D.sites.86.spec.wrong",
+"i": 3061
+},
+{
+"en": "Did the rock art change as the lake dried?",
+"ar": "هل تغيرت الصور الصخرية مع جفاف البحيرة؟",
+"ctx": "sa:D.sites.86.ta",
+"i": 3062
+},
+{
+"en": "The Folds that Hold Oil and Lift Water",
+"ar": "الطيّات التي تحبس النفط وترفع الماء",
+"ctx": "sa:D.sites.87.na",
+"i": 3063
+},
+{
+"en": "The folds that hold the oil under Dammam and Ghawar may be the same folds that push 280 springs to the surface at Al-Ahsa, where people have farmed for 7,000 years. Nobody has tested this yet.",
+"ar": "قد تكون الطيّات التي تحبس النفط تحت الدمام والغوار هي نفسها التي تدفع 280 ينبوعًا إلى السطح في الأحساء، حيث يزرع الناس منذ 7,000 عام. لم يختبر أحد ذلك بعد.",
+"ctx": "sa:D.sites.87.sa",
+"i": 3064
+},
+{
+"en": "A salt-cored dome that trapped oil at 1,440 m",
+"ar": "قبة ذات نواة ملحية حبست النفط على عمق 1,440 مترًا",
+"ctx": "sa:D.sites.87.spec.lk.0[2]",
+"i": 3065
+},
+{
+"en": "The En Nala anticline, 280 km long, sealed by anhydrite",
+"ar": "طيّة النالة المحدبة، طولها 280 كيلومترًا، مختومة بالأنهيدريت",
+"ctx": "sa:D.sites.87.spec.lk.1[2]",
+"i": 3066
+},
+{
+"en": "More than 280 artesian springs and 7,000 years of farming",
+"ar": "أكثر من 280 ينبوعًا ارتوازيًا و7,000 عام من الزراعة",
+"ctx": "sa:D.sites.87.spec.lk.2[2]",
+"i": 3067
+},
+{
+"en": "Deep joints that crack the same rocks beside the oasis",
+"ar": "شقوق عميقة تكسر الصخور نفسها بجوار الواحة",
+"ctx": "sa:D.sites.87.spec.lk.3[2]",
+"i": 3068
+},
+{
+"en": "Lived on since 5000 BC, 30 km from the Dammam Dome",
+"ar": "مسكونة منذ 5000 ق.م، على بعد 30 كيلومترًا من قبة الدمام",
+"ctx": "sa:D.sites.87.spec.lk.4[2]",
+"i": 3069
+},
+{
+"en": "Springs, fossil spring mounds and the oldest settlement layers will line up along the mapped crests and faults of the Dammam Dome and the En Nala anticline, and artesian pressure will be highest there.",
+"ar": "ستصطف الينابيع وتلال الينابيع الأحفورية وأقدم طبقات الاستيطان على طول قمم وصدوع قبة الدمام وطيّة النالة المرسومة على الخرائط، وسيكون الضغط الارتوازي أعلى ما يكون هناك.",
+"ctx": "sa:D.sites.87.spec.pred",
+"i": 3070
+},
+{
+"en": "Born from three records that sit close together on this map. Dammam No. 7 found oil in a salt-cored dome; Ghawar follows a long anticline; between and beside them, Al-Ahsa’s 280 artesian springs have fed farms since the Neolithic and Tarout has been lived on since 5000 BC. Oil needs a fold to trap it. Springs may need the same fold to lift them.",
+"ar": "وُلدت الفكرة من ثلاثة سجلات متقاربة على هذه الخريطة. وجدت بئر الدمام رقم 7 النفط في قبة ذات نواة ملحية؛ ويتبع الغوار طيّة طويلة؛ وبينهما وبجوارهما تغذي ينابيع الأحساء الـ280 المزارع منذ العصر الحجري الحديث، وتُسكن تاروت منذ 5000 ق.م. النفط يحتاج إلى طيّة تحبسه. وقد تحتاج الينابيع إلى الطيّة نفسها لترفعها.",
+"ctx": "sa:D.sites.87.spec.spot",
+"i": 3071
+},
+{
+"en": "Map every spring and fossil spring mound against the structural contours; measure pressure and chemistry on and off the folds; date the earliest layers at Tarout, Al-Ahsa and Thaj and see whether they sit on spring lines.",
+"ar": "رسم كل ينبوع وتل ينبوع أحفوري على خطوط الكنتور البنيوية؛ وقياس الضغط والكيمياء فوق الطيّات وبعيدًا عنها؛ وتأريخ أقدم الطبقات في تاروت والأحساء وثاج لمعرفة ما إذا كانت تقع على خطوط الينابيع.",
+"ctx": "sa:D.sites.87.spec.test",
+"i": 3072
+},
+{
+"en": "If springs and early settlements are spread evenly across low ground regardless of the folds, or pressure is no higher on the crests, the structural idea fails.",
+"ar": "إذا كانت الينابيع والمستوطنات المبكرة موزعة بانتظام على الأراضي المنخفضة بصرف النظر عن الطيّات، أو لم يكن الضغط أعلى على القمم، تسقط الفكرة البنيوية.",
+"ctx": "sa:D.sites.87.spec.wrong",
+"i": 3073
+},
+{
+"en": "Do the oil-trapping folds also feed the oasis springs?",
+"ar": "هل تغذي طيّات النفط ينابيع الواحة أيضًا؟",
+"ctx": "sa:D.sites.87.ta",
+"i": 3074
+},
+{
+"en": "Rock Outcrops as a Map of Stone Age Camps",
+"ar": "المكاشف الصخرية خريطة لمخيمات العصر الحجري",
+"ctx": "sa:D.sites.88.na",
+"i": 3075
+},
+{
+"en": "Five Stone Age sites on this map each sit on a special rock: a dyke, a quartz hill, rhyolite, yellow quartzite. Could a geological map point to the sites nobody has found yet? Nobody has tested this yet.",
+"ar": "خمسة مواقع من العصر الحجري على هذه الخريطة يقع كل منها على صخر مميز: قاطع صخري، وتل كوارتز، وريوليت، وكوارتزيت أصفر. فهل تستطيع خريطة جيولوجية أن تدلّنا على مواقع لم يجدها أحد بعد؟ لم يختبر أحد ذلك بعد.",
+"ctx": "sa:D.sites.88.sa",
+"i": 3076
+},
+{
+"en": "Tools beside a dyke of fine microgranite",
+"ar": "أدوات بجانب قاطع من المايكروجرانيت الناعم",
+"ctx": "sa:D.sites.88.spec.lk.0[2]",
+"i": 3077
+},
+{
+"en": "A hill of white quartz used for tools",
+"ar": "تل من الكوارتز الأبيض استُخدم للأدوات",
+"ctx": "sa:D.sites.88.spec.lk.1[2]",
+"i": 3078
+},
+{
+"en": "Local igneous rock at the edge of a braided wadi",
+"ar": "صخر ناري محلي على حافة وادٍ متشعب",
+"ctx": "sa:D.sites.88.spec.lk.2[2]",
+"i": 3079
+},
+{
+"en": "Rhyolite worked on an alluvial fan",
+"ar": "ريوليت مشغول على مروحة فيضية",
+"ctx": "sa:D.sites.88.spec.lk.3[2]",
+"i": 3080
+},
+{
+"en": "Yellow quartzite cores above the Jubbah lake",
+"ar": "نوى من الكوارتزيت الأصفر فوق بحيرة جبة",
+"ctx": "sa:D.sites.88.spec.lk.4[2]",
+"i": 3081
+},
+{
+"en": "Survey cells where fine-grained rock lies within a couple of kilometres of an old wadi will hold several times more Middle Palaeolithic sites than equal cells without such rock.",
+"ar": "ستحوي خلايا المسح التي يقع فيها صخر ناعم الحبيبات على بعد كيلومترين تقريبًا من وادٍ قديم مواقع من العصر الحجري القديم الأوسط أكثر بعدة مرات من خلايا مماثلة بلا هذا الصخر.",
+"ctx": "sa:D.sites.88.spec.pred",
+"i": 3082
+},
+{
+"en": "Born from five records on this map. Each Middle Palaeolithic site in the Najd and southern Nefud lies on good tool-making rock — microgranite, quartz, rhyolite or quartzite — and several sit beside old wadis, a fan or a lake, with tools made on the spot.",
+"ar": "وُلدت الفكرة من خمسة سجلات على هذه الخريطة: كل موقع من العصر الحجري القديم الأوسط في نجد وجنوب النفود يقع على صخر جيد لصنع الأدوات — مايكروجرانيت أو كوارتز أو ريوليت أو كوارتزيت — وعدة منها بجانب أودية قديمة أو مروحة فيضية أو بحيرة، وقد صُنعت الأدوات في المكان نفسه.",
+"ctx": "sa:D.sites.88.spec.spot",
+"i": 3083
+},
+{
+"en": "Rank survey cells from the geological map, then send teams who do not know the ranking to walk both high- and low-ranked cells and count the sites.",
+"ar": "ترتيب خلايا المسح من الخريطة الجيولوجية، ثم إرسال فرق لا تعرف الترتيب للمشي في الخلايا العالية والمنخفضة الترتيب وعدّ المواقع.",
+"ctx": "sa:D.sites.88.spec.test",
+"i": 3084
+},
+{
+"en": "If low-ranked cells yield as many sites as high-ranked ones, the rock-and-water map has no power and the idea fails.",
+"ar": "إذا أعطت الخلايا المنخفضة الترتيب عددًا من المواقع مماثلًا للعالية، فلا قيمة لخريطة الصخر والماء وتسقط الفكرة.",
+"ctx": "sa:D.sites.88.spec.wrong",
+"i": 3085
+},
+{
+"en": "Can a geological map find lost Stone Age sites?",
+"ar": "هل تستطيع خريطة جيولوجية أن تجد مواقع العصر الحجري المفقودة؟",
+"ctx": "sa:D.sites.88.ta",
+"i": 3086
+},
+{
+"en": "The Land Shapes the Kite",
+"ar": "الأرض تشكّل المصيدة",
+"ctx": "sa:D.sites.89.na",
+"i": 3087
+},
+{
+"en": "Kites in two lava fields look different: Kishb’s walls hug the slopes, Nawasif’s are long simple funnels by the wadis. Did the land decide the shape? Nobody has tested this yet.",
+"ar": "تبدو المصائد في حرّتين مختلفة: جدران كشب تحتضن المنحدرات، وجدران النواصف أقماع طويلة بسيطة عند الأودية. فهل حدّدت الأرض الشكل؟ لم يختبر أحد ذلك بعد.",
+"ctx": "sa:D.sites.89.sa",
+"i": 3088
+},
+{
+"en": "Kites that use the natural relief",
+"ar": "مصائد تستغل التضاريس الطبيعية",
+"ctx": "sa:D.sites.89.spec.lk.0[2]",
+"i": 3089
+},
+{
+"en": "Hundreds of simple funnels by the wadis",
+"ar": "مئات الأقماع البسيطة عند الأودية",
+"ctx": "sa:D.sites.89.spec.lk.1[2]",
+"i": 3090
+},
+{
+"en": "The lava field whose kites are the comparison",
+"ar": "حقل الحمم الذي تُقارن مصائده",
+"ctx": "sa:D.sites.89.spec.lk.2[2]",
+"i": 3091
+},
+{
+"en": "The crater in the same Harrat Kishb",
+"ar": "الفوهة في حرة كشب نفسها",
+"ctx": "sa:D.sites.89.spec.lk.3[2]",
+"i": 3092
+},
+{
+"en": "Across all three lava fields, kites on steeper, more broken ground will show the same shift in wall angle and wall length, whatever field they are in.",
+"ar": "في الحرّات الثلاث ستُظهر المصائد على الأرض الأشد انحدارًا والأكثر تقطعًا التغيّر نفسه في زاوية الجدران وطولها، أيًّا كانت الحرّة.",
+"ctx": "sa:D.sites.89.spec.pred",
+"i": 3093
+},
+{
+"en": "Born from two records on this map. The Kishb kites use the natural relief and have shallower wall angles than Khaybar’s; the hundreds of Nawasif kites line the lava margins and small wadis with simple converging walls. Two harrats, two shapes, two terrains.",
+"ar": "وُلدت الفكرة من سجلين على هذه الخريطة: مصائد كشب تستغل التضاريس الطبيعية وزوايا جدرانها أضيق من مصائد خيبر؛ ومئات مصائد النواصف تصطف على حواف الحمم والأودية الصغيرة بجدران متقاربة بسيطة. حرّتان، وشكلان، وتضاريس مختلفة.",
+"ctx": "sa:D.sites.89.spec.spot",
+"i": 3094
+},
+{
+"en": "Measure every kite from satellite images and the ground around it from elevation data, then check whether shape follows terrain the same way in each field.",
+"ar": "قياس كل مصيدة من صور الأقمار الصناعية وقياس الأرض حولها من بيانات الارتفاع، ثم التحقق من أن الشكل يتبع التضاريس بالطريقة نفسها في كل حرّة.",
+"ctx": "sa:D.sites.89.spec.test",
+"i": 3095
+},
+{
+"en": "If kites on similar ground in different fields still differ strongly, or shape shows no link to slope at all, the land is not the main designer and the idea fails.",
+"ar": "إذا بقيت المصائد على أرض متشابهة في حرّات مختلفة متباينة بشدة، أو لم يرتبط الشكل بالانحدار أبدًا، فليست الأرض هي المصمم الرئيسي وتسقط الفكرة.",
+"ctx": "sa:D.sites.89.spec.wrong",
+"i": 3096
+},
+{
+"en": "Did the lava, not the builders, decide the shape of the desert kites?",
+"ar": "هل حدّدت الحمم، لا البناة، شكل مصائد الصحراء؟",
+"ctx": "sa:D.sites.89.ta",
+"i": 3097
+},
+{
+"en": "Jubail Church",
+"ar": "كنيسة الجبيل",
+"ctx": "sa:D.sites.9.na",
+"i": 3098
+},
+{
+"en": "Picnickers found a buried church in 1986; its carved crosses still mark the doorway",
+"ar": "عثر متنزهون على كنيسة مدفونة عام 1986؛ وما زالت صلبانها المنحوتة تعلّم المدخل",
+"ctx": "sa:D.sites.9.sa",
+"i": 3099
+},
+{
+"en": "A church found at a picnic",
+"ar": "كنيسة وُجدت في نزهة",
+"ctx": "sa:D.sites.9.ta",
+"i": 3100
+},
+{
+"en": "Two Villages, One Year?",
+"ar": "قريتان، سنة واحدة؟",
+"ctx": "sa:D.sites.90.na",
+"i": 3101
+},
+{
+"en": "A seasonal village in a Red Sea valley and a short-lived herders’ village on the Tabuk plateau were lived in during the same centuries, about 100 km apart. Were they one people’s summer and winter homes? Nobody has tested this yet.",
+"ar": "قرية موسمية في وادٍ على البحر الأحمر وقرية رعاة قصيرة العمر على هضبة تبوك سُكنتا في القرون نفسها، على بعد نحو 100 كم. فهل كانتا بيتي الصيف والشتاء لشعب واحد؟ لم يختبر أحد ذلك بعد.",
+"ctx": "sa:D.sites.90.sa",
+"i": 3102
+},
+{
+"en": "The seasonal valley village with shell ornaments",
+"ar": "قرية الوادي الموسمية ذات الحلي الصدفية",
+"ctx": "sa:D.sites.90.spec.lk.0[2]",
+"i": 3103
+},
+{
+"en": "The short-lived plateau village of sheep and goat herders",
+"ar": "قرية الهضبة القصيرة العمر لرعاة الأغنام والماعز",
+"ctx": "sa:D.sites.90.spec.lk.1[2]",
+"i": 3104
+},
+{
+"en": "The mountain corridor between the two",
+"ar": "الممر الجبلي بينهما",
+"ctx": "sa:D.sites.90.spec.lk.2[2]",
+"i": 3105
+},
+{
+"en": "Pre-Pottery Neolithic activity further east at Jubbah",
+"ar": "نشاط من العصر الحجري الحديث ما قبل الفخار شرقًا في جبة",
+"ctx": "sa:D.sites.90.spec.lk.3[2]",
+"i": 3106
+},
+{
+"en": "Growth bands in herd-animal teeth from Al Uyaynah will show grazing that switches between plateau and lowland conditions with the seasons, and Red Sea shells will turn up among its finds.",
+"ar": "ستُظهر حلقات النمو في أسنان حيوانات القطيع من العيينة رعيًا يتبدل بين ظروف الهضبة والأراضي المنخفضة مع الفصول، وستظهر أصداف من البحر الأحمر بين لقاها.",
+"ctx": "sa:D.sites.90.spec.pred",
+"i": 3107
+},
+{
+"en": "Born from two records on this map. Wadi Sharma 1 was a seasonal village of the late 8th millennium BC with shell ornaments; Al Uyaynah, 106 km away, was a short-lived herders’ village of about 7190–6900 BC. Overlapping dates, one mountain corridor between them.",
+"ar": "وُلدت الفكرة من سجلين على هذه الخريطة: كانت وادي شرما 1 قرية موسمية من أواخر الألف الثامن ق.م بحلي صدفية؛ وكانت العيينة، على بعد 106 كم، قرية رعاة قصيرة العمر نحو 7190–6900 ق.م. تواريخ متداخلة، وممر جبلي واحد بينهما.",
+"ctx": "sa:D.sites.90.spec.spot",
+"i": 3108
+},
+{
+"en": "Run sequential isotope analysis on sheep and goat teeth, identify the shells at both sites, and compare tools and clay objects between them.",
+"ar": "إجراء تحليل نظائر متسلسل على أسنان الأغنام والماعز، وتحديد الأصداف في الموقعين، ومقارنة الأدوات والقطع الطينية بينهما.",
+"ctx": "sa:D.sites.90.spec.test",
+"i": 3109
+},
+{
+"en": "If the teeth show animals grazing in one place all year, and the two sites share no shells or styles, the two-season idea fails.",
+"ar": "إذا أظهرت الأسنان حيوانات ترعى في مكان واحد طوال العام، ولم يشترك الموقعان في أصداف أو أساليب، تسقط فكرة الموسمين.",
+"ctx": "sa:D.sites.90.spec.wrong",
+"i": 3110
+},
+{
+"en": "Were the valley and plateau villages two seasons of the same herders?",
+"ar": "هل كانت قرية الوادي وقرية الهضبة موسمين لرعاة واحد؟",
+"ctx": "sa:D.sites.90.ta",
+"i": 3111
+},
+{
+"en": "<b>Example source:</b> PLOS ONE, April 2024: Stewart et al. report the first excavation of an Arabian lava tube, used by herders from 10,000 years ago.",
+"ar": "<b>مثال على مصدر:</b> PLOS ONE، أبريل 2024: ستيوارت وزملاؤه ينشرون أول تنقيب في أنبوب بركاني بالجزيرة العربية، استخدمه الرعاة منذ 10,000 عام.",
+"ctx": "sa:HW.steps",
+"i": 3112
+},
+{
+"en": "<b>Searches like:</b> “Hegra excavation”, “mustatil radiocarbon”, “Harrat Rahat eruption”, “Uruq Bani Ma’arid oryx census”.",
+"ar": "<b>عمليات بحث مثل:</b> «تنقيبات الحِجر»، «تأريخ المستطيلات»، «ثوران حرة رهط»، «إحصاء المها في عروق بني معارض».",
+"ctx": "sa:HW.steps",
+"i": 3113
+},
+{
+"en": "<b>Extracted:</b> Place → Umm Jirsan · Published → Apr 2024 · Finding → occupation from 10,000 years ago · Team → Max Planck and Heritage Commission.",
+"ar": "<b>المستخرج:</b> الموقع ← أم جرسان · النشر ← أبريل 2024 · النتيجة ← استيطان منذ 10,000 عام · الفريق ← ماكس بلانك وهيئة التراث.",
+"ctx": "sa:HW.steps",
+"i": 3114
+},
+{
+"en": "<b>Title:</b> People who lived in a lava tube<br><b>العنوان:</b> أناس عاشوا في أنبوب بركاني",
+"ar": "<b>Title:</b> People who lived in a lava tube<br><b>العنوان:</b> أناس عاشوا في أنبوب بركاني",
+"ctx": "sa:HW.steps",
+"i": 3115
+},
+{
+"en": "<b>Shown on:</b> Umm Jirsan card → New research → link to the original source.",
+"ar": "<b>يظهر في:</b> بطاقة أم جرسان ← بحث جديد ← رابط المصدر الأصلي.",
+"ctx": "sa:HW.steps",
+"i": 3116
+},
+{
+"en": "On request, a new place becomes a complete entry: researcher record, Explorer title and story in both languages, a cartoon, an icon and a bar on the timeline. That is how new places will join the map.",
+"ar": "عند الطلب يتحول الموقع الجديد إلى مدخل كامل: سجل للباحثين، وعنوان وقصة للمستكشف باللغتين، ورسم، وأيقونة، وشريط على الخط الزمني. هكذا ستنضم مواقع جديدة إلى الخريطة.",
+"ctx": "sa:HW.steps",
+"i": 3117
+},
+{
+"en": "<b>Example:</b> Edge of the World → “A reef 800 km long” · Middle Jurassic Tuwaiq Mountain Limestone · about 165 million years ago.",
+"ar": "<b>مثال:</b> حافة العالم ← «شعاب بطول 800 كم» · حجر طويق الجيري من الجوراسي الأوسط · قبل نحو 165 مليون سنة.",
+"ctx": "sa:HW.steps",
+"i": 3118
+},
+{
+"en": "How Layers of Saudi Arabia works",
+"ar": "كيف يعمل تطبيق طبقات السعودية",
+"ctx": "sa:HW.title",
+"i": 3119
+},
+{
+"en": "A new place can become a complete entry: researcher record, Explorer title and story in both languages, a cartoon, an icon and a bar on the timeline. That is how new places will join the map.",
+"ar": "يمكن أن يتحول الموقع الجديد إلى مدخل كامل: سجل للباحثين، وعنوان وقصة للمستكشف باللغتين، ورسم، وأيقونة، وشريط على الخط الزمني. هكذا ستنضم مواقع جديدة إلى الخريطة.",
+"ctx": "sa:HW2.steps",
+"i": 3120
+},
+{
+"en": "Layers of Saudi Arabia maps the geology, archaeology and ecology of Saudi Arabia: places with their sources, a timeline from the Jurassic sea to today, and live directions, in Arabic and English. Illustrated stories are on their way.",
+"ar": "يرسم تطبيق طبقات السعودية جيولوجيا السعودية وآثارها وبيئتها: مواقع بمصادرها، وخط زمني من البحر الجوراسي حتى اليوم، وإرشادات حيّة، بالعربية والإنجليزية. والقصص المصوّرة في الطريق.",
+"ctx": "sa:INS.aP1",
+"i": 3121
+},
+{
+"en": "About Layers of Saudi Arabia",
+"ar": "حول طبقات السعودية",
+"ctx": "sa:INS.aT",
+"i": 3122
+},
+{
+"en": "Made in Saudi Arabia",
+"ar": "صُنع في السعودية",
+"ctx": "sa:INS.made",
+"i": 3123
+},
+{
+"en": "Install Layers of Saudi Arabia",
+"ar": "ثبّت طبقات السعودية",
+"ctx": "sa:INS.t",
+"i": 3124
+},
+{
+"en": "‘Uruq Bani Ma’arid Protected Area",
+"ar": "محمية عروق بني معارض",
+"ctx": "sa:PZ.0",
+"i": 3125
+},
+{
+"en": "Farasan Islands Protected Area",
+"ar": "محمية جزر فرسان",
+"ctx": "sa:PZ.1",
+"i": 3126
+},
+{
+"en": "Ḥimā Cultural Area (World Heritage, 2021)",
+"ar": "منطقة حمى الثقافية (تراث عالمي، 2021)",
+"ctx": "sa:PZ.10",
+"i": 3127
+},
+{
+"en": "Inscribed 2021; wells still in use.",
+"ar": "أُدرجت عام 2021؛ الآبار ما زالت مستخدمة.",
+"ctx": "sa:PZ.10.note",
+"i": 3128
+},
+{
+"en": "‘Uruq Bani Ma’arid (World Heritage, 2023)",
+"ar": "عروق بني معارض (تراث عالمي، 2023)",
+"ctx": "sa:PZ.11",
+"i": 3129
+},
+{
+"en": "First natural World Heritage site of the kingdom, inscribed 2023.",
+"ar": "أول موقع تراث عالمي طبيعي في المملكة، أُدرج عام 2023.",
+"ctx": "sa:PZ.11.note",
+"i": 3130
+},
+{
+"en": "Al-Faw (World Heritage, 2024)",
+"ar": "الفاو (تراث عالمي، 2024)",
+"ctx": "sa:PZ.12",
+"i": 3131
+},
+{
+"en": "Inscribed 27 July 2024.",
+"ar": "أُدرجت في 27 يوليو 2024.",
+"ctx": "sa:PZ.12.note",
+"i": 3132
+},
+{
+"en": "Ibex Reserve",
+"ar": "محمية الوعول",
+"ctx": "sa:PZ.14",
+"i": 3133
+},
+{
+"en": "King Khalid Royal Reserve",
+"ar": "محمية الملك خالد الملكية",
+"ctx": "sa:PZ.16",
+"i": 3134
+},
+{
+"en": "Umm al-Qamari Islands Protected Area",
+"ar": "محمية جزر أم القماري",
+"ctx": "sa:PZ.17",
+"i": 3135
+},
+{
+"en": "Raydah Reserve",
+"ar": "محمية ريدة",
+"ctx": "sa:PZ.3",
+"i": 3136
+},
+{
+"en": "Shaybah Wildlife Sanctuary",
+"ar": "محمية شيبة للحياة الفطرية",
+"ctx": "sa:PZ.4",
+"i": 3137
+},
+{
+"en": "Hegra (World Heritage, 2008)",
+"ar": "الحِجر (تراث عالمي، 2008)",
+"ctx": "sa:PZ.5",
+"i": 3138
+},
+{
+"en": "Inscribed 2008. Tickets through Experience AlUla.",
+"ar": "أُدرجت عام 2008. التذاكر عبر تجربة العلا.",
+"ctx": "sa:PZ.5.note",
+"i": 3139
+},
+{
+"en": "At-Turaif, Diriyah (World Heritage, 2010)",
+"ar": "الطريف، الدرعية (تراث عالمي، 2010)",
+"ctx": "sa:PZ.6",
+"i": 3140
+},
+{
+"en": "Inscribed 2010; restored and open to visitors.",
+"ar": "أُدرجت عام 2010؛ رُممت وفُتحت للزوار.",
+"ctx": "sa:PZ.6.note",
+"i": 3141
+},
+{
+"en": "Historic Jeddah (World Heritage, 2014)",
+"ar": "جدة التاريخية (تراث عالمي، 2014)",
+"ctx": "sa:PZ.7",
+"i": 3142
+},
+{
+"en": "Inscribed 2014. Restoration under way since 2021.",
+"ar": "أُدرجت عام 2014. الترميم جارٍ منذ 2021.",
+"ctx": "sa:PZ.7.note",
+"i": 3143
+},
+{
+"en": "Rock Art of Hail (World Heritage, 2015)",
+"ar": "الفنون الصخرية في حائل (تراث عالمي، 2015)",
+"ctx": "sa:PZ.8",
+"i": 3144
+},
+{
+"en": "Jubbah and Shuwaymis, inscribed 2015.",
+"ar": "جبة والشويمس، أُدرجت عام 2015.",
+"ctx": "sa:PZ.8.note",
+"i": 3145
+},
+{
+"en": "Al-Ahsa Oasis (World Heritage, 2018)",
+"ar": "واحة الأحساء (تراث عالمي، 2018)",
+"ctx": "sa:PZ.9",
+"i": 3146
+},
+{
+"en": "Twelve components, inscribed 2018.",
+"ar": "اثنا عشر مكوّنًا، أُدرجت عام 2018.",
+"ctx": "sa:PZ.9.note",
+"i": 3147
+},
+{
+"en": "Source: National Center for Wildlife (Saudi Arabia); UNESCO",
+"ar": "المصدر: المركز الوطني لتنمية الحياة الفطرية (السعودية)؛ اليونسكو",
+"ctx": "sa:PZT.src",
+"i": 3148
+},
+{
+"en": "UNESCO World Heritage",
+"ar": "تراث عالمي (يونسكو)",
+"ctx": "sa:PZT.u",
+"i": 3149
+},
+{
+"en": "Start in Ha’il, where people carved a lakeshore 10,000 years ago.",
+"ar": "ابدأ من حائل، حيث نقش الناس شاطئ بحيرة قبل 10,000 عام.",
+"ctx": "sa:ROUTE.0[4]",
+"i": 3150
+},
+{
+"en": "South to the Nafud, where herders built stone monuments 7,000 years ago.",
+"ar": "جنوبًا إلى النفود، حيث بنى الرعاة نصبًا حجرية قبل 7,000 عام.",
+"ctx": "sa:ROUTE.1[4]",
+"i": 3151
+},
+{
+"en": "To AlUla and 111 tombs cut into the sandstone.",
+"ar": "إلى العلا و111 مقبرة منحوتة في الحجر الرملي.",
+"ctx": "sa:ROUTE.2[4]",
+"i": 3152
+},
+{
+"en": "Follow the lava field to the flow of 1256 that stopped outside the city.",
+"ar": "اتبع الحرة إلى سيل 1256 الذي توقف خارج المدينة.",
+"ctx": "sa:ROUTE.3[4]",
+"i": 3153
+},
+{
+"en": "Cross to Najd and stand on the Jurassic sea floor above Riyadh.",
+"ar": "اعبر إلى نجد وقف على قاع البحر الجوراسي فوق الرياض.",
+"ctx": "sa:ROUTE.4[4]",
+"i": 3154
+},
+{
+"en": "South along the escarpment to the painted houses of Kinda.",
+"ar": "جنوبًا على طول الجرف إلى بيوت كندة المرسومة.",
+"ctx": "sa:ROUTE.5[4]",
+"i": 3155
+},
+{
+"en": "Into the sand sea, where the oryx was set free again in 1995.",
+"ar": "إلى بحر الرمال، حيث أُطلق المها حرًا من جديد عام 1995.",
+"ctx": "sa:ROUTE.6[4]",
+"i": 3156
+},
+{
+"en": "End on the Gulf coast at the well that found oil in 1938.",
+"ar": "واختم على ساحل الخليج عند البئر التي وجدت النفط عام 1938.",
+"ctx": "sa:ROUTE.7[4]",
+"i": 3157
+},
+{
+"en": "My story for Layers of Saudi Arabia",
+"ar": "قصتي لطبقات السعودية",
+"ctx": "sa:SB.mailSub",
+"i": 3158
+},
+{
+"en": "Available now",
+"ar": "متاح الآن",
+"ctx": "sa:SOONT.avail",
+"i": 3159
+},
+{
+"en": "Back to Saudi Arabia",
+"ar": "العودة إلى السعودية",
+"ctx": "sa:SOONT.back",
+"i": 3160
+},
+{
+"en": "Open Layers of Kuwait",
+"ar": "افتح طبقات الكويت",
+"ctx": "sa:SOONT.open",
+"i": 3161
+},
+{
+"en": "Based on the work of the Saudi-French Madâ’in Sâlih Archaeological Project",
+"ar": "مستندة إلى أعمال البعثة السعودية الفرنسية في مدائن صالح",
+"ctx": "sa:STORIES.0.credit",
+"i": 3162
+},
+{
+"en": "A City That Vanished",
+"ar": "مدينة اختفت",
+"ctx": "sa:STORIES.0.pages.1.h",
+"i": 3163
+},
+{
+"en": "North of AlUla, 111 tombs are cut into outcrops of sandstone. Ninety-four of them are decorated with carved doorways, steps and eagles. The largest, Qasr al-Bint, rises about 16 metres. Between the outcrops lay a city, but the city is gone. Its houses were made of mud brick, and the plain swallowed them.",
+"ar": "شمال العُلا نُحتت 111 مقبرة في كتل من الحجر الرملي، زُيّن 94 منها بأبواب منحوتة ودرجات ونسور. أكبرها قصر البنت، ويرتفع نحو 16 مترًا. وبين هذه الكتل كانت مدينة، لكنها اختفت؛ فبيوتها كانت من الطوب الطيني، وقد ابتلعها السهل.",
+"ctx": "sa:STORIES.0.pages.1.p",
+"i": 3164
+},
+{
+"en": "Hegra was the largest Nabataean site south of Petra. The Nabataeans were traders who guided caravans across the desert. They built tombs that were meant to last, and they did. Since 2008 a Saudi-French team has been digging in the plain to find the city the tombs once watched over.",
+"ar": "كانت الحِجر أكبر موقع نبطي جنوب البتراء. والأنباط تجار كانوا يقودون القوافل عبر الصحراء. بنوا مقابر صُنعت لتبقى، وبقيت. ومنذ عام 2008 يحفر فريق سعودي فرنسي في السهل بحثًا عن المدينة التي كانت المقابر تطل عليها.",
+"ctx": "sa:STORIES.0.pages.1.p",
+"i": 3165
+},
+{
+"en": "Water from the Plain",
+"ar": "ماء من السهل",
+"ctx": "sa:STORIES.0.pages.2.h",
+"i": 3166
+},
+{
+"en": "No river runs at Hegra. The people drank from wells dug into the plain and from cisterns that caught the rare rain. Every tomb was a promise that a family would stay. Every well was the reason they could. Archaeologists still find the mouths of those wells among the fallen walls.",
+"ar": "لا يجري نهر في الحِجر. كان الناس يشربون من آبار حُفرت في السهل ومن صهاريج تجمع المطر النادر. كل مقبرة وعدٌ بأن عائلة ستبقى، وكل بئر هي السبب الذي جعل البقاء ممكنًا. وما زال علماء الآثار يعثرون على أفواه تلك الآبار بين الجدران المتهدمة.",
+"ctx": "sa:STORIES.0.pages.2.p",
+"i": 3167
+},
+{
+"en": "The sandstone itself was a gift. It is soft enough to carve with iron tools but hard enough to hold a sharp edge for two thousand years. The stone-cutters worked from the top down, so an unfinished tomb shows a perfect crown above a rough, half-cut body.",
+"ar": "والحجر الرملي نفسه كان هبة. فهو لين يكفي لنحته بأدوات الحديد، وصلب يكفي ليحفظ حافة حادة ألفي عام. كان النحاتون يعملون من الأعلى إلى الأسفل، لذلك تُظهر المقبرة غير المكتملة تاجًا كاملًا فوق جسد خشن نصف منحوت.",
+"ctx": "sa:STORIES.0.pages.2.p",
+"i": 3168
+},
+{
+"en": "The Writing on the Door",
+"ar": "الكتابة فوق الباب",
+"ctx": "sa:STORIES.0.pages.3.h",
+"i": 3169
+},
+{
+"en": "Above many doorways the Nabataeans carved a text: who owned the tomb, who could be buried in it, and the year it was made. The dates run from 1 BC to AD 74. No other group of Nabataean tombs anywhere has such a run of dates. It is like a calendar cut into cliffs.",
+"ar": "فوق كثير من الأبواب نقش الأنباط نصًا: من يملك المقبرة، ومن يجوز دفنه فيها، والسنة التي صُنعت فيها. وتمتد التواريخ من 1 ق.م إلى 74 م. ولا توجد مجموعة أخرى من المقابر النبطية في أي مكان بهذا التسلسل من التواريخ. إنها أشبه بتقويم منحوت في الجروف.",
+"ctx": "sa:STORIES.0.pages.3.p",
+"i": 3170
+},
+{
+"en": "Because of those dates, researchers can watch styles change decade by decade. A step pattern favoured in one year, a different cornice twenty years later. The tombs of Hegra are the best-preserved Nabataean tombs anywhere, and the only ones that tell us exactly when they were made.",
+"ar": "وبفضل تلك التواريخ يستطيع الباحثون مراقبة تغيّر الطُّرز عقدًا بعد عقد: نمط مدرّج يُفضَّل في سنة، وإفريز مختلف بعد عشرين سنة. مقابر الحِجر هي الأفضل حفظًا بين المقابر النبطية في العالم، والوحيدة التي تخبرنا بدقة متى صُنعت.",
+"ctx": "sa:STORIES.0.pages.3.p",
+"i": 3171
+},
+{
+"en": "Rome Arrives",
+"ar": "وصول روما",
+"ctx": "sa:STORIES.0.pages.4.h",
+"i": 3172
+},
+{
+"en": "In AD 106 Rome took over the Nabataean kingdom. Soldiers came to Hegra, and inscriptions and finds show a Roman garrison in the town. The caravans kept moving for a while, but the last dated tomb is from AD 74. After that, no family carved a new year above a door.",
+"ar": "في عام 106 م ضمّت روما مملكة الأنباط. جاء الجنود إلى الحِجر، وتُظهر النقوش واللقى وجود حامية رومانية في البلدة. ظلّت القوافل تتحرك حينًا، لكن آخر مقبرة مؤرخة تعود إلى عام 74 م. وبعدها لم تنقش أي عائلة سنة جديدة فوق باب.",
+"ctx": "sa:STORIES.0.pages.4.p",
+"i": 3173
+},
+{
+"en": "In 2008 Hegra became Saudi Arabia’s first World Heritage site. That same year the excavations began. The tombs had waited almost two thousand years in the dry air. Now the plain between them is giving up the city, one wall and one well at a time.",
+"ar": "وفي عام 2008 صارت الحِجر أول موقع تراث عالمي في المملكة العربية السعودية. وفي السنة نفسها بدأت الحفريات. انتظرت المقابر قرابة ألفي عام في الهواء الجاف. والآن يكشف السهل بينها عن المدينة، جدارًا بعد جدار وبئرًا بعد بئر.",
+"ctx": "sa:STORIES.0.pages.4.p",
+"i": 3174
+},
+{
+"en": "A date carved in stone is a small thing, but it lets us hear a whole city count its years.",
+"ar": "تاريخ منقوش في الحجر شيء صغير، لكنه يسمح لنا أن نسمع مدينة بأكملها تعدّ سنواتها.",
+"ctx": "sa:STORIES.0.pages.5.p",
+"i": 3175
+},
+{
+"en": "The tombs of Hegra tell us the year they were made",
+"ar": "مقابر الحِجر تخبرنا بالسنة التي صُنعت فيها",
+"ctx": "sa:STORIES.0.tag",
+"i": 3176
+},
+{
+"en": "Green Grass in the Nafud",
+"ar": "عشب أخضر في النفود",
+"ctx": "sa:STORIES.1.pages.1.h",
+"i": 3177
+},
+{
+"en": "More than seven thousand years ago, the sands of north-west Arabia were not all sand. Rain came more often, grass grew between the dunes, and shallow lakes shone after the storms. Nura’s family followed their cattle from one green patch to the next. The animals were slow and heavy and precious.",
+"ar": "قبل أكثر من سبعة آلاف عام لم تكن رمال شمال غرب الجزيرة العربية كلها رمالًا. كان المطر يأتي أكثر، والعشب ينبت بين الكثبان، والبحيرات الضحلة تلمع بعد العواصف. كانت عائلة نورة تتبع أبقارها من بقعة خضراء إلى أخرى. حيوانات بطيئة وثقيلة وثمينة.",
+"ctx": "sa:STORIES.1.pages.1.p",
+"i": 3178
+},
+{
+"en": "«Why do we walk so far?» Nura asked her father. «Because the cows eat, and then the grass is gone,» he said. «So we go where it is still growing.» She counted the herd every evening. Twenty-six cows, two bulls, and one calf that liked to lick her hand.",
+"ar": "سألت نورة أباها: «لماذا نمشي كل هذه المسافة؟» قال: «لأن الأبقار تأكل، ثم يختفي العشب، فنذهب حيث ما زال ينبت.» كانت تعدّ القطيع كل مساء: ستٌّ وعشرون بقرة، وثوران، وعجل صغير يحب أن يلعق يدها.",
+"ctx": "sa:STORIES.1.pages.1.p",
+"i": 3179
+},
+{
+"en": "A Wall Longer Than a Walk",
+"ar": "جدار أطول من مشوار",
+"ctx": "sa:STORIES.1.pages.2.h",
+"i": 3180
+},
+{
+"en": "One spring the families met at a place where two low walls of stones ran side by side across the ground, far longer than any house. Men and women were adding stones at the far end. Nura walked beside the wall and counted her steps. She lost count after four hundred.",
+"ar": "في أحد الربيعات التقت العائلات عند مكان يمتد فيه جداران منخفضان من الحجارة جنبًا إلى جنب فوق الأرض، أطول بكثير من أي بيت. كان رجال ونساء يضيفون حجارة عند الطرف البعيد. مشت نورة بمحاذاة الجدار تعدّ خطواتها، فضاعت منها العدّة بعد أربعمئة.",
+"ctx": "sa:STORIES.1.pages.2.p",
+"i": 3181
+},
+{
+"en": "These long rectangles are called mustatils today. They run from 20 to 620 metres long, and more than a thousand of them are known across about 200,000 square kilometres, from the Nafud to the lava fields of Khaybar. Nobody lived inside them. They were built for gathering, not for sleeping.",
+"ar": "هذه المستطيلات الطويلة تُسمى اليوم «المستطيلات». يتراوح طولها بين 20 و620 مترًا، ويُعرف منها أكثر من ألف على مساحة نحو 200,000 كيلومتر مربع، من النفود إلى حَرّات خيبر. لم يسكن أحد داخلها؛ بُنيت للاجتماع لا للنوم.",
+"ctx": "sa:STORIES.1.pages.2.p",
+"i": 3182
+},
+{
+"en": "The Horns",
+"ar": "القرون",
+"ctx": "sa:STORIES.1.pages.3.h",
+"i": 3183
+},
+{
+"en": "At one end of the rectangle stood a tall stone, set upright in a small chamber. An old woman showed Nura what to do. The family had brought the horns of a cow that had died in the winter. Nura laid them at the foot of the stone, beside horns of sheep and gazelle left by other families.",
+"ar": "عند طرف المستطيل وقف حجر طويل، مغروس في غرفة صغيرة. أرتها امرأة عجوز ما تفعل. كانت العائلة قد حملت قرون بقرة ماتت في الشتاء. وضعتها نورة عند قاعدة الحجر، بجوار قرون أغنام وغزلان تركتها عائلات أخرى.",
+"ctx": "sa:STORIES.1.pages.3.p",
+"i": 3184
+},
+{
+"en": "«Why horns?» she whispered. «Because the herd is our life,» the old woman said. «We give the best of it back.» Thousands of years later, archaeologists near AlUla opened just such a chamber. The horns were still there, placed around the standing stone, and the charcoal with them dated to about 5300–5000 BC.",
+"ar": "همست: «لماذا القرون؟» قالت العجوز: «لأن القطيع حياتنا، فنردّ أفضل ما فيه.» وبعد آلاف السنين فتح علماء آثار قرب العُلا غرفة كهذه تمامًا. كانت القرون ما زالت هناك، موضوعة حول الحجر القائم، والفحم معها يؤرَّخ بنحو 5300–5000 ق.م.",
+"ctx": "sa:STORIES.1.pages.3.p",
+"i": 3185
+},
+{
+"en": "A Thousand Rectangles",
+"ar": "ألف مستطيل",
+"ctx": "sa:STORIES.1.pages.4.h",
+"i": 3186
+},
+{
+"en": "Nura’s cattle are long gone, and the grass with them. The rectangles stayed. From the air they look like lines drawn with a ruler on the sand and the black lava. For a long time hardly anyone outside Arabia knew they existed. Only in 2021 did a careful survey tell the world.",
+"ar": "رحلت أبقار نورة منذ زمن بعيد، ورحل العشب معها. وبقيت المستطيلات. من الجو تبدو كخطوط رُسمت بمسطرة على الرمل وعلى الحمم السوداء. ولزمن طويل لم يكد أحد خارج الجزيرة العربية يعرف بوجودها، حتى أخبر مسحٌ دقيق العالمَ بها عام 2021.",
+"ctx": "sa:STORIES.1.pages.4.p",
+"i": 3187
+},
+{
+"en": "They are older than the pyramids and older than Stonehenge, among the oldest large monuments on Earth. Their builders left no writing. But they left horns around a stone, and that is enough to know what mattered to a girl who counted her cows every evening.",
+"ar": "إنها أقدم من الأهرامات وأقدم من ستونهنج، ومن أقدم الصروح الكبيرة على الأرض. لم يترك بناتها كتابة. لكنهم تركوا قرونًا حول حجر، وهذا يكفي لنعرف ما كان يهم فتاة تعدّ أبقارها كل مساء.",
+"ctx": "sa:STORIES.1.pages.4.p",
+"i": 3188
+},
+{
+"en": "Some monuments are made to be seen from far away. These were made to be walked, together.",
+"ar": "بعض الصروح تُبنى لتُرى من بعيد. أما هذه فبُنيت ليمشي الناس فيها معًا.",
+"ctx": "sa:STORIES.1.pages.5.p",
+"i": 3189
+},
+{
+"en": "A girl, a herd of cattle and the longest wall she had ever seen",
+"ar": "فتاة وقطيع بقر وأطول جدار رأته في حياتها",
+"ctx": "sa:STORIES.1.tag",
+"i": 3190
+},
+{
+"en": "Based on the research of Mathew Stewart, Eric Andrieux, James Blinkhorn and colleagues (2024)",
+"ar": "مستندة إلى أبحاث ماثيو ستيوارت وإريك أندريو وجيمس بلينكهورن وزملائهم (2024)",
+"ctx": "sa:STORIES.2.credit",
+"i": 3191
+},
+{
+"en": "A Tunnel Made by Fire",
+"ar": "نفق صنعته النار",
+"ctx": "sa:STORIES.2.pages.1.h",
+"i": 3192
+},
+{
+"en": "Harrat Khaybar is a lava field of about 14,000 square kilometres in western Saudi Arabia, built by eruptions over the last five million years. When a river of lava cools on top but keeps flowing underneath, it leaves a hollow pipe behind. Umm Jirsan is one of these pipes, about 1.5 kilometres long.",
+"ar": "حَرّة خيبر حقل من الحمم مساحته نحو 14,000 كيلومتر مربع في غرب السعودية، بنته ثورانات على مدى خمسة ملايين سنة. حين يبرد نهر الحمم من أعلى ويواصل الجريان من تحت، يترك خلفه أنبوبًا أجوف. وأم جرسان واحد من هذه الأنابيب، طوله نحو 1.5 كيلومتر.",
+"ctx": "sa:STORIES.2.pages.1.p",
+"i": 3193
+},
+{
+"en": "Inside, it is dark, cool and quiet. Outside, the ground is black rock and the sun is hard. For a long time geologists mapped the tube and biologists counted its bats and hyenas. Nobody had dug its floor. In 2024 a team did, and it became the first lava tube in Arabia ever excavated.",
+"ar": "في الداخل ظلام وبرودة وهدوء. وفي الخارج أرض من صخر أسود وشمس قاسية. لزمن طويل رسم الجيولوجيون خريطة الأنبوب وعدّ علماء الأحياء خفافيشه وضباعه. ولم يحفر أحد أرضيته. وفي عام 2024 فعل فريقٌ ذلك، فصار أول أنبوب بركاني يُنقَّب في الجزيرة العربية.",
+"ctx": "sa:STORIES.2.pages.1.p",
+"i": 3194
+},
+{
+"en": "Tools, Bones and Charcoal",
+"ar": "أدوات وعظام وفحم",
+"ctx": "sa:STORIES.2.pages.2.h",
+"i": 3195
+},
+{
+"en": "Under the dust the diggers found stone tools, the bones of animals and black flecks of old fires. Layer by layer they dated the charcoal. People had used the cave again and again from about 10,000 to 7,000 years ago, and then on into the Bronze Age.",
+"ar": "تحت الغبار وجد المنقبون أدوات حجرية وعظام حيوانات وبقعًا سوداء من نيران قديمة. وطبقة بعد طبقة أرّخوا الفحم. كان الناس قد استخدموا الكهف مرارًا من نحو 10,000 إلى 7,000 سنة مضت، ثم استمروا في العصر البرونزي.",
+"ctx": "sa:STORIES.2.pages.2.p",
+"i": 3196
+},
+{
+"en": "The bones told who came with them: cattle, sheep and goats. These were herders, moving their animals between pastures and water. The tube was not a home for life. It was a shelter on the road, a place to rest in the shade and light a fire where the wind could not reach.",
+"ar": "وأخبرت العظام من جاء معهم: أبقار وأغنام وماعز. كان هؤلاء رعاة ينقلون حيواناتهم بين المراعي والماء. لم يكن الأنبوب بيتًا للعمر كله، بل ملجأ على الطريق، مكانًا للراحة في الظل وإشعال نار لا تصلها الريح.",
+"ctx": "sa:STORIES.2.pages.2.p",
+"i": 3197
+},
+{
+"en": "Herders and Dogs",
+"ar": "رعاة وكلاب",
+"ctx": "sa:STORIES.2.pages.3.h",
+"i": 3198
+},
+{
+"en": "At the entrance of the tube the rock carries pictures. People stand with sticks. Cattle, sheep and goats walk in lines. And beside the herders run dogs, with curled tails and pointed ears. These are among the oldest pictures of working dogs in Arabia.",
+"ar": "عند مدخل الأنبوب يحمل الصخر صورًا: أناس يقفون بعصي، وأبقار وأغنام وماعز تمشي في صفوف. وإلى جانب الرعاة تركض كلاب بذيول ملتفة وآذان مدببة. وهذه من أقدم صور الكلاب العاملة في الجزيرة العربية.",
+"ctx": "sa:STORIES.2.pages.3.p",
+"i": 3199
+},
+{
+"en": "The pictures match the bones in the floor. Whoever drew them was a herder, and the dogs helped keep the animals together. A child sitting at the cave mouth thousands of years ago would have seen the same scene outside: a herd coming home across black rock, and a dog running ahead.",
+"ar": "وتتطابق الصور مع العظام في الأرضية. فمن رسمها كان راعيًا، وكانت الكلاب تساعد في جمع القطيع. ولو جلس طفل عند فم الكهف قبل آلاف السنين لرأى المشهد نفسه في الخارج: قطيع يعود عبر الصخر الأسود، وكلب يركض أمامه.",
+"ctx": "sa:STORIES.2.pages.3.p",
+"i": 3200
+},
+{
+"en": "What the Bones Ate",
+"ar": "ماذا أكلت العظام",
+"ctx": "sa:STORIES.2.pages.4.h",
+"i": 3201
+},
+{
+"en": "Human remains in the cave carry a chemical record of what people ate. Early on, the diet was that of herders: meat and milk. Later it changed. Fruit and cereals appear, the foods of oasis gardens. Farming had arrived in the valleys nearby, and the people of the lava field were eating from it.",
+"ar": "تحمل بقايا البشر في الكهف سجلًا كيميائيًا لما أكله الناس. في البداية كان الغذاء غذاء رعاة: لحم وحليب. ثم تغير؛ ظهرت الفاكهة والحبوب، أطعمة بساتين الواحات. كانت الزراعة قد وصلت إلى الأودية القريبة، وصار أهل الحَرّة يأكلون منها.",
+"ctx": "sa:STORIES.2.pages.4.p",
+"i": 3202
+},
+{
+"en": "So one cave holds a whole story: a wetter Arabia, moving herds, dogs, then dates and grain. Umm Jirsan is the first proof that people used Arabia’s lava caves as shelters on the move. There are hundreds more tubes in the harrats, and nobody has dug them yet.",
+"ar": "هكذا يحفظ كهف واحد قصة كاملة: جزيرة عربية أكثر مطرًا، وقطعان متنقلة، وكلاب، ثم تمر وحبوب. أم جرسان أول دليل على أن الناس استخدموا كهوف الحمم في الجزيرة العربية ملاجئ في ترحالهم. وفي الحَرّات مئات الأنابيب الأخرى، ولم يحفرها أحد بعد.",
+"ctx": "sa:STORIES.2.pages.4.p",
+"i": 3203
+},
+{
+"en": "A tunnel the Earth made by accident became, for thousands of years, the safest room in the desert.",
+"ar": "نفق صنعته الأرض مصادفةً صار، لآلاف السنين، أكثر الغرف أمانًا في الصحراء.",
+"ctx": "sa:STORIES.2.pages.5.p",
+"i": 3204
+},
+{
+"en": "The first lava tube in Arabia ever excavated, and the herders who slept in it",
+"ar": "أول أنبوب بركاني يُنقَّب في الجزيرة العربية، والرعاة الذين ناموا فيه",
+"ctx": "sa:STORIES.2.tag",
+"i": 3205
+},
+{
+"en": "The Red Glow",
+"ar": "الوهج الأحمر",
+"ctx": "sa:STORIES.3.pages.1.h",
+"i": 3206
+},
+{
+"en": "In the year 654 of the Hijra, 1256 by the other count, Salem was ten. One night the ground shook under the sleeping mats, and then shook again. His mother said it was nothing. By the end of the week, everybody climbed to the roofs to look south-east.",
+"ar": "في سنة 654 للهجرة، أي 1256 بالحساب الآخر، كان سالم في العاشرة. ذات ليلة اهتزت الأرض تحت الفُرش، ثم اهتزت مرة أخرى. قالت أمه إنه لا شيء. وفي نهاية الأسبوع صعد الجميع إلى السطوح ينظرون إلى الجنوب الشرقي.",
+"ctx": "sa:STORIES.3.pages.1.p",
+"i": 3207
+},
+{
+"en": "There, on the edge of the great black lava field called Harrat Rahat, the sky was red. «Is it a fire?» Salem asked. «It is the mountain,» said his uncle, who had travelled. «The ground has opened.» The glow did not go out the next night, or the one after.",
+"ar": "هناك، على حافة حقل الحمم الأسود الكبير المسمى حرة رهط، كانت السماء حمراء. سأل سالم: «أهو حريق؟» قال عمه، وكان قد سافر كثيرًا: «إنه الجبل. انشقت الأرض.» ولم ينطفئ الوهج في الليلة التالية، ولا التي بعدها.",
+"ctx": "sa:STORIES.3.pages.1.p",
+"i": 3208
+},
+{
+"en": "The River of Stone",
+"ar": "نهر الحجر",
+"ctx": "sa:STORIES.3.pages.2.h",
+"i": 3209
+},
+{
+"en": "His uncle took him on a camel to the edge of the harrat, far enough to be safe. Salem had never seen anything like it. A slow river, black on top and orange in the cracks, crept over the old lava. Trees caught fire where it touched them. The air smelled of hot metal.",
+"ar": "أخذه عمه على جمل إلى حافة الحَرّة، على مسافة آمنة. لم يرَ سالم شيئًا كهذا من قبل. نهر بطيء، أسود من فوق وبرتقالي في الشقوق، يزحف فوق الحمم القديمة. كانت الأشجار تشتعل حين يلمسها. والهواء رائحته رائحة معدن ساخن.",
+"ctx": "sa:STORIES.3.pages.2.p",
+"i": 3210
+},
+{
+"en": "The eruption lasted 52 days. In that time it poured out about half a cubic kilometre of basalt, a flow 23 kilometres long. It was moving towards the city. Every day the people of Madinah measured how far it had come, and every night they watched the glow grow a little brighter.",
+"ar": "دام الثوران 52 يومًا. وفي تلك المدة أخرج نحو نصف كيلومتر مكعب من البازلت، في تدفق طوله 23 كيلومترًا. وكان يتجه نحو المدينة. في كل يوم كان أهل المدينة يقيسون كم اقترب، وفي كل ليلة يراقبون الوهج يزداد سطوعًا قليلًا.",
+"ctx": "sa:STORIES.3.pages.2.p",
+"i": 3211
+},
+{
+"en": "Four Kilometres",
+"ar": "أربعة كيلومترات",
+"ctx": "sa:STORIES.3.pages.3.h",
+"i": 3212
+},
+{
+"en": "Then, one morning, the river stopped. It had cooled and thickened and could not push any further. The front of the flow stood about 4 kilometres from the city, a wall of black rock. Salem walked out with his uncle and touched it. It was still warm, like bread.",
+"ar": "ثم في صباح من الصباحات توقف النهر. كان قد برد وثخن ولم يعد يستطيع الدفع أكثر. وقفت مقدمة التدفق على بعد نحو 4 كيلومترات من المدينة، جدارًا من الصخر الأسود. خرج سالم مع عمه ولمسه. كان ما زال دافئًا كالخبز.",
+"ctx": "sa:STORIES.3.pages.3.p",
+"i": 3213
+},
+{
+"en": "The chroniclers of Madinah wrote down everything: the shaking, the day the fire appeared, the day it stopped. Because of them, this is the best-documented eruption in Arabia, told by people who saw it. An older flow, from AD 641, lies nearby. The harrat had done this before.",
+"ar": "ودوّن مؤرخو المدينة كل شيء: الاهتزاز، ويوم ظهور النار، ويوم توقفها. وبفضلهم صار هذا أفضل ثوران موثّق في الجزيرة العربية، رواه من رأوه بأعينهم. وقربه يرقد تدفق أقدم من عام 641 م. فالحَرّة فعلت هذا من قبل.",
+"ctx": "sa:STORIES.3.pages.3.p",
+"i": 3214
+},
+{
+"en": "Not Asleep",
+"ar": "ليست نائمة",
+"ctx": "sa:STORIES.3.pages.4.h",
+"i": 3215
+},
+{
+"en": "Harrat Rahat is the largest lava field in Saudi Arabia. It runs about 300 kilometres south of Madinah and rises to 1,744 metres. Most of it is old and silent. But the ground has not finished. In 1999 and again in 2009, at Harrat Lunayyir, swarms of small earthquakes shook the harrats.",
+"ar": "حرة رهط أكبر حقل حمم في المملكة العربية السعودية. تمتد نحو 300 كيلومتر جنوب المدينة وترتفع إلى 1,744 مترًا. معظمها قديم وصامت. لكن الأرض لم تنتهِ بعد. ففي عام 1999 ثم في عام 2009 في حرة لنير، هزت أسراب من الزلازل الصغيرة الحَرّات.",
+"ctx": "sa:STORIES.3.pages.4.p",
+"i": 3216
+},
+{
+"en": "In 2009 the quakes came from magma pushing up a crack 10 kilometres long, stretching the ground by more than a metre. It did not reach the surface. Scientists now watch the harrats with instruments, the way Salem watched from the roof. The fields are quiet, not extinct.",
+"ar": "وفي عام 2009 جاءت الزلازل من صهارة تدفع شقًا طوله 10 كيلومترات، فمدّت الأرض أكثر من متر. ولم تصل إلى السطح. يراقب العلماء اليوم الحَرّات بالأجهزة، كما راقبها سالم من السطح. الحقول هادئة، لا منطفئة.",
+"ctx": "sa:STORIES.3.pages.4.p",
+"i": 3217
+},
+{
+"en": "Eight hundred years later, the wall of black rock still stands where it stopped, four kilometres from the houses.",
+"ar": "بعد ثمانمئة عام ما زال جدار الصخر الأسود واقفًا حيث توقف، على بعد أربعة كيلومترات من البيوت.",
+"ctx": "sa:STORIES.3.pages.5.p",
+"i": 3218
+},
+{
+"en": "A boy in Madinah watches a river of stone come closer, in 1256",
+"ar": "فتى في المدينة يراقب نهرًا من الحجر يقترب، عام 1256",
+"ctx": "sa:STORIES.3.tag",
+"i": 3219
+},
+{
+"en": "Based on the work of Jeffrey Wynn, Eugene Shoemaker and colleagues (1998, 2004)",
+"ar": "مستندة إلى أعمال جيفري وين ويوجين شوميكر وزملائهما (1998، 2004)",
+"ctx": "sa:STORIES.4.credit",
+"i": 3220
+},
+{
+"en": "Looking for a Lost City",
+"ar": "البحث عن مدينة ضائعة",
+"ctx": "sa:STORIES.4.pages.1.h",
+"i": 3221
+},
+{
+"en": "In the winter of 1932 the explorer Harry St John Philby rode into the Rub’ al Khali, the Empty Quarter, with a party of camels. He was looking for Ubar, a city that old stories said had been destroyed and buried under the sand. His guides knew a place they called Al Hadida: the place of iron.",
+"ar": "في شتاء عام 1932 دخل المستكشف هاري سانت جون فيلبي الربع الخالي مع قافلة من الجمال. كان يبحث عن أوبار، مدينة قالت الحكايات القديمة إنها دُمّرت ودُفنت تحت الرمال. وكان أدلّاؤه يعرفون مكانًا يسمونه «الحديدة»: أرض الحديد.",
+"ctx": "sa:STORIES.4.pages.1.p",
+"i": 3222
+},
+{
+"en": "On 2 February 1932 they reached it. There was no city. There were round hollows in the sand, black glass scattered everywhere, and lumps of heavy metal. Philby was disappointed. He did not know he had found something rarer than any lost city.",
+"ar": "وفي 2 فبراير 1932 وصلوا إليه. لم تكن هناك مدينة. كانت هناك حفر مستديرة في الرمل، وزجاج أسود مبعثر في كل مكان، وكتل من معدن ثقيل. أصيب فيلبي بخيبة أمل. لم يكن يعرف أنه وجد شيئًا أندر من أي مدينة ضائعة.",
+"ctx": "sa:STORIES.4.pages.1.p",
+"i": 3223
+},
+{
+"en": "What Fell from the Sky",
+"ar": "ما سقط من السماء",
+"ctx": "sa:STORIES.4.pages.2.h",
+"i": 3224
+},
+{
+"en": "A lump of iron from space, weighing more than 3,500 tonnes, came down over the dunes. It hit the ground so fast that it exploded. The blast dug craters, the largest about 116 metres across, and the heat melted the sand into black glass pellets that rained back down.",
+"ar": "سقطت فوق الكثبان كتلة من حديد الفضاء، وزنها أكثر من 3,500 طن. ضربت الأرض بسرعة هائلة حتى انفجرت. حفر الانفجار فوهات، أكبرها نحو 116 مترًا عرضًا، وصهرت الحرارة الرمل إلى حبيبات زجاج أسود تساقطت من جديد.",
+"ctx": "sa:STORIES.4.pages.2.p",
+"i": 3225
+},
+{
+"en": "Some of the sand was bleached white and turned into a rock called impactite. Inside it is coesite, a form of quartz that only forms under enormous pressure. Coesite is the fingerprint of an impact. Nothing else on Earth, not a volcano and not lightning, makes it in sand.",
+"ar": "وابيضّ بعض الرمل وتحول إلى صخر يسمى «الإمباكتيت». وفي داخله الكويسيت، وهو شكل من الكوارتز لا يتكون إلا تحت ضغط هائل. والكويسيت بصمة الارتطام. فلا شيء آخر على الأرض، لا بركان ولا برق، يصنعه في الرمل.",
+"ctx": "sa:STORIES.4.pages.2.p",
+"i": 3226
+},
+{
+"en": "The Camel’s Hump",
+"ar": "سنام الجمل",
+"ctx": "sa:STORIES.4.pages.3.h",
+"i": 3227
+},
+{
+"en": "Pieces of the meteorite itself survived the blast. The biggest, shaped like a camel’s hump, weighs 2.2 tonnes. It was dug out of the sand and carried to Riyadh, where it can be seen today. Smaller fragments of iron still lie among the dunes for those who know where to look.",
+"ar": "نجت قطع من النيزك نفسه من الانفجار. أكبرها، وشكلها كسنام جمل، تزن 2.2 طن. أُخرجت من الرمل ونُقلت إلى الرياض حيث يمكن رؤيتها اليوم. وما زالت شظايا أصغر من الحديد بين الكثبان لمن يعرف أين يبحث.",
+"ctx": "sa:STORIES.4.pages.3.p",
+"i": 3228
+},
+{
+"en": "Eugene Shoemaker, who spent his life studying craters on Earth and the Moon, came with Jeffrey Wynn in the 1990s to map the site properly. They found that Wabar is one of the few impact sites on Earth preserved in sand, and that it is very, very young.",
+"ar": "وجاء يوجين شوميكر، الذي قضى حياته يدرس الفوهات على الأرض والقمر، مع جيفري وين في التسعينيات لرسم خريطة الموقع بدقة. ووجدا أن وبار من المواقع القليلة على الأرض التي حُفظ فيها ارتطام في الرمل، وأنها حديثة جدًا جدًا.",
+"ctx": "sa:STORIES.4.pages.3.p",
+"i": 3229
+},
+{
+"en": "How Old Is a Hole in the Sand?",
+"ar": "كم عمر حفرة في الرمل؟",
+"ctx": "sa:STORIES.4.pages.4.h",
+"i": 3230
+},
+{
+"en": "Sand grains remember the last time they saw sunlight. Heat them in a laboratory and they give off a faint glow that tells how long they have been buried. In 2004 this method, thermoluminescence, was used on the glass and sand of Wabar. The answer: the fall happened within the last 250 years or so.",
+"ar": "تتذكر حبات الرمل آخر مرة رأت فيها ضوء الشمس. سخّنها في المختبر فتُصدر وهجًا خافتًا يخبرك كم مضى عليها مدفونة. في عام 2004 استُخدمت هذه الطريقة، التألق الحراري، على زجاج وبار ورمله. وكان الجواب: حدث السقوط خلال المئتين والخمسين سنة الأخيرة أو نحوها.",
+"ctx": "sa:STORIES.4.pages.4.p",
+"i": 3231
+},
+{
+"en": "That makes Wabar one of the youngest impact craters known. It also means it will not last. The dunes of the Empty Quarter move, and they are already filling the hollows. In another century the place of iron may be a place of plain sand, with only the stories left.",
+"ar": "وهذا يجعل وبار من أحدث فوهات الارتطام المعروفة. ويعني أيضًا أنها لن تدوم. فكثبان الربع الخالي تتحرك، وقد بدأت تملأ الحفر. وبعد قرن آخر قد تصير أرض الحديد أرضًا من رمل عادي، ولا يبقى منها إلا الحكايات.",
+"ctx": "sa:STORIES.4.pages.4.p",
+"i": 3232
+},
+{
+"en": "Philby went looking for a city under the sand and found a piece of the sky instead.",
+"ar": "ذهب فيلبي يبحث عن مدينة تحت الرمل، فوجد قطعة من السماء بدلًا منها.",
+"ctx": "sa:STORIES.4.pages.5.p",
+"i": 3233
+},
+{
+"en": "A man looking for a lost city found where a star had fallen",
+"ar": "رجل يبحث عن مدينة ضائعة فوجد حيث سقط نجم",
+"ctx": "sa:STORIES.4.tag",
+"i": 3234
+},
+{
+"en": "Where Cliff Meets Sand",
+"ar": "حيث يلتقي الجرف بالرمل",
+"ctx": "sa:STORIES.5.pages.1.h",
+"i": 3235
+},
+{
+"en": "Maryam’s mother worked at the reserve, and in the spring of 1995 she took Maryam with her. They drove for hours. On one side rose the pale cliffs of the Tuwaiq escarpment. On the other, the red dunes of the Rub’ al Khali began and did not stop. «This is ‘Uruq Bani Ma’arid,» her mother said.",
+"ar": "كانت أم مريم تعمل في المحمية، وفي ربيع عام 1995 أخذت مريم معها. قادتا السيارة ساعات. على جانب ارتفعت جروف طويق الشاحبة، وعلى الجانب الآخر بدأت كثبان الربع الخالي الحمراء ولم تتوقف. قالت أمها: «هذه عروق بني معارض.»",
+"ctx": "sa:STORIES.5.pages.1.p",
+"i": 3236
+},
+{
+"en": "The reserve had been protected only the year before, in 1994. It covers 12,750 square kilometres, bigger than some countries. To Maryam it looked empty. «What lives here?» she asked. Her mother smiled. «More than you think. And tomorrow, one thing more.»",
+"ar": "لم تكن المحمية قد حُميت إلا في السنة السابقة، عام 1994. تبلغ مساحتها 12,750 كيلومترًا مربعًا، أكبر من بعض الدول. بدت لمريم خالية. سألت: «ما الذي يعيش هنا؟» ابتسمت أمها: «أكثر مما تظنين. وغدًا شيء آخر.»",
+"ctx": "sa:STORIES.5.pages.1.p",
+"i": 3237
+},
+{
+"en": "The Animal That Was Gone",
+"ar": "الحيوان الذي اختفى",
+"ctx": "sa:STORIES.5.pages.2.h",
+"i": 3238
+},
+{
+"en": "That night, in the station, her mother showed her a photograph: a white antelope with long straight horns and dark marks on its face. «The Arabian oryx,» she said. «Once they walked all over this desert. In 1972 the last wild one was gone. Hunted. There were none left outside zoos and farms.»",
+"ar": "في تلك الليلة، في المحطة، أرتها أمها صورة: ظبي أبيض بقرون طويلة مستقيمة وعلامات داكنة على وجهه. قالت: «المها العربي. كان يمشي في هذه الصحراء كلها. وفي عام 1972 اختفى آخر مها بري. صِيد. لم يبقَ منه شيء خارج حدائق الحيوان والمزارع.»",
+"ctx": "sa:STORIES.5.pages.2.p",
+"i": 3239
+},
+{
+"en": "Maryam looked at the picture for a long time. «Then how can one come tomorrow?» «Because people kept some alive, and bred them, and now there are enough to try. Tomorrow the first ones go back into the wild. Here. This is the first place in the world where that will happen.»",
+"ar": "نظرت مريم إلى الصورة طويلًا. «فكيف يأتي واحد غدًا؟» «لأن أناسًا أبقوا بعضه حيًا، وربّوه، والآن صار العدد كافيًا للمحاولة. غدًا يعود أول مها إلى البرية. هنا. هذا أول مكان في العالم يحدث فيه ذلك.»",
+"ctx": "sa:STORIES.5.pages.2.p",
+"i": 3240
+},
+{
+"en": "The Gate Opens",
+"ar": "البوابة تُفتح",
+"ctx": "sa:STORIES.5.pages.3.h",
+"i": 3241
+},
+{
+"en": "In the morning the trucks arrived. Inside the pens the oryx stood very still, white against the red sand. Men opened the gate. For a moment nothing happened. Then one animal stepped out, then another, and they walked, not ran, into the dunes as if they had never left.",
+"ar": "في الصباح وصلت الشاحنات. داخل الحظائر وقف المها ساكنًا جدًا، أبيض على الرمل الأحمر. فتح الرجال البوابة. للحظة لم يحدث شيء. ثم خرج حيوان، ثم آخر، ومشوا، لا ركضوا، إلى الكثبان كأنهم لم يغادروها قط.",
+"ctx": "sa:STORIES.5.pages.3.p",
+"i": 3242
+},
+{
+"en": "Maryam did not cheer until they were far away. «Will they be all right?» «Some will. We will follow them and count them.» That was 1995, the first release of Arabian oryx into the wild anywhere. Sand gazelle, mountain gazelle and Nubian ibex already lived there to meet them.",
+"ar": "لم تهتف مريم حتى ابتعدوا. «هل سيكونون بخير؟» «بعضهم سيكون. سنتبعهم ونعدّهم.» كان ذلك عام 1995، أول إطلاق للمها العربي في البرية في أي مكان. وكان غزال الريم والغزال الجبلي والوعل النوبي يعيشون هناك بالفعل في انتظارهم.",
+"ctx": "sa:STORIES.5.pages.3.p",
+"i": 3243
+},
+{
+"en": "A Hundred and Twenty Plants",
+"ar": "مئة وعشرون نبتة",
+"ctx": "sa:STORIES.5.pages.4.h",
+"i": 3244
+},
+{
+"en": "On the way back Maryam’s mother stopped the car and made her look at the ground. Between the dunes, small grey bushes and tufts of grass held the sand together. «About 120 kinds of plants grow in this reserve,» she said. «Each one feeds something. The oryx will live on these.»",
+"ar": "في طريق العودة أوقفت أم مريم السيارة وجعلتها تنظر إلى الأرض. بين الكثبان كانت شجيرات رمادية صغيرة وخصلات من العشب تمسك الرمل. قالت: «ينمو في هذه المحمية نحو 120 نوعًا من النبات. كل واحد يطعم شيئًا. والمها سيعيش على هذه.»",
+"ctx": "sa:STORIES.5.pages.4.p",
+"i": 3245
+},
+{
+"en": "Maryam began to see the desert differently. A gazelle watched them from a ridge. Tracks of a fox crossed the road. The empty place was full. It only looked empty to someone who had not yet learned to read it.",
+"ar": "بدأت مريم ترى الصحراء بعين مختلفة. غزال يراقبهما من حافة تلة. آثار ثعلب تقطع الطريق. المكان الخالي كان ممتلئًا. لم يبدُ خاليًا إلا لمن لم يتعلم قراءته بعد.",
+"ctx": "sa:STORIES.5.pages.4.p",
+"i": 3246
+},
+{
+"en": "Twenty-Eight Years Later",
+"ar": "بعد ثمانية وعشرين عامًا",
+"ctx": "sa:STORIES.5.pages.5.h",
+"i": 3247
+},
+{
+"en": "Maryam grew up. In September 2023 she heard the news: ‘Uruq Bani Ma’arid had become Saudi Arabia’s first natural World Heritage site. The release she had watched as a girl had grown into the largest oryx reintroduction in the world.",
+"ar": "كبرت مريم. وفي سبتمبر 2023 سمعت الخبر: صارت عروق بني معارض أول موقع تراث طبيعي عالمي في المملكة العربية السعودية. والإطلاق الذي شاهدته وهي فتاة كبر حتى صار أكبر إعادة توطين للمها في العالم.",
+"ctx": "sa:STORIES.5.pages.5.p",
+"i": 3248
+},
+{
+"en": "She drove out with a daughter of her own, to the place where cliff meets sand. They waited on a ridge. In the afternoon light, far off, three white shapes crossed a dune and did not hurry. «There,» Maryam said, pointing the way her mother had. «They came home.»",
+"ar": "قادت السيارة مع ابنة لها إلى حيث يلتقي الجرف بالرمل. انتظرتا على حافة تلة. وفي ضوء العصر، بعيدًا، عبرت ثلاثة أشكال بيضاء كثيبًا دون عجلة. قالت مريم وهي تشير كما أشارت أمها: «هناك. لقد عادوا.»",
+"ctx": "sa:STORIES.5.pages.5.p",
+"i": 3249
+},
+{
+"en": "An animal that was gone from the wild walked back into it through one open gate.",
+"ar": "حيوان اختفى من البرية عاد إليها عبر بوابة واحدة مفتوحة.",
+"ctx": "sa:STORIES.5.pages.6.p",
+"i": 3250
+},
+{
+"en": "A girl, her mother and the first wild oryx in Arabia for twenty-three years",
+"ar": "فتاة وأمها وأول مها بري في الجزيرة العربية منذ ثلاثة وعشرين عامًا",
+"ctx": "sa:STORIES.5.tag",
+"i": 3251
+},
+{
+"en": "Based on the research of El-Hawagry, Abdel-Dayem, Elgharbawy and Al Dhafer (2016)",
+"ar": "مستندة إلى أبحاث الهواجري وعبد الدايم والغرباوي والظفير (2016)",
+"ctx": "sa:STORIES.6.credit",
+"i": 3252
+},
+{
+"en": "An Island with No Sea",
+"ar": "جزيرة بلا بحر",
+"ctx": "sa:STORIES.6.pages.1.h",
+"i": 3253
+},
+{
+"en": "In Al-Mekhwa, in the Al-Bahah region of south-western Saudi Arabia, a mountain of granite stands on its own. It is called Jabal Shada al-A’la, and it rises to about 2,222 metres. It is an isolated block of granite, standing apart. That is why it can be called an island: not land in water, but a mountain on its own.",
+"ar": "في المخواة، في منطقة الباحة جنوب غرب المملكة العربية السعودية، يقف جبل من الجرانيت وحده. اسمه جبل شدا الأعلى، ويرتفع إلى نحو 2,222 مترًا. إنه كتلة جرانيتية منعزلة تقف بعيدًا عمّا حولها. لذلك يصح أن يُسمّى جزيرة: لا يابسة في الماء، بل جبلًا قائمًا بذاته.",
+"ctx": "sa:STORIES.6.pages.1.p",
+"i": 3254
+},
+{
+"en": "An island keeps what lives on it apart from the world around. On Jabal Shada, the slopes and valleys hold a little world of their own. In 2002 the mountain was protected as a nature reserve, covering 68.62 square kilometres, so that this little world could stay as it is.",
+"ar": "الجزيرة تعزل ما يعيش عليها عن العالم المحيط بها. وعلى جبل شدا تحمل المنحدرات والأودية عالمًا صغيرًا خاصًا بها. وفي عام 2002 حُمي الجبل محميةً طبيعية مساحتها 68.62 كيلومترًا مربعًا، حتى يبقى هذا العالم الصغير كما هو.",
+"ctx": "sa:STORIES.6.pages.1.p",
+"i": 3255
+},
+{
+"en": "Five Hundred Plants",
+"ar": "خمسمئة نبتة",
+"ctx": "sa:STORIES.6.pages.2.h",
+"i": 3256
+},
+{
+"en": "Botanists have recorded about 500 kinds of plants on Jabal Shada. That is a great many for one mountain. Some of them are endemic, a word scientists use for living things that belong to one small part of the world and grow wild almost nowhere else.",
+"ar": "سجّل علماء النبات نحو 500 نوع من النباتات على جبل شدا. وهذا عدد كبير جدًا لجبل واحد. بعضها متوطّن، وهي كلمة يطلقها العلماء على الكائنات التي تنتمي إلى جزء صغير من العالم ولا تكاد تنمو برية في أي مكان آخر.",
+"ctx": "sa:STORIES.6.pages.2.p",
+"i": 3257
+},
+{
+"en": "Others are Afrotropical relicts. “Afrotropical” means their families are at home in tropical Africa. “Relict” means a survivor, left behind from an earlier time. So on a granite mountain in Al-Bahah grow plants whose nearest relatives live across the sea, in Africa.",
+"ar": "وبعضها الآخر بقايا أفريقية مدارية. «أفريقية مدارية» تعني أن عائلاتها موطنها أفريقيا المدارية. و«بقايا» تعني ناجيًا تخلّف من زمن سابق. وهكذا تنمو على جبل جرانيتي في الباحة نباتات يعيش أقرب أقاربها عبر البحر، في أفريقيا.",
+"ctx": "sa:STORIES.6.pages.2.p",
+"i": 3258
+},
+{
+"en": "Counting the Flies",
+"ar": "عدّ الذباب",
+"ctx": "sa:STORIES.6.pages.3.h",
+"i": 3259
+},
+{
+"en": "Flies are small and easy to ignore. A team of entomologists, scientists who study insects, did not ignore them. They collected flies on Jabal Shada and sorted every one. In 2016 they published what they found: 119 species of flies, from 87 genera and 30 families.",
+"ar": "الذباب صغير ويسهل تجاهله. لكن فريقًا من علماء الحشرات لم يتجاهله. جمعوا الذباب على جبل شدا وصنّفوا كل واحدة منه. وفي عام 2016 نشروا ما وجدوه: 119 نوعًا من الذباب، تنتمي إلى 87 جنسًا و30 فصيلة.",
+"ctx": "sa:STORIES.6.pages.3.p",
+"i": 3260
+},
+{
+"en": "Species, genus and family are like a person, a household and a whole tribe: each group holds the smaller ones inside it. And there was a surprise. Fourteen of those species had never before been recorded anywhere in Saudi Arabia. The little island of granite had been keeping them quietly.",
+"ar": "النوع والجنس والفصيلة أشبه بالفرد والأسرة والقبيلة كلها: كل مجموعة تضم المجموعات الأصغر داخلها. وكانت هناك مفاجأة: أربعة عشر نوعًا من تلك الأنواع لم يُسجَّل من قبل في أي مكان في المملكة العربية السعودية. كانت جزيرة الجرانيت الصغيرة تحفظها بهدوء.",
+"ctx": "sa:STORIES.6.pages.3.p",
+"i": 3261
+},
+{
+"en": "A Mountain Kept Safe",
+"ar": "جبل في أمان",
+"ctx": "sa:STORIES.6.pages.4.h",
+"i": 3262
+},
+{
+"en": "The National Center for Wildlife reports Jabal Shada as an IUCN category II area, the kind of protection given to national parks. Besides its plants and insects, the reserve shelters the wildlife of the mountains of south-western Arabia.",
+"ar": "يذكر المركز الوطني لتنمية الحياة الفطرية أن جبل شدا منطقة من الفئة الثانية في تصنيف الاتحاد الدولي لحماية الطبيعة، وهي فئة الحماية التي تُمنح للمتنزهات الوطنية. وإلى جانب نباتاته وحشراته تؤوي المحمية الحياة البرية لجبال جنوب غرب الجزيرة العربية.",
+"ctx": "sa:STORIES.6.pages.4.p",
+"i": 3263
+},
+{
+"en": "Scientists call it a centre of plant and insect diversity, with close links to Africa. The fly study called itself “a preliminary account”, which means a first look. If a first look found fourteen new records, nobody knows yet how many more are waiting on the granite slopes.",
+"ar": "ويصفه العلماء بأنه مركز لتنوع النبات والحشرات، تربطه صلات وثيقة بأفريقيا. وقد وصفت دراسة الذباب نفسها بأنها «عرض أولي»، أي نظرة أولى. وإذا كانت نظرة أولى قد وجدت أربعة عشر تسجيلًا جديدًا، فلا أحد يعرف بعدُ كم ينتظر غيرها على منحدرات الجرانيت.",
+"ctx": "sa:STORIES.6.pages.4.p",
+"i": 3264
+},
+{
+"en": "An island does not need a sea around it. It only needs to keep something the rest of the world does not have.",
+"ar": "الجزيرة لا تحتاج إلى بحر حولها. يكفيها أن تحفظ شيئًا لا يملكه بقية العالم.",
+"ctx": "sa:STORIES.6.pages.5.p",
+"i": 3265
+},
+{
+"en": "A lonely mountain in Al-Bahah that keeps five hundred plants and flies nobody had recorded in Saudi Arabia",
+"ar": "جبل منعزل في الباحة يحفظ خمسمئة نبتة وذبابًا لم يسجّله أحد في السعودية من قبل",
+"ctx": "sa:STORIES.6.tag",
+"i": 3266
+},
+{
+"en": "Back to the Valley",
+"ar": "العودة إلى الوادي",
+"ctx": "sa:STORIES.7.pages.1.h",
+"i": 3267
+},
+{
+"en": "More than nine thousand years ago, in the land that is now Tabuk Province, Hind walked with her family up the valley of Wadi Sharma. Behind them, about 25 kilometres down the valley, was the mouth of the wadi. Ahead, on the northern edge of the valley plain, was the place they came back to.",
+"ar": "قبل أكثر من تسعة آلاف عام، في الأرض التي صارت اليوم منطقة تبوك، كانت هند تمشي مع عائلتها صعودًا في وادي شرما. خلفهم، على بعد نحو 25 كيلومترًا أسفل الوادي، كان مصبّ الوادي. وأمامهم، على الحافة الشمالية لسهل الوادي، كان المكان الذي يعودون إليه.",
+"ctx": "sa:STORIES.7.pages.1.p",
+"i": 3268
+},
+{
+"en": "«Will our room still be there?» Hind asked her grandmother. «It is made of stone,» her grandmother said. «Stone waits for us.» Hind’s family were among the early herders of the valley. They did not stay all year. They came when the season was right, and left when it turned.",
+"ar": "سألت هند جدتها: «هل ستكون غرفتنا ما زالت هناك؟» قالت الجدة: «إنها من حجر، والحجر ينتظرنا.» كانت عائلة هند من الرعاة الأوائل في الوادي. لم يكونوا يقيمون طوال العام، بل يأتون حين يحين الموسم، ويرحلون حين يتبدّل.",
+"ctx": "sa:STORIES.7.pages.1.p",
+"i": 3269
+},
+{
+"en": "Sixty Rooms in a Row",
+"ar": "ستون غرفة في صف",
+"ctx": "sa:STORIES.7.pages.2.h",
+"i": 3270
+},
+{
+"en": "The village was not a row of separate houses. It was one long string of small rooms with stone walls, each room joined to the next. Some rooms stood on the ground. Others were dug partly into it, so you stepped down to go inside. Hind counted them once and reached about sixty.",
+"ar": "لم تكن القرية صفًا من بيوت منفصلة، بل خيطًا طويلًا واحدًا من غرف صغيرة بجدران من حجر، كل غرفة متصلة بالتي تليها. بعض الغرف قائم على الأرض، وبعضها محفور فيها جزئيًا، فتنزل خطوة لتدخله. عدّتها هند مرة فبلغت نحو ستين.",
+"ctx": "sa:STORIES.7.pages.2.p",
+"i": 3271
+},
+{
+"en": "All together the rooms covered only about a thousand square metres, a tenth of a hectare. Her father pushed fallen stones back into a wall. Her mother swept sand out of their room. In a few days the long, quiet line of stone was full of voices again.",
+"ar": "ولم تكن الغرف كلها تغطي إلا نحو ألف متر مربع، أي عُشر هكتار. أعاد أبوها الحجارة المتساقطة إلى جدار، وكنست أمها الرمل من غرفتهم. وبعد أيام قليلة امتلأ خط الحجر الطويل الهادئ بالأصوات من جديد.",
+"ctx": "sa:STORIES.7.pages.2.p",
+"i": 3272
+},
+{
+"en": "Stones for Grinding, Stones for Cutting",
+"ar": "حجارة للطحن وحجارة للقطع",
+"ctx": "sa:STORIES.7.pages.3.h",
+"i": 3273
+},
+{
+"en": "In the evening Hind sat with her grandmother at the grinding stone. One flat stone lay below, and a smaller one moved back and forth on top of it, crushing food into flour. Her uncle knelt nearby, striking flakes off a stone to make sharp little tools.",
+"ar": "في المساء جلست هند مع جدتها عند حجر الطحن. حجر مسطح في الأسفل، وحجر أصغر يتحرك ذهابًا وإيابًا فوقه، يسحق الطعام حتى يصير دقيقًا. وكان عمها جاثيًا قريبًا يضرب حجرًا فيقتطع منه شظايا يصنع منها أدوات صغيرة حادة.",
+"ctx": "sa:STORIES.7.pages.3.p",
+"i": 3274
+},
+{
+"en": "Then her grandmother opened her hand. In it was an ornament made of shell, threaded on a cord. «You are old enough now,» she said, and tied it round Hind’s neck. Thousands of years later, archaeologists would find grinding stones, chipped stone tools and shell ornaments in these very rooms.",
+"ar": "ثم فتحت جدتها يدها. كانت فيها حلية من الصدف معلّقة في خيط. قالت: «لقد كبرتِ بما يكفي»، وربطتها حول عنق هند. وبعد آلاف السنين سيجد علماء الآثار في هذه الغرف نفسها حجارة طحن وأدوات من حجر مشظّى وحليًا من الصدف.",
+"ctx": "sa:STORIES.7.pages.3.p",
+"i": 3275
+},
+{
+"en": "Fourteen Dates",
+"ar": "أربعة عشر تاريخًا",
+"ctx": "sa:STORIES.7.pages.4.h",
+"i": 3276
+},
+{
+"en": "Hind’s family stopped coming long ago, and the sand covered the rooms. In 2012 and 2013 archaeologists dug them out. It was the first village of its age in Saudi Arabia to be fully excavated. They gave it a plain name: Wadi Sharma 1.",
+"ar": "توقفت عائلة هند عن المجيء منذ زمن بعيد، وغطى الرمل الغرف. وفي عامي 2012 و2013 أخرجها علماء الآثار من تحت الرمل. كانت أول قرية من عصرها في المملكة العربية السعودية تُنقَّب تنقيبًا كاملًا. وأعطوها اسمًا بسيطًا: وادي شرما 1.",
+"ctx": "sa:STORIES.7.pages.4.p",
+"i": 3277
+},
+{
+"en": "They measured fourteen radiocarbon dates. All pointed to the second half of the eighth millennium BC. This was the Pre-Pottery Neolithic, a time when people had begun to settle and keep animals but did not yet make pottery. The village links north-west Arabia with the early villages of the southern Levant. And it was small, and lived in by season, just as Hind’s family did.",
+"ar": "وقاسوا أربعة عشر تاريخًا بالكربون المشع، أشارت كلها إلى النصف الثاني من الألف الثامن قبل الميلاد. وهذا هو العصر الحجري الحديث ما قبل الفخار، حين بدأ الناس يستقرون ويربّون الحيوانات لكنهم لم يصنعوا الفخار بعد. وتربط القرية شمال غرب الجزيرة العربية بالقرى المبكرة في جنوب بلاد الشام. وكانت صغيرة، تُسكن موسميًا، تمامًا كما فعلت عائلة هند.",
+"ctx": "sa:STORIES.7.pages.4.p",
+"i": 3278
+},
+{
+"en": "A home does not have to be lived in all year to be home. It only has to be waiting when you come back.",
+"ar": "لا يلزم أن يُسكن البيت طوال العام ليكون بيتًا. يكفي أن يكون في انتظارك حين تعود.",
+"ctx": "sa:STORIES.7.pages.5.p",
+"i": 3279
+},
+{
+"en": "A girl comes back with her family to a village of stone, more than nine thousand years ago",
+"ar": "فتاة تعود مع عائلتها إلى قرية من حجر، قبل أكثر من تسعة آلاف عام",
+"ctx": "sa:STORIES.7.tag",
+"i": 3280
+},
+{
+"en": "You crossed seven thousand years of human history and twenty million years of Earth history in ten stops. Keep exploring on your own. There are 81 more places waiting.",
+"ar": "عبرت سبعة آلاف عام من تاريخ الإنسان وعشرين مليون عام من تاريخ الأرض في عشر محطات. واصل الاستكشاف بنفسك، فهناك 81 موقعًا آخر بانتظارك.",
+"ctx": "sa:T.doneP",
+"i": 3281
+},
+{
+"en": "Rock art begins at Jubbah",
+"ar": "بداية الفن الصخري في جبة",
+"ctx": "sa:T.ms",
+"i": 3282
+},
+{
+"en": "Mustatils built in the Nafud",
+"ar": "بناء المستطيلات في النفود",
+"ctx": "sa:T.ms",
+"i": 3283
+},
+{
+"en": "Nabataean tombs at Hegra",
+"ar": "مقابر الأنباط في الحِجر",
+"ctx": "sa:T.ms",
+"i": 3284
+},
+{
+"en": "Oil found at Dammam No. 7",
+"ar": "اكتشاف النفط في بئر الدمام 7",
+"ctx": "sa:T.ms",
+"i": 3285
+},
+{
+"en": "Search tombs, lava, oryx…",
+"ar": "ابحث: مقابر، حمم، مها…",
+"ctx": "sa:T.searchE",
+"i": 3286
+},
+{
+"en": "91 places where Saudi Arabia’s deep past still shows",
+"ar": "91 موقعًا يظهر فيها ماضي السعودية العميق",
+"ctx": "sa:T.sub",
+"i": 3287
+},
+{
+"en": "Layers of Saudi Arabia",
+"ar": "طبقات السعودية",
+"ctx": "sa:T.title",
+"i": 3288
+},
+{
+"en": "How Saudi Arabia changed over time",
+"ar": "كيف تغيّرت السعودية عبر الزمن",
+"ctx": "sa:T.tlT",
+"i": 3289
+},
+{
+"en": "Asir",
+"ar": "عسير",
+"ctx": "sa:T.water.asir",
+"i": 3290
+},
+{
+"en": "Riyadh",
+"ar": "الرياض",
+"ctx": "sa:T.water.city",
+"i": 3291
+},
+{
+"en": "Great Nafud",
+"ar": "النفود الكبير",
+"ctx": "sa:T.water.nafud",
+"i": 3292
+},
+{
+"en": "Najd",
+"ar": "نجد",
+"ctx": "sa:T.water.najd",
+"i": 3293
+},
+{
+"en": "Rub’ al Khali",
+"ar": "الربع الخالي",
+"ctx": "sa:T.water.rub",
+"i": 3294
+},
+{
+"en": "",
+"ar": "Layers of Saudi Arabia · طبقات السعودية",
+"ctx": "sa:html",
+"i": 3295
+}
+]

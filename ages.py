@@ -1,0 +1,21 @@
+# years before present: (start, end); 0 = today
+G={
+'bahra-1':(7526,6926),'h3-site':(7526,7026),'subiyah-tumuli':(4926,3176),'stone-platforms':(5026,3526),
+'shell-midden-smq24':(7026,3526),'coastal-wells':(1426,1126),'torpedo-jar-scatters':(2025,1426),'kadhima':(1350,1176),
+'failaka-island':(5026,326),'akkaz-island':(6026,4026),'umm-an-namil':(5026,1776),'bubiyan-island':(4200,0),
+'kazma-shoreline':(6000,6000),'smq-49-tomb':(5026,4026),'atraf-ancient-wells':(2526,226),'ghanim-paleochannel':(8026,4026),
+'faydhat-nayif-smelter':(1326,826),'kazima-battle-site':(1393,1393),'subbiya-desert-wall':(1426,1126),
+'jal-az-zor':(23e6,5e6),'mud-volcano-z1':(20e6,0),'mud-volcano-z2':(1e4,0),'mud-volcano-z3':(2.58e6,0),
+'khor-subiyah':(6000,0),'coastal-sabkha':(1e4,0),'kuwait-geopark':(23e6,0),'paleo-liquefaction':(7000,7000),
+'wadi-al-batin':(2e6,0),'bahrah-hydrothermal':(1e8,0),'gypcrete-formations':(2.6e6,0),'sabkha-seismites':(2.58e6,0),
+'holocene-sea-level':(7400,0),'jahra-escarpment-interface':(2e6,0),'dextral-slip-fault':(40e6,0),'had-safah-sinkholes':(30,0),
+'petrified-wood-field':(30e6,2e6),'sand-injectite-biotope':(15e6,0),'positive-flower-structure':(5e6,0),'karst-sinkhole-zone':(30,0),
+'wadi-batin-fault':(23e6,0),'dibdibba-alluvial-fan':(23e6,0),'subbiya-sandstone-pipes':(15e6,0),'huwaimiliyah-fossils':(20e6,5e6),
+'anthropic-slope-markers':(36,0),'um-al-rimam-yardangs':(1e5,0),'sabbiya-varnish-ridge':(1e4,0),'volcanic-flood-erratics':(2e6,1e5),
+'bubiyan-coastal-sabkha':(6000,0),'jal-al-liyah-dunes':(30,0),'lower-fars-marine-bed':(23e6,5e6),'mud-volcano-outcrops':(20e6,0),
+'wadi-batin-playas':(30,0),'jahra-freshwater-lens':(1e4,0),'jahra-halophytes':(30,0),'basra-reed-warbler':(30,0),
+'jahra-mudflat-nursery':(30,0),'iris-playa-meadow':(30,0),'sabriya-oil-ecology':(76,0),'bahra-ecology':(30,0),
+'um-al-aish-ecology':(30,0),'sabah-al-ahmad-reserve':(22,0),'burgan-oil-ecology':(35,0),'umm-gudair-ecology':(30,0),
+'um-al-rros-ecology':(30,0),'khor-sabiyah-marsh':(6000,0),'mubarak-reserve':(30,0),'arfaj-steppe-habitat':(30,0),
+'bubiyan-mangrove-plot':(30,0),'spec-seepage-mounds':(2.58e6,0),'spec-polychrome-escarpment':(56e6,0),
+'spec-submerged-kathma':(11700,0),'spec-failaka-platform':(1e4,6000),'spec-bubiyan-paleotidal':(6000,0),'ahmadi-quarry':(48e6,34e6)}

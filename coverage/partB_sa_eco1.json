@@ -1,0 +1,20 @@
+{
+ "quota": {
+  "Jazan": {
+   "ecology": 3
+  },
+  "Makkah": {
+   "ecology": 2
+  },
+  "Tabuk": {
+   "ecology": 2
+  },
+  "Madinah": {
+   "ecology": 1
+  },
+  "Eastern Province": {
+   "ecology": 1
+  }
+ },
+ "focus": "Coastal and marine ecology with published coordinates: Farasan Islands coral reefs, seagrass and nesting beaches, Red Sea coral reef sites (e.g. reef survey stations), mangrove stands of Jazan and Makkah coasts, Al Wajh / Umluj / Tabuk coast reefs and turtle nesting, Yanbu / Madinah coast, Tarut Bay or Arabian Gulf coast seagrass and mangroves (Eastern Province). Peer-reviewed survey papers with station tables are ideal."
+}

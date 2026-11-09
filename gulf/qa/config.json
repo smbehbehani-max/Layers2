@@ -1,0 +1,227 @@
+{
+ "cc": "qa",
+ "iso": "QAT",
+ "en": "Qatar",
+ "ar": "قطر",
+ "title_en": "Layers of Qatar",
+ "title_ar": "طبقات قطر",
+ "repo": "Layers-Qatar",
+ "base": "https://smbehbehani-max.github.io/Layers-Qatar/",
+ "lat0": 25.3,
+ "gstep": 0.25,
+ "pad": 0.08,
+ "padr": 0.1,
+ "bbox": [
+  50.6,
+  24.4,
+  52.0,
+  26.3
+ ],
+ "city": [
+  51.531,
+  25.286
+ ],
+ "labels": [
+  [
+   "gulf",
+   26.25,
+   51.95,
+   "wl",
+   13
+  ],
+  [
+   "gob",
+   25.4,
+   50.55,
+   "wl",
+   10
+  ],
+  [
+   "sa",
+   24.6,
+   51.0,
+   "ll",
+   11
+  ],
+  [
+   "adaid",
+   24.55,
+   51.55,
+   "ll",
+   8.5
+  ]
+ ],
+ "water": {
+  "en": {
+   "gulf": "Arabian Gulf",
+   "gob": "Gulf of Bahrain",
+   "sa": "Saudi Arabia",
+   "adaid": "Khor Al Adaid",
+   "city": "Doha"
+  },
+  "ar": {
+   "gulf": "الخليج العربي",
+   "gob": "خليج البحرين",
+   "sa": "السعودية",
+   "adaid": "خور العديد",
+   "city": "الدوحة"
+  }
+ },
+ "pa_source_en": "Ministry of Environment and Climate Change (Qatar); UNESCO",
+ "pa_source_ar": "وزارة البيئة والتغير المناخي (قطر)؛ اليونسكو",
+ "pa_auth_en": "the Ministry of Environment and Climate Change",
+ "protected": [
+  {
+   "id": "pa-reem",
+   "t": "r",
+   "en": "Al Reem Biosphere Reserve",
+   "ar": "محمية الريم",
+   "km": 1200,
+   "pt": [
+    51.0,
+    25.75
+   ]
+  },
+  {
+   "id": "pa-adaid",
+   "t": "r",
+   "en": "Khor Al Adaid Natural Reserve",
+   "ar": "محمية خور العديد",
+   "km": 1833,
+   "pt": [
+    51.415,
+    24.714
+   ]
+  },
+  {
+   "id": "pa-thakhira",
+   "t": "m",
+   "en": "Al Thakhira Mangrove Reserve",
+   "ar": "محمية قرم الذخيرة",
+   "km": 7,
+   "pt": [
+    51.55,
+    25.73
+   ]
+  },
+  {
+   "id": "pa-fuwairit",
+   "t": "m",
+   "en": "Fuwairit turtle nesting beach (closed March–July)",
+   "ar": "شاطئ فويرط لتعشيش السلاحف (مغلق مارس–يوليو)",
+   "km": 2,
+   "pt": [
+    51.37,
+    26.03
+   ]
+  },
+  {
+   "id": "u1",
+   "t": "u",
+   "en": "Al Zubarah Archaeological Site (World Heritage, 2013)",
+   "ar": "موقع الزبارة الأثري (تراث عالمي، 2013)",
+   "pt": [
+    51.03,
+    25.978
+   ],
+   "rx": 2.5,
+   "ry": 2.5,
+   "note": {
+    "en": "Inscribed in 2013. Visitor centre in the 1938 fort; the town site is open with walkways.",
+    "ar": "مدرج عام 2013. مركز الزوار في قلعة 1938؛ موقع المدينة مفتوح بممرات."
+   }
+  }
+ ],
+ "route": [
+  [
+   "wadi-debayan",
+   "The first campfires",
+   "أولى نيران المخيم",
+   "Start 7,500 years ago on the north-west coast, at the oldest settlement in Qatar.",
+   "ابدأ قبل 7,500 عام على الساحل الشمالي الغربي، في أقدم مستوطنة في قطر."
+  ],
+  [
+   "al-khor-island",
+   "Three million shells",
+   "ثلاثة ملايين صدفة",
+   "Cross the peninsula to an island where Kassite dyers crushed murex for purple.",
+   "اعبر شبه الجزيرة إلى جزيرة سحق فيها صبّاغو الكيشيين المحار من أجل الأرجوان."
+  ],
+  [
+   "murwab",
+   "A village of 250 houses",
+   "قرية من 250 بيتًا",
+   "Jump to the 9th century and an Abbasid village with the oldest fort in the country.",
+   "انتقل إلى القرن التاسع وقرية عباسية فيها أقدم قلعة في البلاد."
+  ],
+  [
+   "al-zubarah",
+   "The town that pearls built",
+   "المدينة التي بناها اللؤلؤ",
+   "Then the 1760s: a walled pearling town, burned in 1811 and kept by the sand.",
+   "ثم ستينيات القرن الثامن عشر: مدينة لؤلؤ مسوّرة، أُحرقت عام 1811 وحفظتها الرمال."
+  ],
+  [
+   "al-jassasiya",
+   "Boats cut into the rock",
+   "قوارب محفورة في الصخر",
+   "On the east coast, 141 dhows carved into a ridge by people who sailed them.",
+   "على الساحل الشرقي، 141 سفينة حفرها في الضلع من أبحروا بها."
+  ],
+  [
+   "dukhan-field",
+   "The hill of smoke",
+   "تل الدخان",
+   "Now go down 1,733 m with the drillers of 1940 into the Jurassic.",
+   "والآن انزل 1,733 مترًا مع حفّاري عام 1940 إلى العصر الجوراسي."
+  ],
+  [
+   "zekreet-mesas",
+   "Tables of stone",
+   "موائد من حجر",
+   "Walk among mesas and mushroom rocks carved from an Eocene sea floor.",
+   "امشِ بين الموائد وصخور الفطر المنحوتة من قاع بحر إيوسيني."
+  ],
+  [
+   "khor-al-adaid",
+   "Where the desert meets the sea",
+   "حيث تلتقي الصحراء بالبحر",
+   "End in the south, where dunes spill into a tidal sea.",
+   "واختم في الجنوب، حيث تنهال الكثبان في بحر مدّي."
+  ]
+ ],
+ "strings": {
+  "places where Kuwait’s deep past still shows": "places where Qatar’s deep past still shows",
+  "موقعًا يظهر فيها ماضي الكويت العميق": "موقعًا يظهر فيها ماضي قطر العميق",
+  "[7500,'First villages in Kuwait'],[5000,'Bronze Age trade across the Gulf'],[1400,'Rise of Islam'],[35,'1991 oil fires']": "[7500,'First settlement at Wadi Debayan'],[3400,'Purple dye at Al Khor Island'],[1400,'Rise of Islam'],[260,'Al Zubarah is founded'],[86,'Oil found at Dukhan']",
+  "[7500,'أولى القرى في الكويت'],[5000,'تجارة العصر البرونزي عبر الخليج'],[1400,'ظهور الإسلام'],[35,'حرائق النفط 1991']": "[7500,'أول استيطان في وادي دبيان'],[3400,'الصبغة الأرجوانية في جزيرة الخور'],[1400,'ظهور الإسلام'],[260,'تأسيس الزبارة'],[86,'اكتشاف النفط في دخان']",
+  "searchE:'Search boats, volcanoes, birds…'": "searchE:'Search pearls, dunes, turtles…'",
+  "searchE:'ابحث: قوارب، براكين، طيور…'": "searchE:'ابحث: لؤلؤ، كثبان، سلاحف…'",
+  "aP1:'Layers of Qatar maps the geology, archaeology and ecology of Kuwait: 80 places with their sources, illustrated stories, a 100-million-year timeline and live directions, in Arabic and English.'": "aP1:'Layers of Qatar maps the geology, archaeology and ecology of Qatar: places with their sources, a timeline from the Eocene sea to today, and live directions, in Arabic and English. Illustrated stories are on their way.'",
+  "aP1:'يرسم تطبيق طبقات قطر جيولوجيا الكويت وآثارها وبيئتها: 80 موقعًا بمصادرها، وقصص مصوّرة، وخط زمني يمتد 100 مليون سنة، وإرشادات حيّة، بالعربية والإنجليزية.'": "aP1:'يرسم تطبيق طبقات قطر جيولوجيا قطر وآثارها وبيئتها: مواقع بمصادرها، وخط زمني من بحر الإيوسين حتى اليوم، وإرشادات حيّة، بالعربية والإنجليزية. والقصص المصوّرة في الطريق.'",
+  "u:'UNESCO Tentative List'": "u:'UNESCO World Heritage'",
+  "legU:'UNESCO Tentative List'": "legU:'UNESCO World Heritage'",
+  "u:'القائمة التمهيدية لليونسكو'": "u:'تراث عالمي (يونسكو)'",
+  "legU:'القائمة التمهيدية لليونسكو'": "legU:'تراث عالمي (يونسكو)'",
+  "tlT:'How Kuwait changed over time'": "tlT:'How Qatar changed over time'",
+  "tlT:'كيف تغيّرت الكويت عبر الزمن'": "tlT:'كيف تغيّرت قطر عبر الزمن'",
+  "<b>Example source:</b> Archeowieści, 2 Dec 2024: Kuwaiti-Polish team discovers figurine, local pottery, and environmental clues.": "<b>Example source:</b> Marine Policy, 2018: Marshall et al. report dugong herds of up to 500 animals off western Qatar.",
+  "<b>Searches like:</b> “Bahra 1 excavation”, “Failaka temple”, “Kuwait mud volcanoes”, “Al-Ahmadi quarry Dammam Formation”.": "<b>Searches like:</b> “Al Zubarah excavation”, “Wadi Debayan Neolithic”, “Dahl Al Misfir cave”, “Qatar dugong survey”.",
+  "<b>Extracted:</b> Place → Bahra 1 · Published → Dec 2024 · Find → Ubaid-style clay head · Team → Kuwaiti-Polish mission.": "<b>Extracted:</b> Place → Western Qatar coast · Published → 2018 · Finding → herds of up to 500 dugongs · Team → Marshall et al.",
+  "<b>Title:</b> A unique clay head and the Gulf’s oldest pottery workshop at Bahra 1<br><b>العنوان:</b> رأس طيني فريد وأقدم ورشة فخار في الخليج في بحرة 1": "<b>Title:</b> Five hundred dugongs in one square kilometre<br><b>العنوان:</b> خمسمئة أتوم في كيلومتر مربع واحد",
+  "<b>Shown on:</b> Bahra 1 card → New research → link to the original source.": "<b>Shown on:</b> Dugongs of Western Qatar card → New research → link to the original source.",
+  "That is how the Al-Ahmadi quarry was added.": "That is how new places will join the map.",
+  "<b>Example:</b> Al-Ahmadi quarry → “The Window into Deep Time” · Eocene Dammam Formation · 48–34 million years ago.": "<b>Example:</b> Zekreet mesas → “Tables and mushrooms of stone” · Miocene Dam Formation · about 15 million years ago.",
+  "<b>مثال على مصدر:</b> Archeowieści، 2 ديسمبر 2024: الفريق الكويتي البولندي يكتشف تمثالًا وفخارًا محليًا وأدلة بيئية.": "<b>مثال على مصدر:</b> Marine Policy، 2018: مارشال وزملاؤه يرصدون قطعانًا من الأتوم تصل إلى 500 حيوان قبالة غرب قطر.",
+  "<b>عمليات بحث مثل:</b> «تنقيبات بحرة 1»، «معبد فيلكا»، «البراكين الطينية في الكويت»، «محجر الأحمدي تكوين الدمام».": "<b>عمليات بحث مثل:</b> «تنقيبات الزبارة»، «وادي دبيان العصر الحجري الحديث»، «كهف دحل المسفر»، «مسح الأتوم في قطر».",
+  "<b>المستخرج:</b> الموقع ← بحرة 1 · النشر ← ديسمبر 2024 · الاكتشاف ← رأس طيني على طراز العبيد · الفريق ← البعثة الكويتية البولندية.": "<b>المستخرج:</b> الموقع ← ساحل قطر الغربي · النشر ← 2018 · النتيجة ← قطعان تصل إلى 500 أتوم · الفريق ← مارشال وزملاؤه.",
+  "<b>يظهر في:</b> بطاقة بحرة 1 ← بحث جديد ← رابط المصدر الأصلي.": "<b>يظهر في:</b> بطاقة أتوم غرب قطر ← بحث جديد ← رابط المصدر الأصلي.",
+  "هكذا أُضيف محجر الأحمدي.": "هكذا ستنضم مواقع جديدة إلى الخريطة.",
+  "<b>مثال:</b> محجر الأحمدي ← «نافذة على الزمن السحيق» · تكوين الدمام الإيوسيني · قبل 48–34 مليون سنة.": "<b>مثال:</b> هضاب زكريت ← «طاولات وفطر من حجر» · تكوين الدام الميوسيني · قبل نحو 15 مليون سنة.",
+  "far:d=>`You are ${d} from Kuwait’s map`": "far:d=>`You are ${d} from Qatar’s map`",
+  "far:d=>`أنت على بُعد ${d} من خريطة الكويت`": "far:d=>`أنت على بُعد ${d} من خريطة قطر`"
+ },
+ "hw_example": {
+  "site": "qalat-al-bahrain"
+ }
+}

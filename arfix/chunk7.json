@@ -1,0 +1,1700 @@
+[
+{
+"en": "In 2001 the chemist Christopher Cooksey reviewed what was known about Tyrian purple, the famous dye of the ancient Mediterranean. Its main colour is a molecule called 6,6′-dibromoindigo, made by murex snails.",
+"ar": "في عام 2001 راجع الكيميائي كريستوفر كوكسي ما كان معروفًا عن الأرجوان الصوري، الصبغة الشهيرة في البحر المتوسط القديم. ولونه الرئيسي جزيء يُسمّى 6,6′-ثنائي برومو النيلة، تصنعه قواقع الموريكس.",
+"ctx": "qa:AISTORIES.3.pages.2.p",
+"i": 2400
+},
+{
+"en": "The molecule carries bromine, which the plants that give indigo and red dyes do not supply. That makes it a fingerprint: a laboratory can tell shellfish purple apart from plant colours, even in small traces left on old material.",
+"ar": "يحمل الجزيء عنصر البروم، الذي لا توفّره النباتات التي تعطي النيلة والأصباغ الحمراء. وهذا يجعله بصمة: يستطيع المختبر أن يميّز أرجوان القواقع من الألوان النباتية، حتى في آثار ضئيلة باقية على مواد قديمة.",
+"ctx": "qa:AISTORIES.3.pages.2.p",
+"i": 2401
+},
+{
+"en": "On this map the two workshops sit on the same Arabian Gulf coast, one with a mountain of murex and no basins on record, the other with basins and no murex on record. If the Abbasid dyers of Ain Mohammed used sea snails, the bromine fingerprint should still be in the plaster, and murex fragments should lie in the rubbish heaps. Murwab, a village of the same century nearby, should have neither.",
+"ar": "على هذه الخريطة يقع المصنعان على ساحل الخليج العربي نفسه، أحدهما فيه جبل من الموريكس ولا أحواض مسجّلة، والآخر فيه أحواض ولا موريكس مسجّل. فإذا كان صبّاغو عين محمد العباسيون قد استعملوا القواقع البحرية، فينبغي أن تبقى بصمة البروم في الجصّ، وأن ترقد كسر الموريكس في أكوام النفايات. أما مروب، القرية المجاورة من القرن نفسه، فلا ينبغي أن يوجد فيها شيء من ذلك.",
+"ctx": "qa:AISTORIES.3.pages.3.p",
+"i": 2402
+},
+{
+"en": "The basins may have held indigo or madder, or nothing more than water for washing wool. They may even have been for dates or pearl oysters, which the record also lists. A few grams of plaster could settle it.",
+"ar": "وربما احتوت الأحواض النيلة أو الفوّة، أو لم تحوِ إلا ماء لغسل الصوف. بل ربما كانت للتمر أو لمحار اللؤلؤ، وهما مذكوران في السجل أيضًا. وبضعة غرامات من الجصّ قد تحسم الأمر.",
+"ctx": "qa:AISTORIES.3.pages.3.p",
+"i": 2403
+},
+{
+"en": "A purple first made from sea snails on Al Khor Island may have been made again, two thousand years later, in the basins of Ain Mohammed.",
+"ar": "ربما صُنع أرجوان القواقع البحرية، الذي عُرف أولًا في جزيرة الخور، مرة أخرى بعد ألفي عام في أحواض عين محمد.",
+"ctx": "qa:AISTORIES.3.tag",
+"i": 2404
+},
+{
+"en": "The Colour That Came Back",
+"ar": "اللون الذي عاد",
+"ctx": "qa:AISTORIES.3.title",
+"i": 2405
+},
+{
+"en": "Jebel Nakhsh is the highest ground in southern Qatar, a ridge 33 km long made of the layers of a Miocene sea. Where soft clays weathered away, the limestone above them fell in and left hollows. Foxes and hyaenas used them as dens, and Peter Whybrow first surveyed the caves in 1983 and 1984.",
+"ar": "جبل النخش أعلى أرض في جنوب قطر، ضلع طوله 33 كم مكوّن من طبقات بحر ميوسيني. وحيث تآكل الطين الطري، انهار الحجر الجيري فوقه وترك تجاويف. اتخذتها الثعالب والضباع أوكارًا، ومسح بيتر وايبرو الكهوف أول مرة عامي 1983 و1984.",
+"ctx": "qa:AISTORIES.4.pages.1.p",
+"i": 2406
+},
+{
+"en": "In 2008 Peter Andrews published a study with a surprising title: cetaceans, the family of whales and dolphins, from a possible striped hyaena den in Qatar. Sea bones in a desert cave.",
+"ar": "وفي عام 2008 نشر بيتر أندروز دراسة بعنوان مفاجئ: حيتانيات، أي فصيلة الحيتان والدلافين، من موقع ربما كان وكرًا للضباع المخططة في قطر. عظام بحرية في كهف صحراوي.",
+"ctx": "qa:AISTORIES.4.pages.1.p",
+"i": 2407
+},
+{
+"en": "Seen before: hyaenas that collect bones",
+"ar": "حدث من قبل: ضباع تجمع العظام",
+"ctx": "qa:AISTORIES.4.pages.2.h",
+"i": 2408
+},
+{
+"en": "In 1980 John Skinner, Simon Davis and Giora Ilani looked inside the dens of striped hyaenas in Israel. They found that these animals are collectors: they carry bones home from carcasses they find across a wide stretch of country.",
+"ar": "في عام 1980 فحص جون سكينر وسايمون ديفيس وجيورا إيلاني أوكار الضباع المخططة في إسرائيل. فوجدوا أن هذه الحيوانات جامعة للعظام: تحمل إلى أوكارها عظامًا من جيف تعثر عليها في رقعة واسعة من الأرض.",
+"ctx": "qa:AISTORIES.4.pages.2.p",
+"i": 2409
+},
+{
+"en": "So the pile of bones in a den is not just a list of what the hyaenas killed. It is a sample of whatever dead animals lay within their range, a kind of diary kept in bone.",
+"ar": "فكومة العظام في الوكر ليست قائمة بما قتلته الضباع فحسب. بل هي عيّنة من كل الحيوانات الميتة التي كانت في نطاق تجوالها، أشبه بمذكرات مكتوبة بالعظم.",
+"ctx": "qa:AISTORIES.4.pages.2.p",
+"i": 2410
+},
+{
+"en": "On this map the ridge runs beside the west coast, and off that coast lie the richest dugong waters of the Arabian Gulf: 508 dugongs were counted in less than one square kilometre. If the hyaenas scavenged the beach, the den bones will be fresh, gnawed bone of dugongs and dolphins of the kinds that live offshore today.",
+"ar": "على هذه الخريطة يمتد الضلع بمحاذاة الساحل الغربي، وقبالة ذلك الساحل تقع أغنى مياه الأطوم في الخليج العربي: عُدّ فيها 508 من الأطوم في أقل من كيلومتر مربع واحد. فإذا كانت الضباع تنبش الشاطئ، فستكون عظام الوكر عظامًا حديثة مقضومة لأطوم ودلافين من الأنواع التي تعيش في عرض البحر اليوم.",
+"ctx": "qa:AISTORIES.4.pages.3.p",
+"i": 2411
+},
+{
+"en": "But the ridge is itself made of old sea floor, and the bones might be Miocene fossils weathered out of the rock. Or people may have carried the meat inland. Dating and naming every bone would tell the stories apart.",
+"ar": "لكن الضلع نفسه مكوّن من قاع بحر قديم، وقد تكون العظام أحافير ميوسينية تآكل عنها الصخر. أو ربما حمل الناس اللحم إلى الداخل. وتأريخ كل عظمة وتحديد نوعها يفرّقان بين الروايات.",
+"ctx": "qa:AISTORIES.4.pages.3.p",
+"i": 2412
+},
+{
+"en": "Whale and dolphin bones in a desert den may be the hyaenas’ record of what the sea left on Qatar’s west coast.",
+"ar": "قد تكون عظام الحيتان والدلافين في وكر صحراوي سجلًا تركته الضباع لما ألقاه البحر على الساحل الغربي لقطر.",
+"ctx": "qa:AISTORIES.4.tag",
+"i": 2413
+},
+{
+"en": "What the Hyaenas Carried Home",
+"ar": "ما حملته الضباع إلى أوكارها",
+"ctx": "qa:AISTORIES.4.title",
+"i": 2414
+},
+{
+"en": "South of Doha, a reservoir of treated waste water has spread over 9 km² since 1982. Reeds and cat’s-tail grow round it, fish and frogs live in it, and about 150 greater flamingos have been counted there among at least 260 bird species. In 2014 the authorities announced it would be drained.",
+"ar": "جنوب الدوحة امتد خزان لمياه الصرف المعالجة على 9 كم² منذ عام 1982. ينمو حوله القصب والبوط، وتعيش فيه الأسماك والضفادع، وعُدّ فيه نحو 150 طائر نحام كبير بين 260 نوعًا من الطيور على الأقل. وفي عام 2014 أعلنت السلطات أنها ستجففه.",
+"ctx": "qa:AISTORIES.5.pages.1.p",
+"i": 2415
+},
+{
+"en": "Thirty-one kilometres to the west, the fodder fields of Irkaya are watered by great turning pivots. By 2014, 238 of the 315 bird species ever recorded in Qatar had been seen there, including the rare sociable lapwing, and its southern farm has lagoons and reed beds of its own.",
+"ar": "وعلى بعد واحد وثلاثين كيلومترًا إلى الغرب، تُسقى حقول العلف في إركية بأذرع ري محورية كبيرة تدور. وبحلول عام 2014 شوهد فيها 238 نوعًا من أصل 315 نوعًا سُجّلت في قطر، منها الزقزاق الاجتماعي النادر، وفي مزرعتها الجنوبية بحيرات وأحراش قصب خاصة بها.",
+"ctx": "qa:AISTORIES.5.pages.1.p",
+"i": 2416
+},
+{
+"en": "Seen before: wetlands built to clean water",
+"ar": "حدث من قبل: أراضٍ رطبة بُنيت لتنقية الماء",
+"ctx": "qa:AISTORIES.5.pages.2.h",
+"i": 2417
+},
+{
+"en": "In 2010 the ecologists Murray and Hamilton reviewed what happens when people build wetlands to treat waste water. Again and again, waterbirds move in, and some of these places become important habitat.",
+"ar": "في عام 2010 راجع عالما البيئة موراي وهاميلتون ما يحدث حين يبني الناس أراضي رطبة لمعالجة مياه الصرف. فمرة بعد مرة تنتقل إليها الطيور المائية، ويصير بعضها موئلًا مهمًا.",
+"ctx": "qa:AISTORIES.5.pages.2.p",
+"i": 2418
+},
+{
+"en": "But they warned that the value of such a wetland depends on how it is run, and must be weighed against risks such as contaminants. A treatment pond can be a refuge, or a trap, and only careful study tells which.",
+"ar": "لكنهما نبّها إلى أن قيمة أرض رطبة كهذه تتوقف على طريقة إدارتها، وأنه ينبغي موازنتها بمخاطر مثل الملوّثات. فحوض المعالجة قد يكون ملاذًا أو فخًا، ولا يكشف أيهما إلا بحث دقيق.",
+"ctx": "qa:AISTORIES.5.pages.2.p",
+"i": 2419
+},
+{
+"en": "On this map the two waters lie a short flight apart. If the birds use them as one stopover, a flamingo tagged at Abu Nakhla will turn up at Irkaya, and when one site shrinks the counts at the other will rise. Then the future of the lake could not be decided without counting the birds at the farm.",
+"ar": "على هذه الخريطة يفصل بين الماءين طيران قصير. فإذا كانت الطيور تستعملهما محطة واحدة، فسيظهر طائر نحام موسوم في أبو نخلة في إركية، وحين ينكمش أحد الموقعين سترتفع الأعداد في الآخر. وعندها لا يمكن تقرير مصير البحيرة من دون عدّ الطيور في المزرعة.",
+"ctx": "qa:AISTORIES.5.pages.3.p",
+"i": 2420
+},
+{
+"en": "Or the two may serve different birds: open water for flamingos, fields for larks and lapwings. And both may simply be well watched by birders. Counting on the same days at both would show which.",
+"ar": "أو ربما يخدم الموقعان طيورًا مختلفة: الماء المفتوح للنحام، والحقول للقبّرات والزقزاق. وربما كان الموقعان ببساطة تحت أنظار مراقبي الطيور أكثر من غيرهما. والعدّ في الأيام نفسها في الموقعين سيكشف أي ذلك صحيح.",
+"ctx": "qa:AISTORIES.5.pages.3.p",
+"i": 2421
+},
+{
+"en": "Two accidental wetlands near Doha may be a single stopping place for birds crossing the desert.",
+"ar": "قد تكون أرضان رطبتان نشأتا مصادفة قرب الدوحة محطة توقف واحدة للطيور العابرة للصحراء.",
+"ctx": "qa:AISTORIES.5.tag",
+"i": 2422
+},
+{
+"en": "A Lake, a Farm and the Long Flight",
+"ar": "بحيرة ومزرعة ورحلة طويلة",
+"ctx": "qa:AISTORIES.5.title",
+"i": 2423
+},
+{
+"en": "Al Zubarah",
+"ar": "الزبارة",
+"ctx": "qa:D.sites.0.na",
+"i": 2424
+},
+{
+"en": "A walled trading town of 6,000 to 9,000 people, burned in 1811 and buried by sand",
+"ar": "مدينة تجارية مسوّرة سكنها 6 إلى 9 آلاف إنسان، أُحرقت عام 1811 ودفنتها الرمال",
+"ctx": "qa:D.sites.0.sa",
+"i": 2425
+},
+{
+"en": "Al Jassasiya Rock Carvings",
+"ar": "نقوش الجساسية الصخرية",
+"ctx": "qa:D.sites.1.na",
+"i": 2426
+},
+{
+"en": "Rows of cup marks and 141 boats carved into a coastal ridge",
+"ar": "صفوف من الحفر الفنجانية و141 قاربًا محفورة في ضلع ساحلي",
+"ctx": "qa:D.sites.1.sa",
+"i": 2427
+},
+{
+"en": "Boats cut into the rock",
+"ar": "قوارب محفورة في الصخر",
+"ctx": "qa:D.sites.1.ta",
+"i": 2428
+},
+{
+"en": "Mesaieed Dunes and Khor Al Adaid Sands",
+"ar": "كثبان مسيعيد ورمال خور العديد",
+"ctx": "qa:D.sites.10.na",
+"i": 2429
+},
+{
+"en": "Wind drives the sand south-east into the Inland Sea, and no new sand arrives",
+"ar": "تدفع الريح الرمال جنوبًا شرقًا إلى البحر الداخلي، ولا تصل رمال جديدة",
+"ctx": "qa:D.sites.10.sa",
+"i": 2430
+},
+{
+"en": "Dunes on their last journey",
+"ar": "كثبان في رحلتها الأخيرة",
+"ctx": "qa:D.sites.10.ta",
+"i": 2431
+},
+{
+"en": "Khor Al Adaid (Inland Sea)",
+"ar": "خور العديد",
+"ctx": "qa:D.sites.11.na",
+"i": 2432
+},
+{
+"en": "A tidal lagoon with no equal, ringed by dunes that spill into the water",
+"ar": "بحيرة مدّية لا نظير لها، تحيط بها كثبان تنهال في الماء",
+"ctx": "qa:D.sites.11.sa",
+"i": 2433
+},
+{
+"en": "Where the desert meets the sea",
+"ar": "حيث تلتقي الصحراء بالبحر",
+"ctx": "qa:D.sites.11.ta",
+"i": 2434
+},
+{
+"en": "Al Reem Biosphere Reserve",
+"ar": "محمية الريم",
+"ctx": "qa:D.sites.12.na",
+"i": 2435
+},
+{
+"en": "Oryx and gazelle on the limestone plains of the north-west",
+"ar": "المها والغزال على سهول الشمال الغربي الجيرية",
+"ctx": "qa:D.sites.12.sa",
+"i": 2436
+},
+{
+"en": "A tenth of the country, kept wild",
+"ar": "عُشر البلاد، حُفظ بريًا",
+"ctx": "qa:D.sites.12.ta",
+"i": 2437
+},
+{
+"en": "Al Shaheen Whale Shark Aggregation",
+"ar": "تجمّع قرش الحوت في الشاهين",
+"ctx": "qa:D.sites.13.na",
+"i": 2438
+},
+{
+"en": "Whale sharks gather around oil platforms to feed on tuna eggs",
+"ar": "تتجمع أقراش الحوت حول منصات النفط لتأكل بيض التونة",
+"ctx": "qa:D.sites.13.sa",
+"i": 2439
+},
+{
+"en": "A hundred giants in one square kilometre",
+"ar": "مئة عملاق في كيلومتر مربع واحد",
+"ctx": "qa:D.sites.13.ta",
+"i": 2440
+},
+{
+"en": "Fuwairit Turtle Beach",
+"ar": "شاطئ فويرط للسلاحف",
+"ctx": "qa:D.sites.14.na",
+"i": 2441
+},
+{
+"en": "219 turtles nested in 2025 and 8,213 hatchlings reached the sea",
+"ar": "عشّشت 219 سلحفاة عام 2025 ووصل 8,213 فرخًا إلى البحر",
+"ctx": "qa:D.sites.14.sa",
+"i": 2442
+},
+{
+"en": "Where the hawksbills come home",
+"ar": "حيث تعود سلاحف منقار الصقر",
+"ctx": "qa:D.sites.14.ta",
+"i": 2443
+},
+{
+"en": "Al Thakhira Mangrove Reserve",
+"ar": "محمية قرم الذخيرة",
+"ctx": "qa:D.sites.15.na",
+"i": 2444
+},
+{
+"en": "A grey-green forest in the tide, storing carbon and sheltering fish",
+"ar": "غابة رمادية خضراء في المدّ، تخزّن الكربون وتؤوي الأسماك",
+"ctx": "qa:D.sites.15.sa",
+"i": 2445
+},
+{
+"en": "Half of Qatar’s mangroves",
+"ar": "نصف قرم قطر",
+"ctx": "qa:D.sites.15.ta",
+"i": 2446
+},
+{
+"en": "Dugongs of Western Qatar",
+"ar": "أطوم غرب قطر",
+"ctx": "qa:D.sites.16.na",
+"i": 2447
+},
+{
+"en": "The largest dugong herds outside Australia graze off the west coast",
+"ar": "أكبر قطعان الأطوم خارج أستراليا ترعى قبالة الساحل الغربي",
+"ctx": "qa:D.sites.16.sa",
+"i": 2448
+},
+{
+"en": "Five hundred in a square kilometre",
+"ar": "خمسمئة في كيلومتر مربع",
+"ctx": "qa:D.sites.16.ta",
+"i": 2449
+},
+{
+"en": "Al Wajbah Fort",
+"ar": "قلعة الوجبة",
+"ctx": "qa:D.sites.17.na",
+"i": 2450
+},
+{
+"en": "A small square fort where Sheikh Jassim’s men defeated an Ottoman force in 1893",
+"ar": "قلعة مربعة صغيرة هزم فيها رجال الشيخ جاسم قوة عثمانية عام 1893",
+"ctx": "qa:D.sites.17.sa",
+"i": 2451
+},
+{
+"en": "The day the Ottomans turned back",
+"ar": "يوم تراجع العثمانيون",
+"ctx": "qa:D.sites.17.ta",
+"i": 2452
+},
+{
+"en": "Ruwayda (Al Ruwaida)",
+"ar": "الرويضة",
+"ctx": "qa:D.sites.18.na",
+"i": 2453
+},
+{
+"en": "A 2.5 km coastal town with the largest fort in Qatar, two mosques, a boatyard and warehouses, deserted when its people moved to Al Zubarah",
+"ar": "مدينة ساحلية بطول 2.5 كم تضم أكبر قلعة في قطر ومسجدين وورشة سفن ومخازن، هُجرت حين انتقل أهلها إلى الزبارة",
+"ctx": "qa:D.sites.18.sa",
+"i": 2454
+},
+{
+"en": "The fort that grew eight times",
+"ar": "القلعة التي كبرت ثماني مرات",
+"ctx": "qa:D.sites.18.ta",
+"i": 2455
+},
+{
+"en": "Freiha (Al Furayhah)",
+"ar": "فريحة",
+"ctx": "qa:D.sites.19.na",
+"i": 2456
+},
+{
+"en": "A fishing village with a fort, a mosque and 303 rock carvings, at its peak before its famous neighbour",
+"ar": "قرية صيد فيها قلعة ومسجد و303 نقوش صخرية، بلغت ذروتها قبل جارتها الشهيرة",
+"ctx": "qa:D.sites.19.sa",
+"i": 2457
+},
+{
+"en": "The village before Zubarah",
+"ar": "القرية التي سبقت الزبارة",
+"ctx": "qa:D.sites.19.ta",
+"i": 2458
+},
+{
+"en": "Al Khor Island (Purple Island)",
+"ar": "جزيرة الخور (الجزيرة الأرجوانية)",
+"ctx": "qa:D.sites.2.na",
+"i": 2459
+},
+{
+"en": "The oldest known purple-dye works, on an island of mangroves",
+"ar": "أقدم مصنع معروف للصبغة الأرجوانية، على جزيرة من القرم",
+"ctx": "qa:D.sites.2.sa",
+"i": 2460
+},
+{
+"en": "Three million crushed shells",
+"ar": "ثلاثة ملايين صدفة مسحوقة",
+"ctx": "qa:D.sites.2.ta",
+"i": 2461
+},
+{
+"en": "Ain Mohammed",
+"ar": "عين محمد",
+"ctx": "qa:D.sites.20.na",
+"i": 2462
+},
+{
+"en": "Paired rooms with plastered basins and platforms, probably for washing and dyeing wool 1,200 years ago",
+"ar": "غرف متجاورة بأحواض ومنصات مجصّصة، ربما لغسل الصوف وصبغه قبل 1,200 عام",
+"ctx": "qa:D.sites.20.sa",
+"i": 2463
+},
+{
+"en": "Abbasid workshops in the desert",
+"ar": "ورش عباسية في الصحراء",
+"ctx": "qa:D.sites.20.ta",
+"i": 2464
+},
+{
+"en": "Al Da'asa",
+"ar": "الدعاسة",
+"ctx": "qa:D.sites.21.na",
+"i": 2465
+},
+{
+"en": "A seasonal camp of fishers and hunters where painted Ubaid pottery from Mesopotamia was found in 1961",
+"ar": "مخيم موسمي لصيادين وجامعي ثمار عُثر فيه عام 1961 على فخار عبيدي مزخرف من بلاد الرافدين",
+"ctx": "qa:D.sites.21.sa",
+"i": 2466
+},
+{
+"en": "Sixty fires by the sea",
+"ar": "ستون موقدًا على البحر",
+"ctx": "qa:D.sites.21.ta",
+"i": 2467
+},
+{
+"en": "Umm Al Maa burial ground",
+"ar": "أم الماء",
+"ctx": "qa:D.sites.22.na",
+"i": 2468
+},
+{
+"en": "Low stone mounds over graves spread across a well-watered depression, dug by Danish, Japanese and German teams",
+"ar": "ركامات حجرية منخفضة فوق قبور تنتشر في منخفض غني بالماء، نقّب فيها دنماركيون ويابانيون وألمان",
+"ctx": "qa:D.sites.22.sa",
+"i": 2469
+},
+{
+"en": "Mother of water, field of cairns",
+"ar": "أم الماء، حقل الركامات",
+"ctx": "qa:D.sites.22.ta",
+"i": 2470
+},
+{
+"en": "Al Thaqab Fort",
+"ar": "قلعة الثقب",
+"ctx": "qa:D.sites.23.na",
+"i": 2471
+},
+{
+"en": "Four towers around a courtyard, built of coral and limestone where rainwater gathered in the wadi",
+"ar": "أربعة أبراج حول فناء، بُنيت من المرجان والحجر الجيري حيث يتجمع ماء المطر في الوادي",
+"ctx": "qa:D.sites.23.sa",
+"i": 2472
+},
+{
+"en": "A fort to guard a well",
+"ar": "قلعة تحرس بئرًا",
+"ctx": "qa:D.sites.23.ta",
+"i": 2473
+},
+{
+"en": "Al Rekayat Fort",
+"ar": "قلعة الركيات",
+"ctx": "qa:D.sites.24.na",
+"i": 2474
+},
+{
+"en": "A 28 by 22 m mud-and-limestone fort with a well inside, restored in 1988 and again in 2020–21",
+"ar": "قلعة من الطين والحجر الجيري بأبعاد 28 × 22 م وبداخلها بئر، رُممت عام 1988 ثم في 2020–2021",
+"ctx": "qa:D.sites.24.sa",
+"i": 2475
+},
+{
+"en": "The fort named for wells",
+"ar": "القلعة التي سُميت باسم الآبار",
+"ctx": "qa:D.sites.24.ta",
+"i": 2476
+},
+{
+"en": "Jebel Nakhsh",
+"ar": "جبل النخش",
+"ctx": "qa:D.sites.25.na",
+"i": 2477
+},
+{
+"en": "The highest ground in southern Qatar, three rock layers of a Miocene sea, mined for gypsum in 1948",
+"ar": "أعلى أرض في جنوب قطر، ثلاث طبقات صخرية من بحر ميوسيني، استُخرج منها الجبس عام 1948",
+"ctx": "qa:D.sites.25.sa",
+"i": 2478
+},
+{
+"en": "A ridge of gypsum and stromatolites",
+"ar": "ضلع من الجبس والستروماتوليت",
+"ctx": "qa:D.sites.25.ta",
+"i": 2479
+},
+{
+"en": "Dukhan Sabkha",
+"ar": "سبخة دخان",
+"ctx": "qa:D.sites.26.na",
+"i": 2480
+},
+{
+"en": "A 107 km² hollow between the Dukhan anticline and the Qatar Arch where gypsum, halite and anhydrite still crystallise",
+"ar": "منخفض مساحته 107 كم² بين طيّة دخان المحدبة وقوس قطر، ما يزال يتبلور فيه الجبس والهاليت والأنهيدريت",
+"ctx": "qa:D.sites.26.sa",
+"i": 2481
+},
+{
+"en": "A sea that dried into salt",
+"ar": "بحر جفّ فصار ملحًا",
+"ctx": "qa:D.sites.26.ta",
+"i": 2482
+},
+{
+"en": "Mesaieed Coastal Sabkha",
+"ar": "سبخة مسيعيد",
+"ctx": "qa:D.sites.27.na",
+"i": 2483
+},
+{
+"en": "A former lagoon south of Mesaieed, now a gypsum-cemented plain that grew seaward over six thousand years",
+"ar": "بحيرة شاطئية قديمة جنوب مسيعيد صارت سهلًا متماسكًا بالجبس تقدّم نحو البحر على مدى ستة آلاف عام",
+"ctx": "qa:D.sites.27.sa",
+"i": 2484
+},
+{
+"en": "A lagoon filled with sand",
+"ar": "بحيرة شاطئية ملأتها الرمال",
+"ctx": "qa:D.sites.27.ta",
+"i": 2485
+},
+{
+"en": "Dahl Al Hamam",
+"ar": "دحل الحمام",
+"ctx": "qa:D.sites.28.na",
+"i": 2486
+},
+{
+"en": "A collapse doline whose brackish pool rises and falls 30 cm with the tide, one of more than 9,700 depressions in Qatar",
+"ar": "حفرة انهيارية ترتفع بركتها المالحة وتنخفض 30 سم مع المد والجزر، واحدة من أكثر من 9,700 منخفض في قطر",
+"ctx": "qa:D.sites.28.sa",
+"i": 2487
+},
+{
+"en": "A cave in the middle of the city",
+"ar": "كهف في قلب المدينة",
+"ctx": "qa:D.sites.28.ta",
+"i": 2488
+},
+{
+"en": "Al Shahaniya Oryx Reserve",
+"ar": "محمية الشحانية",
+"ctx": "qa:D.sites.29.na",
+"i": 2489
+},
+{
+"en": "A 12 km² reserve founded in 1979 for the national animal, declared extinct in the wild in 1972",
+"ar": "محمية مساحتها 12 كم² أُسست عام 1979 للحيوان الوطني الذي أُعلن انقراضه في البرية عام 1972",
+"ctx": "qa:D.sites.29.sa",
+"i": 2490
+},
+{
+"en": "Where the white oryx came back",
+"ar": "حيث عاد المها الأبيض",
+"ctx": "qa:D.sites.29.ta",
+"i": 2491
+},
+{
+"en": "Wadi Debayan",
+"ar": "وادي دبيان",
+"ctx": "qa:D.sites.3.na",
+"i": 2492
+},
+{
+"en": "People lived here 7,500 years ago, until something sudden ended it",
+"ar": "عاش الناس هنا قبل 7,500 عام، حتى أنهى ذلك حدث مفاجئ",
+"ctx": "qa:D.sites.3.sa",
+"i": 2493
+},
+{
+"en": "The first campfires",
+"ar": "أولى نيران المخيم",
+"ctx": "qa:D.sites.3.ta",
+"i": 2494
+},
+{
+"en": "Al Mashabiya Reserve",
+"ar": "محمية المسحبية",
+"ctx": "qa:D.sites.30.na",
+"i": 2495
+},
+{
+"en": "Sandy plains south-east of Abu Samra where oryx and reem gazelles are bred for release",
+"ar": "سهول رملية جنوب شرق أبو سمرة تُربّى فيها المها وغزلان الريم لإطلاقها",
+"ctx": "qa:D.sites.30.sa",
+"i": 2496
+},
+{
+"en": "A thousand oryx among the dunes",
+"ar": "ألف مها بين الكثبان",
+"ctx": "qa:D.sites.30.ta",
+"i": 2497
+},
+{
+"en": "Irkaya Farm and Reserve",
+"ar": "محمية مزرعة إركية",
+"ctx": "qa:D.sites.31.na",
+"i": 2498
+},
+{
+"en": "Irrigated pivot fields on the Abu Samra road where 76% of all birds ever recorded in Qatar have been seen",
+"ar": "حقول محورية مروية على طريق أبو سمرة شوهد فيها 76% من كل الطيور المسجلة في قطر",
+"ctx": "qa:D.sites.31.sa",
+"i": 2499
+},
+{
+"en": "Fodder fields full of birds",
+"ar": "حقول علف تعجّ بالطيور",
+"ctx": "qa:D.sites.31.ta",
+"i": 2500
+},
+{
+"en": "Abu Nakhla Wetland",
+"ar": "بحيرة أبو نخلة",
+"ctx": "qa:D.sites.32.na",
+"i": 2501
+},
+{
+"en": "A treated-sewage reservoir since 1982 that became Qatar's biggest wetland and a flamingo haunt, then faced draining",
+"ar": "خزان لمياه الصرف المعالجة منذ عام 1982 صار أكبر أرض رطبة في قطر ومقصدًا للنحام، ثم واجه التجفيف",
+"ctx": "qa:D.sites.32.sa",
+"i": 2502
+},
+{
+"en": "A lake made of waste water",
+"ar": "بحيرة من ماء الصرف المعالج",
+"ctx": "qa:D.sites.32.ta",
+"i": 2503
+},
+{
+"en": "Al Aaliya Island",
+"ar": "جزيرة العالية",
+"ctx": "qa:D.sites.33.na",
+"i": 2504
+},
+{
+"en": "A low coral-reef island north of The Pearl where Socotra cormorants and white-cheeked terns breed",
+"ar": "جزيرة مرجانية منخفضة شمال اللؤلؤة يتكاثر فيها غاق سقطرى والخرشنة بيضاء الخد",
+"ctx": "qa:D.sites.33.sa",
+"i": 2505
+},
+{
+"en": "Cormorants within sight of the towers",
+"ar": "غاقات على مرمى من الأبراج",
+"ctx": "qa:D.sites.33.ta",
+"i": 2506
+},
+{
+"en": "Umm Tais National Park",
+"ar": "حديقة أم تيس الوطنية",
+"ctx": "qa:D.sites.34.na",
+"i": 2507
+},
+{
+"en": "Sand bars, islets and mangroves on an uninhabited island declared a national park in 2006",
+"ar": "حواجز رملية وجزر صغيرة وقرم على جزيرة غير مأهولة أُعلنت حديقة وطنية عام 2006",
+"ctx": "qa:D.sites.34.sa",
+"i": 2508
+},
+{
+"en": "Mangroves at the top of the map",
+"ar": "قرم في أقصى الشمال",
+"ctx": "qa:D.sites.34.ta",
+"i": 2509
+},
+{
+"en": "One Gypsum, Two Landscapes",
+"ar": "جبس واحد، منظران",
+"ctx": "qa:D.sites.35.na",
+"i": 2510
+},
+{
+"en": "The gypsum that makes Dahl Al Misfir glow may be the same salt that sculpts the mushroom rocks of Zekreet: one layer, two landscapes. Nobody has tested this yet.",
+"ar": "قد يكون الجبس الذي يجعل دحل المسفر يتوهج هو الملح نفسه الذي ينحت صخور الفطر في زكريت: طبقة واحدة، ومنظران. لم يختبر أحد ذلك بعد.",
+"ctx": "qa:D.sites.35.sa",
+"i": 2511
+},
+{
+"en": "Hard cap over soft marl, beside gypsum plateaux",
+"ar": "غطاء صلب فوق مارل طري، بجوار هضاب جبسية",
+"ctx": "qa:D.sites.35.spec.lk.0[2]",
+"i": 2512
+},
+{
+"en": "Fibrous gypsum from the Rus and Lower Dammam formations",
+"ar": "جبس ليفي من تكويني الرس والدمام الأدنى",
+"ctx": "qa:D.sites.35.spec.lk.1[2]",
+"i": 2513
+},
+{
+"en": "One of more than 9,700 dissolution depressions",
+"ar": "واحد من أكثر من 9,700 منخفض إذابة",
+"ctx": "qa:D.sites.35.spec.lk.2[2]",
+"i": 2514
+},
+{
+"en": "How fast gypsum dissolves and re-grows in this climate",
+"ar": "كم يذوب الجبس ويتبلور من جديد بسرعة في هذا المناخ",
+"ctx": "qa:D.sites.35.spec.lk.3[2]",
+"i": 2515
+},
+{
+"en": "Karst depressions will cluster where the Rus and Lower Dammam gypsum lies within a few metres of the surface and within reach of the water table, and the isotopes of the Dahl Al Misfir fibres will match that gypsum, not seawater or sabkha brine.",
+"ar": "ستتجمع المنخفضات الكارستية حيث يقع جبس الرس والدمام الأدنى على بُعد أمتار قليلة من السطح وفي متناول منسوب المياه الجوفية، وستطابق نظائر ألياف دحل المسفر ذلك الجبس، لا ماء البحر ولا محلول السبخة.",
+"ctx": "qa:D.sites.35.spec.pred",
+"i": 2516
+},
+{
+"en": "Born from a coincidence of rock names on this map. The Zekreet record speaks of gypsum plateaux in the Dammam Formation; the Dahl Al Misfir record says its glowing crystals come from the Lower Dammam and Rus formations; the Dahl Al Hamam record counts more than 9,700 depressions dissolved out of the same rocks. Three records, one mineral, 45 km apart.",
+"ar": "وُلدت الفكرة من تطابق أسماء الصخور على هذه الخريطة. يذكر سجل زكريت هضابًا جبسية في تكوين الدمام؛ ويقول سجل دحل المسفر إن بلوراته المتوهجة جاءت من تكويني الدمام الأدنى والرس؛ ويعدّ سجل دحل الحمام أكثر من 9,700 منخفض ذاب من الصخور نفسها. ثلاثة سجلات، ومعدن واحد، تفصلها 45 كم.",
+"ctx": "qa:D.sites.35.spec.spot",
+"i": 2517
+},
+{
+"en": "Map gypsum depth and thickness along a Zekreet to Doha transect, overlay the 9,700 depressions, and compare sulphur and oxygen isotopes of the cave fibres with the Rus gypsum.",
+"ar": "رسم عمق الجبس وسمكه على مقطع من زكريت إلى الدوحة، ووضع المنخفضات التسعة آلاف وسبعمئة فوقه، ومقارنة نظائر الكبريت والأكسجين في ألياف الكهف مع جبس الرس.",
+"ctx": "qa:D.sites.35.spec.test",
+"i": 2518
+},
+{
+"en": "If depressions are just as common where the gypsum is absent or deeply buried, or if the cave fibres carry a brine or seawater signature, the single-gypsum idea fails.",
+"ar": "إذا كانت المنخفضات شائعة بالقدر نفسه حيث يغيب الجبس أو يُدفن عميقًا، أو إذا حملت ألياف الكهف بصمة محلول ملحي أو ماء بحر، تسقط فكرة الجبس الواحد.",
+"ctx": "qa:D.sites.35.spec.wrong",
+"i": 2519
+},
+{
+"en": "Did the Same Salt Carve the Mushrooms and Light the Cave?",
+"ar": "هل نحت الملح نفسه الفطر وأضاء الكهف؟",
+"ctx": "qa:D.sites.35.ta",
+"i": 2520
+},
+{
+"en": "Camps by the Freshwater Hollows",
+"ar": "مخيمات عند منخفضات الماء العذب",
+"ctx": "qa:D.sites.36.na",
+"i": 2521
+},
+{
+"en": "The first people of Qatar may have chosen their campsites by the hollows that held rain, and the 9,700 dahl and rawdat of the peninsula might be a treasure map of lost Neolithic camps. Nobody has tested this yet.",
+"ar": "ربما اختار أوائل سكان قطر مواضع مخيماتهم بحسب المنخفضات التي تحفظ ماء المطر، وقد تكون دحول شبه الجزيرة وروضاتها التسعة آلاف وسبعمئة خريطة كنز لمخيمات نيوليثية مفقودة. لم يختبر أحد ذلك بعد.",
+"ctx": "qa:D.sites.36.sa",
+"i": 2522
+},
+{
+"en": "Nearly 60 hearths of a camp people kept coming back to",
+"ar": "نحو ستين موقدًا لمخيم ظل الناس يعودون إليه",
+"ctx": "qa:D.sites.36.spec.lk.0[2]",
+"i": 2523
+},
+{
+"en": "Occupied from about 7,500 years ago",
+"ar": "مسكون منذ نحو 7,500 عام",
+"ctx": "qa:D.sites.36.spec.lk.1[2]",
+"i": 2524
+},
+{
+"en": "A depression named for its freshwater wells",
+"ar": "منخفض سُمّي باسم آباره العذبة",
+"ctx": "qa:D.sites.36.spec.lk.2[2]",
+"i": 2525
+},
+{
+"en": "One of 9,700 hollows, with a pool of good water in 1908",
+"ar": "واحد من 9,700 منخفض، فيه بركة ماء طيب عام 1908",
+"ctx": "qa:D.sites.36.spec.lk.3[2]",
+"i": 2526
+},
+{
+"en": "Cores from hollows near Al Da’asa and Wadi Debayan will hold freshwater pond sediments dated to 7,500–4,500 years ago, and Neolithic flint and Ubaid sherds will be several times denser within 5 km of such hollows than along the rest of the coast.",
+"ar": "ستحوي العيّنات اللبية من المنخفضات قرب الدعاسة ووادي دبيان رواسب برك عذبة مؤرخة بين 7,500 و4,500 عام مضت، وستكون كثافة الصوان النيوليثي والكسر العبيدية أعلى عدة مرات في نطاق 5 كم من تلك المنخفضات منها على بقية الساحل.",
+"ctx": "qa:D.sites.36.spec.pred",
+"i": 2527
+},
+{
+"en": "Born from a question on this map. Al Da’asa’s record says a group returned to the same spot for centuries and lit nearly 60 hearths there, on a coast with almost no rain. Other records show what water this peninsula does hold: wells in the Umm Al Maa depression, a guarded rawda at Barzan, a pool in Dahl Al Hamam. Putting the camps and the hollows on one map raised the idea.",
+"ar": "وُلدت الفكرة من سؤال على هذه الخريطة. يقول سجل الدعاسة إن جماعة عادت إلى الموضع نفسه قرونًا وأشعلت فيه نحو ستين موقدًا، على ساحل يكاد يخلو من المطر. وتبيّن سجلات أخرى أي ماء تحفظه شبه الجزيرة: آبار في منخفض أم الماء، وروضة محروسة في برزان، وبركة في دحل الحمام. ووضع المخيمات والمنخفضات على خريطة واحدة أثار الفكرة.",
+"ctx": "qa:D.sites.36.spec.spot",
+"i": 2528
+},
+{
+"en": "Core and date the hollows, survey their rims for flint and pottery, and compare find density near water-holding depressions with the rest of the coast.",
+"ar": "أخذ عيّنات لبية من المنخفضات وتأريخها، ومسح حوافها بحثًا عن الصوان والفخار، ومقارنة كثافة اللقى قرب المنخفضات الحافظة للماء مع بقية الساحل.",
+"ctx": "qa:D.sites.36.spec.test",
+"i": 2529
+},
+{
+"en": "If the hollows near the camps were dry in the Neolithic, or if Ubaid finds are spread evenly along the coast with no regard to them, the idea fails.",
+"ar": "إذا كانت المنخفضات قرب المخيمات جافة في العصر النيوليثي، أو إذا انتشرت اللقى العبيدية بالتساوي على الساحل من دون صلة بها، تسقط الفكرة.",
+"ctx": "qa:D.sites.36.spec.wrong",
+"i": 2530
+},
+{
+"en": "Did the Dahl and Rawdat Decide Where the First Qataris Camped?",
+"ar": "هل حددت الدحول والروضات أين خيّم أوائل القطريين؟",
+"ctx": "qa:D.sites.36.ta",
+"i": 2531
+},
+{
+"en": "The Lagoon the Dunes Are Filling",
+"ar": "البحيرة التي تملؤها الكثبان",
+"ctx": "qa:D.sites.37.na",
+"i": 2532
+},
+{
+"en": "The dunes spilling into the Inland Sea may be slowly turning it into a salt flat, exactly as a lagoon at Mesaieed was filled over 6,000 years, and the nearly exhausted sand supply sets the clock. Nobody has tested this yet.",
+"ar": "قد تكون الكثبان المنهالة في البحر الداخلي تحوّله ببطء إلى سبخة، تمامًا كما امتلأت بحيرة شاطئية في مسيعيد على مدى 6,000 عام، ومخزون الرمل الذي يكاد ينفد هو الذي يضبط الساعة. لم يختبر أحد ذلك بعد.",
+"ctx": "qa:D.sites.37.sa",
+"i": 2533
+},
+{
+"en": "A lagoon that filled with wind-blown sand over 6,000 years",
+"ar": "بحيرة شاطئية ملأتها رمال الريح على مدى 6,000 عام",
+"ctx": "qa:D.sites.37.spec.lk.0[2]",
+"i": 2534
+},
+{
+"en": "Sand marching south-east toward the Inland Sea, supply nearly exhausted",
+"ar": "رمل يزحف جنوبًا شرقًا نحو البحر الداخلي، ومخزونه يكاد ينفد",
+"ctx": "qa:D.sites.37.spec.lk.1[2]",
+"i": 2535
+},
+{
+"en": "Dunes spilling into tidal water, sabkhas growing seaward",
+"ar": "كثبان تنهال في ماء المد، وسباخ تنمو نحو البحر",
+"ctx": "qa:D.sites.37.spec.lk.2[2]",
+"i": 2536
+},
+{
+"en": "What lives on the seagrass that the sand would bury",
+"ar": "ما يعيش على الأعشاب البحرية التي سيدفنها الرمل",
+"ctx": "qa:D.sites.37.spec.lk.3[2]",
+"i": 2537
+},
+{
+"en": "Cores from Khor Al Adaid will show aeolian sand layers thickening upward and landward, the lagoon outline on images since the 1950s will have retreated measurably along the dune shore, and gypsum crusts will be forming in the khor’s inland sabkha as they did at Mesaieed.",
+"ar": "ستُظهر العيّنات اللبية من خور العديد طبقات رمل ريحي يزداد سمكها نحو الأعلى ونحو اليابسة، وسيكون محيط البحيرة في الصور منذ خمسينيات القرن العشرين قد تراجع تراجعًا قابلًا للقياس على شاطئ الكثبان، وستكون قشور الجبس آخذة في التكوّن في سبخة الخور الداخلية كما حدث في مسيعيد.",
+"ctx": "qa:D.sites.37.spec.pred",
+"i": 2538
+},
+{
+"en": "Born from three records in a line on this map. Mesaieed Sabkha’s record calls it a lagoon that filled with wind-blown sand over 6,000 years. The Mesaieed dunes’ record says the sand is marching south-east toward the Inland Sea and running out. Khor Al Adaid’s record says the dunes spill into the water and the sabkhas are already growing seaward. Past, present and future of one process, 25 km apart.",
+"ar": "وُلدت الفكرة من ثلاثة سجلات على خط واحد في هذه الخريطة. يصف سجل سبخة مسيعيد بحيرة شاطئية ملأتها الرمال التي تحملها الريح على مدى 6,000 عام. ويقول سجل كثبان مسيعيد إن الرمل يزحف جنوبًا شرقًا نحو البحر الداخلي وإنه ينفد. ويقول سجل خور العديد إن الكثبان تنهال في الماء وإن السباخ تنمو نحو البحر بالفعل. ماضي عملية واحدة وحاضرها ومستقبلها، تفصلها 25 كم.",
+"ctx": "qa:D.sites.37.spec.spot",
+"i": 2539
+},
+{
+"en": "Core and date the lagoon floor, compare shoreline and channel width on seventy years of images, measure sand flux across the dune front and look for gypsum cement in the inland sabkha.",
+"ar": "أخذ عيّنات لبية من قاع البحيرة وتأريخها، ومقارنة خط الشاطئ وعرض القناة في صور سبعين عامًا، وقياس تدفق الرمل عبر جبهة الكثبان، والبحث عن إسمنت الجبس في السبخة الداخلية.",
+"ctx": "qa:D.sites.37.spec.test",
+"i": 2540
+},
+{
+"en": "If the lagoon floor holds little aeolian sand, the shoreline has not moved since the 1950s, or the tide carries out as much sand as the wind brings in, the filling idea fails.",
+"ar": "إذا كان قاع البحيرة لا يحوي إلا القليل من الرمل الريحي، أو لم يتحرك خط الشاطئ منذ الخمسينيات، أو كان المد يُخرج من الرمل بقدر ما تُدخل الريح، تسقط فكرة الامتلاء.",
+"ctx": "qa:D.sites.37.spec.wrong",
+"i": 2541
+},
+{
+"en": "Is Khor Al Adaid Becoming the Next Mesaieed Sabkha?",
+"ar": "هل يتحول خور العديد إلى سبخة مسيعيد التالية؟",
+"ctx": "qa:D.sites.37.ta",
+"i": 2542
+},
+{
+"en": "Purple Again on the North-West Coast?",
+"ar": "هل عاد الأرجوان إلى الساحل الشمالي الغربي؟",
+"ctx": "qa:D.sites.38.na",
+"i": 2543
+},
+{
+"en": "Three million crushed sea snails made purple on Al Khor Island in the Kassite age. Two thousand years later, plastered dye basins were built at Ain Mohammed. Perhaps they were making the same colour. Nobody has tested this yet.",
+"ar": "صنعت ثلاثة ملايين قوقعة بحرية مسحوقة الأرجوان في جزيرة الخور في العصر الكاشي. وبعد ألفي عام بُنيت أحواض صبغ مجصّصة في عين محمد. فربما كانت تصنع اللون نفسه. لم يختبر أحد ذلك بعد.",
+"ctx": "qa:D.sites.38.sa",
+"i": 2544
+},
+{
+"en": "About 3,000,000 crushed murex shells, the earliest known purple",
+"ar": "نحو 3,000,000 صدفة موريكس مسحوقة، أقدم أرجوان معروف",
+"ctx": "qa:D.sites.38.spec.lk.0[2]",
+"i": 2545
+},
+{
+"en": "Plastered basins and drains, proposed for dyeing wool",
+"ar": "أحواض مجصّصة ومصارف، يُقترح أنها لصبغ الصوف",
+"ctx": "qa:D.sites.38.spec.lk.1[2]",
+"i": 2546
+},
+{
+"en": "An ordinary village of the same century, the control",
+"ar": "قرية عادية من القرن نفسه، للمقارنة",
+"ctx": "qa:D.sites.38.spec.lk.2[2]",
+"i": 2547
+},
+{
+"en": "Plaster from the basins and drains of Ain Mohammed will contain 6,6′-dibromoindigo, murex shell fragments will turn up in its middens, and house floors at Murwab will show neither.",
+"ar": "سيحوي جصّ الأحواض والمصارف في عين محمد مركّب 6,6′-ثنائي برومو النيلة، وستظهر كسر أصداف الموريكس في مكبّاته، ولن تُظهر أرضيات البيوت في مروب أيًّا منهما.",
+"ctx": "qa:D.sites.38.spec.pred",
+"i": 2548
+},
+{
+"en": "Born from two records that use the same word. The Al Khor Island record describes the earliest known purple-dye works, built on a heap of murex shells. The Ain Mohammed record describes rooms with plastered basins and drains and says the team proposes washing and dyeing wool, but does not say with what. Murwab, close by and of the same century, shows what an ordinary village looked like.",
+"ar": "وُلدت الفكرة من سجلين يستعملان الكلمة نفسها. يصف سجل جزيرة الخور أقدم مصنع معروف للصبغة الأرجوانية، قائمًا على كومة من أصداف الموريكس. ويصف سجل عين محمد غرفًا بأحواض مجصّصة ومصارف، ويقول إن الفريق يقترح غسل الصوف وصبغه، لكنه لا يقول بماذا. أما مروب، القريبة ومن القرن نفسه، فتُظهر كيف كانت تبدو قرية عادية.",
+"ctx": "qa:D.sites.38.spec.spot",
+"i": 2549
+},
+{
+"en": "Analyse the basin plaster for brominated indigo dyes and plant-dye markers, sieve the middens for murex, and run the same tests at Murwab as a control.",
+"ar": "تحليل جصّ الأحواض بحثًا عن أصباغ النيلة المبرومة ومؤشرات الأصباغ النباتية، ونخل المكبّات بحثًا عن الموريكس، وإجراء الاختبارات نفسها في مروب للمقارنة.",
+"ctx": "qa:D.sites.38.spec.test",
+"i": 2550
+},
+{
+"en": "If the basins hold only plant dyes or no dye at all, if no murex shell is found at Ain Mohammed, or if Murwab’s floors show the same purple traces, the idea fails.",
+"ar": "إذا لم تحوِ الأحواض إلا أصباغًا نباتية أو لم تحوِ صبغًا أصلًا، أو لم يُعثر على صدف الموريكس في عين محمد، أو أظهرت أرضيات مروب آثار الأرجوان نفسها، تسقط الفكرة.",
+"ctx": "qa:D.sites.38.spec.wrong",
+"i": 2551
+},
+{
+"en": "Were the Basins of Ain Mohammed Dyeing with Sea-Snail Purple?",
+"ar": "هل كانت أحواض عين محمد تصبغ بأرجوان القواقع البحرية؟",
+"ctx": "qa:D.sites.38.ta",
+"i": 2552
+},
+{
+"en": "Sea Bones in a Desert Den",
+"ar": "عظام بحرية في وكر صحراوي",
+"ctx": "qa:D.sites.39.na",
+"i": 2553
+},
+{
+"en": "Bones of sea mammals lie in a hyaena den on a desert ridge in southern Qatar. Perhaps the hyaenas fetched them from the west coast, where dugongs gather in their hundreds. Nobody has tested this yet.",
+"ar": "ترقد عظام ثدييات بحرية في وكر ضباع على ضلع صحراوي في جنوب قطر. فربما جلبتها الضباع من الساحل الغربي، حيث يتجمع الأطوم بالمئات. لم يختبر أحد ذلك بعد.",
+"ctx": "qa:D.sites.39.sa",
+"i": 2554
+},
+{
+"en": "Collapse dens with cetacean bones, a possible hyaena den",
+"ar": "أوكار انهيارية فيها عظام حيتانيات، ربما وكر للضباع",
+"ctx": "qa:D.sites.39.spec.lk.0[2]",
+"i": 2555
+},
+{
+"en": "The largest dugong herds off the same west coast",
+"ar": "أكبر قطعان الأطوم قبالة الساحل الغربي نفسه",
+"ctx": "qa:D.sites.39.spec.lk.1[2]",
+"i": 2556
+},
+{
+"en": "The den bones will prove to be fresh, unmineralised bone of Holocene age, dominated by dugongs and dolphins of the kinds surveyed off the west coast today, and marked by hyaena gnawing rather than human cut marks.",
+"ar": "ستتبيّن عظام الوكر عظامًا حديثة غير متحجّرة من عمر الهولوسين، يغلب عليها الأطوم والدلافين من الأنواع التي تُرصد قبالة الساحل الغربي اليوم، وتحمل آثار قضم الضباع لا آثار القطع البشري.",
+"ctx": "qa:D.sites.39.spec.pred",
+"i": 2557
+},
+{
+"en": "Born from a paper title in one record. The Jebel Nakhsh record cites a study of cetaceans from a possible striped hyaena den, in caves made when soft clay weathered under the limestone. Whales and dolphins in a desert cave raised the question of where they came from, and the dugong record answered with the richest marine-mammal waters in the Arabian Gulf, off the same west coast.",
+"ar": "وُلدت الفكرة من عنوان بحث في أحد السجلات. يذكر سجل جبل النخش دراسة عن حيتانيات من موقع ربما كان وكرًا للضباع المخططة، في كهوف تكوّنت حين تآكل الطين الطري تحت الحجر الجيري. أثارت حيتان ودلافين في كهف صحراوي سؤالًا عن مصدرها، فأجاب سجل الأطوم بأغنى مياه الثدييات البحرية في الخليج العربي، قبالة الساحل الغربي نفسه.",
+"ctx": "qa:D.sites.39.spec.spot",
+"i": 2558
+},
+{
+"en": "Identify, date and examine every bone from the dens, and compare the species list with marine-mammal surveys of the west coast.",
+"ar": "تحديد كل عظمة من الأوكار وتأريخها وفحصها، ومقارنة قائمة الأنواع بمسوح الثدييات البحرية على الساحل الغربي.",
+"ctx": "qa:D.sites.39.spec.test",
+"i": 2559
+},
+{
+"en": "If the bones are mineralised Miocene fossils, if they carry butchery marks but no gnawing, or if their species do not match the animals of the west coast, the idea fails.",
+"ar": "إذا كانت العظام أحافير ميوسينية متحجّرة، أو حملت آثار ذبح بلا آثار قضم، أو لم تطابق أنواعها حيوانات الساحل الغربي، تسقط الفكرة.",
+"ctx": "qa:D.sites.39.spec.wrong",
+"i": 2560
+},
+{
+"en": "Did the Hyaenas of Jebel Nakhsh Scavenge the West Coast?",
+"ar": "هل نبشت ضباع جبل النخش الساحل الغربي؟",
+"ctx": "qa:D.sites.39.ta",
+"i": 2561
+},
+{
+"en": "Murwab",
+"ar": "مروب",
+"ctx": "qa:D.sites.4.na",
+"i": 2562
+},
+{
+"en": "An Abbasid village that traded pearls for glazed pots from Basra and Samarra",
+"ar": "قرية عباسية قايضت اللؤلؤ بأوانٍ مزجّجة من البصرة وسامراء",
+"ctx": "qa:D.sites.4.sa",
+"i": 2563
+},
+{
+"en": "A village of 250 houses",
+"ar": "قرية من 250 بيتًا",
+"ctx": "qa:D.sites.4.ta",
+"i": 2564
+},
+{
+"en": "Two Man-Made Waters, One Stopover",
+"ar": "ماءان من صنع الإنسان، ومحطة واحدة",
+"ctx": "qa:D.sites.40.na",
+"i": 2565
+},
+{
+"en": "Qatar’s two richest bird sites, a reservoir of treated water and an irrigated farm, lie 31 km apart. Perhaps migrating birds use them as one stopover, so that what happens to one changes the other. Nobody has tested this yet.",
+"ar": "يفصل 31 كم بين أغنى موقعين للطيور في قطر، خزان للمياه المعالجة ومزرعة مروية. فربما تستعملهما الطيور المهاجرة محطة واحدة، فيغيّر ما يحدث لأحدهما حال الآخر. لم يختبر أحد ذلك بعد.",
+"ctx": "qa:D.sites.40.sa",
+"i": 2566
+},
+{
+"en": "A 9 km² reservoir of treated water with at least 260 bird species",
+"ar": "خزان مياه معالجة مساحته 9 كم² وفيه 260 نوعًا من الطيور على الأقل",
+"ctx": "qa:D.sites.40.spec.lk.0[2]",
+"i": 2567
+},
+{
+"en": "238 species on irrigated fields, lagoons and reed beds",
+"ar": "238 نوعًا في حقول مروية وبحيرات وأحراش قصب",
+"ctx": "qa:D.sites.40.spec.lk.1[2]",
+"i": 2568
+},
+{
+"en": "Ringed or tagged flamingos and waders will be recorded at both sites within the same season, and in seasons when Abu Nakhla’s water area shrinks, waterbird counts at Irkaya will rise.",
+"ar": "ستُرصد طيور النحام والخواضات المحلّقة أو الموسومة في الموقعين خلال الموسم نفسه، وفي المواسم التي تنكمش فيها مساحة الماء في أبو نخلة سترتفع أعداد الطيور المائية في إركية.",
+"ctx": "qa:D.sites.40.spec.pred",
+"i": 2569
+},
+{
+"en": "Born from two records that each claim the most birds. Abu Nakhla’s record counts at least 260 species and describes a plan to drain it. Irkaya’s record calls it the richest bird site in the country, 31 km away, with lagoons and reed beds of its own. Two accidental wetlands so close together raised the question of whether the birds treat them as one.",
+"ar": "وُلدت الفكرة من سجلين يدّعي كل منهما أكثر الطيور. يعدّ سجل أبو نخلة 260 نوعًا على الأقل ويصف خطة لتجفيفها. ويصف سجل إركية أغنى موقع للطيور في البلاد، على بعد 31 كم، وفيه بحيرات وأحراش قصب خاصة به. وأثار قرب هاتين الأرضين الرطبتين اللتين نشأتا مصادفة سؤالًا: هل تعاملهما الطيور كموقع واحد؟",
+"ctx": "qa:D.sites.40.spec.spot",
+"i": 2570
+},
+{
+"en": "Count waterbirds at both sites on the same days, tag birds at each and follow their movements, and compare counts with satellite maps of water area.",
+"ar": "عدّ الطيور المائية في الموقعين في الأيام نفسها، ووسم طيور في كل منهما وتتبّع تنقلاتها، ومقارنة الأعداد بخرائط مساحة الماء من الأقمار الصناعية.",
+"ctx": "qa:D.sites.40.spec.test",
+"i": 2571
+},
+{
+"en": "If tagged birds almost never move between the two sites, or if counts at Irkaya show no response to changes at Abu Nakhla, the two are separate stopovers and the idea fails.",
+"ar": "إذا كادت الطيور الموسومة لا تنتقل أبدًا بين الموقعين، أو لم تتأثر الأعداد في إركية بالتغيرات في أبو نخلة، فهما محطتان منفصلتان وتسقط الفكرة.",
+"ctx": "qa:D.sites.40.spec.wrong",
+"i": 2572
+},
+{
+"en": "Do the Birds of Irkaya and Abu Nakhla Use the Two Sites as One?",
+"ar": "هل تستعمل طيور إركية وأبو نخلة الموقعين كأنهما موقع واحد؟",
+"ctx": "qa:D.sites.40.ta",
+"i": 2573
+},
+{
+"en": "Barzan Towers",
+"ar": "أبراج برزان",
+"ctx": "qa:D.sites.5.na",
+"i": 2574
+},
+{
+"en": "Built to guard a rainwater valley, watch the sea and sight the Ramadan moon",
+"ar": "بُنيت لحراسة وادٍ لمياه الأمطار، ومراقبة البحر، ورؤية هلال رمضان",
+"ctx": "qa:D.sites.5.sa",
+"i": 2575
+},
+{
+"en": "Towers that watched the moon",
+"ar": "أبراج راقبت القمر",
+"ctx": "qa:D.sites.5.ta",
+"i": 2576
+},
+{
+"en": "Zekreet Peninsula and Mushroom Rocks",
+"ar": "شبه جزيرة زكريت وصخور الفطر",
+"ctx": "qa:D.sites.6.na",
+"i": 2577
+},
+{
+"en": "Wind and salt carved mesas and mushroom rocks from a layered Eocene sea floor",
+"ar": "نحتت الرياح والملح موائد وصخور فطر من قاع بحر إيوسيني مطبّق",
+"ctx": "qa:D.sites.6.sa",
+"i": 2578
+},
+{
+"en": "Tables and mushrooms of stone",
+"ar": "طاولات وفطر من حجر",
+"ctx": "qa:D.sites.6.ta",
+"i": 2579
+},
+{
+"en": "Dukhan Anticline and Oil Field",
+"ar": "طيّة دخان وحقل النفط",
+"ctx": "qa:D.sites.7.na",
+"i": 2580
+},
+{
+"en": "An 80 km fold at the surface led drillers to Jurassic oil 1,733 m down",
+"ar": "طيّة بطول 80 كم على السطح قادت الحفّارين إلى نفط جوراسي على عمق 1,733 م",
+"ctx": "qa:D.sites.7.sa",
+"i": 2581
+},
+{
+"en": "The Qatar Arch",
+"ar": "قوس قطر",
+"ctx": "qa:D.sites.8.na",
+"i": 2582
+},
+{
+"en": "A long, gentle arch of the Arabian plate holds the whole peninsula out of the water",
+"ar": "قوس طويل لطيف في الصفيحة العربية يرفع شبه الجزيرة كلها فوق الماء",
+"ctx": "qa:D.sites.8.sa",
+"i": 2583
+},
+{
+"en": "Why Qatar is above the sea",
+"ar": "لماذا قطر فوق البحر",
+"ctx": "qa:D.sites.8.ta",
+"i": 2584
+},
+{
+"en": "Dahl Al Misfir Cave",
+"ar": "دحل المسفر",
+"ctx": "qa:D.sites.9.na",
+"i": 2585
+},
+{
+"en": "Fibrous gypsum crystals light a 40 m sinkhole in the central desert",
+"ar": "بلورات جبس ليفية تضيء دحلًا بعمق 40 م في الصحراء الوسطى",
+"ctx": "qa:D.sites.9.sa",
+"i": 2586
+},
+{
+"en": "The cave that glows",
+"ar": "الكهف الذي يتوهج",
+"ctx": "qa:D.sites.9.ta",
+"i": 2587
+},
+{
+"en": "<b>Example source:</b> Marine Policy, 2018: Marshall et al. report dugong herds of up to 500 animals off western Qatar.",
+"ar": "<b>مثال على مصدر:</b> Marine Policy، 2018: مارشال وزملاؤه يرصدون قطعانًا من الأتوم تصل إلى 500 حيوان قبالة غرب قطر.",
+"ctx": "qa:HW.steps",
+"i": 2588
+},
+{
+"en": "<b>Searches like:</b> “Al Zubarah excavation”, “Wadi Debayan Neolithic”, “Dahl Al Misfir cave”, “Qatar dugong survey”.",
+"ar": "<b>عمليات بحث مثل:</b> «تنقيبات الزبارة»، «وادي دبيان العصر الحجري الحديث»، «كهف دحل المسفر»، «مسح الأتوم في قطر».",
+"ctx": "qa:HW.steps",
+"i": 2589
+},
+{
+"en": "<b>Extracted:</b> Place → Western Qatar coast · Published → 2018 · Finding → herds of up to 500 dugongs · Team → Marshall et al.",
+"ar": "<b>المستخرج:</b> الموقع ← ساحل قطر الغربي · النشر ← 2018 · النتيجة ← قطعان تصل إلى 500 أتوم · الفريق ← مارشال وزملاؤه.",
+"ctx": "qa:HW.steps",
+"i": 2590
+},
+{
+"en": "<b>Title:</b> Five hundred dugongs in one square kilometre<br><b>العنوان:</b> خمسمئة أتوم في كيلومتر مربع واحد",
+"ar": "<b>Title:</b> Five hundred dugongs in one square kilometre<br><b>العنوان:</b> خمسمئة أتوم في كيلومتر مربع واحد",
+"ctx": "qa:HW.steps",
+"i": 2591
+},
+{
+"en": "<b>Shown on:</b> Dugongs of Western Qatar card → New research → link to the original source.",
+"ar": "<b>يظهر في:</b> بطاقة أتوم غرب قطر ← بحث جديد ← رابط المصدر الأصلي.",
+"ctx": "qa:HW.steps",
+"i": 2592
+},
+{
+"en": "<b>Example:</b> Zekreet mesas → “Tables and mushrooms of stone” · Miocene Dam Formation · about 15 million years ago.",
+"ar": "<b>مثال:</b> هضاب زكريت ← «طاولات وفطر من حجر» · تكوين الدام الميوسيني · قبل نحو 15 مليون سنة.",
+"ctx": "qa:HW.steps",
+"i": 2593
+},
+{
+"en": "How Layers of Qatar works",
+"ar": "كيف يعمل تطبيق طبقات قطر",
+"ctx": "qa:HW.title",
+"i": 2594
+},
+{
+"en": "Layers of Qatar maps the geology, archaeology and ecology of Qatar: places with their sources, a timeline from the Eocene sea to today, and live directions, in Arabic and English. Illustrated stories are on their way.",
+"ar": "يرسم تطبيق طبقات قطر جيولوجيا قطر وآثارها وبيئتها: مواقع بمصادرها، وخط زمني من بحر الإيوسين حتى اليوم، وإرشادات حيّة، بالعربية والإنجليزية. والقصص المصوّرة في الطريق.",
+"ctx": "qa:INS.aP1",
+"i": 2595
+},
+{
+"en": "About Layers of Qatar",
+"ar": "حول طبقات قطر",
+"ctx": "qa:INS.aT",
+"i": 2596
+},
+{
+"en": "Made in Qatar",
+"ar": "صُنع في قطر",
+"ctx": "qa:INS.made",
+"i": 2597
+},
+{
+"en": "Install Layers of Qatar",
+"ar": "ثبّت طبقات قطر",
+"ctx": "qa:INS.t",
+"i": 2598
+},
+{
+"en": "Khor Al Adaid Natural Reserve",
+"ar": "محمية خور العديد",
+"ctx": "qa:PZ.1",
+"i": 2599
+},
+{
+"en": "Fuwairit turtle nesting beach (closed March–July)",
+"ar": "شاطئ فويرط لتعشيش السلاحف (مغلق مارس–يوليو)",
+"ctx": "qa:PZ.3",
+"i": 2600
+},
+{
+"en": "Al Zubarah Archaeological Site (World Heritage, 2013)",
+"ar": "موقع الزبارة الأثري (تراث عالمي، 2013)",
+"ctx": "qa:PZ.4",
+"i": 2601
+},
+{
+"en": "Inscribed in 2013. Visitor centre in the 1938 fort; the town site is open with walkways.",
+"ar": "مدرج عام 2013. مركز الزوار في قلعة 1938؛ موقع المدينة مفتوح بممرات.",
+"ctx": "qa:PZ.4.note",
+"i": 2602
+},
+{
+"en": "Source: Ministry of Environment and Climate Change (Qatar); UNESCO",
+"ar": "المصدر: وزارة البيئة والتغير المناخي (قطر)؛ اليونسكو",
+"ctx": "qa:PZT.src",
+"i": 2603
+},
+{
+"en": "Start 7,500 years ago on the north-west coast, at the oldest settlement in Qatar.",
+"ar": "ابدأ قبل 7,500 عام على الساحل الشمالي الغربي، في أقدم مستوطنة في قطر.",
+"ctx": "qa:ROUTE.0[4]",
+"i": 2604
+},
+{
+"en": "Three million shells",
+"ar": "ثلاثة ملايين صدفة",
+"ctx": "qa:ROUTE.1[2]",
+"i": 2605
+},
+{
+"en": "Cross the peninsula to an island where Kassite dyers crushed murex for purple.",
+"ar": "اعبر شبه الجزيرة إلى جزيرة سحق فيها صبّاغو الكيشيين المحار من أجل الأرجوان.",
+"ctx": "qa:ROUTE.1[4]",
+"i": 2606
+},
+{
+"en": "Jump to the 9th century and an Abbasid village with the oldest fort in the country.",
+"ar": "انتقل إلى القرن التاسع وقرية عباسية فيها أقدم قلعة في البلاد.",
+"ctx": "qa:ROUTE.2[4]",
+"i": 2607
+},
+{
+"en": "Then the 1760s: a walled pearling town, burned in 1811 and kept by the sand.",
+"ar": "ثم ستينيات القرن الثامن عشر: مدينة لؤلؤ مسوّرة، أُحرقت عام 1811 وحفظتها الرمال.",
+"ctx": "qa:ROUTE.3[4]",
+"i": 2608
+},
+{
+"en": "On the east coast, 141 dhows carved into a ridge by people who sailed them.",
+"ar": "على الساحل الشرقي، 141 سفينة حفرها في الضلع من أبحروا بها.",
+"ctx": "qa:ROUTE.4[4]",
+"i": 2609
+},
+{
+"en": "Now go down 1,733 m with the drillers of 1940 into the Jurassic.",
+"ar": "والآن انزل 1,733 مترًا مع حفّاري عام 1940 إلى العصر الجوراسي.",
+"ctx": "qa:ROUTE.5[4]",
+"i": 2610
+},
+{
+"en": "Tables of stone",
+"ar": "موائد من حجر",
+"ctx": "qa:ROUTE.6[2]",
+"i": 2611
+},
+{
+"en": "Walk among mesas and mushroom rocks carved from an Eocene sea floor.",
+"ar": "امشِ بين الموائد وصخور الفطر المنحوتة من قاع بحر إيوسيني.",
+"ctx": "qa:ROUTE.6[4]",
+"i": 2612
+},
+{
+"en": "End in the south, where dunes spill into a tidal sea.",
+"ar": "واختم في الجنوب، حيث تنهال الكثبان في بحر مدّي.",
+"ctx": "qa:ROUTE.7[4]",
+"i": 2613
+},
+{
+"en": "My story for Layers of Qatar",
+"ar": "قصتي لطبقات قطر",
+"ctx": "qa:SB.mailSub",
+"i": 2614
+},
+{
+"en": "Back to Qatar",
+"ar": "العودة إلى قطر",
+"ctx": "qa:SOONT.back",
+"i": 2615
+},
+{
+"en": "Based on the research of Qatar Museums and the University of Copenhagen (Qatar Islamic Archaeology and Heritage Project)",
+"ar": "مستندة إلى أبحاث متاحف قطر وجامعة كوبنهاغن (مشروع الآثار والتراث الإسلامي في قطر)",
+"ctx": "qa:STORIES.0.credit",
+"i": 2616
+},
+{
+"en": "Before Zubarah",
+"ar": "قبل الزبارة",
+"ctx": "qa:STORIES.0.pages.1.h",
+"i": 2617
+},
+{
+"en": "Long before the famous town, people were already living on this coast. At Ruwayda, a town stretched 2.5 km along the shore around the largest fort in Qatar. The fort was built in three stages, and the last one made it eight times its first size. Its pottery came from Iran and even from China.",
+"ar": "قبل المدينة الشهيرة بزمن طويل، كان الناس يسكنون هذا الساحل. ففي الرويضة امتدت بلدة على الشاطئ بطول 2.5 كم حول أكبر قلعة في قطر. بُنيت القلعة على ثلاث مراحل، وجعلتها المرحلة الأخيرة أكبر ثماني مرات من حجمها الأول. وجاء فخارها من إيران، بل ومن الصين.",
+"ctx": "qa:STORIES.0.pages.1.p",
+"i": 2618
+},
+{
+"en": "Three kilometres north of where Zubarah would stand sat Freiha, a fishing village of about 50 hectares. Archaeologists found stone fishing weights, fish bones and tidal fish traps there, and 303 carvings cut into the rock. Then, around the 1760s, the people of Ruwayda packed up and moved to a new town.",
+"ar": "وعلى بعد ثلاثة كيلومترات شمال الموضع الذي ستقوم فيه الزبارة، كانت فريحة قرية صيد مساحتها نحو 50 هكتارًا. وجد الآثاريون فيها أثقال صيد حجرية وعظام أسماك ومصايد مدّية، و303 نقوش محفورة في الصخر. ثم، نحو ستينيات القرن الثامن عشر، حزم أهل الرويضة أمتعتهم وانتقلوا إلى بلدة جديدة.",
+"ctx": "qa:STORIES.0.pages.1.p",
+"i": 2619
+},
+{
+"en": "A Wall from Shore to Shore",
+"ar": "سور من الشاطئ إلى الشاطئ",
+"ctx": "qa:STORIES.0.pages.2.h",
+"i": 2620
+},
+{
+"en": "Al Zubarah was founded in the 1760s on the north-west coast, 85 km from Doha. Pearls were its business. Divers brought oysters up from the Arabian Gulf, and merchants sold the pearls far away. By the late 1700s the town had a wall that curved 2.5 km from one shore to the other.",
+"ar": "أُسست الزبارة في ستينيات القرن الثامن عشر على الساحل الشمالي الغربي، على بعد 85 كم من الدوحة. كان اللؤلؤ تجارتها. يرفع الغواصون المحار من قاع الخليج العربي، ويبيع التجار اللؤلؤ في بلاد بعيدة. وبحلول أواخر القرن كان للمدينة سور ينحني 2.5 كم من شاطئ إلى شاطئ.",
+"ctx": "qa:STORIES.0.pages.2.p",
+"i": 2621
+},
+{
+"en": "Inside that arc lay 60 hectares of streets, a souq, houses and fishing harbours. Perhaps 6,000 to 9,000 people lived there. One palatial compound measured 110 by 100 metres and held nine courtyards. Imagine walking through nine open squares, one after another, inside a single home.",
+"ar": "داخل هذا القوس امتدت 60 هكتارًا من الشوارع والسوق والبيوت ومرافئ الصيد. وربما سكنها ستة آلاف إلى تسعة آلاف إنسان. وبلغ أحد المجمّعات القصرية 110 أمتار في 100 متر، وضم تسعة أفنية. تخيّل أن تمشي في تسع ساحات مكشوفة، واحدة بعد الأخرى، داخل بيت واحد.",
+"ctx": "qa:STORIES.0.pages.2.p",
+"i": 2622
+},
+{
+"en": "Fire and Sand",
+"ar": "النار والرمل",
+"ctx": "qa:STORIES.0.pages.3.h",
+"i": 2623
+},
+{
+"en": "In 1811, forces loyal to the Sultan of Muscat burned the town. Later, a smaller town was built on about a fifth of the old area, but by the early 20th century it too was empty. The wind did the rest, laying sand over the walls year after year.",
+"ar": "في عام 1811 أحرقت قوات موالية لسلطان مسقط المدينة. وبُنيت لاحقًا بلدة أصغر على نحو خُمس المساحة القديمة، لكنها خلت بدورها في مطلع القرن العشرين. وأكملت الريح الباقي، فمدّت الرمل فوق الجدران عامًا بعد عام.",
+"ctx": "qa:STORIES.0.pages.3.p",
+"i": 2624
+},
+{
+"en": "Inland, a fortified settlement called Qal’at Murair stayed alive much longer. People lived there until Al Zubarah Fort was built nearby in 1938. That fort is the square building with round towers that visitors see first today, standing beside a town they cannot yet see.",
+"ar": "وفي الداخل بقيت مستوطنة محصّنة تُدعى قلعة مرير حيّة زمنًا أطول بكثير. سكنها الناس حتى بُنيت قلعة الزبارة بجوارها عام 1938. وتلك القلعة هي المبنى المربع ذو الأبراج المستديرة الذي يراه الزوار أولًا اليوم، واقفًا بجانب مدينة لا يرونها بعد.",
+"ctx": "qa:STORIES.0.pages.3.p",
+"i": 2625
+},
+{
+"en": "Digging under the Sand",
+"ar": "الحفر تحت الرمال",
+"ctx": "qa:STORIES.0.pages.4.h",
+"i": 2626
+},
+{
+"en": "Qatari archaeologists uncovered the souq in the 1980s. From 2009, Qatar Museums and the University of Copenhagen began a long project to map and excavate the whole town. Because nobody built on top of it, the street plan, the houses and the harbours are still there, just under the sand.",
+"ar": "كشف آثاريون قطريون عن السوق في ثمانينيات القرن العشرين. ومنذ عام 2009 بدأت متاحف قطر وجامعة كوبنهاغن مشروعًا طويلًا لرسم المدينة كلها والتنقيب فيها. ولأن أحدًا لم يبنِ فوقها، ما زال مخطط الشوارع والبيوت والمرافئ هناك، تحت الرمل مباشرة.",
+"ctx": "qa:STORIES.0.pages.4.p",
+"i": 2627
+},
+{
+"en": "On 22 June 2013 Al Zubarah became Qatar’s first World Heritage Site. It is the best-preserved merchant town of its age anywhere on the Arabian Gulf. Every trench the archaeologists open brings back a street, a doorway or a kitchen that no one has seen for two hundred years.",
+"ar": "وفي 22 يونيو 2013 صارت الزبارة أول موقع تراث عالمي في قطر. إنها أفضل مدينة تجارية محفوظة من عصرها على الخليج العربي كله. وكل خندق يفتحه الآثاريون يعيد شارعًا أو مدخلًا أو مطبخًا لم تره عين منذ مئتي عام.",
+"ctx": "qa:STORIES.0.pages.4.p",
+"i": 2628
+},
+{
+"en": "A town can burn and vanish, and still be waiting under the sand for anyone patient enough to dig.",
+"ar": "قد تحترق مدينة وتختفي، وتبقى مع ذلك منتظرة تحت الرمل كل من يملك صبرًا كافيًا ليحفر.",
+"ctx": "qa:STORIES.0.pages.5.p",
+"i": 2629
+},
+{
+"en": "How a walled town rose on the north-west coast, burned, and sank under the sand",
+"ar": "كيف قامت مدينة مسوّرة على الساحل الشمالي الغربي، ثم احترقت، وغاصت تحت الرمال",
+"ctx": "qa:STORIES.0.tag",
+"i": 2630
+},
+{
+"en": "Before Sunrise",
+"ar": "قبل شروق الشمس",
+"ctx": "qa:STORIES.1.pages.1.h",
+"i": 2631
+},
+{
+"en": "It was still dark when Nura and her father reached Fuwairit beach. From the end of March to July the beach is closed to the public, because this is where the hawksbill turtles come to nest. Only the conservation team and their helpers may walk here, quietly, with red torches.",
+"ar": "كان الظلام ما يزال مخيّمًا حين وصلت نورة وأبوها إلى شاطئ فويرط. من نهاية مارس إلى يوليو يُغلق الشاطئ أمام الزوار، لأن سلاحف منقار الصقر تأتي إليه لتعشّش. ولا يمشي هنا إلا فريق الحماية ومساعدوهم، بهدوء، وبمصابيح حمراء.",
+"ctx": "qa:STORIES.1.pages.1.p",
+"i": 2632
+},
+{
+"en": "A ranger lifted a bucket. Inside, dozens of hatchlings the size of Nura’s palm scrambled over one another. «Tonight they go home», he whispered. This season 219 turtles had nested on eight beaches, and 8,213 hatchlings would reach the sea. Nura counted hers: twenty-three, racing down the sand.",
+"ar": "رفع الحارس دلوًا. في داخله عشرات الصغار بحجم كف نورة تتسلق بعضها بعضًا. همس: «الليلة يعودون إلى بيتهم». في هذا الموسم عشّشت 219 سلحفاة على ثمانية شواطئ، وسيصل 8,213 صغيرًا إلى البحر. عدّت نورة صغارها: ثلاثة وعشرون، تسابق نحو الماء.",
+"ctx": "qa:STORIES.1.pages.1.p",
+"i": 2633
+},
+{
+"en": "The Ridge",
+"ar": "الضلع الصخري",
+"ctx": "qa:STORIES.1.pages.2.h",
+"i": 2634
+},
+{
+"en": "When the sun was up they drove 4.8 km south to a low ridge of pale rock called Al Jassasiya. At first Nura saw only stone. Then her father pointed: a row of little round hollows, like a line of cups. Then rings around them. Then more, everywhere she looked.",
+"ar": "حين ارتفعت الشمس قادا السيارة 4.8 كم جنوبًا إلى ضلع منخفض من صخر شاحب يُدعى الجساسية. في البداية لم ترَ نورة إلا الحجر. ثم أشار أبوها: صف من حفر صغيرة مستديرة، كأنها صف فناجين. ثم حلقات حولها. ثم المزيد، أينما نظرت.",
+"ctx": "qa:STORIES.1.pages.2.p",
+"i": 2635
+},
+{
+"en": "«About 900 carvings», he said, «on 580 numbered rocks. A Danish team found them in 1961». There were ostriches with long necks, fish, and, in the stone by Nura’s foot, a turtle with four flippers spread wide. She put her hand beside it. It was the same size as the hatchlings’ mother.",
+"ar": "قال: «نحو 900 نقش على 580 صخرة مرقّمة. عثر عليها فريق دنماركي عام 1961». كانت هناك نعامات طويلة الأعناق، وأسماك، وفي الحجر عند قدم نورة سلحفاة تبسط زعانفها الأربع. وضعت يدها بجانبها. كانت بحجم أم الصغار نفسه.",
+"ctx": "qa:STORIES.1.pages.2.p",
+"i": 2636
+},
+{
+"en": "Boats of the Pearling Age",
+"ar": "قوارب عصر اللؤلؤ",
+"ctx": "qa:STORIES.1.pages.3.h",
+"i": 2637
+},
+{
+"en": "Further along the ridge the pictures changed. Long shapes with a line of dots along them, seen from above. «Boats», said her father, «with the rowers’ places marked». There are 124 boats drawn like that, in plan, and 17 drawn from the side, with masts. Nowhere else in Qatar has boat carvings.",
+"ar": "على امتداد الضلع تغيّرت الصور. أشكال طويلة فيها صف من النقاط، مرسومة من الأعلى. قال أبوها: «قوارب، ومواضع المجدّفين مُعلَّمة». هناك 124 قاربًا مرسومًا هكذا من الأعلى، و17 مرسومًا من الجانب بصوارٍ. ولا يوجد في قطر كلها نقوش قوارب غير هذه.",
+"ctx": "qa:STORIES.1.pages.3.p",
+"i": 2638
+},
+{
+"en": "Nura looked out to the sea the hatchlings had entered. Dhows like these had sailed from here to the pearl banks. One researcher noticed that some boats have rudders, which is why he thought the oldest might be from the 11th century. Nobody signs a carving, so the rock keeps its date to itself.",
+"ar": "نظرت نورة إلى البحر الذي دخلته الصغار. من هنا أبحرت سفن كهذه إلى مغاصات اللؤلؤ. ولاحظ أحد الباحثين أن لبعض القوارب دفّات، ولهذا ظن أن أقدمها قد يعود إلى القرن الحادي عشر. لا أحد يوقّع نقشًا، فيحتفظ الصخر بتاريخه لنفسه.",
+"ctx": "qa:STORIES.1.pages.3.p",
+"i": 2639
+},
+{
+"en": "Who Carved Them?",
+"ar": "من حفرها؟",
+"ctx": "qa:STORIES.1.pages.4.h",
+"i": 2640
+},
+{
+"en": "«So how old are they?» Nura asked. Her father laughed. «That is the argument». One scholar said the 11th century. Another said the 3rd century BC. In 2012 a team tested the rock itself, and the oldest sample they measured was less than 300 years old. Pottery from nearby mounds is from the 10th and 11th centuries.",
+"ar": "سألت نورة: «إذن كم عمرها؟» ضحك أبوها: «هذا هو الخلاف». قال باحث: القرن الحادي عشر. وقال آخر: القرن الثالث قبل الميلاد. وفي عام 2012 فحص فريق الصخر نفسه، فكان أقدم عيّنة قاسوها أصغر من 300 عام. أما فخار التلال المجاورة فمن القرنين العاشر والحادي عشر.",
+"ctx": "qa:STORIES.1.pages.4.p",
+"i": 2641
+},
+{
+"en": "Nura imagined a boy kneeling here with a hard stone, tapping out a turtle while his father’s boat waited on the water. Maybe he had seen turtles crawl up this very beach. Maybe he counted hatchlings too. The answer is still in the rock, waiting for a better test.",
+"ar": "تخيّلت نورة فتى يركع هنا بحجر صلب، ينقر سلحفاة بينما ينتظر قارب أبيه على الماء. ربما رأى السلاحف تزحف على هذا الشاطئ نفسه. وربما عدّ الصغار أيضًا. الجواب ما يزال في الصخر، بانتظار اختبار أفضل.",
+"ctx": "qa:STORIES.1.pages.4.p",
+"i": 2642
+},
+{
+"en": "The turtles come back to the same beach every year. The carvings have been waiting on the ridge beside them, perhaps for centuries, perhaps for longer.",
+"ar": "تعود السلاحف إلى الشاطئ نفسه كل عام. والنقوش تنتظر على الضلع بجوارها، ربما منذ قرون، وربما منذ أطول من ذلك.",
+"ctx": "qa:STORIES.1.pages.5.p",
+"i": 2643
+},
+{
+"en": "Nura releases hatchlings at dawn, then finds their ancestors carved on a ridge",
+"ar": "تطلق نورة صغار السلاحف عند الفجر، ثم تجد أسلافها محفورة على ضلع صخري",
+"ctx": "qa:STORIES.1.tag",
+"i": 2644
+},
+{
+"en": "Based on the account of Rasoul Sorkhabi (GEO ExPro, 2010) and Qatar’s geological surveys",
+"ar": "مستندة إلى رواية رسول سرخابي (GEO ExPro، 2010) والمسوح الجيولوجية القطرية",
+"ctx": "qa:STORIES.2.credit",
+"i": 2645
+},
+{
+"en": "A Land Held up by an Arch",
+"ar": "أرض يرفعها قوس",
+"ctx": "qa:STORIES.2.pages.1.h",
+"i": 2646
+},
+{
+"en": "Qatar is flat because it sits on the stable eastern shelf of the Arabian Plate. But it is above the sea for one reason: a long, gentle arch in the rock, the Qatar–South Fars Arch, runs from north-north-east to south-south-west and lifts the whole peninsula like a hand under a tablecloth.",
+"ar": "قطر مستوية لأنها تجلس على الرصيف الشرقي المستقر من الصفيحة العربية. لكنها فوق البحر لسبب واحد: قوس طويل لطيف في الصخر، هو قوس قطر–جنوب فارس، يمتد من الشمال الشمالي الشرقي إلى الجنوب الجنوبي الغربي، ويرفع شبه الجزيرة كلها كما ترفع يدٌ مفرشَ مائدة.",
+"ctx": "qa:STORIES.2.pages.1.p",
+"i": 2647
+},
+{
+"en": "The highest point in the country is only 103 metres, in the south-west. The surface rocks are limestones and dolostones laid down in Eocene seas, with marl, clay and gypsum between them, and sand dunes cover about 12% of the land. The same arch carries the Dukhan oil field and the great gas field offshore.",
+"ar": "أعلى نقطة في البلاد لا تتجاوز 103 أمتار في الجنوب الغربي. وصخور السطح أحجار جيرية ودولوميتية ترسبت في بحار الإيوسين، تتخللها المارل والطين والجبس، وتغطي الكثبان الرملية نحو 12% من الأرض. والقوس نفسه يحمل حقل دخان النفطي وحقل الغاز الكبير في عرض البحر.",
+"ctx": "qa:STORIES.2.pages.1.p",
+"i": 2648
+},
+{
+"en": "Reading the Hills",
+"ar": "قراءة التلال",
+"ctx": "qa:STORIES.2.pages.2.h",
+"i": 2649
+},
+{
+"en": "On the west coast a line of low hills runs north to south for about 80 km. The hazy air above them earned the name Jabal Dukhan, the hill of smoke. To a geologist the hills are a clue: their Eocene limestone layers tilt away from the middle by only 2 to 10 degrees, like the two sides of a very flat roof.",
+"ar": "على الساحل الغربي يمتد صف من التلال المنخفضة من الشمال إلى الجنوب نحو 80 كم. والهواء الضبابي فوقها أكسبها اسم جبل الدخان. أما للجيولوجي فالتلال دليل: طبقاتها الجيرية الإيوسينية تميل بعيدًا عن الوسط بدرجتين إلى عشر درجات فقط، كجانبي سقف شديد الانبساط.",
+"ctx": "qa:STORIES.2.pages.2.p",
+"i": 2650
+},
+{
+"en": "A fold like that is called an anticline, and oil and gas can collect in the high part of a fold deep underground, trapped under layers it cannot pass. The surface closure at Dukhan is about 90 metres. The drillers decided to find out what lay beneath the roof.",
+"ar": "تُسمّى طيّة كهذه طيّة محدبة، وقد يتجمع النفط والغاز في الجزء المرتفع منها في أعماق الأرض، محبوسين تحت طبقات لا يستطيعان اختراقها. ويبلغ الانغلاق السطحي في دخان نحو 90 مترًا. فقرر الحفّارون أن يعرفوا ما تحت السقف.",
+"ctx": "qa:STORIES.2.pages.2.p",
+"i": 2651
+},
+{
+"en": "Dukhan No. 1",
+"ar": "بئر دخان رقم 1",
+"ctx": "qa:STORIES.2.pages.3.h",
+"i": 2652
+},
+{
+"en": "The first well, Dukhan No. 1, was begun in October 1938. For more than a year the drill ground downward through limestone. The geologists expected to find oil in Cretaceous rock. They did not. The oil came from older, Upper Jurassic limestone instead, the Zekrit Formation, which matches the Arab Formation of neighbouring countries.",
+"ar": "بدأ حفر البئر الأولى، دخان رقم 1، في أكتوبر 1938. ولأكثر من عام ظل المثقاب يطحن طريقه نزولًا عبر الحجر الجيري. توقع الجيولوجيون أن يجدوا النفط في صخور الطباشيري. لكنهم لم يجدوه هناك. جاء النفط من حجر جيري أقدم، من الجوراسي الأعلى، هو تكوين زكريت، الذي يقابل تكوين العرب في البلدان المجاورة.",
+"ctx": "qa:STORIES.2.pages.3.p",
+"i": 2653
+},
+{
+"en": "In January 1940 the well was completed at 1,733 metres and flowed about 4,480 barrels a day. The world was at war, so the first cargo had to wait. On 31 December 1949, 80,000 tons of oil finally left the port of Umm Said, and modern Qatar began.",
+"ar": "وفي يناير 1940 اكتملت البئر على عمق 1,733 مترًا وتدفقت بنحو 4,480 برميلًا في اليوم. كان العالم في حرب، فانتظرت الشحنة الأولى. وفي 31 ديسمبر 1949 غادرت 80,000 طن من النفط ميناء أم سعيد أخيرًا، وبدأت قطر الحديثة.",
+"ctx": "qa:STORIES.2.pages.3.p",
+"i": 2654
+},
+{
+"en": "Deeper, and Beside It",
+"ar": "أعمق، وإلى جانبه",
+"ctx": "qa:STORIES.2.pages.4.h",
+"i": 2655
+},
+{
+"en": "The fold had more to give. In 1959 and 1960 drillers found gas, with no oil attached, at about 3,000 metres in the Permian Khuff Formation, rock far older than the Jurassic oil. Production from it began in 1978. The same rock, under the sea to the north, holds the largest gas field on Earth.",
+"ar": "كان للطيّة المزيد لتعطيه. ففي عامي 1959 و1960 وجد الحفّارون غازًا غير مصحوب بالنفط على عمق نحو 3,000 متر في تكوين الخف البرمي، وهو صخر أقدم بكثير من نفط الجوراسي. وبدأ إنتاجه عام 1978. والصخر نفسه، تحت البحر شمالًا، يحوي أكبر حقل غاز على وجه الأرض.",
+"ctx": "qa:STORIES.2.pages.4.p",
+"i": 2656
+},
+{
+"en": "Beside the anticline lies its opposite: a hollow. The Dukhan Sabkha fills a 107 km² dip between the fold and the Qatar Arch, mostly 1 to 2 metres below sea level. An early Holocene sea flooded it, shrank to salty lakes, and left gypsum beds up to 7 metres thick over the last 5,000 years.",
+"ar": "وبجانب الطيّة المحدبة يقع نقيضها: منخفض. تملأ سبخة دخان هبوطًا مساحته 107 كم² بين الطيّة وقوس قطر، معظمه على عمق متر إلى مترين تحت مستوى البحر. غمره بحر في مطلع الهولوسين، ثم انكمش إلى بحيرات مالحة، وترك طبقات من الجبس يصل سمكها إلى 7 أمتار خلال الخمسة آلاف عام الأخيرة.",
+"ctx": "qa:STORIES.2.pages.4.p",
+"i": 2657
+},
+{
+"en": "A few degrees of tilt in a hillside, read correctly, changed a whole country.",
+"ar": "بضع درجات من الميل في سفح تل، قُرئت قراءة صحيحة، غيّرت بلدًا بأكمله.",
+"ctx": "qa:STORIES.2.pages.5.p",
+"i": 2658
+},
+{
+"en": "How a gentle fold at the surface led drillers to oil 1,733 metres down",
+"ar": "كيف قادت طيّة لطيفة على السطح الحفّارين إلى النفط على عمق 1,733 مترًا",
+"ctx": "qa:STORIES.2.tag",
+"i": 2659
+},
+{
+"en": "Tables in the Desert",
+"ar": "موائد في الصحراء",
+"ctx": "qa:STORIES.3.pages.1.h",
+"i": 2660
+},
+{
+"en": "«They look like tables for giants», said Salem. He and his grandmother Maryam stood at the foot of the Zekreet peninsula, north of Dukhan, inside the Al Reem reserve. Flat-topped hills rose from the plain, each with steep sides and a hard, level cap, as if someone had cut them with a knife.",
+"ar": "قال سالم: «تبدو كموائد للعمالقة». كان يقف مع جدّته مريم عند سفح شبه جزيرة زكريت، شمال دخان، داخل محمية الريم. ترتفع من السهل تلال مسطّحة القمم، لكل منها جوانب شديدة الانحدار وغطاء صلب مستوٍ، كأن أحدًا قطعها بسكين.",
+"ctx": "qa:STORIES.3.pages.1.p",
+"i": 2661
+},
+{
+"en": "«Not giants», said his grandmother. «Wind and salt. And a very old sea». Forty-eight million years ago this was sea floor. Layer after layer settled on it: first a soft, brightly coloured marl, 10 metres thick, then a tougher, dull limestone, 2 metres thick, on top. Then the sea went away.",
+"ar": "قالت جدّته: «ليسوا عمالقة. بل الريح والملح. وبحر قديم جدًا». قبل ثمانية وأربعين مليون عام كان هذا قاع بحر. ترسبت عليه طبقة بعد طبقة: أولًا مارل طري زاهي الألوان بسمك 10 أمتار، ثم فوقه حجر جيري باهت أصلب بسمك مترين. ثم انحسر البحر.",
+"ctx": "qa:STORIES.3.pages.1.p",
+"i": 2662
+},
+{
+"en": "Why the Mushrooms Have Stems",
+"ar": "لماذا للفطر سيقان",
+"ctx": "qa:STORIES.3.pages.2.h",
+"i": 2663
+},
+{
+"en": "They walked to a rock shaped exactly like a mushroom: a wide cap on a thin, waisted stem. Salem could put his hand under the overhang. «The cap is the hard limestone», said Maryam. «The stem is the soft marl. The wind carries sand and salt, and it eats the soft rock faster than the hard rock».",
+"ar": "مشيا إلى صخرة تشبه الفطر تمامًا: قبعة عريضة فوق ساق رفيعة مخصّرة. استطاع سالم أن يضع يده تحت الحافة البارزة. قالت مريم: «القبعة هي الحجر الجيري الصلب. والساق هي المارل الطري. تحمل الريح الرمل والملح، فتأكل الصخر الطري أسرع من الصلب».",
+"ctx": "qa:STORIES.3.pages.2.p",
+"i": 2664
+},
+{
+"en": "So the cap protects what is under it, and everything around it wears away. Geologists call this differential erosion. Give it enough thousands of years and a flat sea floor becomes mesas, pillars and mushrooms. «One day», said Salem, «the stem will be too thin». «Yes», she said. «And the cap will fall, and a new one will start».",
+"ar": "وهكذا تحمي القبعة ما تحتها، ويتآكل كل ما حولها. يسمّي الجيولوجيون هذا التعرية التفاضلية. أعطها آلاف السنين الكافية فيصير قاع البحر المستوي موائد وأعمدة وفطرًا. قال سالم: «يومًا ما ستصير الساق أرفع من اللازم». قالت: «نعم. وتسقط القبعة، وتبدأ أخرى».",
+"ctx": "qa:STORIES.3.pages.2.p",
+"i": 2665
+},
+{
+"en": "Who Lives among the Tables",
+"ar": "من يسكن بين الموائد",
+"ctx": "qa:STORIES.3.pages.3.h",
+"i": 2666
+},
+{
+"en": "Something white moved between two mesas. An oryx, with long straight horns, watching them. Then a gazelle, and further off, three ostriches striding through the heat. Out in the half-moon bay, flamingos stood in the shallows with their heads upside down in the water.",
+"ar": "تحرك شيء أبيض بين مائدتين. مها، بقرنين طويلين مستقيمين، يراقبهما. ثم غزال، وأبعد منه ثلاث نعامات تخطو في الحر. وفي الخليج الهلالي وقف النحام في المياه الضحلة ورؤوسه مقلوبة في الماء.",
+"ctx": "qa:STORIES.3.pages.3.p",
+"i": 2667
+},
+{
+"en": "«This is why it is a reserve», said Maryam. «120,000 hectares, a tenth of the country. The oryx were brought back here after they had almost disappeared». Salem saw a plastic bag caught on a bush and pulled it free. Too many visitors had left litter behind. He folded it into his pocket.",
+"ar": "قالت مريم: «لهذا هي محمية. 120,000 هكتار، عُشر البلاد. أُعيد المها إلى هنا بعدما كاد يختفي». رأى سالم كيسًا بلاستيكيًا عالقًا بشجيرة فنزعه. لقد ترك زوار كثيرون نفاياتهم خلفهم. طوى الكيس ووضعه في جيبه.",
+"ctx": "qa:STORIES.3.pages.3.p",
+"i": 2668
+},
+{
+"en": "On the way home they stopped south-west of Doha at Dahl Al Misfir, a hole in the ground 12 metres by 4.5 at the top and 40 metres deep. A path led down into the cool. As Salem’s eyes adjusted, the walls began to shine faintly, a pale glow coming from thousands of fibres of crystal.",
+"ar": "في طريق العودة توقفا جنوب غرب الدوحة عند دحل المسفر، فجوة في الأرض بأبعاد 12 مترًا في 4.5 عند الفوهة وبعمق 40 مترًا. قاد ممر إلى الأسفل حيث البرودة. وحين اعتادت عينا سالم الظلام، بدأت الجدران تلمع لمعانًا خافتًا، توهجًا شاحبًا يصدر عن آلاف الألياف البلورية.",
+"ctx": "qa:STORIES.3.pages.4.p",
+"i": 2669
+},
+{
+"en": "«Gypsum», said Maryam. «The same salt that helped carve the mushrooms. Rain soaked down through the limestone and dissolved the rock underneath, so the roof fell in». The glowing fibres had grown from gypsum in the rock layers below the Zekreet limestone. Hard cap, soft marl, salt below: one old sea floor, three different shapes.",
+"ar": "قالت مريم: «جبس. الملح نفسه الذي ساعد في نحت الفطر. تسرّب المطر عبر الحجر الجيري وأذاب الصخر تحته، فانهار السقف». نمت الألياف المتوهجة من جبس في الطبقات الواقعة تحت حجر زكريت الجيري. غطاء صلب، ومارل طري، وملح في الأسفل: قاع بحر قديم واحد، وثلاثة أشكال مختلفة.",
+"ctx": "qa:STORIES.3.pages.4.p",
+"i": 2670
+},
+{
+"en": "The wind is still at work on the mushrooms. Come back in ten thousand years and the tables will have moved.",
+"ar": "ما تزال الريح تعمل في الفطر. عُد بعد عشرة آلاف عام وستجد الموائد قد انتقلت.",
+"ctx": "qa:STORIES.3.pages.5.p",
+"i": 2671
+},
+{
+"en": "Salem, his grandmother and a day among rocks shaped by wind, salt and time",
+"ar": "سالم وجدّته ويوم بين صخور شكّلتها الريح والملح والزمن",
+"ctx": "qa:STORIES.3.tag",
+"i": 2672
+},
+{
+"en": "Based on the research of Robinson, Jaidah, Jabado and colleagues (2013)",
+"ar": "مستندة إلى أبحاث روبنسون وجايدة وجبادو وزملائهم (2013)",
+"ctx": "qa:STORIES.4.credit",
+"i": 2673
+},
+{
+"en": "Ninety Kilometres Out",
+"ar": "تسعون كيلومترًا في عرض البحر",
+"ctx": "qa:STORIES.4.pages.1.h",
+"i": 2674
+},
+{
+"en": "Far from any beach, about 90 km off the coast, steel platforms stand in 60 metres of water over the Al Shaheen oil field. Workers on them began to notice enormous spotted shapes gliding just below the surface. Whale sharks: the largest fish in the world, with mouths wide enough to swallow a doorway.",
+"ar": "بعيدًا عن أي شاطئ، على نحو 90 كم من الساحل، تقف منصات فولاذية في مياه عمقها 60 مترًا فوق حقل الشاهين النفطي. بدأ العاملون عليها يلاحظون أشكالًا ضخمة مرقّطة تنساب تحت السطح مباشرة. أقراش الحوت: أكبر أسماك العالم، بأفواه تتسع لباب كامل.",
+"ctx": "qa:STORIES.4.pages.1.p",
+"i": 2675
+},
+{
+"en": "Whale sharks are gentle. They have no interest in people and eat only tiny things, straining plankton and eggs through their gills. From April to September, and most of all from May to August, they arrived here in numbers nobody had expected. Scientists came out to count them.",
+"ar": "قرش الحوت وديع. لا يهتم بالبشر ولا يأكل إلا أشياء صغيرة جدًا، إذ يصفّي العوالق والبيض عبر خياشيمه. ومن أبريل إلى سبتمبر، وبالأخص من مايو إلى أغسطس، جاءت إلى هنا بأعداد لم يتوقعها أحد. فخرج العلماء ليعدّوها.",
+"ctx": "qa:STORIES.4.pages.1.p",
+"i": 2676
+},
+{
+"en": "Counting from the Platform",
+"ar": "العدّ من المنصة",
+"ctx": "qa:STORIES.4.pages.2.h",
+"i": 2677
+},
+{
+"en": "In 2011 the counts became astonishing. On 9 July about 100 sharks were seen at once. In June the tally reached 178. Groups of 40 swam past the platforms together. In the densest patches there were up to 100 sharks in a single square kilometre, one of the largest gatherings of whale sharks known anywhere on Earth.",
+"ar": "في عام 2011 صارت الأعداد مذهلة. ففي 9 يوليو شوهد نحو 100 قرش في وقت واحد. وفي يونيو بلغ العدد 178. وسبحت مجموعات من 40 قرشًا معًا قرب المنصات. وفي أكثف البقع كان هناك حتى 100 قرش في كيلومتر مربع واحد، وهو من أكبر تجمعات قرش الحوت المعروفة على وجه الأرض.",
+"ctx": "qa:STORIES.4.pages.2.p",
+"i": 2678
+},
+{
+"en": "The team photographed and measured them. The sharks averaged 6.9 metres long, about the length of a small bus, and most were male. Each has its own pattern of spots, like a fingerprint, so the same animal could be recognised when it returned.",
+"ar": "صوّرها الفريق وقاسها. كان متوسط طول القرش 6.9 أمتار، أي بطول حافلة صغيرة، ومعظمها ذكور. ولكل قرش نمط بقع خاص به، كبصمة الإصبع، فيمكن التعرف إلى الحيوان نفسه حين يعود.",
+"ctx": "qa:STORIES.4.pages.2.p",
+"i": 2679
+},
+{
+"en": "What Were They Eating?",
+"ar": "ماذا كانت تأكل؟",
+"ctx": "qa:STORIES.4.pages.3.h",
+"i": 2680
+},
+{
+"en": "The sharks were feeding at the surface, mouths open, sucking in something too small to see from the platform. The scientists scooped up water where the sharks had been and found it was full of fish eggs. Which fish? Eggs all look alike, so they took the samples to a laboratory and read their DNA.",
+"ar": "كانت الأقراش تتغذى على السطح، بأفواه مفتوحة، تمتص شيئًا أصغر من أن يُرى من المنصة. غرف العلماء الماء حيث مرّت الأقراش فوجدوه مليئًا ببيض السمك. لكن أي سمك؟ البيض كله متشابه، فأخذوا العيّنات إلى المختبر وقرؤوا حمضها النووي.",
+"ctx": "qa:STORIES.4.pages.3.p",
+"i": 2681
+},
+{
+"en": "The answer was mackerel tuna. Shoals of tuna were spawning around the platforms, releasing clouds of eggs into the water, and the whale sharks had learned to come for the feast. The platforms were working like fish-aggregating devices, the floating rafts fishers use to draw fish together.",
+"ar": "كان الجواب: تونة الماكريل. أسراب التونة كانت تضع بيضها حول المنصات، فتطلق سحبًا من البيض في الماء، وتعلّمت أقراش الحوت أن تأتي إلى الوليمة. كانت المنصات تعمل كأجهزة تجميع الأسماك، تلك الطوافات العائمة التي يستخدمها الصيادون لجذب الأسماك معًا.",
+"ctx": "qa:STORIES.4.pages.3.p",
+"i": 2682
+}
+]

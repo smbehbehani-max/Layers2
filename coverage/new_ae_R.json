@@ -1,0 +1,74 @@
+[
+ {
+  "id": "ae-fujairah-protected-areas",
+  "n": "Protected areas of Fujairah",
+  "na": "المحميات الطبيعية في الفجيرة",
+  "c": "ecology",
+  "ic": "crab",
+  "era": "N",
+  "s": "Four Fujairah coastal reserves · Al Aqah, Dadna, Al Bidiyah and Bird Island",
+  "lat": 25.493889,
+  "lng": 56.357222,
+  "p": "Present",
+  "dr": "Listed as Fujairah reserves by January 2023",
+  "el": "Dadna reported at 0.08 km²",
+  "t0": 3,
+  "t1": 0,
+  "te": "Small reserves on a rocky coast",
+  "ta": "محميات صغيرة على ساحل صخري",
+  "se": "Along Fujairah’s east coast, small reserves at Al Aqah, Dadna, Al Bidiyah and Bird Island protect beaches and coastal waters",
+  "sa": "على الساحل الشرقي للفجيرة تحمي محميات صغيرة في العقة وضدنا والبدية وجزيرة الطيور الشواطئ والمياه الساحلية",
+  "desc": "This record groups four Fujairah reserves named by Emarat Al Youm in January 2023: Al Aqah, Dadna, Al Bidiyah and Bird Island, alongside Wadi Wurayah, which is mapped separately. Al Aqah is known for the Al Aqah Marine Reserve and activities near Snoopy Island. Protected Planet lists Dhadna as a marine and coastal protected area of 0.08 km². The Fujairah Environment Authority patrols the emirate’s protected areas; in August 2026 it seized 21 illegal fish traps near and inside them off Dibba Al Fujairah.",
+  "sig": "A chain of small coastal reserves on the UAE’s only long Gulf of Oman shoreline.",
+  "ex": "Emarat Al Youm (2023); Protected Planet",
+  "disc": [
+   "Four reserves grouped",
+   "Dadna 0.08 km²",
+   "21 illegal traps seized in 2026"
+  ],
+  "refs": [
+   "Emarat Al Youm (23 January 2023). https://www.emaratalyoum.com/local-section/other/2023-01-23-1.1710989",
+   "Protected Planet (UNEP-WCMC & IUCN). Dhadna, United Arab Emirates. https://protectedplanet.net/555622073",
+   "Wikipedia. Al Aqah (citing Al Khaleej). https://en.wikipedia.org/wiki/Al_Aqah",
+   "Gulf Today (16 August 2026). 21 illegal fishing traps detected and confiscated in Fujairah’s protected areas. https://www.gulftoday.ae/news/2026/08/16/21-illegal-fishing-traps-detected-and-confiscated-in-fujairahs-protected-areas"
+  ],
+  "conf": "Grouped record; marker is the village of Al Aqah (Wikipedia infobox 25°29′38″N 56°21′26″E), after which the Al Aqah Marine Reserve is named, ≈2 km; the other reserves lie along the same coast (Dadna about 3 km north, Al Bidiyah about 6 km south). Designation dates, legal instruments and areas other than Dadna were not found; the timeline start is the 2023 listing, not a designation date. Whether the reserves are marine, coastal or both is not confirmed; Bird Island is not located",
+  "region": "Fujairah",
+  "must_have": "AE-A5"
+ },
+ {
+  "id": "ae-sharjah-gate-trucial-states",
+  "n": "Sharjah: the Gate to Trucial States",
+  "na": "الشارقة: بوابة الإمارات المتصالحة",
+  "c": "archaeological",
+  "ic": "boat",
+  "era": "H",
+  "s": "Old port and first air station of the lower Gulf · UNESCO Tentative List 2014",
+  "lat": 25.358611,
+  "lng": 55.386389,
+  "p": "11th century AD – present",
+  "dr": "UNESCO Tentative List, 13 November 2014 (criterion v)",
+  "el": "Air station opened 1932",
+  "t0": 950,
+  "t1": 0,
+  "te": "The port that welcomed the first planes",
+  "ta": "الميناء الذي استقبل أولى الطائرات",
+  "se": "Old Sharjah grew from a creek port of pearl traders into the first air station linking the West with India",
+  "sa": "نشأت الشارقة القديمة ميناءً على خور يرتاده تجار اللؤلؤ، ثم صارت أول محطة جوية تربط الغرب بالهند",
+  "desc": "The old part of Sharjah, including its old port and old airport, was placed on the UNESCO Tentative List in 2014 as the gate to the Trucial States. The port lies in a protected sea inlet (Al Khor), and the 11th-century geographer Al Idrisi referred to a port here. Under the Qawasim, Sharjah was the most important port of the lower Arabian Gulf into the first half of the 19th century; it was devastated in 1820 but recovered, and in 1932 it became an air station linking the West with India, now the Al Mahatta Museum. The historic town keeps a fort, mosques, markets, narrow streets, courtyard houses, wind towers and remains of its old walls.",
+  "sig": "Pearling port, regional harbour and early air station in one living historic town.",
+  "ex": "UNESCO Tentative List 5941",
+  "disc": [
+   "Port named by Al Idrisi",
+   "Air station since 1932",
+   "Tentative List 2014"
+  ],
+  "refs": [
+   "UNESCO World Heritage Centre. Sharjah: the Gate to Trucial States (Tentative List ref. 5941). https://whc.unesco.org/en/tentativelists/5941",
+   "Wikipedia. Sharjah Fort (Al Hisn Sharjah). https://en.wikipedia.org/wiki/Sharjah_Fort"
+  ],
+  "conf": "Coordinates are Sharjah Fort (Al Hisn), the fortress named in the UNESCO description, from the Wikipedia infobox (25°21′31″N 55°23′11″E); the nominated area covers the old town, port and Al Mahatta, ≈2 km. Timeline start converted from the 11th-century reference (about AD 1050)",
+  "region": "Sharjah",
+  "must_have": "AE-A19"
+ }
+]

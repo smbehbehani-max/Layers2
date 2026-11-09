@@ -1,0 +1,28 @@
+{
+ "quota": {
+  "Al Shamal": {
+   "geological": 1
+  },
+  "Umm Salal": {
+   "geological": 1,
+   "archaeological": 2
+  },
+  "Al Khor": {
+   "geological": 2,
+   "archaeological": 2
+  },
+  "Al Daayen": {
+   "geological": 1,
+   "archaeological": 2,
+   "ecology": 1
+  },
+  "Doha": {
+   "geological": 1,
+   "archaeological": 1
+  },
+  "Al Wakrah": {
+   "archaeological": 1
+  }
+ },
+ "focus": "Qatar dome geology (Dammam and Rus formations outcrops, mesas/jeryans, dahl sinkholes, sabkhas, coastal features), and documented archaeological sites in the less covered municipalities."
+}

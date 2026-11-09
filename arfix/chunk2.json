@@ -1,0 +1,1364 @@
+[
+{
+"en": "Map submarine groundwater discharge off Muharraq with radon-222 tracers and salinity profiles, then compare it with the positions and productivity of the hayrat and with the historical spring sites.",
+"ar": "رسم خريطة التدفق الجوفي البحري قبالة المحرق بمتتبعات الرادون-222 وقياسات الملوحة، ثم مقارنتها بمواقع الهيرات وإنتاجيتها وبمواقع العيون التاريخية.",
+"ctx": "bh:D.sites.39.spec.test",
+"i": 561
+},
+{
+"en": "If the richest oyster banks show no groundwater signal, or if oysters do worse where fresh water rises, the idea fails.",
+"ar": "إذا لم تُظهر أغنى المغاصات أي إشارة لمياه جوفية، أو إذا كان المحار أسوأ حالًا حيث يصعد الماء العذب، تسقط الفكرة.",
+"ctx": "bh:D.sites.39.spec.wrong",
+"i": 562
+},
+{
+"en": "Did Fresh Water Feed the Pearl Beds?",
+"ar": "هل غذّى الماء العذب مغاصات اللؤلؤ؟",
+"ctx": "bh:D.sites.39.ta",
+"i": 563
+},
+{
+"en": "A'ali Royal Mounds",
+"ar": "تلال عالي الملكية",
+"ctx": "bh:D.sites.4.na",
+"i": 564
+},
+{
+"en": "Seventeen giant mounds in one village, the tombs of Dilmun’s first kings",
+"ar": "سبعة عشر تلًا عملاقًا في قرية واحدة، مدافن أوائل ملوك دلمون",
+"ctx": "bh:D.sites.4.sa",
+"i": 565
+},
+{
+"en": "Where the kings of Dilmun lie",
+"ar": "حيث يرقد ملوك دلمون",
+"ctx": "bh:D.sites.4.ta",
+"i": 566
+},
+{
+"en": "The Rus Formation and the Tree of Life",
+"ar": "تكوين الرس وشجرة الحياة",
+"ctx": "bh:D.sites.40.na",
+"i": 567
+},
+{
+"en": "A 400-year-old tree lives in bare desert 6 km from the rocks that hold the island's deepest aquifer. Is it drinking from the Rus Formation? Nobody has tested this yet.",
+"ar": "شجرة عمرها 400 عام تعيش في صحراء جرداء على بعد 6 كيلومترات من الصخور التي تحوي أعمق خزان في الجزيرة. هل تشرب من تكوين الرس؟ لم يختبر أحد ذلك بعد.",
+"ctx": "bh:D.sites.40.sa",
+"i": 568
+},
+{
+"en": "A mesquite alive since 1582 with no visible spring",
+"ar": "شجرة مسكيت حية منذ 1582 بلا عين ظاهرة",
+"ctx": "bh:D.sites.40.spec.lk.0[2]",
+"i": 569
+},
+{
+"en": "The Rus Formation exposed in the core of the anticline, 6 km away",
+"ar": "تكوين الرس مكشوف في قلب الطيّة، على بعد 6 كيلومترات",
+"ctx": "bh:D.sites.40.spec.lk.1[2]",
+"i": 570
+},
+{
+"en": "The only place on the island with local recharge",
+"ar": "المكان الوحيد في الجزيرة الذي يتغذى فيه الخزان محليًا",
+"ctx": "bh:D.sites.40.spec.lk.2[2]",
+"i": 571
+},
+{
+"en": "The unit that holds the island's lowest aquifer",
+"ar": "الوحدة التي تحوي أدنى خزان في الجزيرة",
+"ctx": "bh:D.sites.40.spec.lk.3[2]",
+"i": 572
+},
+{
+"en": "The tree's xylem water will match the isotopic signature of the Rus or lower Dammam aquifer rather than rain or sand moisture, and geophysics will show a freshwater zone within 50 m of the surface under the hill.",
+"ar": "سيطابق ماء نسيج الخشب في الشجرة البصمة النظائرية لخزان الرس أو الدمام السفلي لا بصمة المطر أو رطوبة الرمل، وسيُظهر المسح الجيوفيزيائي منطقة ماء عذب في حدود 50 مترًا تحت التلّ.",
+"ctx": "bh:D.sites.40.spec.pred",
+"i": 573
+},
+{
+"en": "Born from a coincidence of places on this map. The Tree of Life record says the tree stands 6 km from Jebel Dukhan with no visible spring and roots that may reach 50 m. The Jebel Dukhan and Interior Basin records say the Rus Formation, which holds the island's lowest aquifer, is exposed there, and that the basin is the only place with local recharge. One tree, one aquifer, six kilometres.",
+"ar": "وُلدت الفكرة من تطابق أماكن على هذه الخريطة. سجل شجرة الحياة يقول إنها تقف على بعد 6 كيلومترات من جبل الدخان بلا عين ظاهرة وبجذور قد تبلغ 50 مترًا. وسجلا جبل الدخان والحوض الداخلي يقولان إن تكوين الرس، الذي يحوي أدنى خزان في الجزيرة، مكشوف هناك، وإن الحوض هو المكان الوحيد الذي يتغذى فيه الخزان محليًا. شجرة واحدة، وخزان واحد، وستة كيلومترات.",
+"ctx": "bh:D.sites.40.spec.spot",
+"i": 574
+},
+{
+"en": "Compare stable isotopes of the tree's xylem water with the aquifers, rain and sand moisture; image the ground under the hill with electrical resistivity; drill a piezometer and log the water table for a year.",
+"ar": "مقارنة النظائر المستقرة لماء نسيج الخشب في الشجرة بالخزانات والمطر ورطوبة الرمل، وتصوير ما تحت التلّ بالمقاومة الكهربائية، وحفر بئر رصد وتسجيل منسوب الماء عامًا كاملًا.",
+"ctx": "bh:D.sites.40.spec.test",
+"i": 575
+},
+{
+"en": "If the xylem water matches recent rain or shallow sand moisture, or if no freshwater zone exists within reach of the roots, the idea fails.",
+"ar": "إذا طابق ماء نسيج الخشب المطرَ الحديث أو رطوبة الرمل السطحية، أو لم توجد منطقة ماء عذب في متناول الجذور، تسقط الفكرة.",
+"ctx": "bh:D.sites.40.spec.wrong",
+"i": 576
+},
+{
+"en": "What Does the Tree of Life Drink?",
+"ar": "ماذا تشرب شجرة الحياة؟",
+"ctx": "bh:D.sites.40.ta",
+"i": 577
+},
+{
+"en": "The Islet of the Dugong Hunters",
+"ar": "جزيرة صيادي الأطوم",
+"ctx": "bh:D.sites.41.na",
+"i": 578
+},
+{
+"en": "A Stone Age camp south of Zallaq switched from small fish to dugongs, on the edge of the shallows where the world's second-largest dugong population lives today. Did the camp see the seagrass arrive? Nobody has tested this yet.",
+"ar": "انتقل مخيم من العصر الحجري جنوب الزلاق من الأسماك الصغيرة إلى الأطوم، على حافة المياه الضحلة التي يعيش فيها اليوم ثاني أكبر تجمع للأطوم في العالم. هل شهد المخيم وصول الأعشاب البحرية؟ لم يختبر أحد ذلك بعد.",
+"ctx": "bh:D.sites.41.sa",
+"i": 579
+},
+{
+"en": "A Stone Age camp where dugong bones appear in the later phase",
+"ar": "مخيم من العصر الحجري تظهر فيه عظام الأطوم في المرحلة المتأخرة",
+"ctx": "bh:D.sites.41.spec.lk.0[2]",
+"i": 580
+},
+{
+"en": "The Gulf refilled by the sea about 6,000 years ago",
+"ar": "الخليج يمتلئ بالبحر من جديد قبل نحو 6,000 عام",
+"ctx": "bh:D.sites.41.spec.lk.1[2]",
+"i": 581
+},
+{
+"en": "Seagrass shallows and the world's second-largest dugong population",
+"ar": "مياه ضحلة بالأعشاب البحرية وثاني أكبر تجمع للأطوم في العالم",
+"ctx": "bh:D.sites.41.spec.lk.2[2]",
+"i": 582
+},
+{
+"en": "Cores around Al Markh will show a shoreline that made the mound an islet, and seagrass-dwelling shells and foraminifera will appear in the nearby shallows at about the same time as dugong bones become common in the site's later phase.",
+"ar": "ستُظهر العيّنات اللبّية حول المرخ خط شاطئ جعل التلّ جزيرة صغيرة، وستظهر الأصداف والمنخربات التي تعيش في الأعشاب البحرية في المياه الضحلة القريبة في الوقت نفسه تقريبًا الذي تكثر فيه عظام الأطوم في المرحلة المتأخرة من الموقع.",
+"ctx": "bh:D.sites.41.spec.pred",
+"i": 583
+},
+{
+"en": "Born from a coincidence of records on this map. The Al Markh record says dugong bones become common only in the site's later phase, and that the mound may once have been an islet in a higher sea. The causeway record dates the refilling of the Gulf to about 6,000 years ago, and the Gulf of Salwa record shows the seagrass and dugongs that fill the nearby shallows today. Three records, one coast, and a change of menu.",
+"ar": "وُلدت الفكرة من تطابق سجلات على هذه الخريطة. سجل المرخ يقول إن عظام الأطوم لا تكثر إلا في المرحلة المتأخرة من الموقع، وإن التلّ ربما كان يومًا جزيرة صغيرة في بحر أعلى. وسجل الجسر يؤرخ امتلاء الخليج من جديد بنحو 6,000 عام مضت، وسجل خليج سلوى يُظهر الأعشاب البحرية والأطوم التي تملأ المياه الضحلة القريبة اليوم. ثلاثة سجلات، وساحل واحد، وتغيّر في الطعام.",
+"ctx": "bh:D.sites.41.spec.spot",
+"i": 584
+},
+{
+"en": "Date the old shoreline around Al Markh; identify the fish and shellfish of both phases; core the shallows between the site and the Gulf of Salwa and date the first seagrass fauna; date the dugong bones directly.",
+"ar": "تأريخ خط الشاطئ القديم حول المرخ، وتحديد أنواع الأسماك والمحار في المرحلتين، وأخذ عيّنات لبّية من المياه الضحلة بين الموقع وخليج سلوى وتأريخ أول كائنات الأعشاب البحرية، وتأريخ عظام الأطوم مباشرة.",
+"ctx": "bh:D.sites.41.spec.test",
+"i": 585
+},
+{
+"en": "If seagrass fauna in the nearby shallows turns out to be much older than the site's earlier phase, or if the fish of both phases are the same seagrass species, the idea fails.",
+"ar": "إذا تبين أن كائنات الأعشاب البحرية في المياه الضحلة القريبة أقدم بكثير من المرحلة المبكرة للموقع، أو أن أسماك المرحلتين هي أنواع الأعشاب البحرية نفسها، تسقط الفكرة.",
+"ctx": "bh:D.sites.41.spec.wrong",
+"i": 586
+},
+{
+"en": "Did a Rising Sea Bring the Dugongs to Al Markh?",
+"ar": "هل جاء البحر الصاعد بالأطوم إلى المرخ؟",
+"ctx": "bh:D.sites.41.ta",
+"i": 587
+},
+{
+"en": "The Hypocolius and the Lost Springs",
+"ar": "البُلبُل الرمادي والعيون المفقودة",
+"ctx": "bh:D.sites.42.na",
+"i": 588
+},
+{
+"en": "A rare bird roosts in the last palm scrub of the north, where the springs that watered the date groves have mostly stopped. Is the hypocolius following the water table? Nobody has tested this yet.",
+"ar": "يبيت طائر نادر في آخر بقايا النخيل في الشمال، حيث توقفت أغلب العيون التي كانت تسقي بساتين النخيل. هل يتبع البُلبُل الرمادي منسوب الماء الجوفي؟ لم يختبر أحد ذلك بعد.",
+"ctx": "bh:D.sites.42.sa",
+"i": 589
+},
+{
+"en": "The main roost of the grey hypocolius, in old palm scrub",
+"ar": "المرقد الرئيسي للبُلبُل الرمادي، في بقايا نخيل قديمة",
+"ctx": "bh:D.sites.42.spec.lk.0[2]",
+"i": 590
+},
+{
+"en": "The springs that fed the date groves, now mostly dry",
+"ar": "العيون التي كانت تسقي بساتين النخيل، وقد جفّ أغلبها",
+"ctx": "bh:D.sites.42.spec.lk.1[2]",
+"i": 591
+},
+{
+"en": "Date-palm habitat lost since 1975",
+"ar": "موائل نخيل فُقدت منذ 1975",
+"ctx": "bh:D.sites.42.spec.lk.2[2]",
+"i": 592
+},
+{
+"en": "The hypocolius will feed by day mainly in palm gardens that still have water, and the gardens the birds no longer use will be those whose springs or wells have failed.",
+"ar": "سيقتات البُلبُل الرمادي نهارًا في الغالب في بساتين نخيل ما زال فيها ماء، والبساتين التي هجرتها الطيور ستكون تلك التي جفت عيونها أو آبارها.",
+"ctx": "bh:D.sites.42.spec.pred",
+"i": 593
+},
+{
+"en": "Born from a coincidence of records on this map. The Maqabah record says the hypocolius roosts in old palm scrub, feeds in palm gardens and is a reminder of the vanished northern palm belt. The Dammam aquifer record says the springs that fed the date groves have mostly stopped, and the Tubli Bay record lists date-palm habitat among what has been lost since 1975. A bird, a palm belt and an aquifer, all shrinking together.",
+"ar": "وُلدت الفكرة من تطابق سجلات على هذه الخريطة. سجل مقابة يقول إن البُلبُل الرمادي يبيت في بقايا نخيل قديمة، ويقتات في بساتين النخيل، وإن الموقع تذكير بحزام النخيل الشمالي الذي اختفى. وسجل خزان الدمام يقول إن العيون التي كانت تسقي البساتين توقفت في أغلبها، وسجل خليج توبلي يعدّ موائل النخيل بين ما فُقد منذ 1975. طائر، وحزام نخيل، وخزان جوفي، كلها تتقلص معًا.",
+"ctx": "bh:D.sites.42.spec.spot",
+"i": 594
+},
+{
+"en": "Map the birds' daytime feeding sites for a winter and compare them with the water source of each garden, with historical spring and grove maps, and with modern groundwater levels.",
+"ar": "رسم خريطة لمواقع اقتيات الطيور نهارًا طوال شتاء كامل، ومقارنتها بمصدر الماء في كل بستان، وبخرائط العيون والبساتين التاريخية، وبمناسيب الماء الجوفي الحالية.",
+"ctx": "bh:D.sites.42.spec.test",
+"i": 595
+},
+{
+"en": "If the hypocolius feeds as readily in dry or abandoned palms as in watered gardens, or if its feeding sites show no relation to water at all, the idea fails.",
+"ar": "إذا كان البُلبُل الرمادي يقتات في النخيل الجاف أو المهجور كما يقتات في البساتين المسقية، أو إذا لم تُظهر مواقع اقتياته أي صلة بالماء، تسقط الفكرة.",
+"ctx": "bh:D.sites.42.spec.wrong",
+"i": 596
+},
+{
+"en": "Is a Bird Following the Water Table?",
+"ar": "هل يتبع طائرٌ منسوبَ الماء الجوفي؟",
+"ctx": "bh:D.sites.42.ta",
+"i": 597
+},
+{
+"en": "The Solstice Temples of Dilmun",
+"ar": "معابد الانقلاب الشمسي في دلمون",
+"ctx": "bh:D.sites.43.na",
+"i": 598
+},
+{
+"en": "The temple at Saar is believed to mark the summer solstice. Did the temples of Diraz and Barbar, a few kilometres away, face the same sun? Nobody has tested this yet.",
+"ar": "يُعتقد أن معبد سار كان يحدد الانقلاب الصيفي. فهل واجه معبدا الدراز وباربار، على بعد كيلومترات قليلة، الشمسَ نفسها؟ لم يختبر أحد ذلك بعد.",
+"ctx": "bh:D.sites.43.sa",
+"i": 599
+},
+{
+"en": "A temple believed to have marked the summer solstice",
+"ar": "معبد يُعتقد أنه كان يحدد الانقلاب الصيفي",
+"ctx": "bh:D.sites.43.spec.lk.0[2]",
+"i": 600
+},
+{
+"en": "A columned temple with its cella to the east",
+"ar": "معبد بأعمدة تقع حجرته الصغيرة في الشرق",
+"ctx": "bh:D.sites.43.spec.lk.1[2]",
+"i": 601
+},
+{
+"en": "Three temples over a spring, a few kilometres away",
+"ar": "ثلاثة معابد فوق عين، على بعد كيلومترات قليلة",
+"ctx": "bh:D.sites.43.spec.lk.2[2]",
+"i": 602
+},
+{
+"en": "The main axes of the Saar, Diraz and Barbar temples will cluster around the direction of sunrise or sunset at a solstice for about 2000 BC, more closely than chance would allow, whatever their plans.",
+"ar": "ستتجمع المحاور الرئيسية لمعابد سار والدراز وباربار حول اتجاه شروق الشمس أو غروبها في أحد الانقلابين لنحو 2000 ق.م، أقرب مما تسمح به الصدفة، مهما اختلفت تصاميمها.",
+"ctx": "bh:D.sites.43.spec.pred",
+"i": 603
+},
+{
+"en": "Born from a coincidence of records on this map. The Saar record says its temple is believed to have marked the summer solstice. The Diraz record describes a temple of the same age with its cella to the east, and stresses that its design differs from Barbar. Three temples within a few kilometres, one with a known link to the sky, and nothing on this map to say whether the other two share it.",
+"ar": "وُلدت الفكرة من تطابق سجلات على هذه الخريطة. سجل سار يقول إن معبدها يُعتقد أنه كان يحدد الانقلاب الصيفي. وسجل الدراز يصف معبدًا من العصر نفسه تقع حجرته الصغيرة في الشرق، ويؤكد أن تصميمه يختلف عن باربار. ثلاثة معابد في بضعة كيلومترات، لأحدها صلة معروفة بالسماء، ولا شيء على هذه الخريطة يقول إن كان الآخران يشاركانه إياها.",
+"ctx": "bh:D.sites.43.spec.spot",
+"i": 604
+},
+{
+"en": "Measure the axes of all three temples and each of their phases, compute solstice and equinox azimuths for about 2000 BC, and compare them with the street grid and the springs.",
+"ar": "قياس محاور المعابد الثلاثة وكل مراحلها، وحساب اتجاهات الانقلابين والاعتدالين لنحو 2000 ق.م، ومقارنتها بشبكة الشوارع وبالعيون.",
+"ctx": "bh:D.sites.43.spec.test",
+"i": 605
+},
+{
+"en": "If the axes point in unrelated directions, or match the street grid or the springs better than the sun, the idea fails.",
+"ar": "إذا أشارت المحاور إلى اتجاهات لا علاقة بينها، أو طابقت شبكة الشوارع أو العيون أكثر من الشمس، تسقط الفكرة.",
+"ctx": "bh:D.sites.43.spec.wrong",
+"i": 606
+},
+{
+"en": "Did Dilmun Build Its Temples to the Sun?",
+"ar": "هل بنت دلمون معابدها نحو الشمس؟",
+"ctx": "bh:D.sites.43.ta",
+"i": 607
+},
+{
+"en": "Hamad Town and Janabiyah Mound Fields",
+"ar": "حقول تلال مدينة حمد والجنبية",
+"ctx": "bh:D.sites.5.na",
+"i": 608
+},
+{
+"en": "Tens of thousands of small mounds once covered the north of the island",
+"ar": "عشرات الآلاف من التلال الصغيرة غطّت يومًا شمال الجزيرة",
+"ctx": "bh:D.sites.5.sa",
+"i": 609
+},
+{
+"en": "A landscape of the dead",
+"ar": "مشهد للموتى",
+"ctx": "bh:D.sites.5.ta",
+"i": 610
+},
+{
+"en": "Shakhura Necropolis",
+"ar": "مدافن الشاخورة",
+"ctx": "bh:D.sites.6.na",
+"i": 611
+},
+{
+"en": "Ninety graves in one mound, and the ashes of funeral banquets",
+"ar": "تسعون قبرًا في تل واحد، ورماد ولائم الجنازة",
+"ctx": "bh:D.sites.6.sa",
+"i": 612
+},
+{
+"en": "Feasts for the dead",
+"ar": "ولائم للموتى",
+"ctx": "bh:D.sites.6.ta",
+"i": 613
+},
+{
+"en": "Al-Khamis Mosque",
+"ar": "مسجد الخميس",
+"ctx": "bh:D.sites.7.na",
+"i": 614
+},
+{
+"en": "The oldest standing mosque in Bahrain, rebuilt twice",
+"ar": "أقدم مسجد قائم في البحرين، أُعيد بناؤه مرتين",
+"ctx": "bh:D.sites.7.sa",
+"i": 615
+},
+{
+"en": "Two minarets, two centuries apart",
+"ar": "مئذنتان بينهما قرنان",
+"ctx": "bh:D.sites.7.ta",
+"i": 616
+},
+{
+"en": "Bilad al-Qadim",
+"ar": "بلاد القديم",
+"ctx": "bh:D.sites.8.na",
+"i": 617
+},
+{
+"en": "The main town of the island when Manama did not yet exist",
+"ar": "البلدة الرئيسية في الجزيرة قبل أن توجد المنامة",
+"ctx": "bh:D.sites.8.sa",
+"i": 618
+},
+{
+"en": "The old town",
+"ar": "البلد القديم",
+"ctx": "bh:D.sites.8.ta",
+"i": 619
+},
+{
+"en": "Arad Fort",
+"ar": "قلعة عراد",
+"ctx": "bh:D.sites.9.na",
+"i": 620
+},
+{
+"en": "A square fort that once stood on an islet, now joined to Muharraq",
+"ar": "قلعة مربعة كانت على جزيرة صغيرة، التحمت اليوم بالمحرق",
+"ctx": "bh:D.sites.9.sa",
+"i": 621
+},
+{
+"en": "The fort on its own island",
+"ar": "القلعة على جزيرتها",
+"ctx": "bh:D.sites.9.ta",
+"i": 622
+},
+{
+"en": "<b>Example source:</b> Marine Biology, 2024: AlMealla, Edullantes & Hepburn report how the 2017 bleaching cut coral cover on Fasht Al Adhm to 1.4%.",
+"ar": "<b>مثال على مصدر:</b> Marine Biology، 2024: المعلا وزملاؤها يرصدون كيف خفّض ابيضاض 2017 غطاء المرجان في فشت العظم إلى 1.4%.",
+"ctx": "bh:HW.steps",
+"i": 623
+},
+{
+"en": "<b>Searches like:</b> “Qal’at al-Bahrain excavation”, “A’ali royal mounds”, “Hawar Islands cormorant census”, “Bahrain Dammam aquifer”.",
+"ar": "<b>عمليات بحث مثل:</b> «تنقيبات قلعة البحرين»، «تلال عالي الملكية»، «إحصاء غراب البحر في حوار»، «خزان الدمام في البحرين».",
+"ctx": "bh:HW.steps",
+"i": 624
+},
+{
+"en": "<b>Extracted:</b> Place → Fasht Al Adhm · Published → 2024 · Finding → hard-coral cover 13.6% → 1.4% · Team → University of Essex and Bahrain.",
+"ar": "<b>المستخرج:</b> الموقع ← فشت العظم · النشر ← 2024 · النتيجة ← غطاء المرجان من 13.6% إلى 1.4% · الفريق ← جامعة إسكس والبحرين.",
+"ctx": "bh:HW.steps",
+"i": 625
+},
+{
+"en": "<b>Title:</b> One hot summer took most of Fasht Al Adhm’s coral<br><b>العنوان:</b> صيف حار واحد أخذ معظم شعاب فشت العظم",
+"ar": "<b>Title:</b> One hot summer took most of Fasht Al Adhm’s coral<br><b>العنوان:</b> صيف حار واحد أخذ معظم شعاب فشت العظم",
+"ctx": "bh:HW.steps",
+"i": 626
+},
+{
+"en": "<b>Shown on:</b> Fasht Al Adhm card → New research → link to the original source.",
+"ar": "<b>يظهر في:</b> بطاقة فشت العظم ← بحث جديد ← رابط المصدر الأصلي.",
+"ctx": "bh:HW.steps",
+"i": 627
+},
+{
+"en": "<b>Example:</b> Shark’s-tooth shale → “Teeth from a vanished sea” · Eocene Dammam Formation · about 50 million years ago.",
+"ar": "<b>مثال:</b> طفل أسنان القرش ← «أسنان من بحر زال» · تكوين الدمام الإيوسيني · قبل نحو 50 مليون سنة.",
+"ctx": "bh:HW.steps",
+"i": 628
+},
+{
+"en": "How Layers of Bahrain works",
+"ar": "كيف يعمل تطبيق طبقات البحرين",
+"ctx": "bh:HW.title",
+"i": 629
+},
+{
+"en": "Layers of Bahrain maps the geology, archaeology and ecology of Bahrain: places with their sources, a timeline from the Eocene sea to today, and live directions, in Arabic and English. Illustrated stories are on their way.",
+"ar": "يرسم تطبيق طبقات البحرين جيولوجيا البحرين وآثارها وبيئتها: مواقع بمصادرها، وخط زمني من بحر الإيوسين حتى اليوم، وإرشادات حيّة، بالعربية والإنجليزية. والقصص المصوّرة في الطريق.",
+"ctx": "bh:INS.aP1",
+"i": 630
+},
+{
+"en": "About Layers of Bahrain",
+"ar": "حول طبقات البحرين",
+"ctx": "bh:INS.aT",
+"i": 631
+},
+{
+"en": "Made in Bahrain",
+"ar": "صُنع في البحرين",
+"ctx": "bh:INS.made",
+"i": 632
+},
+{
+"en": "Install Layers of Bahrain",
+"ar": "ثبّت طبقات البحرين",
+"ctx": "bh:INS.t",
+"i": 633
+},
+{
+"en": "Hawar Islands Protected Area (Ramsar)",
+"ar": "محمية جزر حوار (رامسار)",
+"ctx": "bh:PZ.0",
+"i": 634
+},
+{
+"en": "Tubli Bay (Ramsar)",
+"ar": "خليج توبلي (رامسار)",
+"ctx": "bh:PZ.1",
+"i": 635
+},
+{
+"en": "Ras Sanad Mangrove Reserve",
+"ar": "محمية قرم رأس سند",
+"ctx": "bh:PZ.3",
+"i": 636
+},
+{
+"en": "Qal'at al-Bahrain (World Heritage, 2005)",
+"ar": "قلعة البحرين (تراث عالمي، 2005)",
+"ctx": "bh:PZ.4",
+"i": 637
+},
+{
+"en": "Inscribed on the UNESCO World Heritage List in 2005. Site museum and open-air site; opening times change.",
+"ar": "مدرجة على قائمة التراث العالمي لليونسكو عام 2005. متحف ومواقع مكشوفة؛ مواعيد الزيارة تتغير.",
+"ctx": "bh:PZ.4.note",
+"i": 638
+},
+{
+"en": "Pearling Path (World Heritage, 2012)",
+"ar": "طريق اللؤلؤ (تراث عالمي، 2012)",
+"ctx": "bh:PZ.5",
+"i": 639
+},
+{
+"en": "Inscribed in 2012. A 3.5 km walking path through Muharraq with a visitor centre; the three oyster beds lie offshore.",
+"ar": "مدرج عام 2012. مسار مشي بطول 3.5 كم في المحرق مع مركز للزوار؛ مغاصات اللؤلؤ الثلاث في البحر.",
+"ctx": "bh:PZ.5.note",
+"i": 640
+},
+{
+"en": "Dilmun Burial Mounds (World Heritage, 2019)",
+"ar": "تلال مدافن دلمون (تراث عالمي، 2019)",
+"ctx": "bh:PZ.6",
+"i": 641
+},
+{
+"en": "21 components inscribed in 2019, around A'ali and Hamad Town. Some fields are fenced; visitor centre at A'ali.",
+"ar": "21 مكوّنًا أُدرجت عام 2019 حول عالي ومدينة حمد. بعض الحقول مسيّجة؛ مركز للزوار في عالي.",
+"ctx": "bh:PZ.6.note",
+"i": 642
+},
+{
+"en": "Source: Supreme Council for Environment (Bahrain); Ramsar; UNESCO",
+"ar": "المصدر: المجلس الأعلى للبيئة (البحرين)؛ رامسار؛ اليونسكو",
+"ctx": "bh:PZT.src",
+"i": 643
+},
+{
+"en": "The capital on the shore",
+"ar": "العاصمة على الشاطئ",
+"ctx": "bh:ROUTE.0[2]",
+"i": 644
+},
+{
+"en": "Start where seven cities lie one above the other, from Dilmun to the Portuguese.",
+"ar": "ابدأ حيث ترقد سبع مدن فوق بعضها، من دلمون إلى البرتغاليين.",
+"ctx": "bh:ROUTE.0[4]",
+"i": 645
+},
+{
+"en": "Follow the coast west to three temples built over a sacred spring.",
+"ar": "اتبع الساحل غربًا إلى ثلاثة معابد بُنيت فوق عين مقدسة.",
+"ctx": "bh:ROUTE.1[4]",
+"i": 646
+},
+{
+"en": "Inland, a small Dilmun town where almost every house had a stamp seal.",
+"ar": "في الداخل، بلدة دلمونية صغيرة كان في كل بيت منها ختم تقريبًا.",
+"ctx": "bh:ROUTE.2[4]",
+"i": 647
+},
+{
+"en": "Where the kings lie",
+"ar": "حيث يرقد الملوك",
+"ctx": "bh:ROUTE.3[2]",
+"i": 648
+},
+{
+"en": "South to the giant mounds of A'ali, tombs of the first kings of Dilmun.",
+"ar": "جنوبًا إلى تلال عالي العملاقة، مدافن أوائل ملوك دلمون.",
+"ctx": "bh:ROUTE.3[4]",
+"i": 649
+},
+{
+"en": "Two minarets",
+"ar": "مئذنتان",
+"ctx": "bh:ROUTE.4[2]",
+"i": 650
+},
+{
+"en": "Jump to the Islamic centuries, when the old town stood here with its mosque.",
+"ar": "انتقل إلى القرون الإسلامية، حين قامت هنا البلدة القديمة بمسجدها.",
+"ctx": "bh:ROUTE.4[4]",
+"i": 651
+},
+{
+"en": "The road to the oyster beds",
+"ar": "الطريق إلى المغاصات",
+"ctx": "bh:ROUTE.5[2]",
+"i": 652
+},
+{
+"en": "Cross to Muharraq, where the pearling fleet set out until the 1930s.",
+"ar": "اعبر إلى المحرق، حيث انطلق أسطول اللؤلؤ حتى ثلاثينيات القرن الماضي.",
+"ctx": "bh:ROUTE.5[4]",
+"i": 653
+},
+{
+"en": "Now dive 50 million years down, to the dome of limestone at the island's heart.",
+"ar": "والآن اغُص 50 مليون عام إلى الأسفل، إلى قبة الحجر الجيري في قلب الجزيرة.",
+"ctx": "bh:ROUTE.6[4]",
+"i": 654
+},
+{
+"en": "End in the south, among cormorants, dugongs and gazelles.",
+"ar": "واختم في الجنوب، بين طيور الغاق والأطوم والغزلان.",
+"ctx": "bh:ROUTE.7[4]",
+"i": 655
+},
+{
+"en": "My story for Layers of Bahrain",
+"ar": "قصتي لطبقات البحرين",
+"ctx": "bh:SB.mailSub",
+"i": 656
+},
+{
+"en": "Back to Bahrain",
+"ar": "العودة إلى البحرين",
+"ctx": "bh:SOONT.back",
+"i": 657
+},
+{
+"en": "Based on the Danish expedition of Geoffrey Bibby (1954–1972) and the French and Danish–Bahraini teams that followed",
+"ar": "مستندة إلى البعثة الدنماركية بقيادة جيفري بيبي (1954–1972) والفرق الفرنسية والدنماركية–البحرينية التي تلتها",
+"ctx": "bh:STORIES.0.credit",
+"i": 658
+},
+{
+"en": "A Hill on the Shore",
+"ar": "تلّ على الشاطئ",
+"ctx": "bh:STORIES.0.pages.1.h",
+"i": 659
+},
+{
+"en": "Six kilometres from Manama, a hill rises 12 metres above the north coast. On top sits a Portuguese fort, and for centuries people thought the hill was just a hill. In 1954 a Danish expedition led by Geoffrey Bibby began to dig into it, and found that the hill was made of cities.",
+"ar": "على بعد ستة كيلومترات من المنامة يرتفع تلّ اثني عشر مترًا فوق الساحل الشمالي. تعلوه قلعة برتغالية، وظن الناس قرونًا أنه مجرد تلّ. وفي عام 1954 بدأت بعثة دنماركية بقيادة جيفري بيبي الحفر فيه، فوجدت أن التلّ مصنوع من مدن.",
+"ctx": "bh:STORIES.0.pages.1.p",
+"i": 660
+},
+{
+"en": "Layer under layer, seven of them, from about 2300 BC to the 16th century AD. The site covers 17.5 hectares, and even today only about a quarter of it has been excavated. It is the longest continuous archaeological sequence anywhere in the Arabian Gulf.",
+"ar": "طبقة تحت طبقة، سبع طبقات، من نحو 2300 ق.م حتى القرن السادس عشر الميلادي. تبلغ مساحة الموقع 17.5 هكتارًا، ولم يُنقَّب حتى اليوم إلا نحو ربعه. إنه أطول تسلسل أثري متصل في الخليج العربي كله.",
+"ctx": "bh:STORIES.0.pages.1.p",
+"i": 661
+},
+{
+"en": "The Warehouses of Dilmun",
+"ar": "مخازن دلمون",
+"ctx": "bh:STORIES.0.pages.2.h",
+"i": 662
+},
+{
+"en": "The deepest layers belong to Dilmun, the land that traded between Mesopotamia and the Indus. Here stood a palace with warehouses, built in the late third millennium BC. Around it ran streets 12 metres wide, with houses on either side, and a city wall with gates facing the sea.",
+"ar": "أعمق الطبقات تعود إلى دلمون، البلاد التي تاجرت بين بلاد الرافدين ووادي السند. هنا قام قصر بمخازنه، بُني في أواخر الألف الثالث قبل الميلاد. وحوله امتدت شوارع عرضها اثنا عشر مترًا، على جانبيها البيوت، وسور للمدينة ببوابات تطل على البحر.",
+"ctx": "bh:STORIES.0.pages.2.p",
+"i": 663
+},
+{
+"en": "This is why archaeologists call the site the capital of Dilmun. It is the only Dilmun city that has been excavated at scale, so almost everything we know about how Dilmun people built their streets and stored their goods comes from this one hill.",
+"ar": "لهذا يسمي علماء الآثار الموقع عاصمة دلمون. فهو المدينة الدلمونية الوحيدة التي نُقّب فيها على نطاق واسع، وكل ما نعرفه تقريبًا عن شوارع الدلمونيين ومخازنهم جاء من هذا التلّ الواحد.",
+"ctx": "bh:STORIES.0.pages.2.p",
+"i": 664
+},
+{
+"en": "A King's Tablets",
+"ar": "ألواح ملك",
+"ctx": "bh:STORIES.0.pages.3.h",
+"i": 665
+},
+{
+"en": "Above the Dilmun palace lies a second palace, built when Kassite kings from Babylon ruled the island. In its rooms the diggers found about fifty clay tablets written in cuneiform, the wedge-shaped script of Mesopotamia. Three of them name the reign of the Kassite king Agum.",
+"ar": "فوق قصر دلمون يقع قصر ثانٍ، بُني حين حكم الجزيرةَ ملوكٌ كاشيون من بابل. وفي غرفه وجد المنقبون نحو خمسين لوحًا طينيًا مكتوبًا بالخط المسماري، كتابة بلاد الرافدين ذات الأشكال الإسفينية. ثلاثة منها تذكر عهد الملك الكاشي أغوم.",
+"ctx": "bh:STORIES.0.pages.3.p",
+"i": 666
+},
+{
+"en": "A tablet is a letter from the past that gives its own date. With Agum's name, the layer could be tied to a known king, and the whole hill could be read like a calendar: Dilmun below, Kassites above, and more cities still to come.",
+"ar": "اللوح رسالة من الماضي تحمل تاريخها بنفسها. وباسم أغوم أمكن ربط الطبقة بملك معروف، وصار التلّ كله يُقرأ كتقويم: دلمون في الأسفل، والكاشيون فوقها، ومدن أخرى لم تأتِ بعد.",
+"ctx": "bh:STORIES.0.pages.3.p",
+"i": 667
+},
+{
+"en": "The Fort on Top",
+"ar": "القلعة في الأعلى",
+"ctx": "bh:STORIES.0.pages.4.h",
+"i": 668
+},
+{
+"en": "The last layer is the one you can still walk on. In the 16th century the Portuguese built a fort on the summit, using the old city as its foundation. The fort gave the hill its modern name, Qal'at al-Bahrain, the fort of Bahrain, and hid the cities beneath for four hundred years.",
+"ar": "الطبقة الأخيرة هي التي ما زلت تستطيع المشي عليها. ففي القرن السادس عشر بنى البرتغاليون قلعة على القمة، متخذين المدينة القديمة أساسًا لها. أعطت القلعة التلَّ اسمه الحديث، قلعة البحرين، وأخفت المدن تحتها أربعمئة عام.",
+"ctx": "bh:STORIES.0.pages.4.p",
+"i": 669
+},
+{
+"en": "In 2005 UNESCO placed the site on the World Heritage List. Visitors today climb the Portuguese walls and look down into trenches where the Dilmun streets run, two worlds separated by ten metres of earth and four thousand years.",
+"ar": "وفي عام 2005 أدرجت اليونسكو الموقع في قائمة التراث العالمي. يصعد الزوار اليوم الأسوار البرتغالية وينظرون إلى الخنادق حيث تمتد شوارع دلمون، عالمان يفصل بينهما عشرة أمتار من التراب وأربعة آلاف عام.",
+"ctx": "bh:STORIES.0.pages.4.p",
+"i": 670
+},
+{
+"en": "Why Here?",
+"ar": "لماذا هنا؟",
+"ctx": "bh:STORIES.0.pages.5.h",
+"i": 671
+},
+{
+"en": "Why did people keep building on this one hill for four thousand years? Part of the answer is under the ground. Fresh water rises through the island's limestone from the Dammam aquifer, fed by rain that fell far away in Saudi Arabia. Springs once flowed all along the north coast.",
+"ar": "لماذا ظل الناس يبنون على هذا التلّ الواحد أربعة آلاف عام؟ جزء من الجواب تحت الأرض. فالماء العذب يصعد عبر حجر الجزيرة الجيري من خزان الدمام، الذي يغذيه مطر سقط بعيدًا في السعودية. وكانت العيون تجري يومًا على طول الساحل الشمالي.",
+"ctx": "bh:STORIES.0.pages.5.p",
+"i": 672
+},
+{
+"en": "One of them, Ain Adhari, was described as a river of fast water three metres wide, feeding the date groves. A harbour, a spring and a palm garden: that is a capital. The same water fed the temple of Barbar, a few kilometres to the west.",
+"ar": "إحداها، عين عذاري، وُصفت بأنها نهر من ماء سريع عرضه ثلاثة أمتار يسقي بساتين النخيل. مرفأ وعين وبستان نخيل: تلك هي العاصمة. والماء نفسه غذّى معبد باربار على بعد كيلومترات قليلة غربًا.",
+"ctx": "bh:STORIES.0.pages.5.p",
+"i": 673
+},
+{
+"en": "Only a quarter of the hill has been opened. Three quarters of the capital of Dilmun is still waiting, quietly, under the grass.",
+"ar": "لم يُفتح من التلّ إلا ربعه. وثلاثة أرباع عاصمة دلمون ما زالت تنتظر بهدوء تحت العشب.",
+"ctx": "bh:STORIES.0.pages.6.p",
+"i": 674
+},
+{
+"en": "Seven layers of a capital, dug out of one hill on the north coast",
+"ar": "سبع طبقات لعاصمة، أُخرجت من تلّ واحد على الساحل الشمالي",
+"ctx": "bh:STORIES.0.tag",
+"i": 675
+},
+{
+"en": "Based on the geological survey of R. P. Willis for the U.S. Geological Survey and the Bahrain Petroleum Company",
+"ar": "مستندة إلى المسح الجيولوجي الذي أجراه ر. ب. ويليس لهيئة المسح الجيولوجي الأمريكية وشركة نفط البحرين",
+"ctx": "bh:STORIES.1.credit",
+"i": 676
+},
+{
+"en": "A Dome of Stone",
+"ar": "قبة من حجر",
+"ctx": "bh:STORIES.1.pages.1.h",
+"i": 677
+},
+{
+"en": "Near the middle of the island, Jebel Dukhan rises to 134.1 metres, the highest point in Bahrain. It is not a sharp mountain but the crest of a long, gentle fold running north to south. Geologists call this fold the Bahrain anticline: rock layers bent upward into a dome, like a blanket pushed from both sides.",
+"ar": "قرب وسط الجزيرة يرتفع جبل الدخان إلى 134.1 مترًا، أعلى نقطة في البحرين. ليس جبلًا حادًا بل قمة طيّة طويلة لطيفة تمتد من الشمال إلى الجنوب. يسميها الجيولوجيون طيّة البحرين المحدبة: طبقات صخرية انثنت إلى الأعلى على شكل قبة، كبطانية دُفعت من الجانبين.",
+"ctx": "bh:STORIES.1.pages.1.p",
+"i": 678
+},
+{
+"en": "The fold is simple. There are no faults at the surface, and the faults found deep underground are small tension cracks, with the rock on one side dropped usually less than 15 metres. Slowly, over millions of years, the dome lifted the island's oldest rocks into the air.",
+"ar": "الطيّة بسيطة. لا صدوع على السطح، والصدوع في الأعماق شقوق شدّ صغيرة، هبط فيها الصخر على أحد الجانبين أقل من خمسة عشر مترًا عادة. وببطء، عبر ملايين السنين، رفعت القبة أقدم صخور الجزيرة إلى الهواء.",
+"ctx": "bh:STORIES.1.pages.1.p",
+"i": 679
+},
+{
+"en": "The Bowl in the Middle",
+"ar": "الحوض في المنتصف",
+"ctx": "bh:STORIES.1.pages.2.h",
+"i": 680
+},
+{
+"en": "Climb to the top of the fold and you find a surprise: a hollow. Wind and rain have eaten through the crest of the dome, removing the younger beds and leaving a closed basin ringed by cliffs more than 30 metres high. The cliffs are the rimrock, made of Eocene limestone of the Dammam Formation.",
+"ar": "اصعد إلى قمة الطيّة وستجد مفاجأة: تجويفًا. فقد أكلت الرياح والأمطار قمة القبة، وأزالت الطبقات الأحدث، وتركت حوضًا مغلقًا تحيط به جروف يزيد ارتفاعها على ثلاثين مترًا. الجروف هي الصخر الحلقي، من حجر الدمام الجيري من عصر الإيوسين.",
+"ctx": "bh:STORIES.1.pages.2.p",
+"i": 681
+},
+{
+"en": "Inside the ring, the oldest rock is exposed: the Rus Formation, about 67 metres of chalky, dolomitic limestone with chert and anhydrite. This basin is the only place on the island where rain soaks into the ground and feeds the aquifer directly. A textbook breached anticline, in one view.",
+"ar": "داخل الحلقة ينكشف أقدم الصخور: تكوين الرس، نحو 67 مترًا من حجر جيري طباشيري دولوميتي بالصوان والأنهيدريت. وهذا الحوض هو المكان الوحيد في الجزيرة الذي يتسرب فيه المطر إلى الأرض ويغذي الخزان الجوفي مباشرة. طيّة محدبة مخترقة كما في الكتب، في مشهد واحد.",
+"ctx": "bh:STORIES.1.pages.2.p",
+"i": 682
+},
+{
+"en": "On the inner slopes of the rimrock lies a grey-to-yellow bed of shale and marl, between 9.1 and 15.2 metres thick. It is full of fossil shark teeth, so many that geologists simply call it the shark's-tooth shale. It is the lowest member of the Dammam Formation.",
+"ar": "على المنحدرات الداخلية للصخر الحلقي طبقة رمادية إلى صفراء من الطَّفل والمارل، سمكها بين 9.1 و15.2 مترًا. وهي مليئة بأسنان أسماك القرش المتحجرة، كثيرة حتى إن الجيولوجيين يسمونها ببساطة طفل أسنان القرش. وهي أدنى أعضاء تكوين الدمام.",
+"ctx": "bh:STORIES.1.pages.3.p",
+"i": 683
+},
+{
+"en": "The teeth are about 50 million years old. They fell from sharks swimming in a warm, shallow sea that covered the whole region in the Eocene, long before the fold lifted the sea floor into a mountain. Every tooth you find here was once at the bottom of the sea.",
+"ar": "عمر الأسنان نحو خمسين مليون عام. سقطت من أسماك قرش كانت تسبح في بحر دافئ ضحل غطى المنطقة كلها في الإيوسين، قبل أن ترفع الطيّةُ قاعَ البحر إلى جبل بزمن طويل. كل سن تجدها هنا كانت يومًا في قاع البحر.",
+"ctx": "bh:STORIES.1.pages.3.p",
+"i": 684
+},
+{
+"en": "Well Number One",
+"ar": "البئر رقم واحد",
+"ctx": "bh:STORIES.1.pages.4.h",
+"i": 685
+},
+{
+"en": "A dome of rock traps whatever rises through it: water, gas, oil. In 1925 Frank Holmes won a concession to drill, after first finding fresh water for the ruler. The Bahrain Petroleum Company was set up in 1929, and a rig was raised at the foot of Jebel Dukhan.",
+"ar": "قبة الصخر تحبس كل ما يصعد خلالها: الماء والغاز والنفط. في عام 1925 حصل فرانك هولمز على امتياز للحفر، بعد أن وجد أولًا ماءً عذبًا للحاكم. وتأسست شركة نفط البحرين عام 1929، ونُصب برج حفر عند سفح جبل الدخان.",
+"ctx": "bh:STORIES.1.pages.4.p",
+"i": 686
+},
+{
+"en": "On 16 October 1931 oil spurted from Well No. 1, and from 2 June 1932 it flowed steadily. It was the first oil ever found on the Arabian side of the Gulf. The geology had already drawn the map at the surface; the drill simply followed it down.",
+"ar": "في 16 أكتوبر 1931 تدفق النفط من البئر رقم 1، ومن 2 يونيو 1932 جرى بثبات. كان أول نفط يُعثر عليه على الجانب العربي من الخليج. كانت الجيولوجيا قد رسمت الخريطة على السطح، وما فعل الحفر إلا أن تبعها إلى الأسفل.",
+"ctx": "bh:STORIES.1.pages.4.p",
+"i": 687
+},
+{
+"en": "The Field Under the Island",
+"ar": "الحقل تحت الجزيرة",
+"ctx": "bh:STORIES.1.pages.5.h",
+"i": 688
+},
+{
+"en": "The field beneath Jebel Dukhan turned out to cover about 400 square kilometres, roughly 80 percent of the main island. Its oil lies between 380 and 2,000 metres down, and gas reaches nearly 4,000 metres. Gas was found in 1948, and in 1963 the offshore field of Abu Safah.",
+"ar": "تبين أن الحقل الواقع تحت جبل الدخان يغطي نحو 400 كيلومتر مربع، أي قرابة 80 بالمئة من الجزيرة الرئيسية. يقع نفطه بين 380 و2,000 متر تحت الأرض، ويصل الغاز إلى قرابة 4,000 متر. وعُثر على الغاز عام 1948، وعلى حقل أبو سعفة البحري عام 1963.",
+"ctx": "bh:STORIES.1.pages.5.p",
+"i": 689
+},
+{
+"en": "Output peaked at about 80,000 barrels a day in 1971. Everything that followed in the Gulf, the cities, the roads, the ports, began with one fold of Eocene limestone that a geologist could see with his own eyes.",
+"ar": "بلغ الإنتاج ذروته عند نحو 80,000 برميل يوميًا عام 1971. وكل ما تلا ذلك في الخليج، المدن والطرق والموانئ، بدأ بطيّة واحدة من حجر الإيوسين الجيري يستطيع جيولوجي أن يراها بعينيه.",
+"ctx": "bh:STORIES.1.pages.5.p",
+"i": 690
+},
+{
+"en": "Stand on Jebel Dukhan at sunset and you are standing on the roof of an old sea, on the lid of an oil field, in the middle of a bowl of cliffs. All three are the same fold.",
+"ar": "قف على جبل الدخان عند الغروب وأنت تقف على سقف بحر قديم، وعلى غطاء حقل نفط، في وسط حوض من الجروف. وكلها الطيّة نفسها.",
+"ctx": "bh:STORIES.1.pages.6.p",
+"i": 691
+},
+{
+"en": "A slow dome of limestone, a bowl of cliffs, and the well that started the Gulf's oil age",
+"ar": "قبة بطيئة من الحجر الجيري، وحوض من الجروف، والبئر التي بدأت عصر النفط في الخليج",
+"ctx": "bh:STORIES.1.tag",
+"i": 692
+},
+{
+"en": "Based on the research of Reem AlMealla, Brisneve Edullantes and Leanne Hepburn (University of Essex, 2024)",
+"ar": "مستندة إلى أبحاث ريم المعلا وبريسنيف إدولانتس وليان هيبرن (جامعة إسكس، 2024)",
+"ctx": "bh:STORIES.2.credit",
+"i": 693
+},
+{
+"en": "More Reef Than Land",
+"ar": "شعاب أكثر من اليابسة",
+"ctx": "bh:STORIES.2.pages.1.h",
+"i": 694
+},
+{
+"en": "East of the main island lies Fasht Al Adhm, a platform of coral reef about 200 square kilometres in size. It is the largest of Bahrain's fashts, the reef flats that ring the islands. Added together, Bahrain's reef areas cover about 850 square kilometres, which is more than its land.",
+"ar": "شرق الجزيرة الرئيسية يقع فشت العظم، منصة من الشعاب المرجانية مساحتها نحو 200 كيلومتر مربع. وهو أكبر فشوت البحرين، أي المسطحات المرجانية التي تحيط بالجزر. ومجموع مساحات الشعاب في البحرين نحو 850 كيلومترًا مربعًا، أكثر من مساحة يابستها.",
+"ctx": "bh:STORIES.2.pages.1.p",
+"i": 695
+},
+{
+"en": "In the 1980s scientists counted about 30 kinds of coral here. In 1988 branching Acropora corals covered between 50 and 90 percent of the reef surface, a thicket of stony branches where fish, turtles and shrimp found shelter. It was a rich, crowded garden under the sea.",
+"ar": "في ثمانينيات القرن الماضي أحصى العلماء هنا نحو ثلاثين نوعًا من المرجان. وفي عام 1988 غطّت المرجانيات المتفرعة من نوع أكروبورا ما بين 50 و90 بالمئة من سطح الشعاب، غابة من الأغصان الحجرية تحتمي فيها الأسماك والسلاحف والروبيان. كانت حديقة غنية مزدحمة تحت البحر.",
+"ctx": "bh:STORIES.2.pages.1.p",
+"i": 696
+},
+{
+"en": "The Hottest Sea",
+"ar": "أشد البحار حرارة",
+"ctx": "bh:STORIES.2.pages.2.h",
+"i": 697
+},
+{
+"en": "The Arabian Gulf is shallow and almost closed, so in summer it heats up like a bath left in the sun. Corals here already live hotter than corals anywhere else in the world. But every animal has a limit, and in 1996 the water reached 37.7 degrees.",
+"ar": "الخليج العربي ضحل وشبه مغلق، فيسخن في الصيف كحوض استحمام تُرك في الشمس. والشعاب هنا تعيش أصلًا في ماء أدفأ من أي شعاب في العالم. لكن لكل كائن حدًا، وفي عام 1996 بلغت حرارة الماء 37.7 درجة.",
+"ctx": "bh:STORIES.2.pages.2.p",
+"i": 698
+},
+{
+"en": "Hot water makes a coral expel the tiny algae living in its tissue, the algae that feed it and colour it. The coral turns white. This is bleaching. In 1998 the sea reached 38 degrees. Those two summers hit Bahrain harder than any other country on the Gulf, and the Acropora thickets collapsed.",
+"ar": "الماء الساخن يجعل المرجان يطرد الطحالب الدقيقة التي تعيش في أنسجته، وهي التي تطعمه وتمنحه لونه. فيتحول المرجان إلى الأبيض. هذا هو الابيضاض. وفي عام 1998 بلغ البحر 38 درجة. ضرب هذان الصيفان البحرين أشد مما ضربا أي بلد آخر على الخليج، وانهارت غابات الأكروبورا.",
+"ctx": "bh:STORIES.2.pages.2.p",
+"i": 699
+},
+{
+"en": "The Summer of 2017",
+"ar": "صيف 2017",
+"ctx": "bh:STORIES.2.pages.3.h",
+"i": 700
+},
+{
+"en": "The reef began, slowly, to rebuild. Then came 2017. From July to October the water near the shore stayed above 34 degrees, month after month, with no cool nights to give the corals rest. Researchers from Bahrain and the University of Essex measured what was left when the heat ended.",
+"ar": "بدأت الشعاب تتعافى ببطء. ثم جاء عام 2017. من يوليو إلى أكتوبر بقي الماء قرب الشاطئ فوق 34 درجة، شهرًا بعد شهر، بلا ليالٍ باردة تمنح المرجان راحة. وقاس باحثون من البحرين وجامعة إسكس ما تبقى حين انتهت الحرارة.",
+"ctx": "bh:STORIES.2.pages.3.p",
+"i": 701
+},
+{
+"en": "Hard-coral cover on the nearshore reefs fell from 13.6 percent to 1.4 percent. Branching corals, the fast builders, were essentially gone. The numbers are small, but they describe a whole landscape vanishing in one season.",
+"ar": "هبط غطاء المرجان الصلب في الشعاب القريبة من الشاطئ من 13.6 بالمئة إلى 1.4 بالمئة. والمرجانيات المتفرعة، البناؤون السريعون، اختفت تقريبًا. الأرقام صغيرة، لكنها تصف مشهدًا كاملًا يتلاشى في موسم واحد.",
+"ctx": "bh:STORIES.2.pages.3.p",
+"i": 702
+},
+{
+"en": "The Survivors",
+"ar": "الناجون",
+"ctx": "bh:STORIES.2.pages.4.h",
+"i": 703
+},
+{
+"en": "Some corals held on. The survivors are the massive kinds, Platygyra, Favia and Porites, which grow as slow, solid boulders rather than branches. They are tougher in the heat, but they build reef far more slowly, so they cannot replace what was lost.",
+"ar": "صمدت بعض المرجانيات. الناجون هم الأنواع الضخمة، بلاتيجيرا وفافيا وبوريتس، التي تنمو كصخور صلبة بطيئة لا كأغصان. وهي أصلب في الحر، لكنها تبني الشعاب أبطأ بكثير، فلا تستطيع تعويض ما ضاع.",
+"ctx": "bh:STORIES.2.pages.4.p",
+"i": 704
+},
+{
+"en": "A reef is a budget. Corals add limestone, and waves, borers and grazing fish take it away. The scientists found that the nearshore budget had fallen to near zero: the reef is no longer growing. Offshore, the great seagrass beds that run from Fasht Al Adhm to the Hawar Islands still feed dugongs and turtles.",
+"ar": "الشعاب ميزانية. يضيف المرجان الحجر الجيري، وتأخذه الأمواج والكائنات الحافرة والأسماك الراعية. ووجد العلماء أن ميزانية الشعاب القريبة من الشاطئ هبطت إلى قرب الصفر: لم تعد الشعاب تنمو. وفي عرض البحر ما زالت مروج الأعشاب البحرية الممتدة من فشت العظم إلى جزر حوار تطعم الأطوم والسلاحف.",
+"ctx": "bh:STORIES.2.pages.4.p",
+"i": 705
+},
+{
+"en": "These are among the most heat-tolerant corals on Earth. If the sea keeps warming, what happens at Fasht Al Adhm may show the rest of the world its own future.",
+"ar": "هذه من أكثر الشعاب تحملًا للحرارة على وجه الأرض. وإذا استمر البحر في الاحترار، فقد يُري ما يحدث في فشت العظم بقيةَ العالم مستقبلَها.",
+"ctx": "bh:STORIES.2.pages.5.p",
+"i": 706
+},
+{
+"en": "Corals that survive the hottest sea on Earth, and the summers that nearly ended them",
+"ar": "شعاب تصمد في أشد بحار الأرض حرارة، والصيف الذي كاد ينهيها",
+"ctx": "bh:STORIES.2.tag",
+"i": 707
+},
+{
+"en": "The Boat of Stones",
+"ar": "قارب الحجارة",
+"ctx": "bh:STORIES.3.pages.1.h",
+"i": 708
+},
+{
+"en": "Nura sat at the front of her father's boat and watched the islet come closer. It was small, with pale cliffs ten metres high and nothing growing on top. \"That is where the stone comes from,\" her father said. \"We cut it there and carry it home across the water.\"",
+"ar": "جلست نورة في مقدمة قارب أبيها وراقبت الجزيرة الصغيرة تقترب. كانت صغيرة، بجروف شاحبة ارتفاعها عشرة أمتار، لا ينبت فوقها شيء. قال أبوها: «من هناك يأتي الحجر. نقطعه هناك ونحمله إلى بيوتنا عبر الماء».",
+"ctx": "bh:STORIES.3.pages.1.p",
+"i": 709
+},
+{
+"en": "Men were already at work on the cliff, splitting the limestone into blocks. By midday the boat sat low in the sea, heavy with stone. Nura counted the blocks. \"Twelve,\" she said. \"Twelve for a temple,\" her father answered, and pushed off toward the main island.",
+"ar": "كان الرجال يعملون على الجرف، يشقّون الحجر الجيري كتلًا. وعند الظهيرة غاص القارب في البحر مثقلًا بالحجارة. عدّت نورة الكتل: «اثنتا عشرة». أجاب أبوها: «اثنتا عشرة لمعبد»، ودفع القارب نحو الجزيرة الكبيرة.",
+"ctx": "bh:STORIES.3.pages.1.p",
+"i": 710
+},
+{
+"en": "The Terrace at Barbar",
+"ar": "المصطبة في باربار",
+"ctx": "bh:STORIES.3.pages.2.h",
+"i": 711
+},
+{
+"en": "At Barbar the ground was busy with workers. The old temple, built by her great-great-grandparents' people on a platform of rough local stone, was being made bigger. A new terrace rose around it, faced with the smooth limestone blocks from the islet.",
+"ar": "في باربار كانت الأرض تعجّ بالعمال. المعبد القديم، الذي بناه قوم أجداد أجدادها على منصة من حجر محلي خشن، كان يُوسَّع. مصطبة جديدة ترتفع حوله، مكسوة بكتل الحجر الجيري الأملس من الجزيرة الصغيرة.",
+"ctx": "bh:STORIES.3.pages.2.p",
+"i": 712
+},
+{
+"en": "\"Why not use our own stone?\" Nura asked. A mason wiped his hands. \"Ours crumbles. This cuts clean and holds an edge.\" He laid a block and tapped it into place. Nura ran her finger along the joint. She could not fit a fingernail into it.",
+"ar": "سألت نورة: «لماذا لا نستعمل حجرنا؟». مسح بنّاء يديه: «حجرنا يتفتت. أما هذا فيُقطع نظيفًا ويحفظ حافته». وضع كتلة وطرقها حتى استقرت. مرّرت نورة إصبعها على الفاصل بين الكتلتين، فلم تجد موضعًا لظفر.",
+"ctx": "bh:STORIES.3.pages.2.p",
+"i": 713
+},
+{
+"en": "Down the Steps to the Water",
+"ar": "نزولًا على الدرج إلى الماء",
+"ctx": "bh:STORIES.3.pages.3.h",
+"i": 714
+},
+{
+"en": "Beneath the terrace a stair went down into the dark. Nura followed the sound of water. At the bottom was a pool, lined with stone, and the water in it was cold and clear and moving. It came up from the ground by itself. Nobody had to carry it.",
+"ar": "تحت المصطبة ينزل درج إلى الظلام. تبعت نورة صوت الماء. وفي الأسفل حوض مبطّن بالحجر، ماؤه بارد صافٍ يتحرك. كان يصعد من الأرض وحده، ولا يحتاج أحدٌ إلى حمله.",
+"ctx": "bh:STORIES.3.pages.3.p",
+"i": 715
+},
+{
+"en": "\"This is the sweet water,\" said the priest who found her there. \"It belongs to the one who sends it, Enki, who is wise and lives in the deep water under the earth.\" From the pool, channels carried the water out to the fields and gardens. The temple stood on a spring.",
+"ar": "قال الكاهن الذي وجدها هناك: «هذا هو الماء العذب. وهو لمن يرسله، إنكي، الحكيم الذي يسكن الماء العميق تحت الأرض». ومن الحوض كانت قنوات تحمل الماء إلى الحقول والبساتين. المعبد يقف فوق عين.",
+"ctx": "bh:STORIES.3.pages.3.p",
+"i": 716
+},
+{
+"en": "The Bull's Head",
+"ar": "رأس الثور",
+"ctx": "bh:STORIES.3.pages.4.h",
+"i": 717
+},
+{
+"en": "In a room above the pool an old craftsman was polishing something that caught the lamplight. It was the head of a bull, cast in copper, with wide curved horns and calm eyes. \"Copper from across the sea,\" he said. \"Melted, poured, cooled. It will stand in the temple longer than any of us.\"",
+"ar": "في غرفة فوق الحوض كان حرفي عجوز يصقل شيئًا يلتقط ضوء المصباح. كان رأس ثور مصبوبًا من النحاس، بقرنين عريضين منحنيين وعينين هادئتين. قال: «نحاس من وراء البحر. أُذيب وصُبّ وبرد. سيبقى في المعبد أطول منا جميعًا».",
+"ctx": "bh:STORIES.3.pages.4.p",
+"i": 718
+},
+{
+"en": "He was right. Four thousand years later, Danish archaeologists lifted the copper bull's head from the earth of the second temple, and today it is the emblem of the Bahrain National Museum. Nura, of course, could not know that. She only thought it was beautiful.",
+"ar": "وكان على حق. فبعد أربعة آلاف عام رفع علماء آثار دنماركيون رأس الثور النحاسي من تراب المعبد الثاني، وهو اليوم شعار متحف البحرين الوطني. لم تكن نورة تعرف ذلك بالطبع. كانت تراه جميلًا فحسب.",
+"ctx": "bh:STORIES.3.pages.4.p",
+"i": 719
+},
+{
+"en": "The Wells of Diraz",
+"ar": "آبار الدراز",
+"ctx": "bh:STORIES.3.pages.5.h",
+"i": 720
+},
+{
+"en": "On the way home they stopped at Diraz, where the people had built stone wells over another spring. Its name meant the mother of the spring of overflowing waters. Three wells, stone-lined, and the one to the north was treated as a holy place, the water temple.",
+"ar": "في طريق العودة توقفوا في الدراز، حيث بنى الناس آبارًا من الحجر فوق عين أخرى. اسمها يعني أمّ عين المياه الفائضة. ثلاث آبار مبطنة بالحجر، والبئر الشمالية تُعامَل مكانًا مقدسًا، معبد الماء.",
+"ctx": "bh:STORIES.3.pages.5.p",
+"i": 721
+},
+{
+"en": "\"Every spring is a door,\" her father said. \"The same water comes up here, at Barbar, and all along this coast.\" Nura dipped her hands in and drank. Under the whole island, she thought, there must be a river.",
+"ar": "قال أبوها: «كل عين باب. الماء نفسه يصعد هنا، وفي باربار، وعلى طول هذا الساحل». غمست نورة يديها وشربت. وفكّرت: تحت الجزيرة كلها لا بد أن يجري نهر.",
+"ctx": "bh:STORIES.3.pages.5.p",
+"i": 722
+},
+{
+"en": "Three temples were built at Barbar, one over the other, across a thousand years. The spring under them is older than all three.",
+"ar": "بُنيت في باربار ثلاثة معابد، واحد فوق الآخر، عبر ألف عام. والعين التي تحتها أقدم من الثلاثة جميعًا.",
+"ctx": "bh:STORIES.3.pages.6.p",
+"i": 723
+},
+{
+"en": "A girl, a boat full of limestone, and a temple built over a spring",
+"ar": "فتاة، وقارب مليء بالحجر الجيري، ومعبد بُني فوق عين",
+"ctx": "bh:STORIES.3.tag",
+"i": 724
+},
+{
+"en": "Leaving Bu Maher",
+"ar": "الرحيل من بو ماهر",
+"ctx": "bh:STORIES.4.pages.1.h",
+"i": 725
+},
+{
+"en": "Salem was eleven, and this was his first season. The whole fleet gathered off the fort of Bu Maher, at the southern tip of Muharraq, where the pearling boats had always set out. Drums, shouting, a hundred sails. His mother stood on the shore and did not wave until the boat was far out.",
+"ar": "كان سالم في الحادية عشرة، وهذا أول موسم له. تجمّع الأسطول كله قبالة قلعة بو ماهر عند الطرف الجنوبي للمحرق، حيث كانت سفن الغوص تنطلق دائمًا. طبول وصياح ومئة شراع. وقفت أمه على الشاطئ ولم تلوّح حتى ابتعد القارب.",
+"ctx": "bh:STORIES.4.pages.1.p",
+"i": 726
+},
+{
+"en": "The captain put a hand on his shoulder. \"Four months,\" he said. \"You will haul rope, you will not dive this year. And you will learn where the water is.\" Salem looked at the sea all around them. \"Water is everywhere,\" he said. The captain laughed.",
+"ar": "وضع النوخذة يده على كتفه: «أربعة أشهر. ستسحب الحبال ولن تغوص هذه السنة. وستتعلم أين الماء». نظر سالم إلى البحر حولهم: «الماء في كل مكان». ضحك النوخذة.",
+"ctx": "bh:STORIES.4.pages.1.p",
+"i": 727
+},
+{
+"en": "The Oyster Beds",
+"ar": "المغاصات",
+"ctx": "bh:STORIES.4.pages.2.h",
+"i": 728
+},
+{
+"en": "The boats anchored over the hayrat, the oyster beds in the northern waters. There were three great beds that every captain knew by heart, by the colour of the sea and the shape of the shore behind. The divers went down on a rope with a stone tied to one foot and a basket at the belt.",
+"ar": "رست القوارب فوق الهيرات، مغاصات المحار في المياه الشمالية. ثلاث مغاصات كبرى يحفظها كل نوخذة عن ظهر قلب، من لون البحر وشكل الساحل خلفه. ينزل الغواصون على حبل، وحجر مربوط بقدم، وسلة عند الخصر.",
+"ctx": "bh:STORIES.4.pages.2.p",
+"i": 729
+},
+{
+"en": "Salem hauled them up, one after another, fifty times before noon. The baskets came up full of grey, rough shells. Most held nothing. A few held pearls. \"Men have dived here for two thousand years,\" the captain said. \"The old kings of the river lands wrote about our pearls.\"",
+"ar": "سحبهم سالم واحدًا بعد الآخر، خمسين مرة قبل الظهر. تصعد السلال مليئة بأصداف رمادية خشنة. أكثرها فارغ. وقليل منها فيه لؤلؤ. قال النوخذة: «غاص الرجال هنا ألفي عام. وملوك بلاد النهرين القدماء كتبوا عن لؤلؤنا».",
+"ctx": "bh:STORIES.4.pages.2.p",
+"i": 730
+},
+{
+"en": "On the fourth day the water barrels were low. Instead of turning for shore, the captain steered to a patch of sea off Muharraq that looked like any other. \"Here,\" he said. A diver went down with an empty goatskin bag and a clay jar with no bottom.",
+"ar": "في اليوم الرابع نقصت براميل الماء. لكن النوخذة، بدل أن يتجه إلى الشاطئ، قاد القارب إلى بقعة من البحر قبالة المحرق تشبه أي بقعة أخرى. قال: «هنا». نزل غواص بقربة فارغة وجرة فخار بلا قاع.",
+"ctx": "bh:STORIES.4.pages.3.p",
+"i": 731
+},
+{
+"en": "He came up with the bag full. Salem tasted it. Sweet. \"A spring,\" the captain said. \"Three fathoms down, fresh water rises from the sea floor. You put the jar over its mouth and the bag over the jar, and the sea cannot get in.\" Salem stared at the water. \"That is why we are called the two seas.\"",
+"ar": "وصعد والقربة ممتلئة. ذاقها سالم. عذبة. قال النوخذة: «عين. على عمق ثلاث قامات يصعد ماء عذب من قاع البحر. تضع الجرة على فمها والقربة على الجرة، فلا يدخل البحر». حدّق سالم في الماء: «لهذا نُسمّى البحرين».",
+"ctx": "bh:STORIES.4.pages.3.p",
+"i": 732
+},
+{
+"en": "The Island Built Around a Spring",
+"ar": "الجزيرة التي بُنيت حول عين",
+"ctx": "bh:STORIES.4.pages.4.h",
+"i": 733
+},
+{
+"en": "Near the end of the season they anchored beside a tiny island north-west of Muharraq. It had a wall around it and heaps of oyster shells higher than Salem. \"Nobody made this island,\" he said. The oldest diver shook his head. \"People made it. Long ago, around a spring that rose in the sea.\"",
+"ar": "قرب نهاية الموسم رسوا بجانب جزيرة صغيرة شمال غرب المحرق. كان حولها سور، وأكوام من أصداف المحار أعلى من سالم. قال: «لم يصنع أحد هذه الجزيرة». هز أكبر الغواصين رأسه: «الناس صنعوها. منذ زمن بعيد، حول عين تصعد في البحر».",
+"ctx": "bh:STORIES.4.pages.4.p",
+"i": 734
+},
+{
+"en": "\"They built a ring of stone to hold the fresh water in, then a bigger ring, then cabins, then a quay of coral blocks for the boats. Pearlers have filled their skins here since before anyone can remember.\" Salem looked at the shell heaps and understood: every shell was a boat that had stopped for water.",
+"ar": "«بنوا حلقة من الحجر تحبس الماء العذب، ثم حلقة أكبر، ثم غرفًا، ثم رصيفًا من كتل المرجان للقوارب. والغواصون يملؤون قِربهم هنا منذ ما قبل أن يذكر أحد». نظر سالم إلى أكوام الأصداف وفهم: كل صدفة قارب توقف ليأخذ الماء.",
+"ctx": "bh:STORIES.4.pages.4.p",
+"i": 735
+},
+{
+"en": "What Came After",
+"ar": "ما جاء بعد ذلك",
+"ctx": "bh:STORIES.4.pages.5.h",
+"i": 736
+},
+{
+"en": "Salem grew old. He saw oil found under Jebel Dukhan in 1932, and he saw cheaper cultured pearls arrive from far away. One by one the boats stopped sailing. The golden age, from the 1850s to 1930, was over in his own lifetime.",
+"ar": "كبر سالم. رأى النفط يُكتشف تحت جبل الدخان عام 1932، ورأى اللؤلؤ المستزرع الرخيص يصل من بعيد. وتوقفت القوارب عن الإبحار واحدًا بعد الآخر. انتهى العصر الذهبي، من خمسينيات القرن التاسع عشر إلى 1930، في حياته هو.",
+"ctx": "bh:STORIES.4.pages.5.p",
+"i": 737
+},
+{
+"en": "But the houses of the pearl merchants still stand in Muharraq. Today a path 3.5 kilometres long links seventeen of them, from Bu Maher fort to the Siyadi houses, together with the three oyster beds out at sea. In 2012 the whole path became a World Heritage site: the last complete record of a pearling island.",
+"ar": "لكن بيوت تجار اللؤلؤ ما زالت قائمة في المحرق. واليوم يربط طريق طوله 3.5 كيلومتر سبعة عشر منها، من قلعة بو ماهر إلى بيوت السيادي، ومعها المغاصات الثلاث في البحر. وفي عام 2012 صار الطريق كله موقع تراث عالمي: آخر سجل كامل لجزيرة اللؤلؤ.",
+"ctx": "bh:STORIES.4.pages.5.p",
+"i": 738
+},
+{
+"en": "Salt water on top, sweet water underneath. The pearls came from one and the divers drank from the other, and the country took its name from both.",
+"ar": "ماء مالح في الأعلى، وماء عذب في الأسفل. جاء اللؤلؤ من الأول وشرب الغواصون من الثاني، وأخذت البلاد اسمها من الاثنين.",
+"ctx": "bh:STORIES.4.pages.6.p",
+"i": 739
+},
+{
+"en": "A boy on his first pearling season learns where the sweet water hides",
+"ar": "فتى في أول موسم غوص يتعلم أين يختبئ الماء العذب",
+"ctx": "bh:STORIES.4.tag",
+"i": 740
+},
+{
+"en": "Nineteen Kilometres South-East",
+"ar": "تسعة عشر كيلومترًا إلى الجنوب الشرقي",
+"ctx": "bh:STORIES.5.pages.1.h",
+"i": 741
+},
+{
+"en": "The boat left before sunrise. Maryam's uncle was a ranger, and once a year the rangers counted the birds. \"Sixteen main islands,\" he said, \"thirty-six if you count the rocks. Nobody lives there, and the coast guard lets almost nobody land.\" The main island, Hawar, slowly rose from the sea, flat and pale.",
+"ar": "أبحر القارب قبل الشروق. كان خال مريم حارسًا في المحمية، ومرة كل عام يعدّ الحراس الطيور. قال: «ست عشرة جزيرة رئيسية، وست وثلاثون إذا عددت الصخور. لا يسكنها أحد، وخفر السواحل لا يسمح لأحد تقريبًا بالنزول». وببطء ارتفعت الجزيرة الكبرى، حوار، من البحر مسطحة شاحبة.",
+"ctx": "bh:STORIES.5.pages.1.p",
+"i": 742
+},
+{
+"en": "\"Highest point, twenty-two metres,\" her uncle said. \"You could walk over the whole thing in a day, it is only forty-one square kilometres. But it belongs to the birds.\" As they came closer, Maryam saw that the cliffs were not white. They were moving.",
+"ar": "قال خالها: «أعلى نقطة اثنان وعشرون مترًا. تستطيعين المشي فوقها كلها في يوم، فمساحتها واحد وأربعون كيلومترًا مربعًا فقط. لكنها للطيور». وحين اقتربوا رأت مريم أن الجروف ليست بيضاء. كانت تتحرك.",
+"ctx": "bh:STORIES.5.pages.1.p",
+"i": 743
+},
+{
+"en": "The Cormorants",
+"ar": "غراب البحر",
+"ctx": "bh:STORIES.5.pages.2.h",
+"i": 744
+},
+{
+"en": "Socotra cormorants: black, long-necked seabirds, nesting on the bare ground so close together that the island looked paved with them. The noise was like a sea of its own. \"In 1992,\" said the ranger with the notebook, \"we counted between two hundred thousand and three hundred thousand adults.\"",
+"ar": "غراب البحر السوقطري: طيور بحرية سوداء طويلة الأعناق، تعشش على الأرض الجرداء متلاصقة حتى بدت الجزيرة مرصوفة بها. وكان الضجيج بحرًا قائمًا بذاته. قال الحارس صاحب الدفتر: «في عام 1992 أحصينا ما بين مئتي ألف وثلاثمئة ألف طائر بالغ».",
+"ctx": "bh:STORIES.5.pages.2.p",
+"i": 745
+},
+{
+"en": "\"That is the biggest breeding colony of this bird anywhere in the world.\" Maryam tried to count a single patch and lost her place at forty. \"How do you count them all?\" \"In squares,\" he said. \"Count one square carefully, then count the squares.\" She started again.",
+"ar": "«وهذه أكبر مستعمرة تكاثر لهذا الطائر في العالم كله». حاولت مريم أن تعدّ بقعة واحدة فضاعت عند الأربعين. «كيف تعدّونها كلها؟». قال: «بالمربعات. عدّي مربعًا واحدًا بعناية، ثم عدّي المربعات». وبدأت من جديد.",
+"ctx": "bh:STORIES.5.pages.2.p",
+"i": 746
+},
+{
+"en": "The Sea Cows",
+"ar": "أبقار البحر",
+"ctx": "bh:STORIES.5.pages.3.h",
+"i": 747
+},
+{
+"en": "At noon they rested on the boat, and something grey and slow surfaced beside it, breathed, and sank. \"Dugong,\" her uncle whispered. \"A sea cow. It eats the seagrass on the bottom. The shallow water south of Bahrain is mostly less than ten metres deep, and it is one big meadow.\"",
+"ar": "عند الظهيرة استراحوا في القارب، فصعد بجانبه شيء رمادي بطيء، تنفس، ثم غاص. همس خالها: «أطوم. بقرة بحر. تأكل الأعشاب البحرية في القاع. والمياه الضحلة جنوب البحرين أكثرها أقل من عشرة أمتار عمقًا، وهي مرج واحد كبير».",
+"ctx": "bh:STORIES.5.pages.3.p",
+"i": 748
+},
+{
+"en": "\"In 1986 a single herd of 674 was counted here, and nearly one in six was a calf. Only Australia has more dugongs than this sea.\" A sea turtle rose on the other side, chewing. Maryam realised that the seagrass fed everything: turtles, dugongs, and the fish that fed the birds.",
+"ar": "«في عام 1986 أُحصي هنا قطيع واحد من 674 أطومًا، وكان واحد من كل ستة تقريبًا صغيرًا. ولا يفوق هذا البحرَ في الأطوم إلا أستراليا». وصعدت سلحفاة بحرية من الجهة الأخرى وهي تمضغ. وأدركت مريم أن الأعشاب البحرية تطعم كل شيء: السلاحف والأطوم والأسماك التي تطعم الطيور.",
+"ctx": "bh:STORIES.5.pages.3.p",
+"i": 749
+},
+{
+"en": "The Oryx Came Back",
+"ar": "عاد المها",
+"ctx": "bh:STORIES.5.pages.4.h",
+"i": 750
+},
+{
+"en": "In the late afternoon, inland, white shapes stood in the heat haze. Arabian oryx, with long straight horns, and small sand gazelles. \"They were not born here,\" her uncle said. \"The oryx had vanished from the wild. These come from Al Areen, the reserve at Sakhir, founded in 1976.\"",
+"ar": "في آخر النهار، في داخل الجزيرة، وقفت أشباح بيضاء في رجفة الحر. مها عربي بقرون طويلة مستقيمة، وغزلان ريم صغيرة. قال خالها: «لم تولد هنا. كان المها قد اختفى من البرية. هذه جاءت من العرين، المحمية في الصخير، التي أُسست عام 1976».",
+"ctx": "bh:STORIES.5.pages.4.p",
+"i": 751
+},
+{
+"en": "\"Eight square kilometres of fenced desert, where they bred the oryx and the gazelle for years, then brought them here by boat.\" Maryam watched the oryx watch her. An animal that had once been gone from the whole of Arabia was standing fifty metres away, chewing, unimpressed.",
+"ar": "«ثمانية كيلومترات مربعة من صحراء مسيّجة، ربّوا فيها المها والغزال سنوات، ثم جاؤوا بها إلى هنا بالقوارب». راقبت مريم المها وهو يراقبها. حيوان كان قد اختفى يومًا من الجزيرة العربية كلها يقف على بعد خمسين مترًا، يمضغ، غير مكترث.",
+"ctx": "bh:STORIES.5.pages.4.p",
+"i": 752
+},
+{
+"en": "A Wetland on the Map",
+"ar": "أرض رطبة على الخريطة",
+"ctx": "bh:STORIES.5.pages.5.h",
+"i": 753
+},
+{
+"en": "On the way home the ranger showed her a map. Around the islands was a line drawn in blue. \"On 27 October 1997 this became a Ramsar site, a wetland the world agrees to protect. Five thousand two hundred hectares.\" In winter, he said, greater flamingos and gulls came in their thousands.",
+"ar": "في طريق العودة أراها الحارس خريطة. حول الجزر خط مرسوم بالأزرق. «في 27 أكتوبر 1997 صارت هذه موقع رامسار، أرضًا رطبة يتفق العالم على حمايتها. خمسة آلاف ومئتا هكتار». وفي الشتاء، قال، يأتي النحام الكبير والنوارس بالآلاف.",
+"ctx": "bh:STORIES.5.pages.5.p",
+"i": 754
+},
+{
+"en": "\"It is the only part of Bahrain that is nearly as it always was.\" Maryam looked back. The cliffs were still moving, still loud. She had counted eleven squares. Next year, she decided, she would count twenty.",
+"ar": "«إنه الجزء الوحيد من البحرين الذي ما زال تقريبًا كما كان دائمًا». نظرت مريم إلى الخلف. ما زالت الجروف تتحرك، وما زالت صاخبة. كانت قد عدّت أحد عشر مربعًا. وقررت أن تعدّ في العام المقبل عشرين.",
+"ctx": "bh:STORIES.5.pages.5.p",
+"i": 755
+},
+{
+"en": "A hundred thousand birds, a herd of sea cows, and an antelope that came back from nothing: all on a few flat islands that nobody is allowed to live on.",
+"ar": "مئة ألف طائر، وقطيع من أبقار البحر، وظبي عاد من العدم: كلها على بضع جزر مسطحة لا يُسمح لأحد بالعيش عليها.",
+"ctx": "bh:STORIES.5.pages.6.p",
+"i": 756
+},
+{
+"en": "Maryam spends a day on Hawar with the rangers who count cormorants",
+"ar": "مريم تقضي يومًا في حوار مع الحراس الذين يعدّون طيور غراب البحر",
+"ctx": "bh:STORIES.5.tag",
+"i": 757
+},
+{
+"en": "Based on the research of Steffen Terp Laursen (2017) and the Kanazawa University excavations at Wadi al-Sail led by Takeshi Gotoh (2015–2019)",
+"ar": "مستندة إلى أبحاث ستيفن تيرب لورسن (2017) وحفريات جامعة كانازاوا في وادي السيل بقيادة تاكيشي غوتو (2015–2019)",
+"ctx": "bh:STORIES.6.credit",
+"i": 758
+},
+{
+"en": "A Valley of Cairns",
+"ar": "وادٍ من أكوام الحجارة",
+"ctx": "bh:STORIES.6.pages.1.h",
+"i": 759
+},
+{
+"en": "On the plateau in the middle of the island, a dry valley runs for about 4 kilometres from south-east to north-west. Along its slopes, mostly in the upper 3 kilometres, stand hundreds of low heaps of stone. Archaeologists call them Riffa-type mounds: many once stood around Riffa, but most were lost to building, and those in the valley are the survivors.",
+"ar": "على الهضبة في وسط الجزيرة يمتد وادٍ جاف نحو أربعة كيلومترات من الجنوب الشرقي إلى الشمال الغربي. وعلى منحدراته، وأكثرها في الكيلومترات الثلاثة العليا، تقوم مئات من أكوام الحجارة المنخفضة. يسميها علماء الآثار تلال طراز الرفاع: فقد كان كثير منها منتشرًا حول الرفاع، لكن أغلبها ضاع تحت البناء، وما في الوادي هو ما نجا.",
+"ctx": "bh:STORIES.6.pages.1.p",
+"i": 760
+},
+{
+"en": "From 2015 to 2019 a team from Kanazawa University in Japan, led by Takeshi Gotoh, opened 15 of them, and the Bahrain Authority for Culture and Antiquities opened 11 more. Every one was a cairn burial. Eight radiocarbon dates fall between 2300 and 1900 BC, so the building had begun by about 2300 BC, or even earlier.",
+"ar": "ومن 2015 إلى 2019 فتح فريق من جامعة كانازاوا اليابانية بقيادة تاكيشي غوتو خمسة عشر منها، وفتحت هيئة البحرين للثقافة والآثار أحد عشر آخر. كانت كلها مدافن ركامية. وتقع ثمانية تواريخ بالكربون المشع بين 2300 و1900 ق.م، فالبناء بدأ نحو 2300 ق.م أو قبل ذلك.",
+"ctx": "bh:STORIES.6.pages.1.p",
+"i": 761
+},
+{
+"en": "Gifts from Across the Water",
+"ar": "هدايا من وراء الماء",
+"ctx": "bh:STORIES.6.pages.2.h",
+"i": 762
+},
+{
+"en": "Some of the graves held more than bones. There was pottery from Mesopotamia and pottery of the Umm an-Nar type, together with stone beads. Things like these do not walk to an island. By the end of the 3rd millennium BC, the people buried in this valley were already part of a trade that moved by sea.",
+"ar": "حوت بعض القبور أكثر من العظام. كان فيها فخار من بلاد الرافدين وفخار من طراز أم النار، ومعه خرز من الحجر. أشياء كهذه لا تمشي إلى جزيرة. ففي نهاية الألف الثالث قبل الميلاد كان المدفونون في هذا الوادي جزءًا من تجارة تجري عبر البحر.",
+"ctx": "bh:STORIES.6.pages.2.p",
+"i": 763
+},
+{
+"en": "In the northern part of the valley alone, 266 possible mounds have been identified. They are small, and none rises far above the rest. Archaeologists read them as the graveyard of a tribal society: families and clans, side by side, before there were kings.",
+"ar": "وفي الجزء الشمالي من الوادي وحده حُدد 266 تلًّا محتملًا. وهي صغيرة، ولا يعلو أحدها كثيرًا على غيره. ويقرؤها علماء الآثار مقبرةً لمجتمع قبلي: أسر وعشائر جنبًا إلى جنب، قبل أن يكون هناك ملوك.",
+"ctx": "bh:STORIES.6.pages.2.p",
+"i": 764
+},
+{
+"en": "Fields of Small Hills",
+"ar": "حقول من التلال الصغيرة",
+"ctx": "bh:STORIES.6.pages.3.h",
+"i": 765
+},
+{
+"en": "West and south of the village of A'ali, the mounds fill the land in fields. The early ones, built from about 2200 to 2050 BC, are tiny: on average 2.5 metres across and less than 1.5 metres high. An estimated 17,000 were built, and about 1,000 survive.",
+"ar": "غرب قرية عالي وجنوبها تملأ التلالُ الأرضَ حقولًا. الأولى منها، التي بُنيت من نحو 2200 إلى 2050 ق.م، صغيرة جدًا: قطرها 2.5 متر في المتوسط وارتفاعها أقل من متر ونصف. ويُقدَّر أن 17,000 منها بُنيت، ولم يبقَ إلا نحو 1,000.",
+"ctx": "bh:STORIES.6.pages.3.p",
+"i": 766
+},
+{
+"en": "Then the mounds grew. The Late Type, from about 2050 to 1750 BC, are 6 to 11 metres across and 2 to 3 metres high, each a stone chamber in the middle with a low ring wall around it. Mapping suggests that 58,000 of them once existed; about 13,500 remain. At Janabiyah, some mounds hold extra burials beside the main one.",
+"ar": "ثم كبرت التلال. فتلال الطراز المتأخر، من نحو 2050 إلى 1750 ق.م، قطرها من 6 إلى 11 مترًا وارتفاعها من مترين إلى ثلاثة، وفي وسط كل منها حجرة من الحجر يحيط بها جدار حلقي منخفض. ويشير المسح إلى أن 58,000 منها وُجدت يومًا، وبقي منها نحو 13,500. وفي الجنبية تضم بعض التلال مدافن إضافية بجانب المدفن الرئيسي.",
+"ctx": "bh:STORIES.6.pages.3.p",
+"i": 767
+},
+{
+"en": "The Tombs of Kings",
+"ar": "مقابر الملوك",
+"ctx": "bh:STORIES.6.pages.4.h",
+"i": 768
+},
+{
+"en": "And then, among the ordinary mounds, came giants. In the village of A'ali stand seventeen royal mounds, thirteen single and two pairs, up to 50 metres across and 12 metres high. They were built between about 2050 and 1750 BC, when Dilmun was ruled by kings.",
+"ar": "ثم ظهر بين التلال العادية عمالقة. ففي قرية عالي تقوم سبعة عشر تلًّا ملكيًا، ثلاثة عشر منفردة وزوجان، قطرها يصل إلى 50 مترًا وارتفاعها إلى 12 مترًا. بُنيت بين نحو 2050 و1750 ق.م، حين كان يحكم دلمونَ ملوك.",
+"ctx": "bh:STORIES.6.pages.4.p",
+"i": 769
+},
+{
+"en": "Around them lie chieftain mounds of 13 to 26 metres, and in Mound 8 three cuneiform inscriptions were found. Small cairns for everyone, then larger and larger tombs, and at the top a few huge ones: this is how Steffen Terp Laursen reads the emergence of kingship in Early Dilmun.",
+"ar": "وحولها تلال الزعماء التي يتراوح قطرها بين 13 و26 مترًا، وفي التلّ رقم 8 عُثر على ثلاثة نقوش مسمارية. أكوام صغيرة للجميع، ثم مقابر تكبر شيئًا فشيئًا، وفي القمة قليل من المقابر الهائلة: هكذا يقرأ ستيفن تيرب لورسن نشوء المُلك في دلمون المبكرة.",
+"ctx": "bh:STORIES.6.pages.4.p",
+"i": 770
+},
+{
+"en": "One Landscape of the Dead",
+"ar": "مشهد واحد للموتى",
+"ctx": "bh:STORIES.6.pages.5.h",
+"i": 771
+},
+{
+"en": "In 2019 UNESCO inscribed the Dilmun Burial Mounds as a World Heritage property in 21 parts: 15 of them are the royal mounds of A'ali, and six are the mound fields. Together they form one of the densest Bronze Age cemetery landscapes known anywhere.",
+"ar": "في عام 2019 أدرجت اليونسكو تلال مدافن دلمون موقعًا للتراث العالمي من 21 جزءًا: خمسة عشر منها هي التلال الملكية في عالي، وستة هي حقول التلال. وهي معًا من أكثف مشاهد المقابر من العصر البرونزي المعروفة في أي مكان.",
+"ctx": "bh:STORIES.6.pages.5.p",
+"i": 772
+},
+{
+"en": "Read in order, from Wadi al-Sail to A'ali, they record how a whole island population buried its dead, and how, slowly, some of the dead came to be buried as more important than all the others.",
+"ar": "وإذا قُرئت بالترتيب، من وادي السيل إلى عالي، فإنها تسجل كيف دفن سكان جزيرة كاملة موتاهم، وكيف صار بعض الموتى، شيئًا فشيئًا، يُدفنون كأنهم أهم من الجميع.",
+"ctx": "bh:STORIES.6.pages.5.p",
+"i": 773
+},
+{
+"en": "Small heaps in a dry valley, then fields of thousands, then hills for kings. The island wrote its own history in stone, one grave at a time.",
+"ar": "أكوام صغيرة في وادٍ جاف، ثم حقول بالآلاف، ثم تلال للملوك. كتبت الجزيرة تاريخها بالحجر، قبرًا بعد قبر.",
+"ctx": "bh:STORIES.6.pages.6.p",
+"i": 774
+},
+{
+"en": "Burial mounds built from 2300 to 1750 BC trace a tribal island becoming a kingdom",
+"ar": "تلال دفن بُنيت بين 2300 و1750 ق.م ترسم جزيرةً قبلية تصير مملكة",
+"ctx": "bh:STORIES.6.tag",
+"i": 775
+},
+{
+"en": "Across the Water",
+"ar": "عبر الماء",
+"ctx": "bh:STORIES.7.pages.1.h",
+"i": 776
+},
+{
+"en": "Yousef pressed his nose to the car window. On both sides of the long road to Saudi Arabia there was nothing but pale green sea. \"It is so shallow,\" he said. \"I can see the bottom.\" His aunt Huda, who was a geologist, smiled. \"Under this road,\" she said, \"the sea has kept a diary.\"",
+"ar": "ألصق يوسف أنفه بنافذة السيارة. على جانبي الطريق الطويل إلى السعودية لم يكن إلا بحر أخضر شاحب. قال: «إنه ضحل جدًا. أستطيع أن أرى القاع». ابتسمت عمته هدى، وكانت جيولوجية: «تحت هذا الطريق احتفظ البحر بمذكرات».",
+"ctx": "bh:STORIES.7.pages.1.p",
+"i": 777
+},
+{
+"en": "\"Two geologists, Ata Darwish and Curtis Conley, studied the sediments all along the causeway. They published what they found in 1990. Every layer is a page. Some pages say sea, and some say no sea at all.\" Yousef looked down at the water again. \"No sea? Here?\"",
+"ar": "«درس جيولوجيان، عطا درويش وكيرتس كونلي، الرواسب على طول الجسر كله، ونشرا ما وجداه عام 1990. كل طبقة صفحة. بعض الصفحات تقول: بحر، وبعضها تقول: لا بحر على الإطلاق». نظر يوسف إلى الماء من جديد: «لا بحر؟ هنا؟».",
+"ctx": "bh:STORIES.7.pages.1.p",
+"i": 778
+},
+{
+"en": "The Striped Stone",
+"ar": "الحجر المخطط",
+"ctx": "bh:STORIES.7.pages.2.h",
+"i": 779
+},
+{
+"en": "In her laboratory Aunt Huda laid out a long cylinder of rock drilled from the sea floor. \"The bottom part is dolomite, up to 40 metres thick,\" she said. \"Look, it is striped. Shell sand packed tight, then mud, then little pellets, then green mud. Then again. And again.\"",
+"ar": "في مختبرها مدّت العمة هدى أسطوانة طويلة من الصخر حُفرت من قاع البحر. قالت: «الجزء السفلي دولوميت، سمكه يصل إلى أربعين مترًا. انظر، إنه مخطط. رمل أصداف مرصوص، ثم طين، ثم حبيبات صغيرة، ثم طين أخضر. ثم من جديد. ومن جديد».",
+"ctx": "bh:STORIES.7.pages.2.p",
+"i": 780
+},
+{
+"en": "\"Each set of stripes is one cycle of shallow sea. All of this was laid down in the middle of the Pleistocene, the age of the great ice sheets, long before people lived here.\" Yousef ran his finger down the stripes and counted until he lost his place.",
+"ar": "«كل مجموعة من الخطوط دورة واحدة من البحر الضحل. وقد ترسّب هذا كله في منتصف البليستوسين، عصر الصفائح الجليدية الكبرى، قبل أن يسكن الناس هنا بزمن طويل». مرّر يوسف إصبعه على الخطوط وعدّ حتى ضاع منه العدّ.",
+"ctx": "bh:STORIES.7.pages.2.p",
+"i": 781
+},
+{
+"en": "The Day the Sea Left",
+"ar": "يوم رحل البحر",
+"ctx": "bh:STORIES.7.pages.3.h",
+"i": 782
+},
+{
+"en": "\"Then the ice grew,\" said Aunt Huda, \"and the oceans of the world fell. Between 110,000 and 90,000 years ago came the first great fall of the sea. Here it was so big that the whole Gulf was emptied. Not shallow. Empty.\"",
+"ar": "قالت العمة هدى: «ثم كبر الجليد، فانخفضت محيطات العالم. وبين 110,000 و90,000 عام مضت جاء أول انخفاض كبير للبحر. وكان هنا كبيرًا حتى فرغ الخليج كله. لم يصبح ضحلًا، بل فارغًا».",
+"ctx": "bh:STORIES.7.pages.3.p",
+"i": 783
+},
+{
+"en": "\"Left out in the air, the old sea floor was leached, cemented and turned into dolomite. The sea had gone, but its floor stayed behind as stone.\" Yousef imagined the road with no water under it, only dry rock all the way to the other shore.",
+"ar": "«وحين تُرك قاع البحر القديم في الهواء غُسل وتماسك وتحوّل إلى دولوميت. رحل البحر، لكن قاعه بقي حجرًا». تخيّل يوسف الطريق بلا ماء تحته، صخرًا جافًا فقط حتى الشاطئ الآخر.",
+"ctx": "bh:STORIES.7.pages.3.p",
+"i": 784
+},
+{
+"en": "Sea, Sand, and Sea Again",
+"ar": "بحر، ثم رمل، ثم بحر من جديد",
+"ctx": "bh:STORIES.7.pages.4.h",
+"i": 785
+},
+{
+"en": "\"The top of the core is thinner, only 3 to 9 metres,\" Aunt Huda said. \"First it tells of the sea coming back, between 90,000 and 75,000 years ago: sandstone, shell sand, and oolitic sand, little round grains that roll in warm, shallow water. Then the land grew drier, and a blanket of dune sand was laid over everything.\"",
+"ar": "قالت العمة هدى: «أعلى العيّنة أرقّ، من ثلاثة إلى تسعة أمتار فقط. وهو يحكي أولًا عن عودة البحر بين 90,000 و75,000 عام مضت: حجر رملي ورمل أصداف ورمل سرئي، حبيبات صغيرة مستديرة تتدحرج في ماء دافئ ضحل. ثم ازدادت الأرض جفافًا، فغطّى كل شيء غطاءٌ من رمل الكثبان».",
+"ctx": "bh:STORIES.7.pages.4.p",
+"i": 786
+},
+{
+"en": "\"In the wetter times, fresh water seeped through and changed the shells into new crystals. And at last, about 6,000 years ago, the sea flooded in and filled the Gulf again.\" Yousef thought about it. \"So the sea under the road,\" he said slowly, \"is very young, in rock time.\" His aunt laughed. \"Something like that.\"",
+"ar": "«وفي الأزمنة الأكثر رطوبة تسرّب الماء العذب وحوّل الأصداف إلى بلورات جديدة. وأخيرًا، قبل نحو 6,000 عام، تدفق البحر وملأ الخليج من جديد». فكّر يوسف قليلًا ثم قال ببطء: «إذن البحر تحت الطريق صغير جدًا، بمقياس الصخور». ضحكت عمته: «شيء من هذا القبيل».",
+"ctx": "bh:STORIES.7.pages.4.p",
+"i": 787
+}
+]
