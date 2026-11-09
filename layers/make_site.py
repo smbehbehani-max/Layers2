@@ -8,9 +8,9 @@ import os, re, shutil, json
 SRC = '/tmp/w/layers/one'
 ASSETS = '/tmp/w/layers/site'
 OUT = '/tmp/w/layers/website'
-OLD_BASE = "BASE='https://smbehbehani-max.github.io/Layers2/'"
+OLD_BASE = "BASE='https://smbehbehani-max.github.io/Layers2/docs/'"
 NEW_BASE = ("BASE=(/^https?:$/.test(location.protocol)?location.href.split(/[?#]/)[0]"
-            ".replace(/(index|mobile)\\.html$/,''):'https://smbehbehani-max.github.io/Layers2/')")
+            ".replace(/(index|mobile)\\.html$/,''):'https://smbehbehani-max.github.io/Layers2/docs/')")
 CC = {'kw': ('Kuwait', 'الكويت'), 'sa': ('Saudi Arabia', 'السعودية'), 'bh': ('Bahrain', 'البحرين'),
       'qa': ('Qatar', 'قطر'), 'ae': ('UAE', 'الإمارات'), 'om': ('Oman', 'عُمان')}
 

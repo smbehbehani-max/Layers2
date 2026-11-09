@@ -2,7 +2,7 @@
 import json, math, re, os
 M = json.load(open('/tmp/w/layers/gulf_map.json'))
 LOGOS = json.load(open('/tmp/w/logos_inline.json'))
-BASE = 'https://smbehbehani-max.github.io/Layers2/'
+BASE = 'https://smbehbehani-max.github.io/Layers2/docs/'
 ORDER = ['kw', 'sa', 'bh', 'qa', 'ae', 'om']
 C = {
  'kw': dict(en='Kuwait', ar='الكويت', ten='Layers of Kuwait', tar='طبقات الكويت', pt=(47.75, 29.3), bd=(48.4, 31.0)),

@@ -1,0 +1,12 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8">
+<title>LAYERS by GEOHERITAGE</title>
+<meta name="robots" content="noindex">
+<script>
+// The website lives in /Layers2/docs/. Old links without "docs/" are sent to the same page there.
+(function () {
+  var m = location.pathname.match(/^\/Layers2\/(?!docs\/)([\w.-]+\.html)?$/);
+  location.replace('/Layers2/docs/' + (m && m[1] ? m[1] : '') + location.search + location.hash);
+})();
+</script>
+</head><body><p><a href="/Layers2/docs/">Open LAYERS</a></p></body></html>
