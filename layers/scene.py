@@ -99,7 +99,7 @@ def scene(W, H, mob=False):
     life = []
     def grow(svg, x, y, d):
         life.append(f'<g class="gr" style="transform-origin:{x:.1f}px {y:.1f}px;animation-delay:{d:.2f}s"><g class="sw" style="transform-origin:{x:.1f}px {y:.1f}px;animation-delay:{-d*1.3:.2f}s">{svg}</g></g>')
-    pal = [.12, .83] if not mob else [.1, .9]
+    pal = [.12, .83] if not mob else [.9]   # phone: the left palm is gone; the camel starts its walk from that spot
     for k, fr in enumerate(pal):
         x = W * fr; y = yat(lines[0], x); hgt = s * (1.5 if not mob else 1.35)
         fr_ = ''.join(f'<path d="M{x:.1f} {y - hgt:.1f}q{dx*s*.45:.1f} {-s*.2:.1f} {dx*s*.9:.1f} {s*.25:.1f}" fill="none" stroke="#2c7a4c" stroke-width="{s*.12:.1f}" stroke-linecap="round"/>' for dx in (-1, 1, -.7, .7))
@@ -135,9 +135,12 @@ def scene(W, H, mob=False):
     # the camel walks slowly along the surface line itself (feet follow the ground)
     LP = json.load(open('/tmp/w/layers/logo_parts.json'))
     cs = (bh[0] * (1.0 if not mob else .95)) / (340 * .86)
-    surf = 'M' + 'L'.join(f'{x:.1f} {y:.1f}' for x, y in lines[0])
+    x0 = W * .1 if mob else lines[0][0][0]   # phone: start where the left palm used to stand
+    walk = [(x0, yat(lines[0], x0))] + [(x, y) for x, y in lines[0] if x > x0]
+    surf = 'M' + 'L'.join(f'{x:.1f} {y:.1f}' for x, y in walk)
+    dur = (90 if not mob else 55) * (lines[0][-1][0] - x0) / (lines[0][-1][0] - lines[0][0][0])   # same walking speed as before
     camel = (f'<g class="walk"><g><g transform="scale({cs:.4f})">{LP["camel"]}</g>'
-             f'<animateMotion dur="{90 if not mob else 55}s" begin="0s" repeatCount="indefinite" path="{surf}"/></g></g>')
+             f'<animateMotion dur="{dur:.1f}s" begin="{4.5 if mob else 0}s" repeatCount="indefinite" path="{surf}"/></g></g>')   # 4.5s = when the camel fades in
     # assemble: bottom band rises first
     g = ''
     order = list(range(6, -1, -1))
