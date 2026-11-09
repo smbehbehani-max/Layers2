@@ -1,0 +1,423 @@
+{
+ "cc": "sa",
+ "iso": "SAU",
+ "en": "Saudi Arabia",
+ "ar": "السعودية",
+ "title_en": "Layers of Saudi Arabia",
+ "title_ar": "طبقات السعودية",
+ "repo": "Layers-Saudi",
+ "base": "https://smbehbehani-max.github.io/Layers-Saudi/",
+ "lat0": 24.0,
+ "gstep": 2.0,
+ "pad": 0.15,
+ "padr": 0.25,
+ "bbox": [
+  34.0,
+  15.8,
+  56.5,
+  32.5
+ ],
+ "city": [
+  46.72,
+  24.69
+ ],
+ "labels": [
+  [
+   "red",
+   20.5,
+   36.4,
+   "wl",
+   13
+  ],
+  [
+   "gulf",
+   28.6,
+   50.6,
+   "wl",
+   12
+  ],
+  [
+   "rub",
+   20.0,
+   51.0,
+   "ll",
+   11
+  ],
+  [
+   "nafud",
+   28.3,
+   40.5,
+   "ll",
+   9
+  ],
+  [
+   "najd",
+   25.3,
+   44.0,
+   "ll",
+   9
+  ],
+  [
+   "asir",
+   19.3,
+   42.6,
+   "ll",
+   8
+  ]
+ ],
+ "water": {
+  "en": {
+   "red": "Red Sea",
+   "gulf": "Arabian Gulf",
+   "rub": "Rub’ al Khali",
+   "nafud": "Great Nafud",
+   "najd": "Najd",
+   "asir": "Asir",
+   "city": "Riyadh"
+  },
+  "ar": {
+   "red": "البحر الأحمر",
+   "gulf": "الخليج العربي",
+   "rub": "الربع الخالي",
+   "nafud": "النفود الكبير",
+   "najd": "نجد",
+   "asir": "عسير",
+   "city": "الرياض"
+  }
+ },
+ "pa_source_en": "National Center for Wildlife (Saudi Arabia); UNESCO",
+ "pa_source_ar": "المركز الوطني لتنمية الحياة الفطرية (السعودية)؛ اليونسكو",
+ "pa_auth_en": "the National Center for Wildlife",
+ "protected": [
+  {
+   "id": "pa-ubm",
+   "t": "r",
+   "en": "‘Uruq Bani Ma’arid Protected Area",
+   "ar": "محمية عروق بني معارض",
+   "km": 12750,
+   "pt": [
+    45.9,
+    19.5
+   ]
+  },
+  {
+   "id": "pa-farasan",
+   "t": "m",
+   "en": "Farasan Islands Protected Area",
+   "ar": "محمية جزر فرسان",
+   "km": 5408,
+   "pt": [
+    42.0,
+    16.7
+   ]
+  },
+  {
+   "id": "pa-jubail",
+   "t": "m",
+   "en": "Jubail Marine Wildlife Sanctuary",
+   "ar": "محمية الجبيل البحرية",
+   "km": 2410,
+   "pt": [
+    49.617,
+    27.083
+   ]
+  },
+  {
+   "id": "pa-raydah",
+   "t": "r",
+   "en": "Raydah Reserve",
+   "ar": "محمية ريدة",
+   "km": 12,
+   "pt": [
+    42.4,
+    18.2
+   ]
+  },
+  {
+   "id": "pa-shaybah",
+   "t": "r",
+   "en": "Shaybah Wildlife Sanctuary",
+   "ar": "محمية شيبة للحياة الفطرية",
+   "km": 637,
+   "pt": [
+    53.96,
+    22.52
+   ]
+  },
+  {
+   "id": "u1",
+   "t": "u",
+   "en": "Hegra (World Heritage, 2008)",
+   "ar": "الحِجر (تراث عالمي، 2008)",
+   "pt": [
+    37.9542,
+    26.7917
+   ],
+   "rx": 6,
+   "ry": 6,
+   "note": {
+    "en": "Inscribed 2008. Tickets through Experience AlUla.",
+    "ar": "أُدرجت عام 2008. التذاكر عبر تجربة العلا."
+   }
+  },
+  {
+   "id": "u2",
+   "t": "u",
+   "en": "At-Turaif, Diriyah (World Heritage, 2010)",
+   "ar": "الطريف، الدرعية (تراث عالمي، 2010)",
+   "pt": [
+    46.573,
+    24.734
+   ],
+   "rx": 3,
+   "ry": 3,
+   "note": {
+    "en": "Inscribed 2010; restored and open to visitors.",
+    "ar": "أُدرجت عام 2010؛ رُممت وفُتحت للزوار."
+   }
+  },
+  {
+   "id": "u3",
+   "t": "u",
+   "en": "Historic Jeddah (World Heritage, 2014)",
+   "ar": "جدة التاريخية (تراث عالمي، 2014)",
+   "pt": [
+    39.1875,
+    21.4858
+   ],
+   "rx": 3,
+   "ry": 3,
+   "note": {
+    "en": "Inscribed 2014. Restoration under way since 2021.",
+    "ar": "أُدرجت عام 2014. الترميم جارٍ منذ 2021."
+   }
+  },
+  {
+   "id": "u4",
+   "t": "u",
+   "en": "Rock Art of Hail (World Heritage, 2015)",
+   "ar": "الفنون الصخرية في حائل (تراث عالمي، 2015)",
+   "pt": [
+    40.9131,
+    28.0106
+   ],
+   "rx": 8,
+   "ry": 8,
+   "note": {
+    "en": "Jubbah and Shuwaymis, inscribed 2015.",
+    "ar": "جبة والشويمس، أُدرجت عام 2015."
+   }
+  },
+  {
+   "id": "u5",
+   "t": "u",
+   "en": "Al-Ahsa Oasis (World Heritage, 2018)",
+   "ar": "واحة الأحساء (تراث عالمي، 2018)",
+   "pt": [
+    49.6219,
+    25.4294
+   ],
+   "rx": 12,
+   "ry": 12,
+   "note": {
+    "en": "Twelve components, inscribed 2018.",
+    "ar": "اثنا عشر مكوّنًا، أُدرجت عام 2018."
+   }
+  },
+  {
+   "id": "u6",
+   "t": "u",
+   "en": "Ḥimā Cultural Area (World Heritage, 2021)",
+   "ar": "منطقة حمى الثقافية (تراث عالمي، 2021)",
+   "pt": [
+    44.4515,
+    18.2505
+   ],
+   "rx": 8,
+   "ry": 8,
+   "note": {
+    "en": "Inscribed 2021; wells still in use.",
+    "ar": "أُدرجت عام 2021؛ الآبار ما زالت مستخدمة."
+   }
+  },
+  {
+   "id": "u7",
+   "t": "u",
+   "en": "‘Uruq Bani Ma’arid (World Heritage, 2023)",
+   "ar": "عروق بني معارض (تراث عالمي، 2023)",
+   "pt": [
+    45.9,
+    19.5
+   ],
+   "rx": 40,
+   "ry": 40,
+   "note": {
+    "en": "First natural World Heritage site of the kingdom, inscribed 2023.",
+    "ar": "أول موقع تراث عالمي طبيعي في المملكة، أُدرج عام 2023."
+   }
+  },
+  {
+   "id": "u8",
+   "t": "u",
+   "en": "Al-Faw (World Heritage, 2024)",
+   "ar": "الفاو (تراث عالمي، 2024)",
+   "pt": [
+    45.1634,
+    19.7649
+   ],
+   "rx": 5,
+   "ry": 5,
+   "note": {
+    "en": "Inscribed 27 July 2024.",
+    "ar": "أُدرجت في 27 يوليو 2024."
+   }
+  },
+  {
+   "id": "pa-mahazat",
+   "t": "r",
+   "en": "Mahazat as-Sayd Protected Area",
+   "ar": "محمية محازة الصيد",
+   "km": 2244,
+   "pt": [
+    41.8,
+    22.25
+   ]
+  },
+  {
+   "id": "pa-ibex",
+   "t": "r",
+   "en": "Ibex Reserve",
+   "ar": "محمية الوعول",
+   "km": 1841,
+   "pt": [
+    46.45,
+    23.4
+   ]
+  },
+  {
+   "id": "pa-harrah",
+   "t": "r",
+   "en": "Harrat al-Harrah Protected Area",
+   "ar": "محمية حرة الحرة",
+   "km": 13775,
+   "pt": [
+    38.4,
+    31.2
+   ]
+  },
+  {
+   "id": "pa-kkrr",
+   "t": "r",
+   "en": "King Khalid Royal Reserve",
+   "ar": "محمية الملك خالد الملكية",
+   "km": 720,
+   "pt": [
+    46.6861,
+    25.3194
+   ]
+  },
+  {
+   "id": "pa-qamari",
+   "t": "m",
+   "en": "Umm al-Qamari Islands Protected Area",
+   "ar": "محمية جزر أم القماري",
+   "km": 4,
+   "pt": [
+    41.08,
+    19.07
+   ]
+  }
+ ],
+ "route": [
+  [
+   "hail-rock-art",
+   "Pictures beside a lake that dried",
+   "صور بجوار بحيرة جفّت",
+   "Start in Ha’il, where people carved a lakeshore 10,000 years ago.",
+   "ابدأ من حائل، حيث نقش الناس شاطئ بحيرة قبل 10,000 عام."
+  ],
+  [
+   "mustatils",
+   "A thousand rectangles in the desert",
+   "ألف مستطيل في الصحراء",
+   "South to the Nafud, where herders built stone monuments 7,000 years ago.",
+   "جنوبًا إلى النفود، حيث بنى الرعاة نصبًا حجرية قبل 7,000 عام."
+  ],
+  [
+   "hegra",
+   "The southern city of the Nabataeans",
+   "مدينة الأنباط الجنوبية",
+   "To AlUla and 111 tombs cut into the sandstone.",
+   "إلى العلا و111 مقبرة منحوتة في الحجر الرملي."
+  ],
+  [
+   "harrat-rahat",
+   "The night the lava came to Madinah",
+   "ليلة وصلت الحمم إلى المدينة",
+   "Follow the lava field to the flow of 1256 that stopped outside the city.",
+   "اتبع الحرة إلى سيل 1256 الذي توقف خارج المدينة."
+  ],
+  [
+   "edge-of-the-world",
+   "A reef 800 km long",
+   "شعاب بطول 800 كم",
+   "Cross to Najd and stand on the Jurassic sea floor above Riyadh.",
+   "اعبر إلى نجد وقف على قاع البحر الجوراسي فوق الرياض."
+  ],
+  [
+   "al-faw",
+   "The city at the edge of the Empty Quarter",
+   "المدينة على حافة الربع الخالي",
+   "South along the escarpment to the painted houses of Kinda.",
+   "جنوبًا على طول الجرف إلى بيوت كندة المرسومة."
+  ],
+  [
+   "uruq-bani-maarid",
+   "Where the oryx came home",
+   "حيث عاد المها",
+   "Into the sand sea, where the oryx was set free again in 1995.",
+   "إلى بحر الرمال، حيث أُطلق المها حرًا من جديد عام 1995."
+  ],
+  [
+   "dammam-no-7",
+   "The well that would not give up",
+   "البئر التي لم تستسلم",
+   "End on the Gulf coast at the well that found oil in 1938.",
+   "واختم على ساحل الخليج عند البئر التي وجدت النفط عام 1938."
+  ]
+ ],
+ "strings": {
+  "places where Kuwait’s deep past still shows": "places where Saudi Arabia’s deep past still shows",
+  "موقعًا يظهر فيها ماضي الكويت العميق": "موقعًا يظهر فيها ماضي السعودية العميق",
+  "[7500,'First villages in Kuwait'],[5000,'Bronze Age trade across the Gulf'],[1400,'Rise of Islam'],[35,'1991 oil fires']": "[10000,'Rock art begins at Jubbah'],[7000,'Mustatils built in the Nafud'],[2000,'Nabataean tombs at Hegra'],[1400,'Rise of Islam'],[88,'Oil found at Dammam No. 7']",
+  "[7500,'أولى القرى في الكويت'],[5000,'تجارة العصر البرونزي عبر الخليج'],[1400,'ظهور الإسلام'],[35,'حرائق النفط 1991']": "[10000,'بداية الفن الصخري في جبة'],[7000,'بناء المستطيلات في النفود'],[2000,'مقابر الأنباط في الحِجر'],[1400,'ظهور الإسلام'],[88,'اكتشاف النفط في بئر الدمام 7']",
+  "searchE:'Search boats, volcanoes, birds…'": "searchE:'Search tombs, lava, oryx…'",
+  "searchE:'ابحث: قوارب، براكين، طيور…'": "searchE:'ابحث: مقابر، حمم، مها…'",
+  "aP1:'Layers of Saudi Arabia maps the geology, archaeology and ecology of Kuwait: 80 places with their sources, illustrated stories, a 100-million-year timeline and live directions, in Arabic and English.'": "aP1:'Layers of Saudi Arabia maps the geology, archaeology and ecology of Saudi Arabia: places with their sources, a timeline from the Jurassic sea to today, and live directions, in Arabic and English. Illustrated stories are on their way.'",
+  "aP1:'يرسم تطبيق طبقات السعودية جيولوجيا الكويت وآثارها وبيئتها: 80 موقعًا بمصادرها، وقصص مصوّرة، وخط زمني يمتد 100 مليون سنة، وإرشادات حيّة، بالعربية والإنجليزية.'": "aP1:'يرسم تطبيق طبقات السعودية جيولوجيا السعودية وآثارها وبيئتها: مواقع بمصادرها، وخط زمني من البحر الجوراسي حتى اليوم، وإرشادات حيّة، بالعربية والإنجليزية. والقصص المصوّرة في الطريق.'",
+  "u:'UNESCO Tentative List'": "u:'UNESCO World Heritage'",
+  "legU:'UNESCO Tentative List'": "legU:'UNESCO World Heritage'",
+  "u:'القائمة التمهيدية لليونسكو'": "u:'تراث عالمي (يونسكو)'",
+  "legU:'القائمة التمهيدية لليونسكو'": "legU:'تراث عالمي (يونسكو)'",
+  "tlT:'How Kuwait changed over time'": "tlT:'How Saudi Arabia changed over time'",
+  "tlT:'كيف تغيّرت الكويت عبر الزمن'": "tlT:'كيف تغيّرت السعودية عبر الزمن'",
+  "<b>Example source:</b> Archeowieści, 2 Dec 2024: Kuwaiti-Polish team discovers figurine, local pottery, and environmental clues.": "<b>Example source:</b> PLOS ONE, April 2024: Stewart et al. report the first excavation of an Arabian lava tube, used by herders from 10,000 years ago.",
+  "<b>Searches like:</b> “Bahra 1 excavation”, “Failaka temple”, “Kuwait mud volcanoes”, “Al-Ahmadi quarry Dammam Formation”.": "<b>Searches like:</b> “Hegra excavation”, “mustatil radiocarbon”, “Harrat Rahat eruption”, “Uruq Bani Ma’arid oryx census”.",
+  "<b>Extracted:</b> Place → Bahra 1 · Published → Dec 2024 · Find → Ubaid-style clay head · Team → Kuwaiti-Polish mission.": "<b>Extracted:</b> Place → Umm Jirsan · Published → Apr 2024 · Finding → occupation from 10,000 years ago · Team → Max Planck and Heritage Commission.",
+  "<b>Title:</b> A unique clay head and the Gulf’s oldest pottery workshop at Bahra 1<br><b>العنوان:</b> رأس طيني فريد وأقدم ورشة فخار في الخليج في بحرة 1": "<b>Title:</b> People who lived in a lava tube<br><b>العنوان:</b> أناس عاشوا في أنبوب بركاني",
+  "<b>Shown on:</b> Bahra 1 card → New research → link to the original source.": "<b>Shown on:</b> Umm Jirsan card → New research → link to the original source.",
+  "That is how the Al-Ahmadi quarry was added.": "That is how new places will join the map.",
+  "<b>Example:</b> Al-Ahmadi quarry → “The Window into Deep Time” · Eocene Dammam Formation · 48–34 million years ago.": "<b>Example:</b> Edge of the World → “A reef 800 km long” · Middle Jurassic Tuwaiq Mountain Limestone · about 165 million years ago.",
+  "<b>مثال على مصدر:</b> Archeowieści، 2 ديسمبر 2024: الفريق الكويتي البولندي يكتشف تمثالًا وفخارًا محليًا وأدلة بيئية.": "<b>مثال على مصدر:</b> PLOS ONE، أبريل 2024: ستيوارت وزملاؤه ينشرون أول تنقيب في أنبوب بركاني بالجزيرة العربية، استخدمه الرعاة منذ 10,000 عام.",
+  "<b>عمليات بحث مثل:</b> «تنقيبات بحرة 1»، «معبد فيلكا»، «البراكين الطينية في الكويت»، «محجر الأحمدي تكوين الدمام».": "<b>عمليات بحث مثل:</b> «تنقيبات الحِجر»، «تأريخ المستطيلات»، «ثوران حرة رهط»، «إحصاء المها في عروق بني معارض».",
+  "<b>المستخرج:</b> الموقع ← بحرة 1 · النشر ← ديسمبر 2024 · الاكتشاف ← رأس طيني على طراز العبيد · الفريق ← البعثة الكويتية البولندية.": "<b>المستخرج:</b> الموقع ← أم جرسان · النشر ← أبريل 2024 · النتيجة ← استيطان منذ 10,000 عام · الفريق ← ماكس بلانك وهيئة التراث.",
+  "<b>يظهر في:</b> بطاقة بحرة 1 ← بحث جديد ← رابط المصدر الأصلي.": "<b>يظهر في:</b> بطاقة أم جرسان ← بحث جديد ← رابط المصدر الأصلي.",
+  "هكذا أُضيف محجر الأحمدي.": "هكذا ستنضم مواقع جديدة إلى الخريطة.",
+  "<b>مثال:</b> محجر الأحمدي ← «نافذة على الزمن السحيق» · تكوين الدمام الإيوسيني · قبل 48–34 مليون سنة.": "<b>مثال:</b> حافة العالم ← «شعاب بطول 800 كم» · حجر طويق الجيري من الجوراسي الأوسط · قبل نحو 165 مليون سنة.",
+  "far:d=>`You are ${d} from Kuwait’s map`": "far:d=>`You are ${d} from Saudi Arabia’s map`",
+  "far:d=>`أنت على بُعد ${d} من خريطة الكويت`": "far:d=>`أنت على بُعد ${d} من خريطة السعودية`"
+ },
+ "hw_example": {
+  "site": "qalat-al-bahrain"
+ }
+}

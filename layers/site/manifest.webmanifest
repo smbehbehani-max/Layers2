@@ -1,0 +1,79 @@
+{
+ "id": "/Layers/",
+ "name": "Layers · طبقات",
+ "short_name": "Layers",
+ "description": "Geology, archaeology and ecology of the Arabian Gulf, country by country, in Arabic and English.",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "any",
+ "background_color": "#f7f8f5",
+ "theme_color": "#f7f8f5",
+ "lang": "en",
+ "dir": "ltr",
+ "categories": [
+  "education",
+  "travel",
+  "navigation"
+ ],
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ],
+ "shortcuts": [
+  {
+   "name": "Layers of Kuwait",
+   "url": "kw.html",
+   "icons": [
+    {
+     "src": "icon-192.png",
+     "sizes": "192x192"
+    }
+   ]
+  },
+  {
+   "name": "Layers of Saudi Arabia",
+   "url": "sa.html",
+   "icons": [
+    {
+     "src": "icon-192.png",
+     "sizes": "192x192"
+    }
+   ]
+  },
+  {
+   "name": "Layers of Bahrain",
+   "url": "bh.html",
+   "icons": [
+    {
+     "src": "icon-192.png",
+     "sizes": "192x192"
+    }
+   ]
+  },
+  {
+   "name": "Layers of Qatar",
+   "url": "qa.html",
+   "icons": [
+    {
+     "src": "icon-192.png",
+     "sizes": "192x192"
+    }
+   ]
+  }
+ ]
+}

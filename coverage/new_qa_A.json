@@ -1,0 +1,39 @@
+[
+ {
+  "id": "qa-national-museum-of-qatar",
+  "n": "National Museum of Qatar and the Palace of Sheikh Abdullah bin Jassim Al Thani",
+  "na": "متحف قطر الوطني وقصر الشيخ عبدالله بن جاسم آل ثاني",
+  "c": "archaeological",
+  "ic": "jar",
+  "era": "H",
+  "s": "Desert-rose museum wrapped around a historic royal palace · UNESCO Tentative List 2025",
+  "lat": 25.28,
+  "lng": 51.52,
+  "p": "20th century – present",
+  "dr": "UNESCO Tentative List, submitted 2 April 2025 (ref. 6815, criteria iv, vi)",
+  "el": "About 52,000 m² building; 1.5 km gallery route",
+  "t0": 25,
+  "t1": 0,
+  "te": "A desert rose that grew around a palace",
+  "ta": "وردة الصحراء التي نبتت حول قصر",
+  "se": "In Doha a museum shaped like a desert rose wraps around the old palace of Sheikh Abdullah bin Jassim and tells Qatar’s story along a 1.5 km path",
+  "sa": "في الدوحة يلتفّ متحف على هيئة وردة الصحراء حول القصر القديم للشيخ عبدالله بن جاسم، ويروي قصة قطر على مسار طوله 1.5 كيلومتر",
+  "desc": "The National Museum of Qatar in Doha surrounds the restored historic Palace of Sheikh Abdullah bin Jassim Al Thani (1880–1957), son of the founder of modern Qatar. The original national museum was founded in 1975; the new building by Jean Nouvel, based on the form of the desert rose and built of large interlocking disks, opened on 28 March 2019. The building covers about 52,000 m², and eleven permanent galleries form a 1.5 km route through Qatar’s history, natural environment and cultural change. Qatar submitted it to the UNESCO Tentative List on 2 April 2025 under criteria (iv) and (vi).",
+  "sig": "Joins a historic royal palace and a landmark modern building to show Qatar’s shift from a traditional society to a modern state.",
+  "ex": "UNESCO Tentative List 2025; Qatar Museums",
+  "disc": [
+   "Palace of Sheikh Abdullah bin Jassim at its heart",
+   "Eleven galleries on a 1.5 km route",
+   "Opened 28 March 2019"
+  ],
+  "refs": [
+   "UNESCO World Heritage Centre. National Museum of Qatar (NMoQ). Tentative List ref. 6815, submitted 02/04/2025. https://whc.unesco.org/en/tentativelists/6815",
+   "Qatar Museums. NMoQ Press Kit. https://qm.org.qa/en/press/nmoq-press-kit/",
+   "World-Architects (2019). National Museum of Qatar Opens. https://world-architects.com/en/architecture-news/headlines/national-museum-of-qatar-opens",
+   "Inexhibit. National Museum of Qatar, Doha – Jean Nouvel. https://www.inexhibit.com/mymuseum/national-museum-qatar-architect-jean-nouvel/"
+  ],
+  "conf": "Coordinates are the UNESCO Tentative List point, given to two decimals (about 1 km precision). t0 uses the 1975 founding of the first museum (present ≈ 2000); the palace’s own construction date was not found in the sources. Arabic name extended with the palace from the English title; the site is a modern museum plus historic palace and fits the heritage layer only loosely. Floor area given as 52,000 m² (Inexhibit, World-Architects).",
+  "region": "Doha",
+  "must_have": "QA-A8"
+ }
+]

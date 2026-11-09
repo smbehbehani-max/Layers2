@@ -1,0 +1,507 @@
+{
+"sites": [
+{
+"id": "tell-abraq",
+"n": "Tell Abraq",
+"na": "تل أبرق",
+"c": "archaeological",
+"s": "Bronze–Iron Age mound and Umm an-Nar fortress tower · excavated since 1989",
+"lat": 25.4878,
+"lng": 55.5519,
+"p": "Umm an-Nar, Wadi Suq and Iron Age",
+"dr": "c. 2200 BC – AD 200",
+"el": "Tower 40 m across, 8 m high",
+"ic": "mound",
+"era": "P",
+"t0": 4225,
+"t1": 1825,
+"te": "The great tower of Magan",
+"ta": "البرج العظيم لأرض مجان",
+"se": "A four-hectare mound on the Sharjah–Umm Al Quwain line with the largest Umm an-Nar fortress tower in the UAE and a tomb of about 410 people",
+"sa": "تلّ بمساحة أربعة هكتارات على خط الشارقة وأم القيوين يضم أكبر برج حصن من حضارة أم النار في الإمارات ومدفناً لنحو 410 أشخاص",
+"desc": "Tell Abraq is a settlement mound of about four hectares rising roughly 10 m above the sabkha, described as the best preserved and largest prehistoric settlement in the lower Arabian Gulf. A circular mud-brick fortress faced with stone, about 40 m in diameter and 8 m high, was built around 2200 BC (charcoal dated 2461–2199 BC), with a stone-lined well at its centre. An Umm an-Nar tomb about 6 m across, 10 m west of the tower, held the commingled remains of about 410 individuals, including a young woman with polio. Occupation ran from c. 2200 BC to AD 200, and finds include Harappan weights, Barbar pottery, Bactrian ivory and more than 100,000 animal bones, the largest faunal assemblage in the Arabian Peninsula.",
+"sig": "The site's long sequence defined the Iron Age I–III chronology of the UAE and shows the region's trade with Mesopotamia, Iran, Bahrain and the Indus.",
+"ex": "University of Copenhagen (D.T. Potts, 1989–1998); Bryn Mawr College and University of Tübingen (P. Magee, from 2007); Italian Archaeological Mission in Umm al-Quwain (M. Degli Esposti, from 2019)",
+"disc": [
+"Tomb held about 410 individuals, 276 of them adults",
+"Largest Umm an-Nar fortress tower excavated in the UAE"
+],
+"refs": [
+"Potts, D.T. (1993). Four Seasons of Excavation at Tell Abraq (1989–1993). Proceedings of the Seminar for Arabian Studies 23.",
+"Magee, P. (2017). Tell Abraq during the second and first millennia BC. Arabian Archaeology and Epigraphy 28(2).",
+"Degli Esposti, M. et al. (2022). Renewed excavations at Tell Abraq, Umm al-Quwain, 2019–2020. Proceedings of the Seminar for Arabian Studies 51."
+]
+},
+{
+"id": "shimal-tombs",
+"n": "Shimal",
+"na": "شمل",
+"c": "archaeological",
+"s": "Largest pre-Islamic site in Ras Al Khaimah · c. 250 tombs and a hilltop fort",
+"lat": 25.8181,
+"lng": 56.0317,
+"p": "Umm an-Nar to Wadi Suq, with a medieval fort",
+"dr": "c. 2600 BC – 18th century AD",
+"el": "Tomb Sh 222: 11.3 m across, about 300 burials",
+"ic": "mound",
+"era": "P",
+"t0": 4625,
+"t1": 250,
+"te": "A city of the dead below the mountains",
+"ta": "مدينة الموتى تحت الجبال",
+"se": "About 250 monumental tombs at the foot of the mountains north of Ras Al Khaimah, settled for at least 4,500 years, with a medieval fort on the outcrop above",
+"sa": "نحو 250 مدفناً ضخماً عند سفح الجبال شمال رأس الخيمة، استُوطن المكان منذ 4,500 سنة على الأقل، ويعلوه حصن من العصور الوسطى",
+"desc": "Shimal, about 8 km north-east of Ras Al Khaimah town, is the largest pre-Islamic site in the emirate and has been settled for at least 4,500 years. Its cemetery holds about 250 tombs of several types, many monumental: the Umm an-Nar tomb Sh 222 is 11.3 m across and held about 300 burials dated to c. 2200–2000 BC, while Wadi Suq tombs such as Sh 99 (16 m long, at least 66 individuals) and Sh 102 (about 140 individuals, 15th–13th centuries BC) date to the 2nd millennium BC. Finds include soft-stone vessels, bronze and copper weapons, beads and pottery possibly imported from Bahrain and south-eastern Iran. On the outcrop above the village stands the so-called 'Palace of the Queen of Sheba', a fortification probably no older than Julfar (14th–18th centuries AD).",
+"sig": "Shimal is the type site for the Wadi Suq period in the northern Emirates and shows continuous settlement from the Bronze Age to the Islamic era.",
+"ex": "British and German archaeologists since 1976, chiefly a team from the University of Göttingen in the mid-1980s; finds in the National Museum of Ras Al Khaimah",
+"disc": [
+"Cemetery of about 250 tombs, some holding over 300 burials",
+"Harappan-linked beads and pottery show Indus contacts"
+],
+"refs": [
+"Emirates Natural History Group. Shimal Archaeological Site (enhg.org).",
+"Hellyer, P. and Potts, D. (2012). Fifty Years of Emirates Archaeology. Abu Dhabi, pp. 216–221.",
+"Wikipedia contributors (2026). Shimal, citing Potts (1988) Araby the Blest."
+]
+},
+{
+"id": "al-sinniyah-island",
+"n": "Al Sinniyah Island",
+"na": "جزيرة السينية",
+"c": "archaeological",
+"s": "Late antique monastery and the oldest known pearling town in the Arabian Gulf",
+"lat": 25.58,
+"lng": 55.6,
+"p": "Late antique to early Islamic",
+"dr": "Late 6th – mid 8th century AD",
+"el": "Town of about 10–12 hectares",
+"ic": "shell",
+"era": "H",
+"t0": 1450,
+"t1": 1275,
+"te": "Pearls before the dawn of Islam",
+"ta": "لآلئ ما قبل فجر الإسلام",
+"se": "A monastery found in 2022 and a town of hundreds of beach-rock houses, pearls and the oldest well-dated diver's weight in the Emirates",
+"sa": "دير اكتُشف عام 2022 وبلدة من مئات البيوت المبنية بحجر الشاطئ، مع لآلئ وأقدم ثقل غواص مؤرخ في الإمارات",
+"desc": "On Al Sinniyah Island in the Umm Al Quwain lagoon, archaeologists announced in March 2023 the oldest pearling town yet found in the Arabian Gulf, covering about 12 hectares with hundreds of houses and several thousand residents. The town was occupied for about 200 years, from the late 6th or early 7th century to the mid-8th century AD, and sits beside a Christian monastery unearthed in 2022 and dated to the 7th–8th centuries. Excavations found pearls, a pearl diver's weight described as the earliest well-dated example in the Emirates, a 6th–7th century Sasanian stamp seal, oyster-shell middens of possibly millions of shells and ceramics of which about 12% were imported from India. Large courtyard houses of merchants stood among small one- or two-room houses of fishermen, all built of local beach rock.",
+"sig": "The island shows that pearling towns and Christian communities flourished in the Gulf a generation before Islam and continued for two generations after it.",
+"ex": "Umm Al Quwain Department of Tourism and Archaeology, UAE University (Prof Timothy Power), Italian Archaeological Mission in Umm Al Quwain, Institute for the Study of the Ancient World at New York University",
+"disc": [
+"Monastery unearthed in 2022; pearling town announced March 2023",
+"About 12% of the pottery was imported from India"
+],
+"refs": [
+"Power, T., Degli Esposti, M., Hoyland, R. et al. (2024). Excavations at a late antique to early Islamic pearling town and monastery on Sīnīya Island, Umm al-Quwain. Proceedings of the Seminar for Arabian Studies 53: 211–229.",
+"Dennehy, J. (2023). Oldest pearling town in the Arabian Gulf discovered in Umm Al Quwain. The National, 20 March 2023."
+]
+},
+{
+"id": "jumeirah-site",
+"n": "Jumeirah Archaeological Site",
+"na": "موقع جميرا الأثري",
+"c": "archaeological",
+"s": "Abbasid caravan town inside modern Dubai · managed by Dubai Culture",
+"lat": 25.1968,
+"lng": 55.2418,
+"p": "Islamic, Abbasid period",
+"dr": "About the 10th century AD",
+"el": "Fenced plot of 80,000 m²",
+"ic": "caravan",
+"era": "H",
+"t0": 1100,
+"t1": 900,
+"te": "A caravan city under the villas",
+"ta": "مدينة قوافل تحت الفلل",
+"se": "An 80,000 m² Abbasid trading settlement with a mosque, caravanserai, souq and ruler's house, first excavated in 1969",
+"sa": "مستوطنة تجارية عباسية بمساحة 80,000 م² تضم مسجداً وخاناً وسوقاً وبيت الحاكم، بدأ تنقيبها عام 1969",
+"desc": "The Jumeirah Archaeological Site is a fenced plot of about 80,000 m² (8 ha) in Jumeirah 2, Dubai, preserving the remains of a trading settlement of the Abbasid period, around the 10th century AD. It was first explored in 1969 by Dimitri Baramki of the American University of Beirut, continued by an Iraqi team in 1974, and has been excavated by Dubai's own department since 1993. Seven structures have been identified, including a mosque, a caravanserai, a souq, a workshop and a large residential building believed to be the ruler's house, along a caravan route linking India and China with Oman and Iraq. Finds include Abbasid coins, glazed pottery from southern Iraq, Chinese stoneware and stucco decoration; the site is owned and managed by the Dubai Culture and Arts Authority.",
+"sig": "It is the main physical evidence that an organised Islamic trading town existed in the Dubai area a thousand years ago.",
+"ex": "Dimitri Baramki, American University of Beirut (1969); Iraqi mission (1974); Dubai Department of Tourism and Commerce Marketing / Dubai Culture (since 1993); Polish–Emirati study of the stucco (Juchniewicz and Lic)",
+"disc": [
+"Nine structures of the old town survived modern development",
+"Chinese ceramics and Iraqi pottery prove long-distance trade"
+],
+"refs": [
+"Juchniewicz, K. and Lic, A. (2023). Abbasid Jumeirah, Dubai. An Overview of the Site and Its Architectural Stucco Decoration. Études et Travaux 36: 57–81.",
+"Juchniewicz, K. et al. (2025). Breeze of Continuity: New Evidence for the Occupation of Jumeirah Throughout the Islamic Period. Arabian Archaeology and Epigraphy 36(1).",
+"Gulf News. Jumeirah: Digging up the past."
+]
+},
+{
+"id": "dhayah-fort",
+"n": "Dhayah Fort",
+"na": "قلعة ضاية",
+"c": "archaeological",
+"s": "Highest hilltop fort in the UAE · Bronze Age hill, 1819 siege",
+"lat": 25.8844,
+"lng": 56.0605,
+"p": "Late Bronze Age settlement; 18th–19th century fort",
+"dr": "c. 1600 BC – AD 1819",
+"el": "Hill about 70 m high",
+"ic": "wall",
+"era": "H",
+"t0": 3625,
+"t1": 205,
+"te": "Three days without water",
+"ta": "ثلاثة أيام بلا ماء",
+"se": "A mud-brick fort on a 70 m hill above Rams where about 400 people held out for three days in December 1819 before the General Maritime Treaty",
+"sa": "قلعة من الطوب الطيني على تل بارتفاع 70 متراً فوق رمس صمد فيها نحو 400 شخص ثلاثة أيام في ديسمبر 1819 قبل المعاهدة البحرية العامة",
+"desc": "Dhayah Fort stands on a twin-peaked hill about 70 m high between the date gardens and the Jebel Jais mountains in Ras Al Khaimah and is described as the highest hilltop fort in the UAE. The hill was used for settlement and fortification in the Late Bronze Age (c. 1600–1300 BC), and twelve Wadi Suq tombs of c. 2000–1300 BC lie at its base, four of them excavated. In December 1819 a British landing force marched inland and bombarded the fort with mortars and two 24-pounder cannons dragged four miles from the coast; about 400 people held out for three days without water before surrendering at 10:30 on 22 December, after which the fort was demolished. The present fort was rebuilt after 1819 and restored in the late 1990s, and the fall of Dhayah paved the way for the General Maritime Treaty of 1820.",
+"sig": "Dhayah links a Bronze Age hill settlement with the 1819 events that reshaped the political history of the Gulf coast.",
+"ex": "Ras Al Khaimah Department of Antiquities and Museums; restored in the late 1990s",
+"disc": [
+"Twelve Wadi Suq tombs at the base, four excavated",
+"Of 400 who surrendered in 1819, only 177 were men of fighting age"
+],
+"refs": [
+"Ras Al Khaimah Department of Antiquities and Museums. Dhayah Fort (rakheritage.rak.ae).",
+"Wikipedia contributors (2026). Dhayah Fort, citing Lorimer (1915) Gazetteer and United Service Magazine.",
+"McNabb, A. (2025). Children of the Seven Sands. Motivate Media Group."
+]
+},
+{
+"id": "bidaa-bint-saud",
+"n": "Bidaa Bint Saud",
+"na": "بدع بنت سعود",
+"c": "archaeological",
+"s": "Hafit tombs and Iron Age falaj · World Heritage (Al Ain, 2011)",
+"lat": 24.3853,
+"lng": 55.7183,
+"p": "Hafit to Iron Age",
+"dr": "c. 3200 – 300 BC",
+"el": "Iron Age hall 10 × 13 m with 12 columns",
+"ic": "well",
+"era": "P",
+"t0": 5225,
+"t1": 2325,
+"te": "Where the falaj was born",
+"ta": "حيث وُلد الفلج",
+"se": "A rocky outcrop north of Al Ain with 5,000-year-old tombs and one of the earliest falaj irrigation systems known, with a mud-brick water house",
+"sa": "نتوء صخري شمال العين يضم مدافن عمرها 5,000 سنة وواحداً من أقدم أنظمة الأفلاج المعروفة مع بيت طيني لتوزيع الماء",
+"desc": "Bidaa Bint Saud lies about 15–25 km north of Al Ain, where the outcrop of Garn bin Saud rises about 40 m above a probable caravan route. Collapsed domed tombs of the Hafit period (3200–2600 BC) line the eastern face, alongside Wadi Suq burials and Iron Age collective graves that yielded pottery, stone vessels, dagger blades, bronze arrowheads and beads. Two Iron Age falaj channels have been partly excavated, with sandstone-lined shafts, a stepped underground access and a large open cistern; pottery dating places the falaj before the Achaemenid Empire, supporting a south-east Arabian origin for the system. Beside the falaj stands a mud-brick building with a 10 × 13 m hall, walls up to 160 cm high and 12 columns, probably a water distribution point. The site is part of the Cultural Sites of Al Ain inscribed on the World Heritage List in 2011.",
+"sig": "Its Iron Age falaj is key evidence that underground irrigation was invented in south-east Arabia rather than imported from Persia.",
+"ex": "Al Ain Department of Antiquities (Walid Yasin Al Tikriti); Department of Culture and Tourism – Abu Dhabi; finds in Al Ain National Museum",
+"disc": [
+"Falaj dated earlier than the Achaemenid Empire",
+"World Heritage 2011 as part of the Al Ain sites (ref. 1343)"
+],
+"refs": [
+"Al Tikriti, W.Y. (2002). The south-east Arabian origin of the falaj system. Proceedings of the Seminar for Arabian Studies 32: 117–138.",
+"Department of Culture and Tourism – Abu Dhabi. Bidaa Bint Saud (abudhabiculture.ae).",
+"Potts, D.T., Al Naboodah, H. and Hellyer, P. (2003). Archaeology of the United Arab Emirates, pp. 174–177."
+]
+},
+{
+"id": "jebel-jais",
+"n": "Jebel Jais",
+"na": "جبل جيس",
+"c": "geological",
+"s": "Highest peak in the UAE, 1,934 m · Hajar Mountains",
+"lat": 25.94,
+"lng": 56.13,
+"p": "Hajar Mountains, late Cretaceous collision",
+"dr": "More than 70 million years",
+"el": "Summit 1,934 m above sea level",
+"ic": "cliff",
+"era": "D",
+"t0": 70000000,
+"t1": 0,
+"te": "The roof of the Emirates",
+"ta": "سقف الإمارات",
+"se": "A 1,934 m limestone summit in the Hajar range raised when the Arabian and Eurasian plates collided in the late Cretaceous",
+"sa": "قمة جيرية بارتفاع 1,934 متراً في سلسلة الحجر ارتفعت عندما اصطدمت الصفيحتان العربية والأوراسية في أواخر العصر الطباشيري",
+"desc": "Jebel Jais in Ras Al Khaimah rises to 1,934 m above sea level and is the highest peak in the United Arab Emirates. It belongs to the Al Hajar range, about 700 km long and 100 km wide across the UAE and Oman, whose jagged peaks were shaped by continental collision along the Arabian–Eurasian plate boundary in the late Cretaceous. The mountain contains marine and terrestrial sedimentary rocks with fossils, and the range holds ophiolites, among the few places where oceanic rocks can be studied on land; its formations are more than 70 million years old. The summit road leads to the UAE's highest viewing deck park, and the Jais Flight zipline is 2.83 km long.",
+"sig": "It is the highest point of the Emirates and the clearest window on the uplift of the Hajar Mountains.",
+"ex": "Ras Al Khaimah Tourism Development Authority manages the visitor area",
+"disc": [
+"Hajar range about 700 km long and 100 km wide",
+"Rocks more than 70 million years old"
+],
+"refs": [
+"Visit Ras Al Khaimah. The ancient story beneath the slopes: Jebel Jais history and geology explained.",
+"Visit Jebel Jais (RAKTDA). Jebel Jais official page."
+]
+},
+{
+"id": "fossil-rock",
+"n": "Fossil Rock (Jebel Maleihah)",
+"na": "جبل الفوسيل (جبل مليحة)",
+"c": "geological",
+"s": "Marine limestone ridge full of Cretaceous fossils · Mleiha National Park",
+"lat": 25.13,
+"lng": 55.86,
+"p": "Late Cretaceous – Paleocene marine limestone over the Samail Ophiolite",
+"dr": "More than 80 million years",
+"el": "Shells, snails, clams and sea urchins in the rock",
+"ic": "fossil",
+"era": "D",
+"t0": 85000000,
+"t1": 60000000,
+"te": "A sea floor lifted into the desert",
+"ta": "قاع بحر رُفع إلى الصحراء",
+"se": "A limestone ridge north of Jebel Faya packed with snail, clam and sea-urchin fossils from a shallow sea more than 80 million years ago",
+"sa": "حافة جيرية شمال جبل الفاية تمتلئ بأحافير القواقع والمحار وقنافذ البحر من بحر ضحل قبل أكثر من 80 مليون سنة",
+"desc": "Fossil Rock lies a few kilometres north of Jebel Faya in Sharjah, beside the limestone ridge of Jebel Maleihah at the northern edge of the Rub' al Khali. The ridges are marine limestone deposited over tens of millions of years from the Late Cretaceous to the early–mid Paleocene on top of the Samail Ophiolite, one of the world's largest exposures of ancient oceanic crust thrust onto Arabia. Coral fragments and marine invertebrate fossils are visible throughout, and Fossil Rock itself holds an abundance of snail, clam and sea-urchin remains more than 80 million years old. Nearby Jebel Faya stands 412 m above sea level, and the surrounding Faya Palaeolandscape was inscribed on the World Heritage List in 2025.",
+"sig": "It is the most accessible place in the UAE to see a Cretaceous sea floor and the ophiolite beneath it.",
+"ex": "Mleiha National Park, Sharjah; NASA Earth Observatory imagery",
+"disc": [
+"Limestone deposited on top of the Samail Ophiolite",
+"Fossils of fish, ammonites and shells over 80 million years old"
+],
+"refs": [
+"NASA Earth Observatory (2025). Digging Back in Time in the UAE (Landsat 8 image of 23 October 2025).",
+"SceneTraveller. The Desert is a Ceiling to a Forgotten Sea at This Sharjah Park."
+]
+},
+{
+"id": "mleisa-elephant-trackway",
+"n": "Mleisa Elephant Trackway",
+"na": "مسار أقدام الفيلة في مليسا",
+"c": "geological",
+"s": "Seven-million-year-old elephant footprints · Baynunah Formation, Al Dhafra",
+"lat": 23.68,
+"lng": 53.95,
+"p": "Baynunah Formation, Late Miocene",
+"dr": "About 6–8 million years ago",
+"el": "Single trackway 260 m long over 5 hectares",
+"ic": "fossil",
+"era": "D",
+"t0": 8000000,
+"t1": 6000000,
+"te": "A herd walks across the mud",
+"ta": "قطيع يعبر الطين",
+"se": "Hundreds of fossil footprints of a herd of four-tusked elephant ancestors, with a lone male's 260 m trail, on a 5-hectare plain in western Abu Dhabi",
+"sa": "مئات من آثار أقدام متحجرة لقطيع من أسلاف الفيلة ذات الأنياب الأربعة، مع مسار ذكر منفرد بطول 260 متراً، على سهل مساحته 5 هكتارات غرب أبوظبي",
+"desc": "Mleisa 1, in the Al Dhafra region of western Abu Dhabi, preserves hundreds of elephant footprints in the Baynunah Formation, dated to about seven million years ago in the Late Miocene. A solitary male's trackway runs 260 m, while other tracks were left by herding females and juveniles; the site covers about 5 hectares and is one of the largest trackway sites in the world. The 2012 study in Biology Letters by an international team including Faysal Bibi, Brian Kraatz and Andrew Hill used stride lengths to show a herd of adults and a young calf. The Baynunah Formation, laid down by a braided river system with channels three metres deep, has also yielded four-tusked elephants, a primitive hippopotamus, giraffes, six antelope species, crocodiles, turtles, monkeys and ostriches; five further elephant trackway sites have since been found in Al Dhafra.",
+"sig": "It is the oldest direct evidence of herd behaviour in elephant ancestors and shows a wooded, river-crossed Arabia seven million years ago.",
+"ex": "Department of Culture and Tourism – Abu Dhabi; international team (Germany, France, USA, UAE) led by Faysal Bibi",
+"disc": [
+"Published in Biology Letters, 22 February 2012",
+"Coastline then lay about 300 km east of today"
+],
+"refs": [
+"Bibi, F., Kraatz, B., Hill, A. et al. (2012). Early evidence for complex social structure in Proboscidea from a late Miocene trackway site in the United Arab Emirates. Biology Letters (Royal Society).",
+"Department of Culture and Tourism – Abu Dhabi. Mleisa Elephant Trackway; Baynunah Geological Formation Fossil Sites (abudhabiculture.ae)."
+]
+},
+{
+"id": "abu-dhabi-coastal-sabkha",
+"n": "Abu Dhabi coastal sabkha (Al Dabbiya)",
+"na": "سبخة أبوظبي الساحلية (الدبّية)",
+"c": "geological",
+"s": "World type locality of the sabkha · Holocene carbonate–evaporite flats",
+"lat": 24.28,
+"lng": 54.18,
+"p": "Holocene coastal carbonates and evaporites",
+"dr": "Last 4,000–5,000 years",
+"el": "Salt flats up to 15 km wide",
+"ic": "salt",
+"era": "N",
+"t0": 5000,
+"t1": 0,
+"te": "The salt flats that wrote the textbooks",
+"ta": "سبخات دخلت كتب الجيولوجيا",
+"se": "The coastal salt flats west of Abu Dhabi, the world's reference sabkha since Graham Evans found anhydrite forming just below their surface in the 1960s",
+"sa": "السبخات الساحلية غرب أبوظبي، المرجع العالمي للسبخات منذ أن وجد غراهام إيفانز الأنهيدريت يتكوّن تحت سطحها في الستينيات",
+"desc": "The coast of Abu Dhabi is the accepted type locality for sabkhas: a shallow carbonate ramp with a tidal range of 1–2 m where salt flats cover about 36,000 km² and extend up to 15 km inland from dune fields. Groundwater lies never deeper than 1.5 m and is concentrated to about ten times seawater, precipitating calcite, dolomite and gypsum with lesser anhydrite, halite and carnallite; net evaporation has averaged 6 cm a year over the last 4,000–5,000 years and the flats prograde about 1 m per 1,000 years. Prof Graham Evans of Imperial College London first documented the flats in 1962 and found anhydrite forming just below the surface at Saadiyat and Musaffah, a discovery now in geology textbooks. His associate Dr Tony Kirkham identified a 30 km stretch of coast at Al Dabbiya as of exceptional significance and campaigned for protection from infilling and industry.",
+"sig": "These flats are the global reference for how evaporite minerals form in arid coasts and a gauge of past sea-level change.",
+"ex": "Graham Evans and colleagues (Imperial College London, since 1962); Tony Kirkham; Alsharhan and Kendall (satellite and field surveys)",
+"disc": [
+"Anhydrite found forming at the surface, overturning deep-water theories",
+"Abu Dhabi salt flats cover about 36,000 km²"
+],
+"refs": [
+"Evans, G. et al. (1969). Stratigraphy and geologic history of the sabkha, Abu Dhabi, Persian Gulf. Sedimentology 12.",
+"Todorova, V. (2010). UK scientist leads fight to save capital's sabkhas. The National, 21 November 2010.",
+"Alsharhan, A.S. and Kendall, C.G.St.C. (2019). Interpretations of Holocene Carbonate-Evaporites of Coastal and Inland Sabkhas of Abu Dhabi. In Sabkha Ecosystems, Springer, pp. 151–187."
+]
+},
+{
+"id": "al-wathba-fossil-dunes",
+"n": "Al Wathba Fossil Dunes",
+"na": "الكثبان المتحجرة في الوثبة",
+"c": "geological",
+"s": "More than 1,700 cemented Ice Age dunes · protected area opened 2022",
+"lat": 24.19,
+"lng": 54.71,
+"p": "Pleistocene cemented aeolian sand",
+"dr": "About 120,000–150,000 years ago",
+"el": "Over 1,700 dunes in 7 km²",
+"ic": "dune",
+"era": "D",
+"t0": 150000,
+"t1": 7000,
+"te": "Dunes turned to stone",
+"ta": "كثبان تحوّلت إلى حجر",
+"se": "Cross-bedded sand cemented by calcium carbonate from rising groundwater, then carved by wind into 1,700 frozen dunes east of Abu Dhabi",
+"sa": "رمال متقاطعة الطبقات لحمتها كربونات الكالسيوم من المياه الجوفية الصاعدة ثم نحتتها الرياح إلى 1,700 كثيب متحجر شرق أبوظبي",
+"desc": "The Al Wathba Fossil Dunes Protected Area, 45 km east of Abu Dhabi and south of the Al Wathba Wetland Reserve, covers about 7 km² and contains more than 1,700 lightly cemented, cross-bedded sand outcrops. The Environment Agency – Abu Dhabi dates them to about 120,000–150,000 years ago: sand blew in from the exposed bed of the Arabian Gulf during dry glacial periods, rising groundwater then cemented it with calcium carbonate, and wind carved the hardened sand into its present shapes. Prof Thomas Steuber of Khalifa University, who studied the dunes, notes that generations of dunes formed in ice-age cycles between about 200,000 and 7,000 years ago and that wind will eventually destroy them. The site opened free to the public in 2022 as an IUCN category III geological reserve and has been nominated for UNESCO's Global Geoparks list.",
+"sig": "The dunes record the Gulf's dry glacial sea floor and the climate swings of the last ice ages.",
+"ex": "Environment Agency – Abu Dhabi (EAD); Thomas Steuber, Khalifa University of Science and Technology",
+"disc": [
+"More than 1,700 fossil dunes in 7 km²",
+"Nominated for the UNESCO Global Geoparks list"
+],
+"refs": [
+"Khaleej Times (2022). UAE: Al Wathba reserve with rare 120,000-year-old fossil dunes opens to public, 1 February 2022.",
+"CNN / ABC17 News (2022). Abu Dhabi's fossil dunes, with Thomas Steuber of Khalifa University."
+]
+},
+{
+"id": "dubai-desert-conservation-reserve",
+"n": "Dubai Desert Conservation Reserve",
+"na": "محمية دبي الصحراوية",
+"c": "ecology",
+"s": "225 km² national park · about 800 Arabian oryx",
+"lat": 24.827,
+"lng": 55.641,
+"p": "Protected desert, national park",
+"dr": "Protected since 2003",
+"el": "225 km², about 5% of Dubai",
+"ic": "gazelle",
+"era": "N",
+"t0": 23,
+"t1": 0,
+"te": "Oryx on five percent of Dubai",
+"ta": "المها على خمسة بالمئة من دبي",
+"se": "A fenced reserve of 225 km² where 70 reintroduced Arabian oryx grew to about 800, with gazelles, houbara and more than 560 recorded species",
+"sa": "محمية مسوّرة بمساحة 225 كم² تكاثر فيها 70 مهاً عربياً أُعيد توطينها إلى نحو 800، مع الغزلان والحبارى وأكثر من 560 نوعاً مسجلاً",
+"desc": "The Dubai Desert Conservation Reserve covers 225 km², almost 5% of Dubai's land area, about 40 km from the city. It began in 1999 around the 27 km² Al Maha resort and was proclaimed a national park and protected area in 2003, run under the Dubai Conservation Board with a team of 15 conservation officers; domestic livestock were removed in 2008. The reserve reintroduced 70 Arabian oryx and now holds about 800, the largest free-roaming herd in the UAE, with 171 relocated to other reserves, plus about 200 sand gazelles, 420 mountain gazelles and 2,800 reintroduced houbara bustards. Surveys record 18 mammal, 142 bird, 26 reptile, more than 300 arthropod and 74 native plant species across gravel plains, sand dunes and valley dunes.",
+"sig": "It shows how a fenced desert reserve can rebuild a herd of a species once extinct in the wild.",
+"ex": "Dubai Conservation Board; Emirates Group (over Dh28 million invested); visiting university researchers",
+"disc": [
+"Oryx grew from 70 to about 800 animals",
+"More than 560 species recorded, up from about 150"
+],
+"refs": [
+"Gulf News (2023). Video: A walk through the Dubai Desert Conservation Reserve.",
+"Wikipedia contributors (2026). Dubai Desert Conservation Reserve, citing The Telegraph (2024)."
+]
+},
+{
+"id": "ras-ghanada-reef",
+"n": "Ras Ghanada Reef",
+"na": "شعاب رأس غناضة المرجانية",
+"c": "ecology",
+"s": "Largest coral reef in the UAE · 55 km² protected area",
+"lat": 24.88,
+"lng": 54.75,
+"p": "Living coral reef",
+"dr": "Monitored since 2010",
+"el": "About 40% of Arabian Gulf coral species",
+"ic": "wave",
+"era": "N",
+"t0": 20,
+"t1": 0,
+"te": "The reef that survived the heat",
+"ta": "الشعاب التي نجت من الحرارة",
+"se": "A long reef strip near Ghantoot, the most extensive reef on the Gulf side of the UAE, home to turtles, dugongs, sea snakes and clownfish",
+"sa": "شريط مرجاني طويل قرب غنتوت، أوسع شعاب على ساحل الخليج العربي في الإمارات، تعيش فيه السلاحف والأطوم وثعابين البحر وسمك المهرج",
+"desc": "Ras Ghanada, near Ghantoot about 90 km north-east of Abu Dhabi city, is a long, narrow reef strip running parallel to the mainland for several kilometres. Dr John Burt of New York University Abu Dhabi calls it the most extensive reef on the Arabian Gulf side of the UAE, and EWS-WWF described it in 2007 as the best and healthiest reef in Abu Dhabi; Burt has monitored it with the Environment Agency – Abu Dhabi since 2010 using fish counts and seafloor photographs every three metres. The 1996–98 El Niño killed about 90% of Gulf corals, and the reef lies close to the breakwater of Khalifa Port, opened in 2012. The Ras Ghanadah Protected Area now covers 55 km² and holds about 40% of the coral species of the Arabian Gulf, with turtles, dugongs, sea snakes and clownfish.",
+"sig": "It is the UAE's largest coral reef and a natural laboratory for corals living in the world's hottest sea.",
+"ex": "Environment Agency – Abu Dhabi; John Burt, NYU Abu Dhabi marine biology laboratory; Emirates Wildlife Society–WWF",
+"disc": [
+"About 40% of Arabian Gulf coral species in one reef",
+"Protected area of 55 km²"
+],
+"refs": [
+"The National (2015). Guardians of Ras Ghanada: Abu Dhabi's most vibrant coral reef, 5 July 2015.",
+"Experience Abu Dhabi (DCT). Marine Protected Areas in Abu Dhabi.",
+"Ibrahim, M. (2024). An abundance of life thrives in Abu Dhabi's marine protected areas. Aletihad, 10 July 2024."
+]
+},
+{
+"id": "khor-al-beidah",
+"n": "Khor Al Beidah",
+"na": "خور البيضاء",
+"c": "ecology",
+"s": "Tidal lagoon of Umm Al Quwain · Important Bird Area",
+"lat": 25.55,
+"lng": 55.62,
+"p": "Intertidal lagoon, mangrove and sandflats",
+"dr": "IBA since 2017",
+"el": "Up to 4,000 lesser sand plovers in winter",
+"ic": "bird",
+"era": "N",
+"t0": 10,
+"t1": 0,
+"te": "Where the crab plovers winter",
+"ta": "حيث تشتو زقزاقات السرطان",
+"se": "An unprotected tidal lagoon around Al Sinniyah Island that hosts 350–450 wintering crab plovers, endangered great knots and thousands of sand plovers",
+"sa": "خور مدّي غير محمي حول جزيرة السينية يستضيف 350–450 زقزاق سرطان شاتياً وطيور القطقاط الكبير المهددة وآلاف الزقزاقات الرملية",
+"desc": "Khor Al Beidah is a tidal wetland of mudflats, sandflats and mangrove in the Emirate of Umm Al Quwain, listed as an Important Bird Area by BirdLife International and the UAE Ministry of Climate Change and Environment in 2017. Counts from 2010–2015 recorded 350–450 wintering crab plovers, 1,700–4,000 lesser sand plovers, 850–2,000 greater sand plovers, 1,000–2,000 Kentish plovers, 210–310 western reef egrets and 60–88 endangered great knots. More than 420 bird species have been recorded in the region, but less than 10% of the site is covered by any protected designation and BirdLife rates the pressure as high, from biological resource use and likely residential and commercial development. Illegal cutting of mangroves has been reported.",
+"sig": "It is one of the most important shorebird wintering lagoons on the UAE's Gulf coast and still lacks formal protection.",
+"ex": "BirdLife International; UAE Ministry of Climate Change and Environment; Emirates Nature–WWF",
+"disc": [
+"350–450 crab plovers winter here",
+"Less than 10% of the site has any protected status"
+],
+"refs": [
+"BirdLife International (2017). Important Bird Area factsheet: Khor Al Beidah, United Arab Emirates.",
+"Wikipedia contributors (2026). Khor Al Beidah, citing The National and the UAE Ministry of Climate Change and Environment."
+]
+},
+{
+"id": "al-zorah-reserve",
+"n": "Al Zorah Nature Reserve",
+"na": "محمية الزوراء الطبيعية",
+"c": "ecology",
+"s": "Mangrove lagoon of Ajman · Ramsar wetland, protected since 2004",
+"lat": 25.43,
+"lng": 55.49,
+"p": "Mangrove creek and lagoon",
+"dr": "Protected since 2004; Ramsar 2018",
+"el": "195 hectares, 108 animal species",
+"ic": "mangrove",
+"era": "N",
+"t0": 22,
+"t1": 0,
+"te": "Flamingos at the creek mouth",
+"ta": "طيور النحام عند مصبّ الخور",
+"se": "A 195-hectare mangrove and lagoon reserve at the mouth of Ajman Creek with pink flamingos and over 50 other bird species, the UAE's seventh Ramsar site",
+"sa": "محمية قرم وبحيرات بمساحة 195 هكتاراً عند مصب خور عجمان تزورها طيور النحام الوردي وأكثر من 50 نوعاً آخر من الطيور، وهي سابع موقع رامسار في الإمارات",
+"desc": "Al Zorah Nature Reserve covers 195 hectares straddling the mouth of the one-kilometre-long Ajman Creek, with mangroves, sandy beaches, salt flats and lagoons. Legally protected since 2004, it was declared a Wetland of International Importance in 2018, the seventh Ramsar site in the UAE, with 108 recorded animal species including birds, fish, corals and molluscs. Large numbers of pink flamingos gather at certain times of year alongside more than 50 other bird species, and the mangroves are among the few remaining in the northern Emirates. On 24 November 2023, 6,600 mangrove saplings were planted over 0.9 hectares in a restoration project with Emirates Nature–WWF.",
+"sig": "It is the main surviving mangrove wetland of Ajman and shows a small emirate protecting its creek amid urban growth.",
+"ex": "Ajman Municipality and Planning Department; UAE Ministry of Climate Change and Environment; Emirates Nature–WWF",
+"disc": [
+"Seventh Ramsar site in the UAE",
+"6,600 mangrove saplings planted in 2023"
+],
+"refs": [
+"Gulf News (2018). Ajman wetland joins globally protected list, 1 November 2018.",
+"Emirates Nature–WWF. Al Zorah, Ajman (emiratesnaturewwf.ae)."
+]
+},
+{
+"id": "mangrove-national-park-abu-dhabi",
+"n": "Mangrove National Park",
+"na": "منتزه القرم الوطني",
+"c": "ecology",
+"s": "Eastern Mangroves of Abu Dhabi city · 10 km² of grey mangrove",
+"lat": 24.46,
+"lng": 54.43,
+"p": "Avicennia marina forest",
+"dr": "Restoration since the 1970s",
+"el": "About 10 km² of mangrove",
+"ic": "mangrove",
+"era": "N",
+"t0": 50,
+"t1": 0,
+"te": "A forest beside the skyline",
+"ta": "غابة بجانب ناطحات السحاب",
+"se": "Grey mangrove channels on the eastern edge of Abu Dhabi city, about 10 km² and some three-quarters of the UAE's mangrove forest, with flamingos, herons and turtles",
+"sa": "قنوات القرم الرمادي على الطرف الشرقي لمدينة أبوظبي بمساحة نحو 10 كم²، أي نحو ثلاثة أرباع غابات القرم في الإمارات، مع طيور النحام والبلشون والسلاحف",
+"desc": "The Mangrove National Park lies along the Eastern Mangroves corniche of Abu Dhabi city and covers about 10 km², described by Aletihad as about 75% of the UAE's total mangrove forest area and protected by the Environment Agency – Abu Dhabi. The forest is grey mangrove, Avicennia marina, locally called qurm, which grows 2–4 m tall in the intertidal zone; it absorbs carbon, purifies water and buffers tidal surges. Greater flamingos, western reef herons, crabs, turtles, foxes, dugongs and dolphins are recorded, and visitors explore by boardwalk, kayak and eco-boat. Sheikh Zayed began mangrove restoration in the 1970s; the UAE now has about 60 million mangrove trees over roughly 200 km² and aims for 100 million by 2030.",
+"sig": "It is the largest urban mangrove forest in the Emirates and the heart of the country's mangrove-planting ambition.",
+"ex": "Environment Agency – Abu Dhabi (EAD)",
+"disc": [
+"About 10 km² of mangrove next to the city",
+"UAE target of 100 million mangrove trees by 2030"
+],
+"refs": [
+"Ibrahim, M. (2024). An abundance of life thrives in Abu Dhabi's marine protected areas. Aletihad, 10 July 2024.",
+"Gulf News (2026). Abu Dhabi's mangroves: A natural solution to climate change and coastal protection."
+]
+}
+]
+}

@@ -1,0 +1,34 @@
+{
+ "quota": {
+  "Muscat": {
+   "archaeological": 4,
+   "geological": 2
+  },
+  "Musandam": {
+   "archaeological": 2,
+   "geological": 1,
+   "ecology": 1
+  },
+  "Al Buraimi": {
+   "archaeological": 3,
+   "geological": 2,
+   "ecology": 1
+  },
+  "North Al Batinah": {
+   "ecology": 2,
+   "geological": 2,
+   "archaeological": 1
+  },
+  "South Al Batinah": {
+   "archaeological": 3,
+   "ecology": 1,
+   "geological": 1
+  },
+  "Ad Dhahirah": {
+   "archaeological": 3,
+   "geological": 1,
+   "ecology": 2
+  }
+ },
+ "focus": "Northern Oman: forts, towers, old quarters, Bronze/Iron Age settlements and tombs, copper-working sites, Saih Hatat and ophiolite outcrops, wadis and gorges, mangroves and khawrs of the Batinah coast, Musandam fjords, villages and islands. Avoid these, being handled separately: Al Hajar Geopark, Coral Garden and Fish Fossils (Jabal Akhdar), Bawshar, Wadi Al Meeh, Al Dhahirah Natural Reserve, Buraimi Oasis Natural Reserve, Al Jabal Al Gharbi Reserve, Ras Al Shajar, Oman Botanic Garden, Bandar Al Khairan, Rostaq Fort."
+}

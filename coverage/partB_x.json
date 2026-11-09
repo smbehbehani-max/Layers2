@@ -1,0 +1,26 @@
+{
+ "quota": {
+  "ae:Ajman": {
+   "archaeological": 2,
+   "geological": 1
+  },
+  "ae:Umm Al Quwain": {
+   "archaeological": 1
+  },
+  "qa:Umm Salal": {
+   "archaeological": 2
+  },
+  "qa:Al Khor": {
+   "archaeological": 1,
+   "geological": 1
+  },
+  "qa:Al Daayen": {
+   "archaeological": 1,
+   "ecology": 1
+  },
+  "qa:Doha": {
+   "archaeological": 1
+  }
+ },
+ "focus": "UAE: Ajman (Ajman Fort/Museum \u2014 verify the coordinate really is in Ajman city, Mowaihat tombs, Masfout and Manama exclave forts/geology), Umm Al Quwain (UAQ Fort, Al Dour / Tell Abraq already mapped \u2014 choose others). Qatar: Umm Salal Mohammed Fort, Umm Salal Ali tumuli field, Al Khor (Al Khor Museum/Ruins, Al Ghuwayriyah, Purple Island is mapped), Al Daayen (Simaisma, Al Kheesa, Lusail historic sites), Doha (Al Bidda / Old Doha sites, Msheireb heritage houses)."
+}

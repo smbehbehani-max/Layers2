@@ -1,0 +1,179 @@
+{
+ "sa": {
+  "now": {
+   "archaeological": 60,
+   "geological": 20,
+   "ecology": 19
+  },
+  "now_total": 99,
+  "musthave_missing": 84,
+  "musthave_by_layer": {
+   "archaeological": 28,
+   "ecology": 45,
+   "geological": 11
+  },
+  "after": {
+   "archaeological": 88,
+   "geological": 31,
+   "ecology": 64
+  },
+  "final_total": 247,
+  "target_by_layer": {
+   "archaeological": 109,
+   "geological": 74,
+   "ecology": 64
+  },
+  "extra_by_layer": {
+   "archaeological": 21,
+   "geological": 43,
+   "ecology": 0
+  }
+ },
+ "om": {
+  "now": {
+   "archaeological": 15,
+   "geological": 9,
+   "ecology": 14
+  },
+  "now_total": 38,
+  "musthave_missing": 23,
+  "musthave_by_layer": {
+   "archaeological": 5,
+   "ecology": 12,
+   "geological": 6
+  },
+  "after": {
+   "archaeological": 20,
+   "geological": 15,
+   "ecology": 26
+  },
+  "final_total": 100,
+  "target_by_layer": {
+   "archaeological": 44,
+   "geological": 30,
+   "ecology": 26
+  },
+  "extra_by_layer": {
+   "archaeological": 24,
+   "geological": 15,
+   "ecology": 0
+  }
+ },
+ "ae": {
+  "now": {
+   "archaeological": 17,
+   "geological": 8,
+   "ecology": 10
+  },
+  "now_total": 35,
+  "musthave_missing": 53,
+  "musthave_by_layer": {
+   "archaeological": 13,
+   "ecology": 39,
+   "geological": 1
+  },
+  "after": {
+   "archaeological": 30,
+   "geological": 9,
+   "ecology": 49
+  },
+  "final_total": 189,
+  "target_by_layer": {
+   "archaeological": 83,
+   "geological": 57,
+   "ecology": 49
+  },
+  "extra_by_layer": {
+   "archaeological": 53,
+   "geological": 48,
+   "ecology": 0
+  }
+ },
+ "qa": {
+  "now": {
+   "archaeological": 14,
+   "geological": 9,
+   "ecology": 12
+  },
+  "now_total": 35,
+  "musthave_missing": 8,
+  "musthave_by_layer": {
+   "archaeological": 1,
+   "ecology": 7
+  },
+  "after": {
+   "archaeological": 15,
+   "geological": 9,
+   "ecology": 19
+  },
+  "final_total": 74,
+  "target_by_layer": {
+   "archaeological": 33,
+   "geological": 22,
+   "ecology": 19
+  },
+  "extra_by_layer": {
+   "archaeological": 18,
+   "geological": 13,
+   "ecology": 0
+  }
+ },
+ "bh": {
+  "now": {
+   "archaeological": 19,
+   "geological": 10,
+   "ecology": 9
+  },
+  "now_total": 38,
+  "musthave_missing": 7,
+  "musthave_by_layer": {
+   "ecology": 5,
+   "archaeological": 2
+  },
+  "after": {
+   "archaeological": 21,
+   "geological": 10,
+   "ecology": 14
+  },
+  "final_total": 54,
+  "target_by_layer": {
+   "archaeological": 24,
+   "geological": 16,
+   "ecology": 14
+  },
+  "extra_by_layer": {
+   "archaeological": 3,
+   "geological": 6,
+   "ecology": 0
+  }
+ },
+ "kw": {
+  "now": {
+   "archaeological": 19,
+   "geological": 34,
+   "ecology": 16
+  },
+  "now_total": 69,
+  "musthave_missing": 19,
+  "musthave_by_layer": {
+   "archaeological": 3,
+   "ecology": 16
+  },
+  "after": {
+   "archaeological": 22,
+   "geological": 34,
+   "ecology": 32
+  },
+  "final_total": 105,
+  "target_by_layer": {
+   "archaeological": 39,
+   "geological": 26,
+   "ecology": 23
+  },
+  "extra_by_layer": {
+   "archaeological": 17,
+   "geological": 0,
+   "ecology": 0
+  }
+ }
+}

@@ -1,0 +1,72 @@
+[
+ {
+  "id": "qa-simaisma",
+  "n": "Simaisma historic village and burials",
+  "na": "سميسمة",
+  "c": "archaeological",
+  "ic": "boat",
+  "era": "H",
+  "s": "Walled pearling village of 1908 on the east coast · old mosque and ancient burials",
+  "lat": 25.57472,
+  "lng": 51.48639,
+  "p": "5th century BC (burials); 18th–20th century AD (village)",
+  "dr": "Walled village with about 250 families and 50 pearl boats (Lorimer, 1908); mosque built 1938",
+  "el": "About 250 families and 50 pearling boats in 1908",
+  "t0": 2450,
+  "t1": 62,
+  "te": "The pearling village of sesame mounds",
+  "ta": "قرية اللؤلؤ ذات التلال الرملية",
+  "se": "A small coastal village whose 50 pearling boats, old mosque and ancient graves tell thousands of years of life on Qatar’s east coast",
+  "sa": "قرية ساحلية صغيرة تروي قواربها الخمسون للغوص على اللؤلؤ ومسجدها القديم وقبورها العتيقة آلاف السنين من الحياة على الساحل الشرقي لقطر",
+  "desc": "Simaisma is a coastal settlement on the east coast of Qatar, between Doha and Al Khor. In 1908 Lorimer’s Gazetteer described it as a walled village of about 250 families with 50 pearl boats, drawing drinking water from wells at Uwaynat bin Hussain. Its mosque, built in 1938, is one of the oldest surviving mosques in Qatar and once housed a madrasa. Archaeological work in the area by the Qatar National Historic Environment Record team, and a Qatar Museums excavation of an inhumation at Aerospace City north of Smaisma, have recorded burials; Wikipedia, citing Cuttler (2014), reports two circular burial mounds dated to the 5th century BC.",
+  "sig": "A well-documented pearling-era village whose surroundings also preserve much older burial evidence.",
+  "ex": "Lorimer (1908); Sakal et al. (2022)",
+  "disc": [
+   "250 families, 50 pearl boats (1908)",
+   "Mosque built in 1938",
+   "Burials recorded nearby"
+  ],
+  "refs": [
+   "Lorimer, J.G. (1908). Gazetteer of the Persian Gulf, Oman and Central Arabia, Vol. II (Geographical and Statistical). Qatar Digital Library. https://www.qdl.qa/en/archive/81055/vdc_100023515720.0x0000a8",
+   "Sakal, F., Baldoni, M., Al-Hashmi, M., Tomei, S., Martínez-Labarga, C. & Al Naimi, F. (2022). Funerary archaeology in Qatar: old data and new discoveries. Proceedings of the Seminar for Arabian Studies 51, 313–328. https://archaeopresspublishing.com/ojs/index.php/PSAS/article/download/615/991/10879",
+   "Wikipedia. Simaisma (archaeology section citing Cuttler, R.T.H. (2014), PhD thesis, University of Birmingham, http://etheses.bham.ac.uk/4953/1/Cuttler14PhD_Redacted.pdf). https://en.wikipedia.org/wiki/Simaisma"
+  ],
+  "conf": "Coordinates are the Wikipedia infobox point for the village of Simaisma (25°34′29″N 51°29′11″E), ≈1 km for the historic village; the burials lie in its surroundings and have no published point. Region: Wikipedia says Simaisma is an administrative zone of Al Khor municipality although it lies geographically in Al Daayen (the task focus listed it under Al Daayen); set to Al Khor here, change to Al Daayen if the app uses geography. The 5th-century-BC mound date is taken from Wikipedia’s summary of Cuttler (2014) and was not checked in the thesis itself; t0 uses it (≈450 BC) and t1 the 1938 mosque. About 3.7 km from the existing Umm Qarn Reserve point, a different feature",
+  "region": "Al Khor",
+  "must_have": null
+ },
+ {
+  "id": "qa-bin-obaid-mosque",
+  "n": "Bin Obaid Mosque",
+  "na": "مسجد بن عبيد",
+  "c": "archaeological",
+  "ic": "wall",
+  "era": "H",
+  "s": "Neighbourhood mosque of old Doha built in 1935 · original round minaret survives",
+  "lat": 25.2888448,
+  "lng": 51.5450356,
+  "p": "1935 – present",
+  "dr": "Built 1935; courtyard wall rebuilt 2015; Qatar Museums heritage site",
+  "el": "Original minaret about 5 m tall",
+  "t0": 65,
+  "t1": 0,
+  "te": "The little mosque among the towers",
+  "ta": "المسجد الصغير بين الأبراج",
+  "se": "Built in 1935 when the land around it was open, this small mosque now hides among Doha’s tall buildings, its old minaret still standing",
+  "sa": "بُني عام 1935 حين كانت الأرض من حوله فضاءً مفتوحًا، وهو اليوم مسجد صغير يختبئ بين أبنية الدوحة الشاهقة، ومئذنته القديمة ما زالت قائمة",
+  "desc": "A traditional neighbourhood mosque in Doha, originally built in 1935 in an open area and now surrounded by large modern buildings in a commercial district. It consists of a courtyard and a prayer hall: ten ornamented openings separate the outer prayer hall from the courtyard, three doors lead to the inner prayer hall, and the mihrab is semicircular with a pointed dome. The original cylindrical minaret, about 5 m tall, stands at the south-east corner of the courtyard on a round base, with a dome carried on six columns. In 2015 the courtyard wall was rebuilt and a house for the imam and a new ablution area were added.",
+  "sig": "One of the few surviving pre-oil neighbourhood mosques of old Doha, conserved by Qatar Museums.",
+  "ex": "Qatar Museums heritage sites",
+  "disc": [
+   "Built in 1935",
+   "Original 5 m minaret",
+   "Courtyard wall rebuilt 2015"
+  ],
+  "refs": [
+   "Qatar Museums. Bin Obaid Mosque. https://qm.org.qa/en/visit/heritage-sites/bin-obaid-mosque/"
+  ],
+  "conf": "Coordinates are the place pin of the official Qatar Museums map link for the mosque (Google Maps, 25.2888448, 51.5450356), ≈50 m. About 1.4 km from the existing Al Koot Fort record, a different site. Arabic name is a transliteration of the official English name",
+  "region": "Doha",
+  "must_have": null
+ }
+]

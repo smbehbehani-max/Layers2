@@ -1,0 +1,19 @@
+{
+ "quota": {
+  "Al Buraimi": {
+   "archaeological": 4,
+   "geological": 2,
+   "ecology": 1
+  },
+  "Ad Dhahirah": {
+   "archaeological": 4,
+   "geological": 1,
+   "ecology": 1
+  },
+  "South Al Batinah": {
+   "geological": 1,
+   "archaeological": 1
+  }
+ },
+ "focus": "Al Buraimi: Al Hillah Fort, Bait Al Nad, Bait Bahr, Falaj Al Saarani, Mahdah forts and tombs, Hafit-period tombs, Wadi Khutwah area, ophiolite/mountain-front geology near Mahdah. Ad Dhahirah: Ibri Fort, Salh and Wadi Raki copper-smelting sites, Jabal Qatar, Bat-area outlying sites not already mapped, Yanqul, Dank forts, ophiolite or wadi geology. South Al Batinah: Al Thowarah hot spring (Nakhal) and Bilad Sayt village are pre-approved (Wikipedia coordinates 23.3754, 57.8284 and 23.19025, 57.387917; still verify)."
+}

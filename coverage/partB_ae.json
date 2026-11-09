@@ -1,0 +1,23 @@
+{
+ "quota": {
+  "Ras Al Khaimah": {
+   "geological": 3
+  },
+  "Fujairah": {
+   "geological": 4
+  },
+  "Dubai": {
+   "geological": 1
+  },
+  "Ajman": {
+   "geological": 1,
+   "archaeological": 1,
+   "ecology": 1
+  },
+  "Umm Al Quwain": {
+   "geological": 1,
+   "archaeological": 1
+  }
+ },
+ "focus": "Hajar Mountains geology in Ras Al Khaimah and Fujairah (Semail ophiolite in the UAE, Wadi gorges, Musandam carbonates, Jebel Jais sections, exotic limestones, mantle sections at Masafi/Khor Fakkan), Hatta (Dubai) geology, coastal sabkhas and lagoons of Ajman and Umm Al Quwain, plus documented archaeological sites in Ajman (e.g. Mowaihat) and Umm Al Quwain (e.g. Akab, Ed-Dur is already mapped)."
+}

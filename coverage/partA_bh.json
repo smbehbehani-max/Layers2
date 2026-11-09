@@ -1,0 +1,93 @@
+[
+ {
+  "must_have": "BH-A1",
+  "name": "Najwat Bul Thamah Protected Area",
+  "name_ar": "محمية نجوة بولثامة",
+  "layer": "ecology",
+  "region": "Offshore (northern waters)",
+  "designation": "Marine protected area (Decision No. 2 of 2017), ~3.2 km²",
+  "lat": null,
+  "lng": null,
+  "coord_source": null,
+  "source_url": "https://bnature.info/protected-areas/",
+  "note": null
+ },
+ {
+  "must_have": "BH-A2",
+  "name": "Reef Bul Thamah (Fasht Bulthama) Protected Area",
+  "name_ar": "محمية فشت بولثامة",
+  "layer": "ecology",
+  "region": "Offshore (northern waters)",
+  "designation": "Marine protected area (2007; Decision No. 8 of 2007), ~7.8 km²",
+  "lat": null,
+  "lng": null,
+  "coord_source": null,
+  "source_url": "https://bnature.info/protected-areas/",
+  "note": "~90 km offshore; not the same as app's fasht-al-adhm."
+ },
+ {
+  "must_have": "BH-A3",
+  "name": "Manama, City of Trade, Multiculturalism and Religious Coexistence",
+  "name_ar": "المنامة، مدينة التجارة والتعددية الثقافية والتعايش الديني",
+  "layer": "archaeological",
+  "region": "Capital",
+  "designation": "UNESCO Tentative List 2018 (ref. 6354, criteria ii, iii)",
+  "lat": 26.23306,
+  "lng": 50.57889,
+  "coord_source": "UNESCO TL page ref. 6354",
+  "source_url": "https://whc.unesco.org/fr/listesindicatives/6354",
+  "note": "Historic urban property; fits the archaeological/heritage layer loosely."
+ },
+ {
+  "must_have": "BH-A4",
+  "name": "Awali oil settlement",
+  "name_ar": "مدينة عوالي النفطية",
+  "layer": "archaeological",
+  "region": "Southern",
+  "designation": "UNESCO Tentative List 2019 (ref. 6397, criteria ii, iv)",
+  "lat": 26.08766,
+  "lng": 50.54821,
+  "coord_source": "UNESCO TL page ref. 6397",
+  "source_url": "https://whc.unesco.org/en/tentativelists/6397",
+  "note": "Not the same as app entry first-oil-well (~5 km south at Jebel Dukhan)."
+ },
+ {
+  "must_have": "BH-A5",
+  "name": "Hayr Bū ‘Amāmah (oyster bed) – Pearling, Testimony of an Island Economy",
+  "name_ar": "هير بو عمامة",
+  "layer": "ecology",
+  "region": "Offshore (northern waters)",
+  "designation": "UNESCO World Heritage 2012 (component 1364rev-002 of Pearling, Testimony of an Island Economy) ; marine protected area (SCE Decision 3/2017)",
+  "lat": 26.80751,
+  "lng": 50.80365,
+  "coord_source": "UNESCO WHC maps page, component 1364rev-002",
+  "source_url": "https://whc.unesco.org/en/list/1364/maps",
+  "note": "Also a marine protected area (SCE Decision No. 3 of 2017). No app entry for the oyster beds."
+ },
+ {
+  "must_have": "BH-A6",
+  "name": "Hayr Bū-l-Thāmah (oyster bed) – Pearling, Testimony of an Island Economy",
+  "name_ar": "هير بولثامة",
+  "layer": "ecology",
+  "region": "Offshore (northern waters)",
+  "designation": "UNESCO World Heritage 2012 (component 1364rev-001 of Pearling, Testimony of an Island Economy) ; marine protected area (SCE Decision 3/2017)",
+  "lat": 26.7904,
+  "lng": 50.9119,
+  "coord_source": "UNESCO WHC maps page, component 1364rev-001",
+  "source_url": "https://whc.unesco.org/en/list/1364/maps",
+  "note": "Also a marine protected area (SCE Decision No. 3 of 2017). No app entry for the oyster beds."
+ },
+ {
+  "must_have": "BH-A7",
+  "name": "Hayr Shtayyah (oyster bed) – Pearling, Testimony of an Island Economy",
+  "name_ar": "هير شتية",
+  "layer": "ecology",
+  "region": "Offshore (northern waters)",
+  "designation": "UNESCO World Heritage 2012 (component 1364rev-003 of Pearling, Testimony of an Island Economy) ; marine protected area (SCE Decision 3/2017)",
+  "lat": 26.61136,
+  "lng": 50.81551,
+  "coord_source": "UNESCO WHC maps page, component 1364rev-003",
+  "source_url": "https://whc.unesco.org/en/list/1364/maps",
+  "note": "Also a marine protected area (SCE Decision No. 3 of 2017). No app entry for the oyster beds."
+ }
+]

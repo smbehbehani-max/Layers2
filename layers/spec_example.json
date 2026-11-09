@@ -1,0 +1,133 @@
+{
+ "id": "spec-bahra-quake",
+ "new": true,
+ "bas": "link",
+ "sh": "quake",
+ "key": "quake",
+ "disc": [
+  "archaeological",
+  "geological"
+ ],
+ "lat": 29.641,
+ "lng": 47.972,
+ "ages": [
+  7500,
+  6800
+ ],
+ "n": "Earthquake and the End of Bahra 1",
+ "na": "الزلزال ونهاية بحرة 1",
+ "te": "Did the Earth Shake Bahra Empty?",
+ "ta": "هل أفرغ الزلزال بحرة؟",
+ "s": "Cross-category hypothesis",
+ "p": "Ubaid / Middle Holocene",
+ "dr": "c. 5000–4800 BC (test window)",
+ "desc": "A connection between two records on this map. Bahra 1, the largest Ubaid-related settlement known outside Mesopotamia, was occupied c. 5500–4900 BC and then abandoned. A few kilometres east, Bou-Rabee, Young & Okal (2020) describe cemented sand and gravel-filled dikes along the Jazirat Dubaij / Jal Az-Zor coast that point to a single large seismic event (strong shaking or seiching) about 7,000 years ago, and note that the work may help explain the disappearance of an ancient population that lived in the region at that time. Earthquake-related seismites and mud volcanoes in the Subiya sabkha (Duane et al. 2015) show that this coast has liquefied more than once.",
+ "sig": "If an earthquake ended or hastened the end of Bahra 1, it would be one of the oldest known cases of a settlement abandoned after a seismic event in Arabia, and a direct input to the seismic hazard assessment of northern Kuwait.",
+ "ev": "Dates: Bahra 1 abandonment c. 4900 BC (c. 6,900 years ago); liquefaction event c. 7,000 years ago (Bou-Rabee et al. 2020). Proximity: liquefaction dikes, seismites and mud-volcano zones lie 5–10 km east of Bahra 1. Mechanism: shaking strong enough to liquefy sand would crack floors and walls on the same coast.",
+ "an": "Helike (Gulf of Corinth, Greece) was destroyed by an earthquake and seismic sea wave in 373 BC; cores from the delta later yielded ceramic fragments throughout the upper 12 m, showing that the settlement landscape was buried rather than lost (Soter et al. 2001).",
+ "val": "Inspect excavation trenches at Bahra 1 for clastic dikes, sand blows, tilted or fractured floors; date dikes and the layers they cut and seal (OSL, radiocarbon); test for a common fall direction of walls; compare with shoreline (sea-level) and climate records for the same centuries.",
+ "dlist": [
+  "Rival explanation 1: shoreline change during the Holocene transgression moved the coast and resources away from the village.",
+  "Rival explanation 2: climatic drying in the mid-Holocene reduced water and grazing.",
+  "Rival explanation 3: social or economic change in the Ubaid world, unrelated to the environment."
+ ],
+ "refs": [
+  "Bou-Rabee, F., Young, Y.L. & Okal, E.A. (2020). Evidence of prehistoric liquefaction in Kuwait and implications for the seismic vulnerability of the Arabian Gulf countries. Natural Hazards 103(1), 799–813. DOI: 10.1007/s11069-020-04013-9",
+  "Soter, S., Blackwelder, P., Tziavos, C., Katsonopoulou, D., Hood, T. & Alvarez Zarikian, C.A. (2001). Environmental analysis of cores from the Helike Delta, Gulf of Corinth, Greece. Journal of Coastal Research 17(1), 95–106.",
+  "Duane, M.J., Reinink-Smith, L., Eastoe, C. & Al-Mishwat, A.T. (2015). Mud volcanoes and evaporite seismites in a tidal flat of northern Kuwait. Geo-Marine Letters 35, 237–246. DOI: 10.1007/s00367-015-0403-9"
+ ],
+ "se": "Kuwait’s biggest Ubaid village fell silent about 7,000 years ago, just when an earthquake turned the sand of this coast to liquid. Coincidence, or cause? Nobody has tested it yet.",
+ "sa": "صمتت أكبر قرية من عصر العبيد في الكويت قبل نحو 7,000 عام، في الوقت نفسه الذي حوّل فيه زلزالٌ رمالَ هذا الساحل إلى سائل. مصادفة أم سبب؟ لم يختبر أحد ذلك بعد.",
+ "spot": {
+  "en": "Born from a coincidence of dates on this map. Bahra 1 was abandoned around 4900 BC, about 6,900 years ago. On the same coast, Bou-Rabee and colleagues (2020) found sand dikes made by one large seismic event about 7,000 years ago, and suggested it may help explain why the people who lived here disappeared.",
+  "ar": "وُلدت الفكرة من تطابق تواريخ على هذه الخريطة: هُجرت بحرة 1 نحو 4900 ق.م، أي قبل نحو 6,900 عام. وعلى الساحل نفسه وجدت بورابي وزملاؤها (2020) سدودًا رملية صنعها حدث زلزالي واحد كبير قبل نحو 7,000 عام، ورأوا أنه قد يساعد في تفسير اختفاء من عاشوا هنا."
+ },
+ "lk": [
+  [
+   "bahra-1",
+   "The village that fell silent around 4900 BC",
+   "القرية التي صمتت نحو 4900 ق.م"
+  ],
+  [
+   "paleo-liquefaction",
+   "Sand dikes from one large seismic event, c. 7,000 years ago",
+   "سدود رملية من حدث زلزالي واحد كبير قبل نحو 7,000 عام"
+  ],
+  [
+   "sabkha-seismites",
+   "Layers deformed by earthquakes in the sabkha",
+   "طبقات شوّهتها الزلازل في السبخة"
+  ],
+  [
+   "mud-volcano-z2",
+   "Mud volcanoes squeezed up by shaking",
+   "براكين طينية دفعها الاهتزاز إلى السطح"
+  ],
+  [
+   "holocene-sea-level",
+   "The rival explanation: a moving shoreline",
+   "التفسير المنافس: ساحل متحرك"
+  ]
+ ],
+ "pred": {
+  "en": "At Bahra 1, sand dikes or cracked, tilted floors will cut the last occupation layers and be sealed by sediment laid down after people left, and their dates will overlap 4900 BC.",
+  "ar": "في بحرة 1 ستقطع السدود الرملية أو الأرضيات المتشققة والمائلة آخر طبقات السكن، وستغطيها رواسب تراكمت بعد رحيل الناس، وستتداخل تواريخها مع 4900 ق.م."
+ },
+ "test": {
+  "en": "Look for liquefaction features in the excavation trenches; date the dikes and the layers they cut; check whether walls fell in one direction; compare with shoreline and climate records of the same centuries.",
+  "ar": "البحث عن آثار التسييل في خنادق التنقيب، وتأريخ السدود والطبقات التي تقطعها، والتحقق مما إذا كانت الجدران قد سقطت في اتجاه واحد، والمقارنة بسجلات الساحل والمناخ في القرون نفسها."
+ },
+ "wrong": {
+  "en": "If the dikes are centuries older or younger than the abandonment, or the village faded slowly with no damage, the earthquake idea fails.",
+  "ar": "إذا كانت السدود أقدم أو أحدث من الهجر بقرون، أو تلاشت القرية ببطء دون أضرار، تسقط فكرة الزلزال."
+ },
+ "story": {
+  "title": {
+   "en": "The Day the Ground Turned to Water",
+   "ar": "يوم صارت الأرض ماءً"
+  },
+  "tag": {
+   "en": "Kuwait’s largest Ubaid village fell silent about 7,000 years ago, when an earthquake liquefied the coast",
+   "ar": "صمتت أكبر قرية من عصر العبيد في الكويت قبل نحو 7,000 عام، حين سيّل زلزالٌ رمال الساحل"
+  },
+  "p1": {
+   "en": [
+    "Bahra 1 was the largest Ubaid village outside Mesopotamia, with stone houses and workshops full of shell beads. Around 4900 BC, after about six centuries, it fell silent.",
+    "A few kilometres east, the sand is cut by cemented dikes: pipes of sand that shot upward when the ground shook so hard it behaved like a liquid. They point to one big event, about 7,000 years ago."
+   ],
+   "ar": [
+    "كانت بحرة 1 أكبر قرية من عصر العبيد خارج بلاد ما بين النهرين، فيها بيوت من الحجر وورش مليئة بخرز الأصداف. ونحو 4900 ق.م، بعد قرابة ستة قرون، صمتت.",
+    "وعلى بعد كيلومترات قليلة إلى الشرق تقطع الرمالَ سدودٌ متصلبة: أنابيب من الرمل اندفعت إلى الأعلى حين اهتزت الأرض بقوة حتى تصرفت كالسائل. وهي تشير إلى حدث واحد كبير قبل نحو 7,000 عام."
+   ]
+  },
+  "h2": {
+   "en": "Seen before: Helike",
+   "ar": "حدث من قبل: هيليكي"
+  },
+  "p2": {
+   "en": [
+    "In 373 BC an earthquake and a sea wave destroyed the Greek city of Helike in a single night, and its ruins vanished from sight.",
+    "Centuries later, researchers drilled cores into the delta where it had stood and found pottery fragments throughout the upper 12 metres of mud. The settlement’s world was buried, not gone."
+   ],
+   "ar": [
+    "في عام 373 ق.م دمّر زلزال وموجة بحرية مدينة هيليكي اليونانية في ليلة واحدة، واختفت أطلالها عن الأنظار.",
+    "وبعد قرون طويلة حفر الباحثون عينات لبية في الدلتا حيث كانت، فوجدوا شظايا فخار في الأمتار الاثني عشر العليا من الطين. لم يضع عالم المدينة، بل دُفن."
+   ]
+  },
+  "p3": {
+   "en": [
+    "On this map the dots line up: Bahra 1’s last years, the liquefaction dikes, the seismites and the mud volcanoes of the Subiya sabkha, all on one restless coast.",
+    "It is not the only possible story. The sea was rising and moving the shore, and the climate was changing. A good test must be able to tell these stories apart."
+   ],
+   "ar": [
+    "على هذه الخريطة تصطف النقاط: سنوات بحرة 1 الأخيرة، وسدود التسييل، والطبقات الزلزالية، والبراكين الطينية في سبخة الصبية، كلها على ساحل واحد قلق.",
+    "وليست هذه القصة الوحيدة الممكنة. فالبحر كان يرتفع ويحرّك الساحل، والمناخ كان يتغير. والاختبار الجيد يجب أن يفرّق بين هذه القصص."
+   ]
+  },
+  "refs": [
+   "Bou-Rabee, F., Young, Y.L. & Okal, E.A. (2020). Evidence of prehistoric liquefaction in Kuwait and implications for the seismic vulnerability of the Arabian Gulf countries. Natural Hazards 103(1), 799–813. DOI: 10.1007/s11069-020-04013-9",
+   "Soter, S., Blackwelder, P., Tziavos, C., Katsonopoulou, D., Hood, T. & Alvarez Zarikian, C.A. (2001). Environmental analysis of cores from the Helike Delta, Gulf of Corinth, Greece. Journal of Coastal Research 17(1), 95–106.",
+   "Duane, M.J., Reinink-Smith, L., Eastoe, C. & Al-Mishwat, A.T. (2015). Mud volcanoes and evaporite seismites in a tidal flat of northern Kuwait. Geo-Marine Letters 35, 237–246. DOI: 10.1007/s00367-015-0403-9"
+  ]
+ }
+}

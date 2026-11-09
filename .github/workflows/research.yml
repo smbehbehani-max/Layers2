@@ -1,0 +1,68 @@
+# Every Sunday: look for new research, draft records and AI hypotheses, open a pull request for review.
+name: Weekly research
+on:
+  schedule:
+    - cron: '13 5 * * 0'      # Sunday 08:13 Kuwait time
+  workflow_dispatch: {}
+permissions:
+  contents: write
+  pull-requests: write
+  actions: write
+jobs:
+  research:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - name: Link the build folder
+        run: sudo ln -sfn "$GITHUB_WORKSPACE" /tmp/w
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.12' }
+      - name: Research run
+        working-directory: autopilot/tools
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          LAYERS_MODEL: ${{ vars.LAYERS_MODEL || 'claude-sonnet-5-5' }}
+          MAX_PAPERS: ${{ vars.MAX_PAPERS || '20' }}
+          MAX_HYP: ${{ vars.MAX_HYP || '3' }}
+          CONTACT: ${{ vars.CONTACT }}
+        run: python3 research.py
+      - name: Automatic checks
+        working-directory: autopilot/tools
+        run: python3 check.py || true
+      - name: Remember what was already read
+        run: |
+          git config user.name "layers-autopilot"; git config user.email "actions@users.noreply.github.com"
+          git add autopilot/review/state.json
+          git commit -m "Autopilot: research state [skip ci]" || true
+          git push || true
+      - name: Prepare the pull request text
+        id: body
+        run: |
+          D=$(date -u +%F); f=autopilot/review/inbox/$D
+          { cat "$f/REPORT.md" 2>/dev/null; echo; cat autopilot/review/inbox/CHECKS.md 2>/dev/null; echo; echo "---"; echo "**To approve:** merge this pull request. **To reject:** close it. **To fix:** edit or delete records in the JSON files of this pull request, then merge."; } > /tmp/body.md
+          echo "date=$D" >> "$GITHUB_OUTPUT"
+      - uses: peter-evans/create-pull-request@v7
+        id: pr
+        with:
+          branch: autopilot/${{ steps.body.outputs.date }}
+          title: "Research run ${{ steps.body.outputs.date }}: drafts to review"
+          body-path: /tmp/body.md
+          commit-message: "Autopilot drafts ${{ steps.body.outputs.date }}"
+          add-paths: autopilot/review/inbox/**
+          delete-branch: true
+      - name: Auto-publish (only if you switched it on, and only when every check is clean)
+        if: ${{ vars.AUTO_PUBLISH == 'true' && steps.pr.outputs.pull-request-number }}
+        env:
+          GH_TOKEN: ${{ github.token }}
+          HOLD_UNTIL: ${{ vars.HOLD_UNTIL || '2027-01-08' }}
+        run: |
+          if [ "$(date -u +%F)" \< "$HOLD_UNTIL" ]; then echo "Auto-publish is on hold until $HOLD_UNTIL; waiting for your approval."; exit 0; fi
+          read R E W <<< $(python3 -c "import json;d=json.load(open('autopilot/review/inbox/checks.json'));print(d['records'],d['errors'],d['warnings'])")
+          if [ "$R" -gt 0 ] && [ "$E" -eq 0 ] && [ "$W" -eq 0 ]; then
+            gh pr comment ${{ steps.pr.outputs.pull-request-number }} --body "All $R records passed every automatic check and the independent review. Published automatically. To undo, revert this merge."
+            gh pr merge ${{ steps.pr.outputs.pull-request-number }} --squash --delete-branch
+            gh workflow run publish.yml --ref main
+          else
+            gh pr comment ${{ steps.pr.outputs.pull-request-number }} --body "Not published automatically: $E records with errors, $W with warnings. Waiting for your review."
+          fi

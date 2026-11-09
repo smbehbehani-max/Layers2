@@ -1,0 +1,191 @@
+<html><head><style>:root{--k-sky:#bfe3ea;--k-sky2:#f3dcc0;--k-sun:#f6c24a;--k-sea:#3f9aa0;--k-sea2:#8ccfcb;--k-sand:#ecd6a6;--k-sand2:#d9b779;--k-rock:#cf8e5c;--k-rock2:#a8653f;--k-green:#7fb069;--k-mud:#8a6a52;--k-mud2:#5e4433;--k-ink:#24312f;--k-wh:#fffaf0;--k-skin:#c68a5c;--k-cloth:#e8e1cf;--k-red:#d9643a;--k-purple:#9b78bd;--k-dark:#3d3a35;--k-wood:#c9a15f}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--k-sky:#2f4d68;--k-sky2:#6b5a6e;--k-sun:#f2b84b;--k-sea:#1f6168;--k-sea2:#3a8a8c;--k-sand:#bea072;--k-sand2:#9a7e55;--k-rock:#ad744d;--k-rock2:#86553a;--k-green:#5f9152;--k-mud:#715846;--k-mud2:#4a3628;--k-ink:#0e1514;--k-wh:#efe8da;--k-skin:#b07a50;--k-cloth:#d6cdb8;--k-red:#d0603a;--k-purple:#8a6fb0;--k-dark:#24221f;--k-wood:#a8854c}}
+:root[data-theme="dark"]{--k-sky:#2f4d68;--k-sky2:#6b5a6e;--k-sun:#f2b84b;--k-sea:#1f6168;--k-sea2:#3a8a8c;--k-sand:#bea072;--k-sand2:#9a7e55;--k-rock:#ad744d;--k-rock2:#86553a;--k-green:#5f9152;--k-mud:#715846;--k-mud2:#4a3628;--k-ink:#0e1514;--k-wh:#efe8da;--k-skin:#b07a50;--k-cloth:#d6cdb8;--k-red:#d0603a;--k-purple:#8a6fb0;--k-dark:#24221f;--k-wood:#a8854c}
+.art{margin:0 0 14px;border-radius:14px;overflow:hidden;position:relative;box-shadow:0 0 0 2px rgba(255,255,255,.35)}
+.art svg{display:block;width:100%;height:auto}
+.art svg *{stroke:var(--k-ink);stroke-width:2.2;stroke-linejoin:round;stroke-linecap:round}
+.art svg .n{stroke:none}.art svg .l{fill:none}.art svg .t{stroke-width:1.4}
+.art .s{fill:var(--k-sky)}.art .s2{fill:var(--k-sky2)}.art .su{fill:var(--k-sun)}.art .w{fill:var(--k-sea)}.art .w2{fill:var(--k-sea2)}
+.art .d{fill:var(--k-sand)}.art .d2{fill:var(--k-sand2)}.art .r{fill:var(--k-rock)}.art .r2{fill:var(--k-rock2)}.art .g{fill:var(--k-green)}
+.art .m{fill:var(--k-mud)}.art .m2{fill:var(--k-mud2)}.art .k{fill:var(--k-ink)}.art .wh{fill:var(--k-wh)}.art .sk{fill:var(--k-skin)}
+.art .cl{fill:var(--k-cloth)}.art .rd{fill:var(--k-red)}.art .pu{fill:var(--k-purple)}.art .dk{fill:var(--k-dark)}.art .wd{fill:var(--k-wood)}
+.art figcaption{position:absolute;inset-inline-end:8px;bottom:6px;font-size:11px;font-weight:600;color:var(--k-ink);background:color-mix(in srgb,var(--k-wh) 80%,transparent);padding:1px 7px;border-radius:99px}
+.art .bob{animation:kbob 3.2s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
+.art .rise{animation:krise 2.8s ease-in infinite;transform-box:fill-box}
+.art .d1s{animation-delay:.9s}.art .d2s{animation-delay:1.7s}
+.art .shake{animation:kshake .6s steps(2) infinite}
+@keyframes kbob{50%{transform:translateY(3px) rotate(-1.2deg)}}
+@keyframes krise{0%{transform:translateY(0);opacity:0}15%{opacity:1}100%{transform:translateY(-28px);opacity:0}}
+@keyframes kshake{50%{transform:translateX(2px)}}
+@media (prefers-reduced-motion:reduce){.art .bob,.art .rise,.art .shake{animation:none}.art .rise{opacity:1}}
+ body{margin:10px;background:#fff} .grid{display:grid;grid-template-columns:repeat(2,400px);gap:10px} .art .rise{animation:none;opacity:1}</style></head><body><div class="grid"><div><p style="margin:2px 0;font:12px sans-serif">bahra-1</p><figure class="art"><svg viewBox="0 0 400 220" aria-hidden="true"><rect class="s n" width="400" height="220"/><circle class="su" cx="345" cy="42" r="20"/><path class="l t" d="M243 40 q3.5 -4 7 0 q3.5 -4 7 0"/><path class="l t" d="M268 30 q3.5 -4 7 0 q3.5 -4 7 0"/>
+<path class="d n" d="M0 148 Q200 132 400 148 V220 H0Z"/>
+<path class="l t" d="M0 148 Q200 132 400 148"/>
+<rect class="d2" x="34" y="78" width="146" height="72" rx="3"/>
+<path class="l t" d="M34 102 H180 M34 126 H180 M70 78 V102 M120 78 V102 M160 78 V102 M52 102 V126 M100 102 V126 M146 102 V126 M70 126 V150 M150 126 V150"/>
+<rect class="cl" x="28" y="70" width="158" height="10" rx="3"/>
+<path class="dk" d="M92 150 V116 a14 14 0 0 1 28 0 V150Z"/>
+<path class="r" d="M246 150 a28 28 0 0 1 56 0Z"/>
+<path class="dk" d="M262 150 a12 12 0 0 1 24 0Z"/>
+<path class="rd n" d="M274 149 q-7 -9 0 -16 q7 7 0 16z"/>
+<path class="r" d="M310 150 a19 19 0 0 1 38 0Z"/>
+<path class="dk" d="M321 150 a8 8 0 0 1 16 0Z"/>
+<g class="smoke"><path class="l t rise" d="M274 118 q-6 -8 0 -16 q6 -8 0 -16"/><path class="l t rise d2s" d="M329 128 q-5 -7 0 -14 q5 -7 0 -14"/></g>
+<g transform="translate(205 178) scale(1)"><path class="cl" d="M-13 0 Q-11 -30 0 -32 Q11 -30 13 0 Z"/><circle class="sk" cx="0" cy="-40" r="8.5"/><path class="l t" d="M-4 -41 h0.1 M4 -41 h0.1" stroke-width="2.6"/></g>
+<path class="l" d="M196 158 L214 166"/>
+<g transform="translate(218 166) scale(0.9)"><path class="wh" d="M0 8 C-9 6 -10 -6 0 -8 C8 -9 10 0 4 3 C0 5 -3 1 0 -1"/></g><g transform="translate(232 190) scale(0.8)"><path class="wh" d="M0 8 C-9 6 -10 -6 0 -8 C8 -9 10 0 4 3 C0 5 -3 1 0 -1"/></g><g transform="translate(250 196) scale(0.7)"><path class="wh" d="M0 8 C-9 6 -10 -6 0 -8 C8 -9 10 0 4 3 C0 5 -3 1 0 -1"/></g><g transform="translate(240 202) scale(0.75)"><path class="wh" d="M0 8 C-9 6 -10 -6 0 -8 C8 -9 10 0 4 3 C0 5 -3 1 0 -1"/></g>
+<ellipse class="r" cx="150" cy="182" rx="17" ry="6"/>
+<ellipse class="d2" cx="150" cy="166" rx="9" ry="12"/>
+<path class="d2" d="M142 157 l2 -8 l4 6 M158 157 l-2 -8 l-4 6"/>
+<circle class="wh" cx="146.5" cy="163" r="3.4"/><circle class="wh" cx="153.5" cy="163" r="3.4"/>
+<circle class="k n" cx="146.5" cy="163" r="1.4"/><circle class="k n" cx="153.5" cy="163" r="1.4"/>
+<path class="su" d="M148 168 l2 3 l2 -3z"/>
+</svg><figcaption>Artist’s impression</figcaption></figure></div><div><p style="margin:2px 0;font:12px sans-serif">h3-site</p><figure class="art"><svg viewBox="0 0 400 220" aria-hidden="true"><rect class="s n" width="400" height="220"/><circle class="su" cx="62" cy="48" r="22"/><path class="l t" d="M113 40 q3.5 -4 7 0 q3.5 -4 7 0"/><path class="l t" d="M133 52 q3.5 -4 7 0 q3.5 -4 7 0"/><path class="l t" d="M323 36 q3.5 -4 7 0 q3.5 -4 7 0"/>
+<rect class="w n" x="0" y="140" width="400" height="80"/>
+<path class="l t" d="M0 140 H400"/>
+<path class="w2 n" d="M0 160 q12 -5 24 0 t24 0 t24 0 t24 0 t24 0 t24 0 t24 0 t24 0 t24 0 t24 0 t24 0 t24 0 t24 0 t24 0 t24 0 t24 0 t24 0 V168 H0Z" opacity=".7"/>
+<path class="d" d="M0 142 Q50 124 110 146 L110 220 H0Z"/>
+<path class="l t g2s" d="M18 140 v-22 M26 138 v-28 M34 138 v-20 M44 139 v-26 M54 141 v-18"/>
+<path class="g" d="M24 110 q2 -6 4 0 z M42 113 q2 -6 4 0z"/>
+<g class="bob">
+<path class="wd" d="M146 136 C172 168 288 168 314 136 C302 158 264 174 230 174 C196 174 158 158 146 136Z"/>
+<path class="l t" d="M172 152 l-4 10 M196 160 l-2 11 M230 162 v12 M262 160 l2 11 M288 152 l4 10"/>
+<path class="l" d="M205 162 V70 M255 162 V82" stroke-width="3"/>
+<path class="wh" d="M208 74 L246 122 L208 130Z"/>
+<path class="wh" d="M258 86 L292 126 L258 132Z"/>
+<circle class="wh" cx="180" cy="163" r="2.2"/><circle class="wh" cx="186" cy="166" r="1.8"/><circle class="wh" cx="276" cy="165" r="2"/>
+</g>
+<circle class="r" cx="352" cy="184" r="27"/>
+<circle class="l t" cx="352" cy="184" r="21" stroke-dasharray="2 3"/>
+<path class="l" d="M334 188 q18 10 36 0 M345 191 V170 M359 191 V173 M346 172 l9 12 M360 175 l7 10" stroke-width="2"/>
+</svg><figcaption>Artist’s impression</figcaption></figure></div><div><p style="margin:2px 0;font:12px sans-serif">subiyah-tumuli</p><figure class="art"><svg viewBox="0 0 400 220" aria-hidden="true"><rect class="s2 n" width="400" height="220"/><circle class="su" cx="320" cy="108" r="30"/>
+<path class="w2" d="M0 118 H400 V132 H0Z"/>
+<path class="d2" d="M0 132 L400 124 V220 H0Z"/>
+<path class="d" d="M0 166 L400 156 V220 H0Z"/>
+<ellipse class="r2" cx="60" cy="138" rx="27.0" ry="6.4"/><path class="r" d="M40 138 a20 17.0 0 0 1 40 0Z"/><path class="l t" d="M49.0 131.0 q6.0 -4 11.0 0 M62.0 127.0 q5.0 -3 10.0 0"/><ellipse class="r2" cx="128" cy="135" rx="21.6" ry="5.12"/><path class="r" d="M112 135 a16 13.6 0 0 1 32 0Z"/><path class="l t" d="M119.2 129.4 q4.8 -4 8.8 0 M129.6 126.2 q4.0 -3 8.0 0"/><ellipse class="r2" cx="192" cy="133" rx="18.900000000000002" ry="4.48"/><path class="r" d="M178 133 a14 11.9 0 0 1 28 0Z"/><path class="l t" d="M184.3 128.1 q4.2 -4 7.700000000000001 0 M193.4 125.3 q3.5 -3 7.0 0"/><ellipse class="r2" cx="250" cy="131" rx="14.850000000000001" ry="3.52"/><path class="r" d="M239 131 a11 9.35 0 0 1 22 0Z"/><path class="l t" d="M243.95 127.15 q3.3 -4 6.050000000000001 0 M251.1 124.95 q2.75 -3 5.5 0"/><ellipse class="r2" cx="300" cy="129" rx="12.15" ry="2.88"/><path class="r" d="M291 129 a9 7.6499999999999995 0 0 1 18 0Z"/><path class="l t" d="M295.05 125.85 q2.6999999999999997 -4 4.95 0 M300.9 124.05 q2.25 -3 4.5 0"/><ellipse class="r2" cx="350" cy="128" rx="9.450000000000001" ry="2.24"/><path class="r" d="M343 128 a7 5.95 0 0 1 14 0Z"/><path class="l t" d="M346.15 125.55 q2.1 -4 3.8500000000000005 0 M350.7 124.15 q1.75 -3 3.5 0"/><ellipse class="r2" cx="96" cy="178" rx="40.5" ry="9.6"/><path class="r" d="M66 178 a30 25.5 0 0 1 60 0Z"/><path class="l t" d="M79.5 167.5 q9.0 -4 16.5 0 M99.0 161.5 q7.5 -3 15.0 0"/><ellipse class="r2" cx="220" cy="172" rx="33.75" ry="8.0"/><path class="r" d="M195 172 a25 21.25 0 0 1 50 0Z"/><path class="l t" d="M206.25 163.25 q7.5 -4 13.750000000000002 0 M222.5 158.25 q6.25 -3 12.5 0"/><ellipse class="r2" cx="334" cy="167" rx="25.650000000000002" ry="6.08"/><path class="r" d="M315 167 a19 16.15 0 0 1 38 0Z"/><path class="l t" d="M323.55 160.35 q5.7 -4 10.450000000000001 0 M335.9 156.55 q4.75 -3 9.5 0"/>
+<path class="l t" d="M20 206 q40 14 80 0"/>
+<circle class="rd" cx="30" cy="209" r="4"/><circle class="su" cx="44" cy="213" r="4"/><circle class="w" cx="58" cy="214" r="4"/><circle class="rd" cx="72" cy="213" r="4"/><circle class="pu" cx="86" cy="209" r="4"/>
+<path class="l t" d="M143 60 q3.5 -4 7 0 q3.5 -4 7 0"/><path class="l t" d="M163 70 q3.5 -4 7 0 q3.5 -4 7 0"/></svg><figcaption>Artist’s impression</figcaption></figure></div><div><p style="margin:2px 0;font:12px sans-serif">failaka-island</p><figure class="art"><svg viewBox="0 0 400 220" aria-hidden="true"><rect class="s n" width="400" height="220"/><circle class="su" cx="58" cy="44" r="20"/>
+<rect class="w n" x="0" y="128" width="400" height="92"/>
+<path class="l t" d="M0 128 H400"/>
+<path class="d" d="M60 166 Q110 112 200 116 Q300 110 352 166Z"/>
+<rect class="wh" x="104" y="128" width="62" height="8" rx="1"/>
+<path class="wh" d="M100 108 L135 92 L170 108Z"/>
+<rect class="wh" x="104" y="108" width="62" height="5"/>
+<path class="l" d="M112 113 V128 M124 113 V128 M136 113 V128 M148 113 V128 M160 113 V128" stroke-width="3"/>
+<rect class="r" x="262" y="96" width="34" height="46"/>
+<path class="r" d="M260 96 v-8 h7 v5 h6 v-5 h7 v5 h6 v-5 h7 v5 h5 v8z"/>
+<path class="dk" d="M273 142 v-14 a6 6 0 0 1 12 0 v14z"/>
+<path class="l" d="M212 140 q-2 -26 4 -40" stroke-width="3"/>
+<path class="g" d="M216 100 q-16 -6 -24 4 q12 -2 24 -4z M216 100 q14 -10 26 -2 q-12 0 -26 2z M216 100 q-6 -14 4 -20 q-2 10 -4 20z"/>
+<g class="bob"><path class="wd" d="M318 186 q22 10 46 0 l-6 8 h-34z"/><path class="l" d="M338 186 V150" stroke-width="2.5"/><path class="wh" d="M340 150 L362 182 H340Z"/></g>
+<path class="l t" d="M30 178 q10 -4 20 0 M80 196 q10 -4 20 0 M240 200 q10 -4 20 0"/>
+<circle class="r" cx="46" cy="196" r="20"/>
+<circle class="l t" cx="46" cy="196" r="14"/>
+<path class="l t" d="M38 200 l4 -10 l4 10 l4 -10 l4 10"/>
+<circle class="k n" cx="46" cy="186" r="1.8"/>
+</svg><figcaption>Artist’s impression</figcaption></figure></div><div><p style="margin:2px 0;font:12px sans-serif">kazima-battle-site</p><figure class="art"><svg viewBox="0 0 400 220" aria-hidden="true"><rect class="s n" width="400" height="220"/><circle class="su" cx="80" cy="40" r="18"/>
+<path class="r" d="M0 118 L110 98 L230 76 L400 62 V112 Q300 116 220 132 Q120 146 0 150Z"/>
+<path class="l t" d="M40 128 L150 108 M150 116 L280 94 M250 102 L380 82"/>
+<path class="d" d="M0 150 Q120 146 220 132 Q300 116 400 112 V220 H0Z"/>
+<path class="wh" d="M40 190 l14 -22 l14 22z"/><path class="wh" d="M70 196 l12 -19 l12 19z"/><path class="wh" d="M22 202 l11 -17 l11 17z"/>
+<path class="l" d="M54 168 v-16 M82 177 v-14" stroke-width="2.4"/><path class="rd" d="M54 152 h12 l-4 4 l4 4 h-12z"/><path class="rd" d="M82 163 h11 l-4 4 l4 4 h-11z"/>
+<path class="l" d="M318 168 v-24 M338 176 v-26 M358 168 v-22" stroke-width="2.4"/>
+<path class="g" d="M318 144 h14 l-5 5 l5 5 h-14z"/><path class="g" d="M338 150 h14 l-5 5 l5 5 h-14z"/><path class="g" d="M358 146 h14 l-5 5 l5 5 h-14z"/>
+<path class="l" d="M110 182 Q170 168 205 158 M300 176 Q250 166 215 158" stroke-dasharray="7 6" stroke-width="2.6"/>
+<path class="k" d="M205 158 l-10 -1 l4 8z M215 158 l9 -2 l-3 8z"/>
+<ellipse class="l" cx="160" cy="206" rx="11" ry="6" stroke-width="3"/><ellipse class="l" cx="178" cy="206" rx="11" ry="6" stroke-width="3"/><ellipse class="l" cx="196" cy="206" rx="11" ry="6" stroke-width="3"/>
+<path class="l t" d="M253 40 q3.5 -4 7 0 q3.5 -4 7 0"/><path class="l t" d="M275 30 q3.5 -4 7 0 q3.5 -4 7 0"/></svg><figcaption>Artist’s impression</figcaption></figure></div><div><p style="margin:2px 0;font:12px sans-serif">jal-az-zor</p><figure class="art"><svg viewBox="0 0 400 220" aria-hidden="true"><rect class="s n" width="400" height="220"/><circle class="su" cx="52" cy="40" r="18"/>
+<defs><clipPath id="jz"><path d="M0 220 L0 186 L70 186 L100 78 Q130 58 180 56 L400 46 V220Z"/></clipPath></defs>
+<g clip-path="url(#jz)">
+<rect class="r n" x="0" y="40" width="400" height="30"/>
+<rect class="d n" x="0" y="70" width="400" height="18"/>
+<rect class="pu n" x="0" y="88" width="400" height="16" opacity=".85"/>
+<rect class="r2 n" x="0" y="104" width="400" height="22"/>
+<rect class="d2 n" x="0" y="126" width="400" height="16"/>
+<rect class="wh n" x="0" y="142" width="400" height="10"/>
+<rect class="r n" x="0" y="152" width="400" height="34"/>
+<path class="l t" d="M0 70 H400 M0 88 H400 M0 104 H400 M0 126 H400 M0 142 H400 M0 152 H400" opacity=".6"/>
+</g>
+<path class="l" d="M0 186 L70 186 L100 78 Q130 58 180 56 L400 46"/>
+<g transform="translate(150 96) scale(0.8)"><path class="wh" d="M0 8 C-9 6 -10 -6 0 -8 C8 -9 10 0 4 3 C0 5 -3 1 0 -1"/></g><g transform="translate(210 100) scale(0.7)"><path class="wh" d="M0 8 C-9 6 -10 -6 0 -8 C8 -9 10 0 4 3 C0 5 -3 1 0 -1"/></g><g transform="translate(270 94) scale(0.75)"><path class="wh" d="M0 8 C-9 6 -10 -6 0 -8 C8 -9 10 0 4 3 C0 5 -3 1 0 -1"/></g>
+<rect class="w n" x="0" y="186" width="400" height="34"/>
+<path class="l t" d="M0 186 H70 M20 200 q10 -4 20 0 M120 206 q10 -4 20 0 M300 202 q10 -4 20 0"/>
+<path class="wh" d="M352 150 v-46 h-12 l20 -24 l20 24 h-12 v46z"/>
+<g transform="translate(250 52) scale(0.55)"><path class="cl" d="M-13 0 Q-11 -30 0 -32 Q11 -30 13 0 Z"/><circle class="sk" cx="0" cy="-40" r="8.5"/><path class="l t" d="M-4 -41 h0.1 M4 -41 h0.1" stroke-width="2.6"/></g></svg><figcaption>Artist’s impression</figcaption></figure></div><div><p style="margin:2px 0;font:12px sans-serif">mud-volcano-z1</p><figure class="art"><svg viewBox="0 0 400 220" aria-hidden="true"><rect class="s n" width="400" height="220"/><circle class="su" cx="340" cy="40" r="18"/>
+<rect class="d2 n" x="0" y="120" width="400" height="100"/>
+<rect class="d n" x="0" y="150" width="400" height="22"/>
+<rect class="m2 n" x="0" y="190" width="400" height="30"/>
+<path class="l t" d="M0 150 H400 M0 172 H400 M0 190 H400" opacity=".6"/>
+<path class="l" d="M0 120 H400"/>
+<path class="m" d="M80 120 L126 66 h22 L194 120Z"/>
+<ellipse class="m2" cx="137" cy="66" rx="12" ry="4"/>
+<path class="m" d="M126 70 q-6 16 -2 30 q4 -14 8 -26z M150 72 q8 14 4 30 q-6 -14 -8 -28z"/>
+<path class="m" d="M248 120 L276 92 h14 L318 120Z"/>
+<ellipse class="m2" cx="283" cy="92" rx="8" ry="3"/>
+<g class="bub"><circle class="m n rise" cx="137" cy="58" r="5"/><circle class="m n rise d1s" cx="131" cy="56" r="3.5"/><circle class="m n rise d2s" cx="143" cy="54" r="4"/><circle class="m n rise d1s" cx="283" cy="86" r="3"/></g>
+<path class="l" d="M140 120 L148 142 L132 160 L146 180 L138 200" stroke-width="2.6" stroke-dasharray="1 0"/>
+<ellipse class="m2" cx="150" cy="204" rx="56" ry="12"/>
+<path class="wh" d="M90 182 v-18 h-6 l10 -12 l10 12 h-6 v18z" opacity=".9"/>
+<path class="wh" d="M196 182 v-18 h-6 l10 -12 l10 12 h-6 v18z" opacity=".9"/>
+<circle class="wh" cx="141" cy="170" r="2.4"/><circle class="wh" cx="139" cy="150" r="2"/><circle class="wh" cx="145" cy="132" r="1.8"/>
+</svg><figcaption>Artist’s impression</figcaption></figure></div><div><p style="margin:2px 0;font:12px sans-serif">paleo-liquefaction</p><figure class="art"><svg viewBox="0 0 400 220" aria-hidden="true"><rect class="s n" width="400" height="220"/>
+<path class="l t shake" d="M12 60 l8 -8 l6 10 l8 -10 l6 8 M352 50 l8 -8 l6 10 l8 -10 l6 8"/>
+<rect class="d n" x="0" y="112" width="400" height="108"/>
+<rect class="w2 n" x="0" y="158" width="400" height="44" opacity=".75"/>
+<rect class="d2 n" x="0" y="202" width="400" height="18"/>
+<path class="l t" d="M0 158 H400 M0 202 H400" opacity=".6"/>
+<g fill="none"><circle class="wh n" cx="40" cy="176" r="2"/><circle class="wh n" cx="90" cy="186" r="2"/><circle class="wh n" cx="300" cy="172" r="2"/><circle class="wh n" cx="350" cy="190" r="2"/><circle class="wh n" cx="250" cy="192" r="2"/><circle class="wh n" cx="140" cy="170" r="2"/></g>
+<path class="l" d="M0 112 H170 M230 112 H400"/>
+<path class="d2" d="M186 202 L194 112 h12 L214 202Z"/>
+<path class="l t" d="M196 190 v-10 M204 170 v-12 M198 146 v-10 M203 128 v-8"/>
+<path class="d2" d="M170 112 Q200 92 230 112Z"/>
+<g class="burst"><circle class="d2 rise" cx="200" cy="96" r="6"/><circle class="d2 rise d1s" cx="186" cy="90" r="4.5"/><circle class="d2 rise d2s" cx="214" cy="88" r="5"/><circle class="d2 rise d1s" cx="200" cy="80" r="3.5"/></g>
+<g transform="rotate(-10 92 112)"><rect class="cl" x="70" y="80" width="44" height="32"/><path class="wd" d="M64 82 L92 60 L120 82Z"/><rect class="dk" x="86" y="94" width="12" height="18"/></g>
+<g transform="rotate(12 312 112)"><rect class="cl" x="292" y="86" width="38" height="26"/><path class="wd" d="M286 88 L311 68 L336 88Z"/><rect class="dk" x="305" y="96" width="10" height="16"/></g>
+<path class="l" d="M140 112 q4 -30 -6 -50" stroke-width="3"/>
+<path class="g" d="M134 62 q-16 -4 -22 8 q12 -4 22 -8z M134 62 q12 -10 24 -2 q-12 -1 -24 2z"/>
+</svg><figcaption>Artist’s impression</figcaption></figure></div><div><p style="margin:2px 0;font:12px sans-serif">sabah-al-ahmad-reserve</p><figure class="art"><svg viewBox="0 0 400 220" aria-hidden="true"><rect class="s n" width="400" height="220"/><circle class="su" cx="330" cy="44" r="22"/>
+<path class="d2" d="M0 132 Q90 112 190 128 T400 122 V220 H0Z"/>
+<path class="d" d="M0 160 Q120 146 240 160 T400 156 V220 H0Z"/>
+<path class="l t" d="M8 150 V118 M48 146 V114 M88 144 V112 M8 124 H88 M8 136 H88"/>
+<path class="g" d="M130 170 q-6 -14 -10 -18 q6 4 10 12 q0 -12 4 -20 q2 10 0 20 q4 -10 10 -14 q-2 8 -4 20z"/><path class="g" d="M170 178 q-4.800000000000001 -11.200000000000001 -8.0 -14.4 q4.800000000000001 3.2 8.0 9.600000000000001 q0 -9.600000000000001 3.2 -16.0 q1.6 8.0 0 16.0 q3.2 -8.0 8.0 -11.200000000000001 q-1.6 6.4 -3.2 16.0z"/><path class="g" d="M300 176 q-6.6000000000000005 -15.400000000000002 -11.0 -19.8 q6.6000000000000005 4.4 11.0 13.200000000000001 q0 -13.200000000000001 4.4 -22.0 q2.2 11.0 0 22.0 q4.4 -11.0 11.0 -15.400000000000002 q-2.2 8.8 -4.4 22.0z"/><path class="g" d="M360 170 q-5.4 -12.6 -9.0 -16.2 q5.4 3.6 9.0 10.8 q0 -10.8 3.6 -18.0 q1.8 9.0 0 18.0 q3.6 -9.0 9.0 -12.6 q-1.8 7.2 -3.6 18.0z"/><path class="g" d="M40 190 q-6 -14 -10 -18 q6 4 10 12 q0 -12 4 -20 q2 10 0 20 q4 -10 10 -14 q-2 8 -4 20z"/><path class="g" d="M250 196 q-5.4 -12.6 -9.0 -16.2 q5.4 3.6 9.0 10.8 q0 -10.8 3.6 -18.0 q1.8 9.0 0 18.0 q3.6 -9.0 9.0 -12.6 q-1.8 7.2 -3.6 18.0z"/><path class="g" d="M110 204 q-4.800000000000001 -11.200000000000001 -8.0 -14.4 q4.800000000000001 3.2 8.0 9.600000000000001 q0 -9.600000000000001 3.2 -16.0 q1.6 8.0 0 16.0 q3.2 -8.0 8.0 -11.200000000000001 q-1.6 6.4 -3.2 16.0z"/><path class="g" d="M340 206 q-6 -14 -10 -18 q6 4 10 12 q0 -12 4 -20 q2 10 0 20 q4 -10 10 -14 q-2 8 -4 20z"/>
+<g transform="translate(210 150)">
+<ellipse class="wh" cx="0" cy="0" rx="28" ry="13"/>
+<path class="l" d="M-18 10 v20 M-8 12 v19 M10 12 v19 M20 10 v20" stroke-width="3"/>
+<path class="wh" d="M22 -6 q10 -10 18 -6 q4 6 -2 12 q-8 4 -16 2z"/>
+<path class="dk" d="M34 -10 q6 2 6 8 q-4 2 -8 -2z"/>
+<path class="l" d="M32 -12 L18 -40 M36 -12 L26 -40" stroke-width="2.4"/>
+<path class="l t" d="M-28 -2 q-8 6 -4 14"/>
+</g>
+<g transform="translate(96 168) scale(.7)">
+<ellipse class="r" cx="0" cy="0" rx="24" ry="11"/>
+<path class="l" d="M-14 8 v20 M-6 10 v19 M8 10 v19 M16 8 v20" stroke-width="3"/>
+<path class="r" d="M18 -6 q10 -8 16 -4 q2 6 -4 10 q-6 2 -12 0z"/>
+<path class="l" d="M28 -10 q-4 -14 2 -22 M32 -10 q2 -14 8 -20" stroke-width="2.4"/>
+<path class="wh n" d="M-20 2 h36 v4 h-36z" opacity=".8"/>
+</g>
+<path class="l t" d="M153 50 q3.5 -4 7 0 q3.5 -4 7 0"/><path class="l t" d="M175 40 q3.5 -4 7 0 q3.5 -4 7 0"/></svg><figcaption>Artist’s impression</figcaption></figure></div><div><p style="margin:2px 0;font:12px sans-serif">spec-seepage-mounds</p><figure class="art"><svg viewBox="0 0 400 220" aria-hidden="true">
+<rect class="d n" width="400" height="220"/>
+<path class="l t" d="M0 60 Q100 40 200 70 T400 50 M0 150 Q120 130 240 160 T400 140" opacity=".45"/>
+<g opacity=".9">
+<ellipse class="m2" cx="70" cy="80" rx="16" ry="14"/><ellipse class="m2" cx="120" cy="140" rx="22" ry="19"/>
+<ellipse class="m2" cx="185" cy="60" rx="12" ry="11"/><ellipse class="m2" cx="60" cy="176" rx="14" ry="13"/>
+<ellipse class="m2" cx="160" cy="190" rx="10" ry="9"/><ellipse class="m2" cx="215" cy="125" rx="9" ry="8"/>
+</g>
+<g transform="translate(286 128)">
+<circle class="s" cx="0" cy="0" r="50" opacity=".55"/>
+<ellipse class="m2" cx="-6" cy="4" rx="30" ry="26" stroke-dasharray="5 4"/>
+<path class="wh" d="M-14 -4 q0 -14 14 -14 q14 0 14 12 q0 9 -12 13 v6 h-6 v-10 q11 -3 11 -9 q0 -5 -7 -5 q-7 0 -7 7z"/>
+<circle class="wh" cx="-1" cy="22" r="3.6"/>
+<circle class="l" cx="0" cy="0" r="50" stroke-width="7"/>
+<circle class="l t" cx="0" cy="0" r="50"/>
+<path class="l" d="M36 36 L64 64" stroke-width="12"/>
+</g>
+<g transform="translate(70 26)">
+<rect class="wh" x="-10" y="-8" width="20" height="16" rx="3"/>
+<rect class="w" x="-40" y="-6" width="26" height="12"/><rect class="w" x="14" y="-6" width="26" height="12"/>
+<path class="l t" d="M-27 -6 v12 M27 -6 v12 M-14 0 h4 M10 0 h4"/>
+<path class="l t" d="M0 8 L-30 160 M0 8 L40 150" stroke-dasharray="4 5" opacity=".6"/>
+</g>
+</svg><figcaption>Artist’s impression</figcaption></figure></div></div></body></html>
