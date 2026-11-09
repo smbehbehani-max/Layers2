@@ -25,6 +25,11 @@ jobs:
       - name: Add approved records
         working-directory: autopilot/tools
         run: python3 apply.py
+      - name: Country outlines (Natural Earth 10m, read by edition.py)
+        run: |
+          mkdir -p /tmp/nev/geojson
+          curl -sSfL --retry 3 -o /tmp/nev/geojson/ne_10m_admin_0_countries.geojson \
+            https://raw.githubusercontent.com/nvkelso/natural-earth-vector/master/geojson/ne_10m_admin_0_countries.geojson
       - name: Build country editions
         working-directory: gulf
         run: for cc in sa om ae qa bh; do python3 edition.py $cc && python3 mkpwa2.py $cc; done
