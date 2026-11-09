@@ -1,4 +1,4 @@
-const CACHE='layers-web-202611092108';
+const CACHE='layers-web-202611092131';
 const CORE=['./','index.html','mobile.html','privacy.html','manifest.webmanifest','icon-192.png','icon-512.png','icon-maskable-512.png','apple-touch-icon.png'];
 const LATER=['kw','sa','bh','qa','ae','om'].map(c=>'ed-'+c+'.html');
 self.addEventListener('install',e=>{e.waitUntil(caches.open(CACHE).then(c=>Promise.allSettled(CORE.map(p=>c.add(p)))).then(()=>self.skipWaiting()))});
