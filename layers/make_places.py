@@ -6,7 +6,7 @@ in plain HTML, in English and Arabic, with schema.org TouristAttraction data. Ru
 import json, os, re, sys, html, datetime
 
 OUT = '/tmp/w/layers/website'
-SITE = (sys.argv[1] if len(sys.argv) > 1 else 'https://smbehbehani-max.github.io/Layers2/').rstrip('/') + '/'
+SITE = (sys.argv[1] if len(sys.argv) > 1 else 'https://smbehbehani-max.github.io/Layers2/docs/').rstrip('/') + '/'
 ORDER = ['kw', 'sa', 'bh', 'qa', 'ae', 'om']
 CN = {'kw': ('Kuwait', 'الكويت'), 'sa': ('Saudi Arabia', 'السعودية'), 'bh': ('Bahrain', 'البحرين'),
       'qa': ('Qatar', 'قطر'), 'ae': ('United Arab Emirates', 'الإمارات'), 'om': ('Oman', 'عُمان')}
@@ -100,7 +100,7 @@ footer{{margin-top:48px;color:var(--mut);font-size:13.5px}}
     for f in ('index.html', 'mobile.html'):
         p = os.path.join(OUT, f); h = open(p, encoding='utf-8').read()
         h = h.replace('</head>', tag + '</head>', 1)
-        h = h.replace('https://smbehbehani-max.github.io/Layers2/', SITE)  # canonical and preview links
+        h = h.replace('https://smbehbehani-max.github.io/Layers2/docs/', SITE)  # canonical and preview links
         open(p, 'w', encoding='utf-8').write(h)
 
     for c in ORDER:  # preview images need a full address
