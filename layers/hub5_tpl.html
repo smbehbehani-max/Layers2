@@ -22,7 +22,7 @@ __KV__
 html[data-theme=dark] #app{--sea:#0a2125;--sea-d:#12333a;--land:#3b4b43;--land-h:#4a5c52;--nb:#1d2927;--nb-s:#34443f;--coast:#7f8f84;--panel:#121c1c;--panel-2:#182424;--ink:#e6ecea;--mut:#93a5a2;--line:#273534;--arch:#e08a4f;--geo:#9d8ff0;--eco:#5ec48a;--gold:#e2b850;--brown:#f3d9ae;--white:#182424;color-scheme:dark}html[data-theme=dark] #app .abar{background:rgba(18,28,28,.92)}html[data-theme=dark] #app .hchip,html[data-theme=dark] #app .tbl,html[data-theme=dark] #app .rec div,html[data-theme=dark] #app .ilist>div,html[data-theme=dark] #app .ic,html[data-theme=dark] #app .lang{background:var(--panel-2);color:var(--ink)}html[data-theme=dark] #app .bdn{background:rgba(24,36,36,.94);color:#f3d9ae}html[data-theme=dark] #app .ldp{fill:#f3d9ae}html[data-theme=dark] #app .wl{fill:#9fc3c0}html[data-theme=dark] #app .seg button[aria-pressed=true]{background:var(--ink);color:var(--panel)}
 *{box-sizing:border-box}html{-webkit-text-size-adjust:100%;scroll-behavior:smooth}
 body{margin:0;background:var(--panel);color:var(--ink);font-family:var(--f-body);line-height:1.5}
-body.open,body.appon{overflow:hidden}
+body.open,body.appon{overflow:hidden}html,body{overscroll-behavior:none}
 body.open .hero,body.open section,body.open footer,body.appon .hero,body.appon section,body.appon footer{display:none}
 html[dir=rtl] body{font-family:"Noto Naskh Arabic","Geeza Pro",system-ui,sans-serif}
 a{color:inherit}button{font:inherit}
