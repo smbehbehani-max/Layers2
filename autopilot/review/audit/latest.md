@@ -1,4 +1,4 @@
-# Weekly self-check 2026-11-15
+# Weekly self-check 2026-11-22
 
 I ran the rule checks on every record. Proofreading did not run: the `ANTHROPIC_API_KEY` secret is not set.
 
